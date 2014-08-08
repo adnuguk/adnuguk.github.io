@@ -11,13 +11,10 @@ owner:
   name:           Aberdeen Developers .Net User Group
   avatar:         
   bio:            
-  email:          administrators@aberdeendevelopers.co.uk
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:        adnuguk
   github:         adnuguk
   linkedin:       Aberdeen-Developers-Net-User-Group-3846270
-  # For Google Authorship https://plus.google.com/authorship
-  google_plus:    
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-19680256-1   
