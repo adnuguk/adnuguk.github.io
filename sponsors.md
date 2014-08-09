@@ -11,6 +11,9 @@ permalink: /sponsors/
 
 It is with great pleasure that Aberdeen Developers .Net User Group thank the following companies for their generous sponsorship of our User Group.
 <br />
+[![SqlSmash]({{site.images}}/sponsors/sqlsmash_small.png)](http://www.sqlsmash.com/)
+
+<br />
 [![Telerik]({{site.images}}/sponsors/telerik.png)](http://www.telerik.com/)
 
 <br />
