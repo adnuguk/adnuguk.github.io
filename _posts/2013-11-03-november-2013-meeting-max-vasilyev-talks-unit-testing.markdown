@@ -102,3 +102,7 @@ All attendees will be entered into a prize draw, with the chance of winning one 
 
 Venue: Riverside East Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7QQ, GB
 Directions: [Map showing Garthdee Campus](https://maps.google.co.uk/maps?q=ab10+7qq&hl=en&sll=57.118536,-2.147655&sspn=0.021179,0.022573&hnear=Aberdeen+AB10+7QQ,+United+Kingdom&t=m&z=16)
+
+## Slides
+
+Slides and extra links from the talk are available on [Max's blog](http://tech.trailmax.info/talks/).
