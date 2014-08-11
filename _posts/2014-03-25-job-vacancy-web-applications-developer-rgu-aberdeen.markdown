@@ -16,7 +16,7 @@ Aberdeen Developers have been asked to promote the following job vacancy.  If y
 [http://www4.rgu.ac.uk/jobs/disp_details_sum.cfm?RJ_ID=41294](http://www4.rgu.ac.uk/jobs/disp_details_sum.cfm?RJ_ID=41294)
 
 
-<blockquote>**Web and Applications Developer** (Ref C41294)
+**Web and Applications Developer** (Ref C41294)
 IT Services Department
 
 We require a Web and Application Developer with experience in the overall architecture, design and support of online applications and a passion for learning and working with leading technologies.
@@ -30,17 +30,12 @@ We’re in the business of changing lives – developing students into highly em
 
 There are a restricted number of certificates of sponsorship available in the UK and there is no guarantee that the University would be able to obtain one should the successful candidate require one.
 
-Salary: £35085 - £37681 including market supplement
+**Salary: £35085 - £37681 including market supplement**
 
 Position Type: Full-time , Permanent
 
 Relocation assistance will be available for this post
 
-> 
-> 
+
 
 **Closing Date: 13 April 2014**
-
-
-> 
-> </blockquote>
