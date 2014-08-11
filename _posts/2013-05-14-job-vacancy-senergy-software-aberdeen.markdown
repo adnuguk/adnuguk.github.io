@@ -18,7 +18,7 @@ tags:
 Aberdeen Developers have been asked to promote the following job vacancy. If you are interested in the position, or would like some more information, then please contact [Leanne Burnett](mailto:leanne.burnett@senergyworld.com ).  The vacancy is within the Senergy Banchory Office.
 
 
-<blockquote>Senergy Software was launched as a result of significant business growth within Senergy’s oil and gas division and is supported by the Group’s international locations and technical specialists. The software division develops, markets and supports innovative technologies including Interactive Petrophysics (IP) and Oilfield Data Manager (ODM3) which have become invaluable resource tools for more than 500 Senergy clients globally.
+Senergy Software was launched as a result of significant business growth within Senergy’s oil and gas division and is supported by the Group’s international locations and technical specialists. The software division develops, markets and supports innovative technologies including Interactive Petrophysics (IP) and Oilfield Data Manager (ODM3) which have become invaluable resource tools for more than 500 Senergy clients globally.
 
 **Our Products:**
 
@@ -32,14 +32,14 @@ As part of our continued expansion Senergy are looking for additional talented p
 
 We are currently taking applications for both:
 
-> 
-> 
+
+
 	
->   * Software Developers
-> 
+  * Software Developers
+
 	
->   * Talented Students/Graduates
-> 
+  * Talented Students/Graduates
+
 
 **Candidate Criteria and Skills:**
 
@@ -47,106 +47,106 @@ Candidate will possess the drive, enthusiasm and ambition to form part of a dyna
 
 **Your Qualities:**
 
-> 
-> 
+ 
+ 
 	
->   * Enthusiastic about software development
-> 
+   * Enthusiastic about software development
+ 
 	
->   * Can bring something new to our team
-> 
+   * Can bring something new to our team
+ 
 	
->   * Happy to learn and share knowledge
-> 
+   * Happy to learn and share knowledge
+ 
 	
->   * Admit your own strengths and weaknesses
-> 
+   * Admit your own strengths and weaknesses
+ 
 	
->   * Loves to learn
-> 
+   * Loves to learn
+ 
 	
->   * Determined to produce quality software
-> 
+   * Determined to produce quality software
+ 
 	
->   * Trustworthy and Professional
-> 
+   * Trustworthy and Professional
+ 
 	
->   * We like you already
-> 
+   * We like you already
+ 
 
 **Qualifications:**
 
-> 
-> 
+
+
 	
->   * Degree in relevant numerical subject or appropriate skills and experience
-> 
+  * Degree in relevant numerical subject or appropriate skills and experience
+
 
 **Required Experience:**
 
-> 
-> 
+ 
+ 
 	
->   * Software Development using either .NET, C#, VB or Java
-> 
+   * Software Development using either .NET, C#, VB or Java
+ 
 	
->   * Software design experience • Architecture design
-> 
+   * Software design experience • Architecture design
+ 
 	
->   * Software quality management • Database and SQL
-> 
+   * Software quality management • Database and SQL
+ 
 	
->   * Software development life cycle Desirable Experience
-> 
+   * Software development life cycle Desirable Experience
+ 
 	
->   * Team Leading / Project Management • Documentation/Presentation skills
-> 
+   * Team Leading / Project Management • Documentation/Presentation skills
+ 
 	
->   * Visual Basic 6 (VB6) or Delphi exposure an advantage but not essential
-> 
+   * Visual Basic 6 (VB6) or Delphi exposure an advantage but not essential
+ 
 	
->   * Geology or geological background an advantage, but not essential
-> 
+   * Geology or geological background an advantage, but not essential
+ 
 	
->   * Mentoring
-> 
+   * Mentoring
+ 
 
 **Can you identify your own attributes below?**
 
-> 
-> 
+ 
+ 
 	
->   * Degree qualified
-> 
+   * Degree qualified
+ 
 	
->   * Quality and Technical focus
-> 
+   * Quality and Technical focus
+ 
 	
->   * Strong mentoring and coaching skills
-> 
+   * Strong mentoring and coaching skills
+ 
 	
->   * Strong communication skills are essential
-> 
+   * Strong communication skills are essential
+ 
 	
->   * Self motivating • Confident • Approachable
-> 
+   * Self motivating • Confident • Approachable
+ 
 	
->   * Good networking skills
-> 
+   * Good networking skills
+ 
 	
->   * Flexible attitude
-> 
+   * Flexible attitude
+ 
 	
->   * Team player
-> 
+   * Team player
+ 
 	
->   * Strong work ethic
-> 
+   * Strong work ethic
+ 
 	
->   * Consultative style
-> 
+   * Consultative style
+ 
 	
->   * Hands-on
-> 
+   * Hands-on
+ 
 
-Your career at Senergy Software starts here...</blockquote>
+Your career at Senergy Software starts here...
