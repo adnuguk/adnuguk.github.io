@@ -105,4 +105,4 @@ Directions: [Map showing Garthdee Campus](https://maps.google.co.uk/maps?q=ab10
 
 ## Slides
 
-Slides and extra links from the talk are available in Max's blog: http://tech.trailmax.info/talks/
+Slides and extra links from the talk are available on [Max's blog](http://tech.trailmax.info/talks/).
