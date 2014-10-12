@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Events | Aberdeen Developers .Net User Group]]></title>
+  <link href="http://www.aberdeendevelopers.co.uk/blog/categories/events/atom.xml" rel="self"/>
+  <link href="http://www.aberdeendevelopers.co.uk/"/>
+  <updated>2014-10-12T20:15:02+00:00</updated>
+  <id>http://www.aberdeendevelopers.co.uk/</id>
+  <author>
+    <name><![CDATA[gep13]]></name>
+    <email><![CDATA[gep13@aberdeendevelopers.co.uk]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[August 2014 Meeting - Shawn Wildermuth]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/august-2014-meeting-shawn-wildermuth"/>
+    <updated>2014-06-21T19:42:33+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/august-2014-meeting-shawn-wildermuth</id>
+    <content type="html"><![CDATA[<p>Aberdeen Developers are pleased to present a talk by Shawn Wildermuth on Thursday 7th August 2014 at the Robert Gordon University.</p>
+
+<hr />
+
+<p>Getting started with Web API 2</p>
+
+<p>Are you getting ready to build an API that works over HTTP? ASP.NET Web API 2 is probably your best way to do it. In this talk, Shawn Wildermuth can show you how to create your own API!nit or no unit test?</p>
+
+<p><a href="https://www.eventbrite.com/e/aberdeen-developers-net-user-group-august-2014-meeting-tickets-11987778769?ref=ebtnebregn"><img src="https://www.eventbrite.com/custombutton?eid=11987778769" alt="Eventbrite - Aberdeen Developers .Net User Group - August 2014 Meeting" /></a></p>
+
+<p>Speaker Bio</p>
+
+<p>Shawn Wildermuth is an eight-time Microsoft MVP (Data), member of the INETA Speaker&rsquo;s Bureau and an author of six books and dozens of articles on .NET. Shawn is involved with Microsoft as a Silverlight Insider, Data Insider and Connected Technology Advisors (WCF/Oslo/WF). He has been seen speaking at a variety of international conferences including TechEd, Oredev, SDC, VSLive, WinDev, MIX, DevTeach and DevReach. He is currently teaching workshops around the country through his training company AgiliTrain (<a href="http://agilitrain.com">http://agilitrain.com</a>). He can also be reached via his blog at <a href="http://wildermuth.com/">http://wildermuth.com</a>.</p>
+
+<hr />
+
+<p>Agenda - Thursday, 7th August 2014</p>
+
+<ul>
+<li><p>1800 - 1815: Arrival and registration</p></li>
+<li><p>1815 - 1820: Introduction</p></li>
+<li><p>1820 - 1920: Getting started with Web API 2</p></li>
+<li><p>1920 onwards: Questions and drinks at the bar</p></li>
+</ul>
+
+
+<p>Prize Draw</p>
+
+<p>All attendees will be entered into a prize draw, with the chance of winning one of the prizes listed <a href="http://www.gep13.co.uk/blog/?p=107">here</a>.</p>
+
+<p>Location and Directions</p>
+
+<p>Venue: Riverside East Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7QQ, GB</p>
+
+<p>Directions: <a href="https://maps.google.co.uk/maps?q=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,+Aberdeen,+Aberdeen+City+AB10+7QG,+GB&amp;hl=en&amp;ll=57.119317,-2.136133&amp;spn=0.004165,0.012413&amp;sll=57.746995,-4.687341&amp;sspn=8.392957,25.422363&amp;hq=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,&amp;hnear=AB10+7QG,+United+Kingdom&amp;t=m&amp;z=17&amp;iwloc=A">Map showing Garthdee Campus</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[July 2014 Meeting - Nik Molnar and Anthony Van Der Hoorn]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/july-2014-meeting-nik-molnar-anthony-van-der-hoorn"/>
+    <updated>2014-06-21T19:26:16+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/july-2014-meeting-nik-molnar-anthony-van-der-hoorn</id>
+    <content type="html"><![CDATA[<p>Aberdeen Developers are pleased to present a talks by Nik Molnar and Anthony van der Hoorn on Wednesday 30th July 2014 at the Robert Gordon University.</p>
+
+<hr />
+
+<p>Modern Web Development with a Glimpse into ASP.NET</p>
+
+<p>With the state of diagnostics on the web being what it is, we currently have to do a job that is much harder than it should be. Too often, the tools we are provided with only show a small part of the picture, leaving us to guess what else might be happening behind the scenes. Glimpse is an open source project that aims to change the way we think about diagnostics and the frameworks we interact with.</p>
+
+<p>After releasing Glimpse at Mix 11, Glimpse has become a tool that is used daily by tens of thousands of developers around the world. In this session, youíll learn how to use Glimpse to reveal a complete picture of what is happening within your ASP.NET MVC and WebForms sites, discover what tools are included out of the box, and see how you can easily extend it to suit your needs.</p>
+
+<p>Azure Web Sites Secrets, Exposed</p>
+
+<p>Microsoft’s premier cloud solution for custom web applications, Windows Azure Web Sites, has brought the DevOps movement to millions of developers and revolutionized the way that servers are provisioned and applications deployed.</p>
+
+<p>Included with all the headline functionality are many smaller, less-known or undocumented features that serve to greatly improve developer productivity. Join Microsoft MVP and veteran web developer Nik Molnar for a whirlwind tour of these secret features and enhance your cloud development experience.</p>
+
+<p><a href="https://www.eventbrite.com/e/aberdeen-developers-net-user-group-july-2014-meeting-tickets-11987774757?ref=ebtnebregn"><img src="https://www.eventbrite.com/custombutton?eid=11987774757" alt="Eventbrite - Aberdeen Developers .Net User Group - July 2014 Meeting" /></a></p>
+
+<p>Nik Molnar</p>
+
+<p>Nik Molnar is a New Yorker, Microsoft MVP, ASP Insider and co-founder of Glimpse, an open source diagnostics and debugging tool. Originally from Homestead Florida, Nik specializes in web development, web API&rsquo;s and community management. In his spare time, Nik can be found cooking up a storm in the kitchen, hanging with his wife, speaking at conferences, and working on other open source projects.</p>
+
+<p> </p>
+
+<p>Anthony van der Hoorn</p>
+
+<p>Anthony van der Hoorn is a co–founder of Glimpse, and a regular speaker on such topics as Open Source, Web Practices and Diagnostics for the Web. Anthony has specializing in web and front end development with technologies such as JavaScript, CSS, and HTML. He’s bounced between living and working New York City and his home town of Brisbane, Australia – he’s back in the USA at the moment. Anthony previously worked in the Financial Services sector developing high frequency trading systems and, in his spare time, he can be found out and about taking photos, speaking at conferences, and working on other Open Source projects.</p>
+
+<hr />
+
+<p>Agenda - Wednesday, 30th July 2014</p>
+
+<ul>
+<li><p>1800 - 1815: Arrival and registration</p></li>
+<li><p>1815 - 1820: Introduction</p></li>
+<li><p>1820 - 1900: Modern Web Diagnostics with a Glimpse into ASP.NET</p></li>
+<li><p>1920 - 2000: Azure Web Sites Secrets, Exposed</p></li>
+<li><p>2000 - onwards: Questions and drinks at the bar</p></li>
+</ul>
+
+
+<p>Prize Draw</p>
+
+<p>All attendees will be entered into a prize draw, with the chance of winning one of the prizes listed <a href="http://www.gep13.co.uk/blog/?p=107">here</a>.</p>
+
+<p>Location and Directions</p>
+
+<p>Venue: Riverside East Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7QQ, GB</p>
+
+<p>Directions: <a href="https://maps.google.co.uk/maps?q=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,+Aberdeen,+Aberdeen+City+AB10+7QG,+GB&amp;hl=en&amp;ll=57.119317,-2.136133&amp;spn=0.004165,0.012413&amp;sll=57.746995,-4.687341&amp;sspn=8.392957,25.422363&amp;hq=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,&amp;hnear=AB10+7QG,+United+Kingdom&amp;t=m&amp;z=17&amp;iwloc=A">Map showing Garthdee Campus</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[November 2013 Meeting - Max Vasilyev Talks About Unit Testing]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/november-2013-meeting-max-vasilyev-talks-unit-testing"/>
+    <updated>2013-11-03T20:31:57+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/november-2013-meeting-max-vasilyev-talks-unit-testing</id>
+    <content type="html"><![CDATA[<p>Aberdeen Developers are pleased to present a talk by Max Vasilyev on Thursday 17th November 2013 at the Robert Gordon University.</p>
+
+<h2>From zero to 1000 tests in 6 months</h2>
+
+<p>Not every team in the industry is writing automated tests. And it is very difficult to convince everyone on the team and especially business people, that tests must be written.
+That initial leap from no tests to some test is the most difficult and many people give up on that stage.</p>
+
+<p>I would like to talk how we managed to jump that gap and started to write tests in our every-day process.
+Topics discussed:</p>
+
+<ul>
+<li><p>ADD: Annoyance Driven Development</p></li>
+<li><p>Isolation Frameworks</p></li>
+<li><p>Dependency Injection</p></li>
+<li><p>Automocking container</p></li>
+<li><p>continuous Integration</p></li>
+<li><p>Reflection in tests</p></li>
+<li><p>Unit or no unit test?</p></li>
+<li><p>Books review</p></li>
+</ul>
+
+
+<p><a href="http://adnuguk-nov2013.eventbrite.co.uk/?ebtv=C"><img src="http://www.eventbrite.com/registerbutton?eid=2581657808" alt="Register for Aberdeen Developers .Net User Group - October 2013 Meeting in Aberdeen, Aberdeen City on Eventbrite" /></a></p>
+
+<h2>Speaker Bio</h2>
+
+<p>Max Vasilyev is Senior Developer and QA Manager is Solutions Aberdeen. He have been working with .Net for the last 3 years and before that he worked as a developer in SQL Server.
+In the past year he increased his interest in automated testing of the software, as he got very frustrated with constant bugs and shady coding techniques.
+So the last year was a constant uphill battle with the business to improve coding quality and increase code test coverage.</p>
+
+<p>The battle is not won yet, but now business agrees that tests are important and any team using Agile must have tests.</p>
+
+<h2>Agenda – Thursday, 21st October 2013</h2>
+
+<ul>
+<li><p>1800 - 1815: Arrival and registration</p></li>
+<li><p>1815 - 1820: Introduction</p></li>
+<li><p>1820 - 2000: From zero to 1000 tests in 6 months</p></li>
+<li><p>2000 onwards: Questions and drinks at the bar</p></li>
+</ul>
+
+
+<h2>Prize Draw</h2>
+
+<p>All attendees will be entered into a prize draw, with the chance of winning one of the prizes listed <a href="http://www.gep13.co.uk/blog/?p=107">here</a>.</p>
+
+<h2>Location and Directions</h2>
+
+<p>Venue: Riverside East Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7QQ, GB
+Directions: <a href="https://maps.google.co.uk/maps?q=ab10+7qq&amp;hl=en&amp;sll=57.118536,-2.147655&amp;sspn=0.021179,0.022573&amp;hnear=Aberdeen+AB10+7QQ,+United+Kingdom&amp;t=m&amp;z=16">Map showing Garthdee Campus</a></p>
+
+<h2>Slides</h2>
+
+<p>Slides and extra links from the talk are available on <a href="http://tech.trailmax.info/talks/">Max&rsquo;s blog</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Northern Lights Conference 2013 - Aberdeen]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/northern-lights-conference-2013-aberdeen"/>
+    <updated>2013-10-05T20:15:52+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/northern-lights-conference-2013-aberdeen</id>
+    <content type="html"><![CDATA[<h1>Get your tickets now!</h1>
+
+<p>I wanted to let you know about an upcoming event in Aberdeen that I have been helping to arrange. It is taking place on Friday 18th October 2013.  The event in question is the Northern Lights 2013 Conference.  The website for the conference can be found here:</p>
+
+<p><a href="http://northernlightsconf.co.uk/">http://northernlightsconf.co.uk/</a></p>
+
+<p>The event is in its third year, and this year the theme is tools.  Both the tools that we use, and the tools we build.  There is a wide range of speakers available, including:</p>
+
+<ul>
+<li><p><a href="http://northernlightsconf.co.uk/speakers/2013/09/23/hadi-hariri.html">Hadi Hariri</a></p></li>
+<li><p><a href="http://northernlightsconf.co.uk/speakers/2013/09/23/kendall-miller.html">Kendall Miller</a></p></li>
+<li><p><a href="http://northernlightsconf.co.uk/speakers/2013/09/24/sarah-drummond.html">Sarah Drummond</a></p></li>
+<li><p><a href="http://northernlightsconf.co.uk/speakers/2013/09/23/kate-stone.html">Kate Stone</a></p></li>
+<li><p><a href="http://northernlightsconf.co.uk/speakers/2013/10/02/maria-gutierrez.html">Maria Gutierrez</a></p></li>
+<li><p><a href="http://northernlightsconf.co.uk/speakers/2013/09/23/niall-merrigan.html">Niall Merrigan</a></p></li>
+<li><p><a href="http://northernlightsconf.co.uk/speakers/2013/09/23/glenn-henriksen.html">Glenn Hendriksen</a></p></li>
+</ul>
+
+
+<p>Who are offering up an exciting line up of talks.</p>
+
+<p>In addition, there will be two open spaces at the conference, where attendees will have an opportunity to suggest a topic for an interactive conversation with other attendees and speakers.  If you haven’t been to an open space before, they are fantastic.  It is a perfect opportunity to interact with other like mind people about a topic that you are interested in.  The best way to get something out of this is to suggest a topic that you are especially interested in, and hopefully other people will get involved as well.</p>
+
+<p>Tickets are £15 for the day, which includes coffee and lunch for regular attendees, and Students tickets to the talks are free, plus you can buy a lunch ticket for £5.</p>
+
+<p>We hope to see you there.  If you have any questions about the event, then please don’t hesitate to get in touch with me.</p>
+
+<p>If you know anyone else who would be interested in attending this event, I would really appreciate it if you could forward on this email.</p>
+
+<p>This event is lovingly sponsored by:</p>
+
+<ul>
+<li><p>University of Aberdeen -  <a href="http://www.abdn.ac.uk">http://www.abdn.ac.uk/</a></p></li>
+<li><p>Neo - <a href="http://www.neo.com">http://www.neo.com</a></p></li>
+<li><p>Fifth Ring - <a href="http://www.fifthring.com">http://www.fifthring.com</a></p></li>
+<li><p>Codify - <a href="http://www.codify.ltd.uk">http://www.codify.ltd.uk</a></p></li>
+<li><p>Arnold Clark - <a href="http://www.arnoldclark.com">http://www.arnoldclark.com</a></p></li>
+<li><p>AAA - <a href="http://www.aaajobs.co.uk">http://aaajobs.co.uk</a></p></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[October 2013 Meeting - Kendall Miller Talks About Agile]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/october-2013-meeting-kendall-miller-talks-agile"/>
+    <updated>2013-09-30T20:20:04+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/october-2013-meeting-kendall-miller-talks-agile</id>
+    <content type="html"><![CDATA[<p>Aberdeen Developers are pleased to present a talk by Kendall Miller on Thursday 17th October 2013 at the Robert Gordon University.</p>
+
+<h2>Introducing Agile to the Enterprise</h2>
+
+<p><strong>Still Living in a Waterfall World? You&rsquo;re Not Alone!</strong> Convincing your company to use an Agile development approach for application development can be surprisingly difficult. While the initial benefits excite everyone, that enthusiasm often disappears when the true trade-offs of Agile become apparent. You may even find that many members of the development team aren&rsquo;t willing to give up their waterfall patterns of development. How do you convince the business that good software doesn&rsquo;t begin and end with a giant Microsoft Project Plan? In this session we&rsquo;ll discuss how you can get your company moving down the path to more effective software development and bridge the gap between traditional practices and the current software development landscape</p>
+
+<ul>
+<li><p><strong>How to discuss Agile with the Business:</strong> It&rsquo;s their money, you need to make sure they&rsquo;re on board with how you&rsquo;re going to spend it.</p></li>
+<li><p><strong>Convincing the Team to Work Differently:</strong> Without the right patterns of development within your team, your first Agile project may be the last for a while.</p></li>
+<li><p><strong>Useful Compromises:</strong> When you can&rsquo;t change the world overnight, how do you at least get the ship turning in the right direction?</p></li>
+</ul>
+
+
+<p>Presented by one of the founders of Gibraltar Software, we&rsquo;ll discuss how we&rsquo;ve worked with many enterprise customers to marry agile practices into traditional teams. Sometimes successful sometimes a brilliant failure - come and learn from our mistakes so you can produce better results and have happier customers and team members. We won&rsquo;t be focusing on a specific technology or Agile approach but rather how you get businesses to accept giving up the Gantt chart and learn to love software development.</p>
+
+<p><a href="http://adnuguk-oct2013.eventbrite.co.uk/?ebtv=C"><img src="http://www.eventbrite.com/registerbutton?eid=2581657808" alt="Register for Aberdeen Developers .Net User Group - October 2013 Meeting in Aberdeen, Aberdeen City on Eventbrite" /></a></p>
+
+<h2>Speaker Bio</h2>
+
+<p>Kendall Miller is one of the founding partners of Gibraltar Software, an Independent Software Vendor (ISV) that develops &amp; markets commercial applications for .NET developers.</p>
+
+<p>Introduced commercially in 2009, Loupe is an application logging &amp; monitoring platform that is currently used by customers around the world from individual consultants through Fortune 100 companies and governments.</p>
+
+<p>Before starting Gibraltar Software, Kendall worked for multiple startups leading their technology development from beginning through profitability. In each case he&rsquo;s focused on translating enterprise-level performance and capabilities down to smaller companies. Kendall has a B.S in Computer Engineering from the University of Illinois, Urbana-Champaign.</p>
+
+<h2>Agenda – Thursday, 17th October 2013</h2>
+
+<ul>
+<li><p>1800 - 1815: Arrival and registration</p></li>
+<li><p>1815 - 1820: Introduction</p></li>
+<li><p>1820 - 1920: Introducing Agile to the Enterprise</p></li>
+<li><p>1920 onwards: Questions and drinks at the bar</p></li>
+</ul>
+
+
+<h2>Prize Draw</h2>
+
+<p>All attendees will be entered into a prize draw, with the chance of winning one of the prizes listed <a href="http://www.gep13.co.uk/blog/?p=107">here</a>.</p>
+
+<h2>Location and Directions</h2>
+
+<p>Venue: Room H230, Faculty of Health &amp; Social Care, Garthdee Campus, Aberdeen, Aberdeen City AB10 7QG
+Directions: <a href="https://maps.google.co.uk/maps?q=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,+Aberdeen,+Aberdeen+City+AB10+7QG,+GB&amp;hl=en&amp;ll=57.119317,-2.136133&amp;spn=0.004165,0.012413&amp;sll=57.746995,-4.687341&amp;sspn=8.392957,25.422363&amp;hq=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,&amp;hnear=AB10+7QG,+United+Kingdom&amp;t=m&amp;z=17&amp;iwloc=A">Map showing Garthdee Campus</a></p>
+]]></content>
+  </entry>
+  
+</feed>

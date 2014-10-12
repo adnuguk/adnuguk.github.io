@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Press Releases | Aberdeen Developers .Net User Group]]></title>
+  <link href="http://www.aberdeendevelopers.co.uk/blog/categories/press-releases/atom.xml" rel="self"/>
+  <link href="http://www.aberdeendevelopers.co.uk/"/>
+  <updated>2014-10-12T20:15:02+00:00</updated>
+  <id>http://www.aberdeendevelopers.co.uk/</id>
+  <author>
+    <name><![CDATA[gep13]]></name>
+    <email><![CDATA[gep13@aberdeendevelopers.co.uk]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Press and Journal Article]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/press-and-journal-article"/>
+    <updated>2011-02-20T18:20:00+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/press-and-journal-article</id>
+    <content type="html"><![CDATA[<p>I have been meaning to post this for a while, but quite simply I haven&rsquo;t had a chance. For anyone who missed our article in the Press and Journal, you can see it in all it&rsquo;s glory below.  This article was printed on the 9th November 2010 on Page 8.</p>
+
+<p><img src="/wp-content/uploads/2011%2f9%2fP%26J++Nov-9th-2010+Page8.png" alt="" /></p>
+]]></content>
+  </entry>
+  
+</feed>
