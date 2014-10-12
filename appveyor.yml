@@ -15,7 +15,7 @@ init:
   - git config --global user.name "Gary Ewan Park"
 
 # clone directory
-clone_folder: C:\projects\gep13-github-io
+clone_folder: C:\projects\adnuguk-github-io
 
 # environment variables
 environment:
@@ -29,7 +29,7 @@ environment:
 
 build_script:
   - cmd: bundle install
-  - cmd: if not exist _deploy (git clone https://%GithubUsername%:%GithubPassword%@github.com/%GithubUsername%/%GithubUsername%.github.io.git _deploy)
+  - cmd: if not exist _deploy (git clone https://%GithubUsername%:%GithubPassword%@github.com/adnuguk/adnuguk.github.io.git _deploy)
   - cmd: cd _deploy
   - cmd: git checkout master
   - cmd: cd ..
