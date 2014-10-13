@@ -5,8 +5,8 @@
     <description>Website for the meetings and events hosted by the Aberdeen Developers .Net User Group</description>
     <link>http://www.aberdeendevelopers.co.uk/</link>
     <atom:link href="http://www.aberdeendevelopers.co.uk/feed" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 13 Oct 2014 19:45:23 +0000</pubDate>
-    <lastBuildDate>Mon, 13 Oct 2014 19:45:23 +0000</lastBuildDate>
+    <pubDate>Mon, 13 Oct 2014 20:02:53 +0000</pubDate>
+    <lastBuildDate>Mon, 13 Oct 2014 20:02:53 +0000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -33,6 +33,56 @@
         
         
         <category>community events</category>
+        
+      </item>
+    
+      <item>
+        <title>Job Vacancy - Software Developer - SPD</title>
+        <description>&lt;p&gt;Aberdeen Developers have been asked to promote the following job vacancy.  If you are interested in the position, or would like some more information, then please use the following link:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://petrofac.taleo.net/careersection/2/jobdetail.ftl?job=008338&amp;amp;lang=en&quot;&gt;https://petrofac.taleo.net/careersection/2/jobdetail.ftl?job=008338&amp;amp;lang=en&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+
+&lt;p&gt;&lt;strong&gt;Purpose&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;WellAtlas is a software tool used internally by our Well Engineering team and also by a number of global operators. It is now a proven solution encompassing a series of integrated specialist modules, that together, bring visibility and assurance of all critical elements required to meet a company’s project delivery agenda. Due to internal and external client requirements as well as our Product Roadmap, the opportunity for a Software Developer has become key to the continued growth of this service line.&lt;/p&gt;
+
+&lt;p&gt;The role of the Software Developer will encompass all aspects of the software life cycle from initial requirements gathering through design, build and testing and onto deployment and support.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt;
+- Coordination of multiple simultaneous streams of software development between existing and potential clients
+- Design, development and implementation of both internal and client driven software projects
+- Collaboration with Product Management by validating the product roadmap, setting priorities and providing estimates
+- Ensuring visibility through lightweight metrics and continuous project status reporting
+- Ensure document quality and technical accuracy. Creation and maintenance of development documentation (coding standards etc.)
+- Design, development and implementation of both internal and client driven software projects
+- Development of reports using Microsoft SQL Server Reporting Services, as well as developing any necessary ASP.NET (C#) web pages and dialogs for selection of reporting criteria, filters etc.
+- Administration and support of IIS and SQL Servers.
+- The candidate will be flexible, driven and show a ‘can do’ attitude&lt;/p&gt;
+
+&lt;p&gt;Please see the link above for full details of &amp;ldquo;Key Accountabilities&amp;rdquo;, &amp;ldquo;Knowledge, Skills &amp;amp; Experience expected&amp;rdquo;, and &amp;ldquo;Minimum Qualifications required&amp;rdquo;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+
+&lt;p&gt;&lt;strong&gt;Closing Date: 20 October 2014&lt;/strong&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 13 Oct 2014 00:00:00 +0000</pubDate>
+        <link>http://www.aberdeendevelopers.co.uk/job-vacancy-software-developer-spd</link>
+        <guid isPermaLink="true">http://www.aberdeendevelopers.co.uk/job-vacancy-software-developer-spd</guid>
+        
+        <category>SPD</category>
+        
+        <category>Software Developer</category>
+        
+        <category>Job</category>
+        
+        
+        <category>blog</category>
+        
+        <category>job vacancy</category>
         
       </item>
     
@@ -413,38 +463,6 @@ Directions: &lt;a href=&quot;https://maps.google.co.uk/maps?q=ab10+7qq&amp;amp;
         <category>blog</category>
         
         <category>events</category>
-        
-      </item>
-    
-      <item>
-        <title>October 2013 Meeting - Completed</title>
-        <description>&lt;h1&gt;Slides and Code from Agile Talk&lt;/h1&gt;
-
-&lt;p&gt;On Thursday 18th October 2013, Aberdeen Developers .Net User Group welcomed Kendall Miller for a talk entitled &amp;ldquo;Introducing Agile to the Enterprise&amp;rdquo;.  Full details of the event can be found &lt;a href=&quot;http://adnuguk.me/1bXDVKe&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;If you were not able to attend you can get the slides from the slideshare links below:&lt;/p&gt;
-
-&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/14842800&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen&gt; &lt;/iframe&gt;
-
-
-&lt;p&gt; &lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;https://www.slideshare.net/gibraltarsoftware/introducing-agile-to-the-enterprise&quot; title=&quot;Introducing Agile to the Enterprise&quot; target=&quot;_blank&quot;&gt;Introducing Agile to the Enterprise&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/gibraltarsoftware&quot; target=&quot;_blank&quot;&gt;Gibraltar Software&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 27 Oct 2013 20:28:06 +0000</pubDate>
-        <link>http://www.aberdeendevelopers.co.uk/october-2013-meeting-completed</link>
-        <guid isPermaLink="true">http://www.aberdeendevelopers.co.uk/october-2013-meeting-completed</guid>
-        
-        <category>Agile</category>
-        
-        <category>Kendall Miller</category>
-        
-        <category>Slides</category>
-        
-        
-        <category>blog</category>
-        
-        <category>event feedback</category>
-        
-        <category>event material</category>
         
       </item>
     

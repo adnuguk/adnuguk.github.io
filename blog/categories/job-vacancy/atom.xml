@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Job Vacancy | Aberdeen Developers .Net User Group]]></title>
   <link href="http://www.aberdeendevelopers.co.uk/blog/categories/job-vacancy/atom.xml" rel="self"/>
   <link href="http://www.aberdeendevelopers.co.uk/"/>
-  <updated>2014-10-13T19:45:23+00:00</updated>
+  <updated>2014-10-13T20:02:53+00:00</updated>
   <id>http://www.aberdeendevelopers.co.uk/</id>
   <author>
     <name><![CDATA[gep13]]></name>
@@ -12,6 +12,44 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Job Vacancy - Software Developer - SPD]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/job-vacancy-software-developer-spd"/>
+    <updated>2014-10-13T00:00:00+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/job-vacancy-software-developer-spd</id>
+    <content type="html"><![CDATA[<p>Aberdeen Developers have been asked to promote the following job vacancy.  If you are interested in the position, or would like some more information, then please use the following link:</p>
+
+<p><a href="https://petrofac.taleo.net/careersection/2/jobdetail.ftl?job=008338&amp;lang=en">https://petrofac.taleo.net/careersection/2/jobdetail.ftl?job=008338&amp;lang=en</a></p>
+
+<hr />
+
+
+<p><strong>Purpose</strong></p>
+
+<p>WellAtlas is a software tool used internally by our Well Engineering team and also by a number of global operators. It is now a proven solution encompassing a series of integrated specialist modules, that together, bring visibility and assurance of all critical elements required to meet a company’s project delivery agenda. Due to internal and external client requirements as well as our Product Roadmap, the opportunity for a Software Developer has become key to the continued growth of this service line.</p>
+
+<p>The role of the Software Developer will encompass all aspects of the software life cycle from initial requirements gathering through design, build and testing and onto deployment and support.</p>
+
+<p><strong>Role:</strong>
+- Coordination of multiple simultaneous streams of software development between existing and potential clients
+- Design, development and implementation of both internal and client driven software projects
+- Collaboration with Product Management by validating the product roadmap, setting priorities and providing estimates
+- Ensuring visibility through lightweight metrics and continuous project status reporting
+- Ensure document quality and technical accuracy. Creation and maintenance of development documentation (coding standards etc.)
+- Design, development and implementation of both internal and client driven software projects
+- Development of reports using Microsoft SQL Server Reporting Services, as well as developing any necessary ASP.NET (C#) web pages and dialogs for selection of reporting criteria, filters etc.
+- Administration and support of IIS and SQL Servers.
+- The candidate will be flexible, driven and show a ‘can do’ attitude</p>
+
+<p>Please see the link above for full details of &ldquo;Key Accountabilities&rdquo;, &ldquo;Knowledge, Skills &amp; Experience expected&rdquo;, and &ldquo;Minimum Qualifications required&rdquo;</p>
+
+<hr />
+
+
+<p><strong>Closing Date: 20 October 2014</strong></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Job Vacancy - Web and Applications Developer for RGU - Aberdeen]]></title>
@@ -197,34 +235,6 @@ You&rsquo;ll need significant knowledge and experience of developing application
 
 
 <p> The role will involve becoming expert with the SafeWells system and developing test plans to ensure functionality meets with specified requirements. Further, it will also involve database design (sql 2008), programming (c# and asp.net) and report creation (Microsoft Reporting Services) as required. Support with code reviews will also be conducted. Other aspects are to provide support to new and existing clients of Expro&rsquo;s SafeWells software. This will include system installation, software configuration, data entry and manipulation. Setting up the system to client requirements and data population as required. The help system within the software also needs to be developed and maintained as the software evolves.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Job Vacancy - RGU, Aberdeen - Web and Applications Developer]]></title>
-    <link href="http://www.aberdeendevelopers.co.uk/job-vacancy-rgu-aberdeen-web-and-applications-developer"/>
-    <updated>2013-03-04T20:54:00+00:00</updated>
-    <id>http://www.aberdeendevelopers.co.uk/job-vacancy-rgu-aberdeen-web-and-applications-developer</id>
-    <content type="html"><![CDATA[<p>Aberdeen Developers have been asked to promote the following job vacancy.  If you are interested in teh position, then please use the form located <a href="http://www4.rgu.ac.uk/jobs/disp_details_sum.cfm?RJ_ID=38554&amp;lDisplayed=38614,38498,38654,38615,38454,38434,38616,38514,38195,38497,38595,38554">here</a>:</p>
-
-<p><strong>Web and Applications Developer</strong> (Ref C38554)<br/>
-IT Services Department</p>
-
-<p>We require a Web and Application Developer with experience in the overall architecture, design and support of online applications and a passion for learning and working with leading technologies.</p>
-
-<p>You will be working as part of the in house development team and will have responsibility for the day to day support, administration and development of a wide variety of services and applications.</p>
-
-<p>We&rsquo;re in the business of changing lives - developing students into highly employable graduates. Be part of their amazing journey by joining our 1500 colleagues who already enjoy the vibrant community, richly rewarding work, competitive pay and lifestyle afforded by the generous 38 days annual holiday allowance (including statutory holidays).</p>
-
-<p>There are a restricted number of certificates of sponsorship available in the UK and there is no guarantee that the University would be able to obtain one should the successful candidate require one.</p>
-
-<p>Salary: £27854-£30424 plus market supplement of £6816</p>
-
-<p>Position Type: Full-time , Permanent</p>
-
-<p><strong>Closing Date: 08 March 2013</strong></p>
-
-<p>Please note the closing date for applying for this job.  It closes at the end of this week.</p>
 ]]></content>
   </entry>
   

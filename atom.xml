@@ -4,7 +4,7 @@
   <title><![CDATA[Aberdeen Developers .Net User Group]]></title>
   <link href="http://www.aberdeendevelopers.co.uk/atom.xml" rel="self"/>
   <link href="http://www.aberdeendevelopers.co.uk/"/>
-  <updated>2014-10-13T19:45:23+00:00</updated>
+  <updated>2014-10-13T20:02:53+00:00</updated>
   <id>http://www.aberdeendevelopers.co.uk/</id>
   <author>
     <name><![CDATA[gep13]]></name>
@@ -27,6 +27,44 @@
 <p>Hot of the heels of the Northern Lights Conference comes <a href="http://codethecity.org/">Code the City</a>, back for it&rsquo;s second year after it&rsquo;s success last year!  If you are interested in helping out, regardless of what skills you might have, you can register your interest <a href="https://www.eventbrite.co.uk/e/code-the-city-aberdeen-sport-fitness-and-wellbeing-tickets-12794716341">here</a>.</p>
 
 <p>Unfortunately, I will not be able to attend either event, but thoroughly recommend that you check them out!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Job Vacancy - Software Developer - SPD]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/job-vacancy-software-developer-spd"/>
+    <updated>2014-10-13T00:00:00+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/job-vacancy-software-developer-spd</id>
+    <content type="html"><![CDATA[<p>Aberdeen Developers have been asked to promote the following job vacancy.  If you are interested in the position, or would like some more information, then please use the following link:</p>
+
+<p><a href="https://petrofac.taleo.net/careersection/2/jobdetail.ftl?job=008338&amp;lang=en">https://petrofac.taleo.net/careersection/2/jobdetail.ftl?job=008338&amp;lang=en</a></p>
+
+<hr />
+
+
+<p><strong>Purpose</strong></p>
+
+<p>WellAtlas is a software tool used internally by our Well Engineering team and also by a number of global operators. It is now a proven solution encompassing a series of integrated specialist modules, that together, bring visibility and assurance of all critical elements required to meet a company’s project delivery agenda. Due to internal and external client requirements as well as our Product Roadmap, the opportunity for a Software Developer has become key to the continued growth of this service line.</p>
+
+<p>The role of the Software Developer will encompass all aspects of the software life cycle from initial requirements gathering through design, build and testing and onto deployment and support.</p>
+
+<p><strong>Role:</strong>
+- Coordination of multiple simultaneous streams of software development between existing and potential clients
+- Design, development and implementation of both internal and client driven software projects
+- Collaboration with Product Management by validating the product roadmap, setting priorities and providing estimates
+- Ensuring visibility through lightweight metrics and continuous project status reporting
+- Ensure document quality and technical accuracy. Creation and maintenance of development documentation (coding standards etc.)
+- Design, development and implementation of both internal and client driven software projects
+- Development of reports using Microsoft SQL Server Reporting Services, as well as developing any necessary ASP.NET (C#) web pages and dialogs for selection of reporting criteria, filters etc.
+- Administration and support of IIS and SQL Servers.
+- The candidate will be flexible, driven and show a ‘can do’ attitude</p>
+
+<p>Please see the link above for full details of &ldquo;Key Accountabilities&rdquo;, &ldquo;Knowledge, Skills &amp; Experience expected&rdquo;, and &ldquo;Minimum Qualifications required&rdquo;</p>
+
+<hr />
+
+
+<p><strong>Closing Date: 20 October 2014</strong></p>
 ]]></content>
   </entry>
   
@@ -646,36 +684,6 @@ Directions: <a href="https://maps.google.co.uk/maps?q=Faculty+of+Health+%26+Soci
 <h2>Location and Directions</h2>
 
 <p>Venue: Room A12, RGU Building, St Andrews Street, Aberdeen, AB25 1HG Directions: <a href="http://www.bing.com/maps/?v=2&amp;cp=57.149542434132776~-2.102723645985436&amp;lvl=17&amp;dir=0&amp;sty=c&amp;eo=1&amp;form=LMLTCC">Map showing St Andrews Street</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[May 2013 Meeting - Completed]]></title>
-    <link href="http://www.aberdeendevelopers.co.uk/may-2013-meeting-completed"/>
-    <updated>2013-05-27T07:14:36+00:00</updated>
-    <id>http://www.aberdeendevelopers.co.uk/may-2013-meeting-completed</id>
-    <content type="html"><![CDATA[<h1>Slides from Kendo UI and TypeScript Talk</h1>
-
-<p>On Thursday 23rd May 2013, Aberdeen Developers .Net User Group welcomed Remco Blok for a talk entitled &ldquo;HTML5 applications with Kendo UI and TypeScript&rdquo;.  Full details of the event can be found <a href="http://www.aberdeendevelopers.co.uk/may-2013-meeting-remco-blok-talking-about-html5/">here</a>.</p>
-
-<p>If you were not able to attend you can see the slides below and you can also find them attached to this blog post.</p>
-
-<h3>HTML5 applications with Kendo UI and TypeScript</h3>
-
-<p>  [</p>
-
-<pre><code>  ![Get Microsoft Silverlight](http://go.microsoft.com/fwlink/?LinkId=161376)  
-
-](http://go.microsoft.com/fwlink/?LinkID=149156&amp;v=4.0.50401.0)  
-</code></pre>
-
-<p><strong>NOTE:</strong> The above slide deck was gratefully converted into the above format using SilverSlide by Mark Mann (<a href="http://twitter.com/#!/@mark_mann">@mark_mann</a>), you can find his blog <a href="http://blog.mark-mann.co.uk/">here</a>.  Thanks again Mark!</p>
-
-<p>In addition, if you are interested in seeing the sample application that Remco was using during his talk, you can find this on his GitHub repo <a href="https://github.com/RemcoBlok/KendoUITypeScript">here</a>.</p>
-
-<p>Also, as a gentle reminder, I am eager to collect as much feedback as possible for the event, so if you have not already done so, can you please fill in the survey <a href="http://www.surveymonkey.com/s/JDLWPWF">here</a>.</p>
-
-<p>[wpdm_file id=4]</p>
 ]]></content>
   </entry>
   
