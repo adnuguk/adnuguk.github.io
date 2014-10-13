@@ -5,9 +5,36 @@
     <description>Website for the meetings and events hosted by the Aberdeen Developers .Net User Group</description>
     <link>http://www.aberdeendevelopers.co.uk/</link>
     <atom:link href="http://www.aberdeendevelopers.co.uk/feed" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 13 Oct 2014 12:19:48 +0000</pubDate>
-    <lastBuildDate>Mon, 13 Oct 2014 12:19:48 +0000</lastBuildDate>
+    <pubDate>Mon, 13 Oct 2014 19:45:23 +0000</pubDate>
+    <lastBuildDate>Mon, 13 Oct 2014 19:45:23 +0000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Northern Lights Conf and Code the City 2014</title>
+        <description>&lt;h2&gt;An exciting few days coming up!&lt;/h2&gt;
+
+&lt;p&gt;Have you got your tickets?&lt;/p&gt;
+
+&lt;p&gt;There are a few exciting days, in the development world anyway, coming up, starting on the 17th October.  This sees the return of the Northern Lights Conference to the University of Aberdeen.  You can find full details of this event &lt;a href=&quot;http://northernlightsconf.co.uk/&quot;&gt;here&lt;/a&gt;.  The event has 6 great speakers lined up, as well as 12 Open Space Sessions.  If you are interested in attending, you can get your ticket &lt;a href=&quot;http://www.store.abdn.ac.uk/browse/product.asp?compid=1&amp;amp;modid=2&amp;amp;catid=23&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Hot of the heels of the Northern Lights Conference comes &lt;a href=&quot;http://codethecity.org/&quot;&gt;Code the City&lt;/a&gt;, back for it&amp;rsquo;s second year after it&amp;rsquo;s success last year!  If you are interested in helping out, regardless of what skills you might have, you can register your interest &lt;a href=&quot;https://www.eventbrite.co.uk/e/code-the-city-aberdeen-sport-fitness-and-wellbeing-tickets-12794716341&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, I will not be able to attend either event, but thoroughly recommend that you check them out!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 13 Oct 2014 00:00:00 +0000</pubDate>
+        <link>http://www.aberdeendevelopers.co.uk/northern-lights-conf-and-code-the-city-2014</link>
+        <guid isPermaLink="true">http://www.aberdeendevelopers.co.uk/northern-lights-conf-and-code-the-city-2014</guid>
+        
+        <category>Code the City</category>
+        
+        <category>Northern Lights Conference</category>
+        
+        <category>Aberdeen</category>
+        
+        
+        <category>community events</category>
+        
+      </item>
     
       <item>
         <title>August 2014 Meeting - Shawn Wildermuth - Completed</title>
@@ -418,37 +445,6 @@ Directions: &lt;a href=&quot;https://maps.google.co.uk/maps?q=ab10+7qq&amp;amp;
         <category>event feedback</category>
         
         <category>event material</category>
-        
-      </item>
-    
-      <item>
-        <title>Registration for DunDDD 2013 is now open</title>
-        <description>&lt;h1&gt;Grab your ticket for DunDDD quickly so you don&amp;rsquo;t miss out!&lt;/h1&gt;
-
-&lt;p&gt;The call for speakers at the Scottish Community Event (organised by the &lt;a href=&quot;http://scottishdevelopers.com/&quot;&gt;Scottish Developers&lt;/a&gt;) known as &lt;a href=&quot;http://dun.dddscotland.co.uk/speaker&quot;&gt;DunDDD &lt;/a&gt;has now closed and the registration has opened.&lt;/p&gt;
-
-&lt;h1&gt;DunDDD is now in its third year&lt;/h1&gt;
-
-&lt;p&gt;This will be the 3rd DunDDD, built on the popular foundation of the Developer! Developer! Developer! conference series which has spread to all corners of the UK and the international arena.  DDD conferences are community-run days where passionate and enthusiastic people come together to learn, share ideas, and to network within the many hubs of the development community. Best of all DDD events are &lt;strong&gt;free&lt;/strong&gt; to everyone!&lt;/p&gt;
-
-&lt;p&gt;This year DunDDD will be featuring an entire track dedicated to Data Science.&lt;/p&gt;
-
-&lt;p&gt;Go and grab your &lt;a href=&quot;http://dun.dddscotland.co.uk/registration&quot;&gt;ticket now&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 14 Oct 2013 19:23:44 +0000</pubDate>
-        <link>http://www.aberdeendevelopers.co.uk/registration-dunddd-2013-now-open</link>
-        <guid isPermaLink="true">http://www.aberdeendevelopers.co.uk/registration-dunddd-2013-now-open</guid>
-        
-        <category>Conference</category>
-        
-        <category>DDD</category>
-        
-        <category>DunDDD</category>
-        
-        <category>Dundee</category>
-        
-        
-        <category>conferences</category>
         
       </item>
     

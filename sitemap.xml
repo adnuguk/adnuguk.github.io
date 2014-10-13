@@ -162,6 +162,14 @@
     </url>
     
     <url>
+        <loc>/blog/categories/community-events/index.html</loc>
+    </url>
+    
+    <url>
+        <loc>/blog/categories/community-events/atom.xml</loc>
+    </url>
+    
+    <url>
         <loc>/posts/2/index.html</loc>
     </url>
     
@@ -190,6 +198,10 @@
     </url>
     
 
+    
+    <url>
+        <loc>/northern-lights-conf-and-code-the-city-2014</loc>
+    </url>
     
     <url>
         <loc>/August-2014-meeting-completed</loc>

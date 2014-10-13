@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Community Events | Aberdeen Developers .Net User Group]]></title>
+  <link href="http://www.aberdeendevelopers.co.uk/blog/categories/community-events/atom.xml" rel="self"/>
+  <link href="http://www.aberdeendevelopers.co.uk/"/>
+  <updated>2014-10-13T19:45:23+00:00</updated>
+  <id>http://www.aberdeendevelopers.co.uk/</id>
+  <author>
+    <name><![CDATA[gep13]]></name>
+    <email><![CDATA[gep13@aberdeendevelopers.co.uk]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Northern Lights Conf and Code the City 2014]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/northern-lights-conf-and-code-the-city-2014"/>
+    <updated>2014-10-13T00:00:00+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/northern-lights-conf-and-code-the-city-2014</id>
+    <content type="html"><![CDATA[<h2>An exciting few days coming up!</h2>
+
+<p>Have you got your tickets?</p>
+
+<p>There are a few exciting days, in the development world anyway, coming up, starting on the 17th October.  This sees the return of the Northern Lights Conference to the University of Aberdeen.  You can find full details of this event <a href="http://northernlightsconf.co.uk/">here</a>.  The event has 6 great speakers lined up, as well as 12 Open Space Sessions.  If you are interested in attending, you can get your ticket <a href="http://www.store.abdn.ac.uk/browse/product.asp?compid=1&amp;modid=2&amp;catid=23">here</a>.</p>
+
+<p>Hot of the heels of the Northern Lights Conference comes <a href="http://codethecity.org/">Code the City</a>, back for it&rsquo;s second year after it&rsquo;s success last year!  If you are interested in helping out, regardless of what skills you might have, you can register your interest <a href="https://www.eventbrite.co.uk/e/code-the-city-aberdeen-sport-fitness-and-wellbeing-tickets-12794716341">here</a>.</p>
+
+<p>Unfortunately, I will not be able to attend either event, but thoroughly recommend that you check them out!</p>
+]]></content>
+  </entry>
+  
+</feed>

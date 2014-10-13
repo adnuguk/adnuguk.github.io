@@ -4,7 +4,7 @@
   <title><![CDATA[Aberdeen Developers .Net User Group]]></title>
   <link href="http://www.aberdeendevelopers.co.uk/atom.xml" rel="self"/>
   <link href="http://www.aberdeendevelopers.co.uk/"/>
-  <updated>2014-10-13T12:19:48+00:00</updated>
+  <updated>2014-10-13T19:45:23+00:00</updated>
   <id>http://www.aberdeendevelopers.co.uk/</id>
   <author>
     <name><![CDATA[gep13]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Northern Lights Conf and Code the City 2014]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/northern-lights-conf-and-code-the-city-2014"/>
+    <updated>2014-10-13T00:00:00+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/northern-lights-conf-and-code-the-city-2014</id>
+    <content type="html"><![CDATA[<h2>An exciting few days coming up!</h2>
+
+<p>Have you got your tickets?</p>
+
+<p>There are a few exciting days, in the development world anyway, coming up, starting on the 17th October.  This sees the return of the Northern Lights Conference to the University of Aberdeen.  You can find full details of this event <a href="http://northernlightsconf.co.uk/">here</a>.  The event has 6 great speakers lined up, as well as 12 Open Space Sessions.  If you are interested in attending, you can get your ticket <a href="http://www.store.abdn.ac.uk/browse/product.asp?compid=1&amp;modid=2&amp;catid=23">here</a>.</p>
+
+<p>Hot of the heels of the Northern Lights Conference comes <a href="http://codethecity.org/">Code the City</a>, back for it&rsquo;s second year after it&rsquo;s success last year!  If you are interested in helping out, regardless of what skills you might have, you can register your interest <a href="https://www.eventbrite.co.uk/e/code-the-city-aberdeen-sport-fitness-and-wellbeing-tickets-12794716341">here</a>.</p>
+
+<p>Unfortunately, I will not be able to attend either event, but thoroughly recommend that you check them out!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[August 2014 Meeting - Shawn Wildermuth - Completed]]></title>
@@ -659,93 +676,6 @@ Directions: <a href="https://maps.google.co.uk/maps?q=Faculty+of+Health+%26+Soci
 <p>Also, as a gentle reminder, I am eager to collect as much feedback as possible for the event, so if you have not already done so, can you please fill in the survey <a href="http://www.surveymonkey.com/s/JDLWPWF">here</a>.</p>
 
 <p>[wpdm_file id=4]</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Job Vacancy - Senergy Software - Aberdeen]]></title>
-    <link href="http://www.aberdeendevelopers.co.uk/job-vacancy-senergy-software-aberdeen"/>
-    <updated>2013-05-14T18:09:33+00:00</updated>
-    <id>http://www.aberdeendevelopers.co.uk/job-vacancy-senergy-software-aberdeen</id>
-    <content type="html"><![CDATA[<p>Aberdeen Developers have been asked to promote the following job vacancy. If you are interested in the position, or would like some more information, then please contact <a href="mailto:leanne.burnett@senergyworld.com">Leanne Burnett</a>.  The vacancy is within the Senergy Banchory Office.</p>
-
-<p>Senergy Software was launched as a result of significant business growth within Senergy’s oil and gas division and is supported by the Group’s international locations and technical specialists. The software division develops, markets and supports innovative technologies including Interactive Petrophysics (IP) and Oilfield Data Manager (ODM3) which have become invaluable resource tools for more than 500 Senergy clients globally.</p>
-
-<p><strong>Our Products:</strong></p>
-
-<p>IP (Interactive Petrophysics) is a pioneering analysis tool for petrophysics in that it offers some of the most sophisticated interpretation modules in the industry. Developed by petrophysicists, the portable and versatile technology allows petrophysicists to carry out multi-zone, multi-well field analysis while geologists also use the system.</p>
-
-<p>ODM3 is used in the integration, interpretation and presentation of geological data. This application enables geoscientists to quickly and easily assimilate and visualise numerous data types with the objective of using all available information to make an informed interpretation of the subsurface geology.</p>
-
-<p><strong>Job Specification - Software Developer</strong></p>
-
-<p>As part of our continued expansion Senergy are looking for additional talented people to join our growing software team.</p>
-
-<p>We are currently taking applications for both:</p>
-
-<ul>
-<li><p>Software Developers</p></li>
-<li><p>Talented Students/Graduates</p></li>
-</ul>
-
-
-<p><strong>Candidate Criteria and Skills:</strong></p>
-
-<p>Candidate will possess the drive, enthusiasm and ambition to form part of a dynamic team within a fast-moving company. Candidate needs to be willing to embrace challenge and will have the opportunity to shape their Team.</p>
-
-<p><strong>Your Qualities:</strong></p>
-
-<ul>
-<li><p> Enthusiastic about software development</p></li>
-<li><p> Can bring something new to our team</p></li>
-<li><p> Happy to learn and share knowledge</p></li>
-<li><p> Admit your own strengths and weaknesses</p></li>
-<li><p> Loves to learn</p></li>
-<li><p> Determined to produce quality software</p></li>
-<li><p> Trustworthy and Professional</p></li>
-<li><p> We like you already</p></li>
-</ul>
-
-
-<p><strong>Qualifications:</strong></p>
-
-<ul>
-<li>Degree in relevant numerical subject or appropriate skills and experience</li>
-</ul>
-
-
-<p><strong>Required Experience:</strong></p>
-
-<ul>
-<li><p> Software Development using either .NET, C#, VB or Java</p></li>
-<li><p> Software design experience • Architecture design</p></li>
-<li><p> Software quality management • Database and SQL</p></li>
-<li><p> Software development life cycle Desirable Experience</p></li>
-<li><p> Team Leading / Project Management • Documentation/Presentation skills</p></li>
-<li><p> Visual Basic 6 (VB6) or Delphi exposure an advantage but not essential</p></li>
-<li><p> Geology or geological background an advantage, but not essential</p></li>
-<li><p> Mentoring</p></li>
-</ul>
-
-
-<p><strong>Can you identify your own attributes below?</strong></p>
-
-<ul>
-<li><p> Degree qualified</p></li>
-<li><p> Quality and Technical focus</p></li>
-<li><p> Strong mentoring and coaching skills</p></li>
-<li><p> Strong communication skills are essential</p></li>
-<li><p> Self motivating • Confident • Approachable</p></li>
-<li><p> Good networking skills</p></li>
-<li><p> Flexible attitude</p></li>
-<li><p> Team player</p></li>
-<li><p> Strong work ethic</p></li>
-<li><p> Consultative style</p></li>
-<li><p> Hands-on</p></li>
-</ul>
-
-
-<p>Your career at Senergy Software starts here&hellip;</p>
 ]]></content>
   </entry>
   
