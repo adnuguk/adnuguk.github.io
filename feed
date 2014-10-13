@@ -5,8 +5,8 @@
     <description>Website for the meetings and events hosted by the Aberdeen Developers .Net User Group</description>
     <link>http://www.aberdeendevelopers.co.uk/</link>
     <atom:link href="http://www.aberdeendevelopers.co.uk/feed" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 13 Oct 2014 20:02:53 +0000</pubDate>
-    <lastBuildDate>Mon, 13 Oct 2014 20:02:53 +0000</lastBuildDate>
+    <pubDate>Mon, 13 Oct 2014 20:21:38 +0000</pubDate>
+    <lastBuildDate>Mon, 13 Oct 2014 20:21:38 +0000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -51,16 +51,20 @@
 
 &lt;p&gt;The role of the Software Developer will encompass all aspects of the software life cycle from initial requirements gathering through design, build and testing and onto deployment and support.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt;
-- Coordination of multiple simultaneous streams of software development between existing and potential clients
-- Design, development and implementation of both internal and client driven software projects
-- Collaboration with Product Management by validating the product roadmap, setting priorities and providing estimates
-- Ensuring visibility through lightweight metrics and continuous project status reporting
-- Ensure document quality and technical accuracy. Creation and maintenance of development documentation (coding standards etc.)
-- Design, development and implementation of both internal and client driven software projects
-- Development of reports using Microsoft SQL Server Reporting Services, as well as developing any necessary ASP.NET (C#) web pages and dialogs for selection of reporting criteria, filters etc.
-- Administration and support of IIS and SQL Servers.
-- The candidate will be flexible, driven and show a ‘can do’ attitude&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Coordination of multiple simultaneous streams of software development between existing and potential clients&lt;/li&gt;
+&lt;li&gt;Design, development and implementation of both internal and client driven software projects&lt;/li&gt;
+&lt;li&gt;Collaboration with Product Management by validating the product roadmap, setting priorities and providing estimates&lt;/li&gt;
+&lt;li&gt;Ensuring visibility through lightweight metrics and continuous project status reporting&lt;/li&gt;
+&lt;li&gt;Ensure document quality and technical accuracy. Creation and maintenance of development documentation (coding standards etc.)&lt;/li&gt;
+&lt;li&gt;Design, development and implementation of both internal and client driven software projects&lt;/li&gt;
+&lt;li&gt;Development of reports using Microsoft SQL Server Reporting Services, as well as developing any necessary ASP.NET (C#) web pages and dialogs for selection of reporting criteria, filters etc.&lt;/li&gt;
+&lt;li&gt;Administration and support of IIS and SQL Servers.&lt;/li&gt;
+&lt;li&gt;The candidate will be flexible, driven and show a ‘can do’ attitude&lt;/li&gt;
+&lt;/ul&gt;
+
 
 &lt;p&gt;Please see the link above for full details of &amp;ldquo;Key Accountabilities&amp;rdquo;, &amp;ldquo;Knowledge, Skills &amp;amp; Experience expected&amp;rdquo;, and &amp;ldquo;Minimum Qualifications required&amp;rdquo;&lt;/p&gt;
 
