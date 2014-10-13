@@ -2,16 +2,16 @@
 author: gep13
 layout: post
 published: true
-title: "Job Vacancy - Software Developer - Petrofac"
-keywords: "Job Vacancy, Aberdeen, Petrofac"
-description: "A job vacancy is available working for Petrofac in Aberdeen as a Software Developer, if you are interested, please visit link"
+title: "Job Vacancy - Software Developer - SPD"
+keywords: "Job Vacancy, Aberdeen, SPD"
+description: "A job vacancy is available working for SPD (part of Petrofac) in Aberdeen as a Software Developer, if you are interested, please visit link"
 comments: true
 sharing: true
 categories: 
   - Blog
   - Job Vacancy
 tags: 
-  - Petrofac
+  - SPD
   - Software Developer
   - Job
 ---
