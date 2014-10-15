@@ -44,4 +44,3 @@ skip_commits:
 cache:
   - C:\Ruby193\lib\ruby\gems\1.9.1
   - C:\Ruby193\bin
-# Test cache working
