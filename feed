@@ -5,9 +5,30 @@
     <description>Website for the meetings and events hosted by the Aberdeen Developers .Net User Group</description>
     <link>http://www.aberdeendevelopers.co.uk/</link>
     <atom:link href="http://www.aberdeendevelopers.co.uk/feed" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 15 Oct 2014 18:43:59 +0000</pubDate>
-    <lastBuildDate>Wed, 15 Oct 2014 18:43:59 +0000</lastBuildDate>
+    <pubDate>Sun, 19 Oct 2014 20:23:53 +0000</pubDate>
+    <lastBuildDate>Sun, 19 Oct 2014 20:23:53 +0000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Quick Survey - Aberdeen Testing Centre</title>
+        <description>&lt;p&gt;Aberdeen Developers have been approached by a local software development company who are keen to gauge the number of people that would welcome an Aberdeen test centre for Microsoft and Cisco exams.&lt;/p&gt;
+
+&lt;p&gt;At present, the nearest test centres are in Edinburgh, Stirling or Glasgow. They would be very grateful if you could take a moment to answer a couple of quick questions.&lt;/p&gt;
+
+&lt;p&gt;I am going to capture the answers to these questions in a Survey Monkey questionnaire, so if you could take the time to click on this link:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.surveymonkey.com/s/MFVNDWZ&quot;&gt;https://www.surveymonkey.com/s/MFVNDWZ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;And answer the two short questions, I would be really grateful!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;NOTE:&lt;/strong&gt; Your responses will be confidential with only numbers being shared with a potential test centre to assist them in their quest to be able to provide Microsoft and Cisco exams.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 19 Oct 2014 00:00:00 +0000</pubDate>
+        <link>http://www.aberdeendevelopers.co.uk/quick-survey-aberdeen-testing-centre</link>
+        <guid isPermaLink="true">http://www.aberdeendevelopers.co.uk/quick-survey-aberdeen-testing-centre</guid>
+        
+        
+      </item>
     
       <item>
         <title>Upcoming BCS Talk - Daniel Russel</title>
@@ -402,33 +423,6 @@ You&amp;rsquo;ll need significant knowledge and experience of developing applica
         <category>blog</category>
         
         <category>job vacancy</category>
-        
-      </item>
-    
-      <item>
-        <title>November 2013 Meeting - Completed</title>
-        <description>&lt;h1&gt;Slides from Unit Testing Talk&lt;/h1&gt;
-
-&lt;p&gt;On Thursday 21st November 2013, Aberdeen Developers .Net User Group welcomed Max Vasilyev for a talk entitled &amp;ldquo;&amp;rdquo;.  Full details of the event can be found &lt;a href=&quot;http://adnuguk.me/1hbuLgl&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;If you were not able to attend, you can find the slides on Max&amp;rsquo;s site &lt;a href=&quot;http://tech.trailmax.info/talks/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 05 Dec 2013 20:56:31 +0000</pubDate>
-        <link>http://www.aberdeendevelopers.co.uk/november-2013-meeting-completed</link>
-        <guid isPermaLink="true">http://www.aberdeendevelopers.co.uk/november-2013-meeting-completed</guid>
-        
-        <category>Max Vasilyev</category>
-        
-        <category>Slides</category>
-        
-        <category>Unit Testing</category>
-        
-        
-        <category>blog</category>
-        
-        <category>event feedback</category>
-        
-        <category>event material</category>
         
       </item>
     

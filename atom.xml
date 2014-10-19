@@ -4,7 +4,7 @@
   <title><![CDATA[Aberdeen Developers .Net User Group]]></title>
   <link href="http://www.aberdeendevelopers.co.uk/atom.xml" rel="self"/>
   <link href="http://www.aberdeendevelopers.co.uk/"/>
-  <updated>2014-10-15T18:43:59+00:00</updated>
+  <updated>2014-10-19T20:23:53+00:00</updated>
   <id>http://www.aberdeendevelopers.co.uk/</id>
   <author>
     <name><![CDATA[gep13]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Quick Survey - Aberdeen Testing Centre]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/quick-survey-aberdeen-testing-centre"/>
+    <updated>2014-10-19T00:00:00+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/quick-survey-aberdeen-testing-centre</id>
+    <content type="html"><![CDATA[<p>Aberdeen Developers have been approached by a local software development company who are keen to gauge the number of people that would welcome an Aberdeen test centre for Microsoft and Cisco exams.</p>
+
+<p>At present, the nearest test centres are in Edinburgh, Stirling or Glasgow. They would be very grateful if you could take a moment to answer a couple of quick questions.</p>
+
+<p>I am going to capture the answers to these questions in a Survey Monkey questionnaire, so if you could take the time to click on this link:</p>
+
+<p><a href="https://www.surveymonkey.com/s/MFVNDWZ">https://www.surveymonkey.com/s/MFVNDWZ</a></p>
+
+<p>And answer the two short questions, I would be really grateful!</p>
+
+<p><strong>NOTE:</strong> Your responses will be confidential with only numbers being shared with a potential test centre to assist them in their quest to be able to provide Microsoft and Cisco exams.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Upcoming BCS Talk - Daniel Russel]]></title>
@@ -626,47 +645,6 @@ Directions: <a href="https://maps.google.co.uk/maps?q=Faculty+of+Health+%26+Soci
 
 <p>Venue: Room H230, Faculty of Health &amp; Social Care, Garthdee Campus, Aberdeen, Aberdeen City AB10 7QG
 Directions: <a href="https://maps.google.co.uk/maps?q=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,+Aberdeen,+Aberdeen+City+AB10+7QG,+GB&amp;hl=en&amp;ll=57.119317,-2.136133&amp;spn=0.004165,0.012413&amp;sll=57.746995,-4.687341&amp;sspn=8.392957,25.422363&amp;hq=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,&amp;hnear=AB10+7QG,+United+Kingdom&amp;t=m&amp;z=17&amp;iwloc=A">Map showing Garthdee Campus</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[August 2013 Meeting - Jon Skeet Talking About Abusing C#]]></title>
-    <link href="http://www.aberdeendevelopers.co.uk/august-2013-meeting-jon-skeet-talking-about-abusing-c"/>
-    <updated>2013-06-07T07:09:48+00:00</updated>
-    <id>http://www.aberdeendevelopers.co.uk/august-2013-meeting-jon-skeet-talking-about-abusing-c</id>
-    <content type="html"><![CDATA[<p>Aberdeen Developers are pleased to present a talk by Jon Skeet on Thursday 8th August 2013 at the Robert Gordon University.</p>
-
-<h2>Abusing C</h2>
-
-<p>As a purely amateur C# developer, code that I write rarely gets to hurt people. (Well, open source projects aside.) As such, it&rsquo;s fun to stretch the language a bit, find its limits&hellip; and then try to sneak past them. One of my first reactions to a new language feature is &ldquo;How can I use that for a completely different purpose to the intended one?&rdquo; The results are rarely pretty, but they&rsquo;re lots of fun.</p>
-
-<p>The chances of any of the code you see in this session being even remotely useful to a conscientious developer are very slim. You may well learn some interesting things about the C# language, but that&rsquo;s a different matter. To put it another way: if you&rsquo;re trying to persuade your boss that it&rsquo;s important to send you for educational reasons, you probably don&rsquo;t want to show him this abstract.</p>
-
-<p><a href="http://adnuguk-aug2013.eventbrite.co.uk/?ebtv=C"><img src="http://www.eventbrite.com/registerbutton?eid=2581657808" alt="Register for Aberdeen Developers .Net User Group - August 2013 Meeting in Aberdeen, Aberdeen City on Eventbrite" /></a></p>
-
-<h2>Speaker Bio</h2>
-
-<p>Jon Skeet is a Java developer for Google in London, but he plays with C# (somewhat obsessively) in his free time.</p>
-
-<p>He loves writing and talking about C#, and the third edition of &ldquo;C# in Depth&rdquo; was published earlier this year. Writing less formally, Jon spends a lot of time on Stack Overflow&hellip; where &ldquo;a lot&rdquo; is an understatement. Give him a puzzle about how C# behaves which gets him reaching for the language specification, and Jon is a happy bunny. Jon lives in Reading with his wife and three children.</p>
-
-<h2>Agenda – Thursday, 8th August 2013</h2>
-
-<ul>
-<li><p>1800 - 1815: Arrival and registration</p></li>
-<li><p>1815 - 1820: Introduction</p></li>
-<li><p>1820 - 1920: Abusing C#</p></li>
-<li><p>1920 onwards: Questions and drinks at the bar</p></li>
-</ul>
-
-
-<h2>Prize Draw</h2>
-
-<p>All attendees will be entered into a prize draw, with the chance of winning one of the prizes listed <a href="http://www.gep13.co.uk/blog/?p=107">here</a>.</p>
-
-<h2>Location and Directions</h2>
-
-<p>Venue: Room A12, RGU Building, St Andrews Street, Aberdeen, AB25 1HG Directions: <a href="http://www.bing.com/maps/?v=2&amp;cp=57.149542434132776~-2.102723645985436&amp;lvl=17&amp;dir=0&amp;sty=c&amp;eo=1&amp;form=LMLTCC">Map showing St Andrews Street</a></p>
 ]]></content>
   </entry>
   
