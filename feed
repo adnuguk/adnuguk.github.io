@@ -5,9 +5,22 @@
     <description>Website for the meetings and events hosted by the Aberdeen Developers .Net User Group</description>
     <link>http://www.aberdeendevelopers.co.uk/</link>
     <atom:link href="http://www.aberdeendevelopers.co.uk/feed" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 20 Oct 2014 06:21:55 +0000</pubDate>
-    <lastBuildDate>Mon, 20 Oct 2014 06:21:55 +0000</lastBuildDate>
+    <pubDate>Fri, 31 Oct 2014 06:40:59 +0000</pubDate>
+    <lastBuildDate>Fri, 31 Oct 2014 06:40:59 +0000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Microsoft Exams</title>
+        <description>&lt;p&gt;Those who have been trying to book Microsoft Exams in recent months will be fully aware of the lack of local test centres in Aberdeen.  Unfortunately, there still appears to be a lack of any long term commitment for any new test centres, but Aberdeen Developers have been informed that there is some availability at a private session that has been organised at Aberdeen College on 27th November at 9am.&lt;/p&gt;
+
+&lt;p&gt;Aberdeen College are a Pearson Vue partner who don’t normally offer certification externally but Andrew at Motion Software has managed to arrange the use of this test centre for his team. He has kindly offered the remaining spaces to our members for a small fee (£5-£10) over the standard exam cost. Anyone looking to sit any Microsoft Exams should contact Andrew via his email [andrew]&amp;lsquo;at&amp;rsquo;[motionsoftware]&amp;lsquo;dot&amp;rsquo;[co]&amp;lsquo;dot&amp;rsquo;[uk] for more details.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 31 Oct 2014 00:00:00 +0000</pubDate>
+        <link>http://www.aberdeendevelopers.co.uk/microsoft-exams</link>
+        <guid isPermaLink="true">http://www.aberdeendevelopers.co.uk/microsoft-exams</guid>
+        
+        
+      </item>
     
       <item>
         <title>Quick Survey - Aberdeen Testing Centre</title>
@@ -365,59 +378,6 @@ You&amp;rsquo;ll need significant knowledge and experience of developing applica
         <pubDate>Tue, 25 Mar 2014 20:56:03 +0000</pubDate>
         <link>http://www.aberdeendevelopers.co.uk/job-vacancy-web-applications-developer-rgu-aberdeen</link>
         <guid isPermaLink="true">http://www.aberdeendevelopers.co.uk/job-vacancy-web-applications-developer-rgu-aberdeen</guid>
-        
-        
-        <category>blog</category>
-        
-        <category>job vacancy</category>
-        
-      </item>
-    
-      <item>
-        <title>Job Vacancy - .Net Developer at BusinessPort - Aberdeen</title>
-        <description>&lt;p&gt;Aberdeen Developers have been asked to promote the following job vacancy.  If you are interested in the position, or would like some information, then please contact Douglas Cameron on douglas dot cameron at businessport dot net.&lt;/p&gt;
-
-&lt;p&gt;BusinessPort is a specialised provider of web-based Management Systems and services that enable organisations to optimise the interaction between people, process, risk and regulations. Since formation, BusinessPort has assisted companies in all industries to move away from the complexity and inconsistency of paper procedures and delivered proven methodologies and technologies to help them propagate best practice throughout their organisations.&lt;/p&gt;
-
-&lt;p&gt;We are looking for an experienced .Net Developer who has a good understanding of the .Net framework and related development tools to join our expanding team. You will have the opportunity to work with some of the latest technologies across a number of platforms as we continue to enhance and develop Agility and associated solutions. Successful candidates should be educated to degree level, have excellent communication skills, be enthusiastic about development and be a natural problem solver. You will be required to work effectively by yourself as well as within a team.&lt;/p&gt;
-
-&lt;p&gt;Skills and experience required:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;At least 2 years commercial C# .NET experience.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;WPF and/or Silverlight&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Asp.net (Web forms and/or MVC)&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;HTML, CSS and JavaScript&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;WCF&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Microsoft SQL Server&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Experience with working with ORMs (ie LINQ to SQL or Entity Framework)&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Familiarly with source control (TFS, Subversion, VSS etc)&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-
-&lt;p&gt;One or more of the following skills would be beneficial:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Office Add in development&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Works with Unit Testing such as NUnit or MSTest&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Experience or an interest in mobile development&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;SSIS (SQL Server Integration Services)&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;SSRS (SQL Server Reporting Services)&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Installation and deployment tools&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Microsoft Certification&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;SharePoint&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Thu, 05 Dec 2013 21:11:51 +0000</pubDate>
-        <link>http://www.aberdeendevelopers.co.uk/job-vacancy-net-developer-businessport-aberdeen</link>
-        <guid isPermaLink="true">http://www.aberdeendevelopers.co.uk/job-vacancy-net-developer-businessport-aberdeen</guid>
-        
-        <category>Aberdeen</category>
-        
-        <category>BusinessPort</category>
-        
-        <category>Job Oppurtunity</category>
         
         
         <category>blog</category>
