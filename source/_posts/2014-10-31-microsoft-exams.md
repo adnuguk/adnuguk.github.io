@@ -1,5 +1,5 @@
 ---
-author: gep13
+author: nyami
 layout: post
 published: true
 title: Microsoft Exams
