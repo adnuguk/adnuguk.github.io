@@ -116,8 +116,8 @@ prose:
           value: "post"
       - name: "author"
         field:
-          element: "hidden"
-          value: "gep13"		  
+          element: "text"
+          value: "Author"		  
       - name: "title"
         field:
           element: "text"
