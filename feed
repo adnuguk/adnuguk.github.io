@@ -5,9 +5,32 @@
     <description>Website for the meetings and events hosted by the Aberdeen Developers .Net User Group</description>
     <link>http://www.aberdeendevelopers.co.uk/</link>
     <atom:link href="http://www.aberdeendevelopers.co.uk/feed" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 09 Jan 2015 19:40:47 +0000</pubDate>
-    <lastBuildDate>Fri, 09 Jan 2015 19:40:47 +0000</lastBuildDate>
+    <pubDate>Fri, 09 Jan 2015 23:10:19 +0000</pubDate>
+    <lastBuildDate>Fri, 09 Jan 2015 23:10:19 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>February 2015 Meeting - Christos Matskas</title>
+        <description>&lt;p&gt;Aberdeen Developers are pleased to present a talk by Christos Matskas, this is a joint event with BCS Aberdeen Branch on Thursday 19th February 2015 at the Robert Gordon University.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Cross platform mobile development with the power of Xamarin&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Are you a .NET developer? Do you develop for mobile platforms or would you like to get started but you don’t know how or where? Then you should join Christos Matskas as he shows you how to get off the ground with mobile application development using the power of Xamarin and explains how to build powerful, full-featured, native applications that can run across all platforms. You will learn how to speed up your development cycle, reduce overhead costs and create “the one codebase to rule them all”.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://adnuguk-feb2015.eventbrite.com/?aff=affiliate1&quot;&gt;&lt;img src=&quot;https://www.eventbrite.com/custombutton?eid=11987778769&quot; alt=&quot;Eventbrite - Aberdeen Developers .Net User Group - February 2015 Meeting&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Speaker Bio&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Christos Matskas has been working as a software developer professionally for the last 11 years. He is the founder and CEO of SoftwareLounge, a software consultancy firm, and co-founder of TowzieTyke an apps development powerhouse. His portfolio includes collaborations with some great companies such as MarkIT, Lockheed Martin and Barclays. Over the years he had the opportunity to work on a numerous exciting projects from mobile apps to data crunching back-end solutions. His blog, &lt;a href=&quot;https://cmatskas.com&quot;&gt;https://cmatskas.com&lt;/a&gt;, is full with useful tutorials, tips and tricks and reviews about software development and tools. Christos also contributes to Open Source and is a regular speaker at conferences and user groups talking about .NET, the Cloud and software development in general.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 09 Jan 2015 00:00:00 +0000</pubDate>
+        <link>http://www.aberdeendevelopers.co.uk/february-2015-meeting-christos-matskas</link>
+        <guid isPermaLink="true">http://www.aberdeendevelopers.co.uk/february-2015-meeting-christos-matskas</guid>
+        
+        
+      </item>
     
       <item>
         <title>Microsoft Exams</title>
@@ -344,45 +367,6 @@
         <category>blog</category>
         
         <category>events</category>
-        
-      </item>
-    
-      <item>
-        <title>Job Vacancy - Web and Applications Developer for RGU - Aberdeen</title>
-        <description>&lt;p&gt;Aberdeen Developers have been asked to promote the following job vacancy.  If you are interested in the position, or would like some more information, then please use the following link:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www4.rgu.ac.uk/jobs/disp_details_sum.cfm?RJ_ID=41294&quot;&gt;http://www4.rgu.ac.uk/jobs/disp_details_sum.cfm?RJ_ID=41294&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Web and Applications Developer&lt;/strong&gt; (Ref C41294)
-IT Services Department&lt;/p&gt;
-
-&lt;p&gt;We require a Web and Application Developer with experience in the overall architecture, design and support of online applications and a passion for learning and working with leading technologies.&lt;/p&gt;
-
-&lt;p&gt;You will be working as part of the in house development team and will have responsibility for the day to day support, administration and development of a wide variety of services and applications.
-You&amp;rsquo;ll need significant knowledge and experience of developing applications for the web including understanding of Object Oriented coding concepts and techniques.&lt;/p&gt;
-
-&lt;p&gt;We also expect you to have a strong understanding of one or more leading web application technologies such as PHP, ASP.NET, C# or ColdFusion, and associated technologies such as HTML, CSS, Javascript and XML.&lt;/p&gt;
-
-&lt;p&gt;We’re in the business of changing lives – developing students into highly employable graduates. Be part of their amazing journey by joining our 1500 colleagues who already enjoy the vibrant community, richly rewarding work, competitive pay and lifestyle afforded by the generous 38 days annual holiday allowance (including statutory holidays).&lt;/p&gt;
-
-&lt;p&gt;There are a restricted number of certificates of sponsorship available in the UK and there is no guarantee that the University would be able to obtain one should the successful candidate require one.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Salary: £35085 - £37681 including market supplement&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Position Type: Full-time , Permanent&lt;/p&gt;
-
-&lt;p&gt;Relocation assistance will be available for this post&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Closing Date: 13 April 2014&lt;/strong&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 25 Mar 2014 20:56:03 +0000</pubDate>
-        <link>http://www.aberdeendevelopers.co.uk/job-vacancy-web-applications-developer-rgu-aberdeen</link>
-        <guid isPermaLink="true">http://www.aberdeendevelopers.co.uk/job-vacancy-web-applications-developer-rgu-aberdeen</guid>
-        
-        
-        <category>blog</category>
-        
-        <category>job vacancy</category>
         
       </item>
     

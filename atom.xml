@@ -4,7 +4,7 @@
   <title><![CDATA[Aberdeen Developers .Net User Group]]></title>
   <link href="http://www.aberdeendevelopers.co.uk/atom.xml" rel="self"/>
   <link href="http://www.aberdeendevelopers.co.uk/"/>
-  <updated>2015-01-09T19:40:47+00:00</updated>
+  <updated>2015-01-09T23:10:19+00:00</updated>
   <id>http://www.aberdeendevelopers.co.uk/</id>
   <author>
     <name><![CDATA[gep13]]></name>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[February 2015 Meeting - Christos Matskas]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/february-2015-meeting-christos-matskas"/>
+    <updated>2015-01-09T00:00:00+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/february-2015-meeting-christos-matskas</id>
+    <content type="html"><![CDATA[<p>Aberdeen Developers are pleased to present a talk by Christos Matskas, this is a joint event with BCS Aberdeen Branch on Thursday 19th February 2015 at the Robert Gordon University.</p>
+
+<hr />
+
+<p><strong>Cross platform mobile development with the power of Xamarin</strong></p>
+
+<p>Are you a .NET developer? Do you develop for mobile platforms or would you like to get started but you don’t know how or where? Then you should join Christos Matskas as he shows you how to get off the ground with mobile application development using the power of Xamarin and explains how to build powerful, full-featured, native applications that can run across all platforms. You will learn how to speed up your development cycle, reduce overhead costs and create “the one codebase to rule them all”.</p>
+
+<p><a href="http://adnuguk-feb2015.eventbrite.com/?aff=affiliate1"><img src="https://www.eventbrite.com/custombutton?eid=11987778769" alt="Eventbrite - Aberdeen Developers .Net User Group - February 2015 Meeting" /></a></p>
+
+<p><strong>Speaker Bio</strong></p>
+
+<p>Christos Matskas has been working as a software developer professionally for the last 11 years. He is the founder and CEO of SoftwareLounge, a software consultancy firm, and co-founder of TowzieTyke an apps development powerhouse. His portfolio includes collaborations with some great companies such as MarkIT, Lockheed Martin and Barclays. Over the years he had the opportunity to work on a numerous exciting projects from mobile apps to data crunching back-end solutions. His blog, <a href="https://cmatskas.com">https://cmatskas.com</a>, is full with useful tutorials, tips and tricks and reviews about software development and tools. Christos also contributes to Open Source and is a regular speaker at conferences and user groups talking about .NET, the Cloud and software development in general.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Microsoft Exams]]></title>
@@ -551,57 +572,6 @@ Directions: <a href="https://maps.google.co.uk/maps?q=ab10+7qq&amp;hl=en&amp;sl
 <p>[wpdm_file id=5]</p>
 
 <p>[wpdm_file id=6]</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[October 2013 Meeting - Kendall Miller Talks About Agile]]></title>
-    <link href="http://www.aberdeendevelopers.co.uk/october-2013-meeting-kendall-miller-talks-agile"/>
-    <updated>2013-09-30T20:20:04+00:00</updated>
-    <id>http://www.aberdeendevelopers.co.uk/october-2013-meeting-kendall-miller-talks-agile</id>
-    <content type="html"><![CDATA[<p>Aberdeen Developers are pleased to present a talk by Kendall Miller on Thursday 17th October 2013 at the Robert Gordon University.</p>
-
-<h2>Introducing Agile to the Enterprise</h2>
-
-<p><strong>Still Living in a Waterfall World? You&rsquo;re Not Alone!</strong> Convincing your company to use an Agile development approach for application development can be surprisingly difficult. While the initial benefits excite everyone, that enthusiasm often disappears when the true trade-offs of Agile become apparent. You may even find that many members of the development team aren&rsquo;t willing to give up their waterfall patterns of development. How do you convince the business that good software doesn&rsquo;t begin and end with a giant Microsoft Project Plan? In this session we&rsquo;ll discuss how you can get your company moving down the path to more effective software development and bridge the gap between traditional practices and the current software development landscape</p>
-
-<ul>
-<li><p><strong>How to discuss Agile with the Business:</strong> It&rsquo;s their money, you need to make sure they&rsquo;re on board with how you&rsquo;re going to spend it.</p></li>
-<li><p><strong>Convincing the Team to Work Differently:</strong> Without the right patterns of development within your team, your first Agile project may be the last for a while.</p></li>
-<li><p><strong>Useful Compromises:</strong> When you can&rsquo;t change the world overnight, how do you at least get the ship turning in the right direction?</p></li>
-</ul>
-
-
-<p>Presented by one of the founders of Gibraltar Software, we&rsquo;ll discuss how we&rsquo;ve worked with many enterprise customers to marry agile practices into traditional teams. Sometimes successful sometimes a brilliant failure - come and learn from our mistakes so you can produce better results and have happier customers and team members. We won&rsquo;t be focusing on a specific technology or Agile approach but rather how you get businesses to accept giving up the Gantt chart and learn to love software development.</p>
-
-<p><a href="http://adnuguk-oct2013.eventbrite.co.uk/?ebtv=C"><img src="http://www.eventbrite.com/registerbutton?eid=2581657808" alt="Register for Aberdeen Developers .Net User Group - October 2013 Meeting in Aberdeen, Aberdeen City on Eventbrite" /></a></p>
-
-<h2>Speaker Bio</h2>
-
-<p>Kendall Miller is one of the founding partners of Gibraltar Software, an Independent Software Vendor (ISV) that develops &amp; markets commercial applications for .NET developers.</p>
-
-<p>Introduced commercially in 2009, Loupe is an application logging &amp; monitoring platform that is currently used by customers around the world from individual consultants through Fortune 100 companies and governments.</p>
-
-<p>Before starting Gibraltar Software, Kendall worked for multiple startups leading their technology development from beginning through profitability. In each case he&rsquo;s focused on translating enterprise-level performance and capabilities down to smaller companies. Kendall has a B.S in Computer Engineering from the University of Illinois, Urbana-Champaign.</p>
-
-<h2>Agenda – Thursday, 17th October 2013</h2>
-
-<ul>
-<li><p>1800 - 1815: Arrival and registration</p></li>
-<li><p>1815 - 1820: Introduction</p></li>
-<li><p>1820 - 1920: Introducing Agile to the Enterprise</p></li>
-<li><p>1920 onwards: Questions and drinks at the bar</p></li>
-</ul>
-
-
-<h2>Prize Draw</h2>
-
-<p>All attendees will be entered into a prize draw, with the chance of winning one of the prizes listed <a href="http://www.gep13.co.uk/blog/?p=107">here</a>.</p>
-
-<h2>Location and Directions</h2>
-
-<p>Venue: Room H230, Faculty of Health &amp; Social Care, Garthdee Campus, Aberdeen, Aberdeen City AB10 7QG
-Directions: <a href="https://maps.google.co.uk/maps?q=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,+Aberdeen,+Aberdeen+City+AB10+7QG,+GB&amp;hl=en&amp;ll=57.119317,-2.136133&amp;spn=0.004165,0.012413&amp;sll=57.746995,-4.687341&amp;sspn=8.392957,25.422363&amp;hq=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,&amp;hnear=AB10+7QG,+United+Kingdom&amp;t=m&amp;z=17&amp;iwloc=A">Map showing Garthdee Campus</a></p>
 ]]></content>
   </entry>
   
