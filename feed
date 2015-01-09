@@ -5,9 +5,9 @@
     <description>Website for the meetings and events hosted by the Aberdeen Developers .Net User Group</description>
     <link>http://www.aberdeendevelopers.co.uk/</link>
     <atom:link href="http://www.aberdeendevelopers.co.uk/feed" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 01 Nov 2014 12:07:35 +0000</pubDate>
-    <lastBuildDate>Sat, 01 Nov 2014 12:07:35 +0000</lastBuildDate>
-    <generator>Jekyll v2.4.0</generator>
+    <pubDate>Fri, 09 Jan 2015 19:40:47 +0000</pubDate>
+    <lastBuildDate>Fri, 09 Jan 2015 19:40:47 +0000</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
     
       <item>
         <title>Microsoft Exams</title>
