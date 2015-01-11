@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Blog | Aberdeen Developers .Net User Group]]></title>
   <link href="http://www.aberdeendevelopers.co.uk/blog/categories/blog/atom.xml" rel="self"/>
   <link href="http://www.aberdeendevelopers.co.uk/"/>
-  <updated>2015-01-09T23:27:51+00:00</updated>
+  <updated>2015-01-11T19:06:06+00:00</updated>
   <id>http://www.aberdeendevelopers.co.uk/</id>
   <author>
     <name><![CDATA[gep13]]></name>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[February 2015 Meeting - Christos Matskas]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/february-2015-meeting-christos-matskas"/>
+    <updated>2015-01-09T00:00:00+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/february-2015-meeting-christos-matskas</id>
+    <content type="html"><![CDATA[<p>Aberdeen Developers are pleased to present a talk by Christos Matskas, this is a joint event with BCS Aberdeen Branch on Thursday 19th February 2015 at the Robert Gordon University.</p>
+
+<hr />
+
+<p><strong>Cross platform mobile development with the power of Xamarin</strong></p>
+
+<p>Are you a .NET developer? Do you develop for mobile platforms or would you like to get started but you don’t know how or where? Then you should join Christos Matskas as he shows you how to get off the ground with mobile application development using the power of Xamarin and explains how to build powerful, full-featured, native applications that can run across all platforms. You will learn how to speed up your development cycle, reduce overhead costs and create “the one codebase to rule them all”.</p>
+
+<p><a href="http://adnuguk-feb2015.eventbrite.com/?aff=blog"><img src="https://www.eventbrite.com/custombutton?eid=11987778769" alt="Eventbrite - Aberdeen Developers .Net User Group - February 2015 Meeting" /></a></p>
+
+<p><strong>Speaker Bio</strong></p>
+
+<p>Christos Matskas has been working as a software developer professionally for the last 11 years. He is the founder and CEO of SoftwareLounge, a software consultancy firm, and co-founder of TowzieTyke an apps development powerhouse. His portfolio includes collaborations with some great companies such as MarkIT, Lockheed Martin and Barclays. Over the years he had the opportunity to work on a numerous exciting projects from mobile apps to data crunching back-end solutions. His blog, <a href="https://cmatskas.com">https://cmatskas.com</a>, is full with useful tutorials, tips and tricks and reviews about software development and tools. Christos also contributes to Open Source and is a regular speaker at conferences and user groups talking about .NET, the Cloud and software development in general.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Job Vacancy - Software Developer - SPD]]></title>
@@ -127,64 +148,6 @@
 <li><p>1815 - 1820: Introduction</p></li>
 <li><p>1820 - 1920: Getting started with Web API 2</p></li>
 <li><p>1920 onwards: Questions and drinks at the bar</p></li>
-</ul>
-
-
-<p>Prize Draw</p>
-
-<p>All attendees will be entered into a prize draw, with the chance of winning one of the prizes listed <a href="http://www.gep13.co.uk/blog/?p=107">here</a>.</p>
-
-<p>Location and Directions</p>
-
-<p>Venue: Riverside East Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7QQ, GB</p>
-
-<p>Directions: <a href="https://maps.google.co.uk/maps?q=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,+Aberdeen,+Aberdeen+City+AB10+7QG,+GB&amp;hl=en&amp;ll=57.119317,-2.136133&amp;spn=0.004165,0.012413&amp;sll=57.746995,-4.687341&amp;sspn=8.392957,25.422363&amp;hq=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,&amp;hnear=AB10+7QG,+United+Kingdom&amp;t=m&amp;z=17&amp;iwloc=A">Map showing Garthdee Campus</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[July 2014 Meeting - Nik Molnar and Anthony Van Der Hoorn]]></title>
-    <link href="http://www.aberdeendevelopers.co.uk/july-2014-meeting-nik-molnar-anthony-van-der-hoorn"/>
-    <updated>2014-06-21T19:26:16+00:00</updated>
-    <id>http://www.aberdeendevelopers.co.uk/july-2014-meeting-nik-molnar-anthony-van-der-hoorn</id>
-    <content type="html"><![CDATA[<p>Aberdeen Developers are pleased to present a talks by Nik Molnar and Anthony van der Hoorn on Wednesday 30th July 2014 at the Robert Gordon University.</p>
-
-<hr />
-
-<p>Modern Web Development with a Glimpse into ASP.NET</p>
-
-<p>With the state of diagnostics on the web being what it is, we currently have to do a job that is much harder than it should be. Too often, the tools we are provided with only show a small part of the picture, leaving us to guess what else might be happening behind the scenes. Glimpse is an open source project that aims to change the way we think about diagnostics and the frameworks we interact with.</p>
-
-<p>After releasing Glimpse at Mix 11, Glimpse has become a tool that is used daily by tens of thousands of developers around the world. In this session, youíll learn how to use Glimpse to reveal a complete picture of what is happening within your ASP.NET MVC and WebForms sites, discover what tools are included out of the box, and see how you can easily extend it to suit your needs.</p>
-
-<p>Azure Web Sites Secrets, Exposed</p>
-
-<p>Microsoft’s premier cloud solution for custom web applications, Windows Azure Web Sites, has brought the DevOps movement to millions of developers and revolutionized the way that servers are provisioned and applications deployed.</p>
-
-<p>Included with all the headline functionality are many smaller, less-known or undocumented features that serve to greatly improve developer productivity. Join Microsoft MVP and veteran web developer Nik Molnar for a whirlwind tour of these secret features and enhance your cloud development experience.</p>
-
-<p><a href="https://www.eventbrite.com/e/aberdeen-developers-net-user-group-july-2014-meeting-tickets-11987774757?ref=ebtnebregn"><img src="https://www.eventbrite.com/custombutton?eid=11987774757" alt="Eventbrite - Aberdeen Developers .Net User Group - July 2014 Meeting" /></a></p>
-
-<p>Nik Molnar</p>
-
-<p>Nik Molnar is a New Yorker, Microsoft MVP, ASP Insider and co-founder of Glimpse, an open source diagnostics and debugging tool. Originally from Homestead Florida, Nik specializes in web development, web API&rsquo;s and community management. In his spare time, Nik can be found cooking up a storm in the kitchen, hanging with his wife, speaking at conferences, and working on other open source projects.</p>
-
-<p> </p>
-
-<p>Anthony van der Hoorn</p>
-
-<p>Anthony van der Hoorn is a co–founder of Glimpse, and a regular speaker on such topics as Open Source, Web Practices and Diagnostics for the Web. Anthony has specializing in web and front end development with technologies such as JavaScript, CSS, and HTML. He’s bounced between living and working New York City and his home town of Brisbane, Australia – he’s back in the USA at the moment. Anthony previously worked in the Financial Services sector developing high frequency trading systems and, in his spare time, he can be found out and about taking photos, speaking at conferences, and working on other Open Source projects.</p>
-
-<hr />
-
-<p>Agenda - Wednesday, 30th July 2014</p>
-
-<ul>
-<li><p>1800 - 1815: Arrival and registration</p></li>
-<li><p>1815 - 1820: Introduction</p></li>
-<li><p>1820 - 1900: Modern Web Diagnostics with a Glimpse into ASP.NET</p></li>
-<li><p>1920 - 2000: Azure Web Sites Secrets, Exposed</p></li>
-<li><p>2000 - onwards: Questions and drinks at the bar</p></li>
 </ul>
 
 
