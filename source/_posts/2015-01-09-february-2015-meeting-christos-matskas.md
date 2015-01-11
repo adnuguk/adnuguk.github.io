@@ -7,6 +7,9 @@ keywords: Keywords
 description: Description
 comments: true
 sharing: true
+categories: 
+  - Blog
+  - Events
 ---
 
 Aberdeen Developers are pleased to present a talk by Christos Matskas, this is a joint event with BCS Aberdeen Branch on Thursday 19th February 2015 at the Robert Gordon University.
