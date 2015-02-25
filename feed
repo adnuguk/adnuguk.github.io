@@ -5,9 +5,28 @@
     <description>Website for the meetings and events hosted by the Aberdeen Developers .Net User Group</description>
     <link>http://www.aberdeendevelopers.co.uk/</link>
     <atom:link href="http://www.aberdeendevelopers.co.uk/feed" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 11 Jan 2015 19:06:06 +0000</pubDate>
-    <lastBuildDate>Sun, 11 Jan 2015 19:06:06 +0000</lastBuildDate>
+    <pubDate>Wed, 25 Feb 2015 15:47:14 +0000</pubDate>
+    <lastBuildDate>Wed, 25 Feb 2015 15:47:14 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>February Meeting - Christos Matskas - Completed</title>
+        <description>&lt;p&gt;Thanks once again to Christos for making the journey up to Aberdeen to deliver his awesome talk on Cross platform mobile development with the power of Xamarin! Christos has provided a in depth review his trip along with his slides and the videos captured by himself and BCS Aberdeen, you can find his blog post &lt;a href=&quot;https://cmatskas.com/cross-platform-application-development-with-xamarin/&quot;&gt;here&lt;/a&gt;.  If you want to get in touch with Christos, you can use his twitter account &lt;a href=&quot;https://twitter.com/christosmatskas&quot;&gt;@christosmatskas&lt;/a&gt; and make sure you follow him for up-to-date news, articles and tips..&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt; Prizes &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;For everyone who was lucky enough to win a prize from one of our amazing &lt;a href=&quot;http://www.aberdeendevelopers.co.uk/sponsors/&quot;&gt;sponsors&lt;/a&gt;, I have requested all of the prizes.  If you haven&amp;rsquo;t heard anything, please get in touch, and we will try to sort this out.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 25 Feb 2015 00:00:00 +0000</pubDate>
+        <link>http://www.aberdeendevelopers.co.uk/february-meeting-christos-matskas-completed</link>
+        <guid isPermaLink="true">http://www.aberdeendevelopers.co.uk/february-meeting-christos-matskas-completed</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>event material</category>
+        
+      </item>
     
       <item>
         <title>February 2015 Meeting - Christos Matskas</title>
@@ -302,70 +321,6 @@
         <pubDate>Sat, 21 Jun 2014 19:42:33 +0000</pubDate>
         <link>http://www.aberdeendevelopers.co.uk/august-2014-meeting-shawn-wildermuth</link>
         <guid isPermaLink="true">http://www.aberdeendevelopers.co.uk/august-2014-meeting-shawn-wildermuth</guid>
-        
-        
-        <category>blog</category>
-        
-        <category>events</category>
-        
-      </item>
-    
-      <item>
-        <title>July 2014 Meeting - Nik Molnar and Anthony van der Hoorn</title>
-        <description>&lt;p&gt;Aberdeen Developers are pleased to present a talks by Nik Molnar and Anthony van der Hoorn on Wednesday 30th July 2014 at the Robert Gordon University.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Modern Web Development with a Glimpse into ASP.NET&lt;/p&gt;
-
-&lt;p&gt;With the state of diagnostics on the web being what it is, we currently have to do a job that is much harder than it should be. Too often, the tools we are provided with only show a small part of the picture, leaving us to guess what else might be happening behind the scenes. Glimpse is an open source project that aims to change the way we think about diagnostics and the frameworks we interact with.&lt;/p&gt;
-
-&lt;p&gt;After releasing Glimpse at Mix 11, Glimpse has become a tool that is used daily by tens of thousands of developers around the world. In this session, youíll learn how to use Glimpse to reveal a complete picture of what is happening within your ASP.NET MVC and WebForms sites, discover what tools are included out of the box, and see how you can easily extend it to suit your needs.&lt;/p&gt;
-
-&lt;p&gt;Azure Web Sites Secrets, Exposed&lt;/p&gt;
-
-&lt;p&gt;Microsoft’s premier cloud solution for custom web applications, Windows Azure Web Sites, has brought the DevOps movement to millions of developers and revolutionized the way that servers are provisioned and applications deployed.&lt;/p&gt;
-
-&lt;p&gt;Included with all the headline functionality are many smaller, less-known or undocumented features that serve to greatly improve developer productivity. Join Microsoft MVP and veteran web developer Nik Molnar for a whirlwind tour of these secret features and enhance your cloud development experience.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.eventbrite.com/e/aberdeen-developers-net-user-group-july-2014-meeting-tickets-11987774757?ref=ebtnebregn&quot;&gt;&lt;img src=&quot;https://www.eventbrite.com/custombutton?eid=11987774757&quot; alt=&quot;Eventbrite - Aberdeen Developers .Net User Group - July 2014 Meeting&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Nik Molnar&lt;/p&gt;
-
-&lt;p&gt;Nik Molnar is a New Yorker, Microsoft MVP, ASP Insider and co-founder of Glimpse, an open source diagnostics and debugging tool. Originally from Homestead Florida, Nik specializes in web development, web API&amp;rsquo;s and community management. In his spare time, Nik can be found cooking up a storm in the kitchen, hanging with his wife, speaking at conferences, and working on other open source projects.&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;p&gt;Anthony van der Hoorn&lt;/p&gt;
-
-&lt;p&gt;Anthony van der Hoorn is a co–founder of Glimpse, and a regular speaker on such topics as Open Source, Web Practices and Diagnostics for the Web. Anthony has specializing in web and front end development with technologies such as JavaScript, CSS, and HTML. He’s bounced between living and working New York City and his home town of Brisbane, Australia – he’s back in the USA at the moment. Anthony previously worked in the Financial Services sector developing high frequency trading systems and, in his spare time, he can be found out and about taking photos, speaking at conferences, and working on other Open Source projects.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Agenda - Wednesday, 30th July 2014&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;1800 - 1815: Arrival and registration&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;1815 - 1820: Introduction&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;1820 - 1900: Modern Web Diagnostics with a Glimpse into ASP.NET&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;1920 - 2000: Azure Web Sites Secrets, Exposed&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;2000 - onwards: Questions and drinks at the bar&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-
-&lt;p&gt;Prize Draw&lt;/p&gt;
-
-&lt;p&gt;All attendees will be entered into a prize draw, with the chance of winning one of the prizes listed &lt;a href=&quot;http://www.gep13.co.uk/blog/?p=107&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Location and Directions&lt;/p&gt;
-
-&lt;p&gt;Venue: Riverside East Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7QQ, GB&lt;/p&gt;
-
-&lt;p&gt;Directions: &lt;a href=&quot;https://maps.google.co.uk/maps?q=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,+Aberdeen,+Aberdeen+City+AB10+7QG,+GB&amp;amp;hl=en&amp;amp;ll=57.119317,-2.136133&amp;amp;spn=0.004165,0.012413&amp;amp;sll=57.746995,-4.687341&amp;amp;sspn=8.392957,25.422363&amp;amp;hq=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,&amp;amp;hnear=AB10+7QG,+United+Kingdom&amp;amp;t=m&amp;amp;z=17&amp;amp;iwloc=A&quot;&gt;Map showing Garthdee Campus&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 21 Jun 2014 19:26:16 +0000</pubDate>
-        <link>http://www.aberdeendevelopers.co.uk/july-2014-meeting-nik-molnar-anthony-van-der-hoorn</link>
-        <guid isPermaLink="true">http://www.aberdeendevelopers.co.uk/july-2014-meeting-nik-molnar-anthony-van-der-hoorn</guid>
         
         
         <category>blog</category>

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Event Material | Aberdeen Developers .Net User Group]]></title>
   <link href="http://www.aberdeendevelopers.co.uk/blog/categories/event-material/atom.xml" rel="self"/>
   <link href="http://www.aberdeendevelopers.co.uk/"/>
-  <updated>2015-01-11T19:06:06+00:00</updated>
+  <updated>2015-02-25T15:47:14+00:00</updated>
   <id>http://www.aberdeendevelopers.co.uk/</id>
   <author>
     <name><![CDATA[gep13]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[February Meeting - Christos Matskas - Completed]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/february-meeting-christos-matskas-completed"/>
+    <updated>2015-02-25T00:00:00+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/february-meeting-christos-matskas-completed</id>
+    <content type="html"><![CDATA[<p>Thanks once again to Christos for making the journey up to Aberdeen to deliver his awesome talk on Cross platform mobile development with the power of Xamarin! Christos has provided a in depth review his trip along with his slides and the videos captured by himself and BCS Aberdeen, you can find his blog post <a href="https://cmatskas.com/cross-platform-application-development-with-xamarin/">here</a>.  If you want to get in touch with Christos, you can use his twitter account <a href="https://twitter.com/christosmatskas">@christosmatskas</a> and make sure you follow him for up-to-date news, articles and tips..</p>
+
+<p><strong> Prizes </strong></p>
+
+<p>For everyone who was lucky enough to win a prize from one of our amazing <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>, I have requested all of the prizes.  If you haven&rsquo;t heard anything, please get in touch, and we will try to sort this out.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[August 2014 Meeting - Shawn Wildermuth - Completed]]></title>
@@ -85,23 +98,6 @@
 
 
 <p> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/gibraltarsoftware/introducing-agile-to-the-enterprise" title="Introducing Agile to the Enterprise" target="_blank">Introducing Agile to the Enterprise</a> </strong> from <strong><a href="http://www.slideshare.net/gibraltarsoftware" target="_blank">Gibraltar Software</a></strong> </div></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[September 2013 Meeting - Completed]]></title>
-    <link href="http://www.aberdeendevelopers.co.uk/september-2013-meeting-completed"/>
-    <updated>2013-10-05T19:57:36+00:00</updated>
-    <id>http://www.aberdeendevelopers.co.uk/september-2013-meeting-completed</id>
-    <content type="html"><![CDATA[<h1>Slides and Code from Prism Talk</h1>
-
-<p>On Thursday 19th September 2013, Aberdeen Developers .Net User Group welcomed Martin Taylor for a talk entitled &ldquo;Patterns and Practices: Prism&rdquo;.  Full details of the event can be found <a href="http://adnuguk.me/17Ss2U6">here</a>.</p>
-
-<p>If you were not able to attend you can get the slides and the code from this talk in the download links for this post.</p>
-
-<p>[wpdm_file id=7]</p>
-
-<p>[wpdm_file id=8]</p>
 ]]></content>
   </entry>
   
