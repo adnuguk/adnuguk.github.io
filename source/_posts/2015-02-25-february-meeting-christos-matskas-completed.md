@@ -7,8 +7,9 @@ keywords: Keywords
 description: "February Meeting - Christos Matskas - Completed"
 comments: true
 sharing: true
-tags: 
-  - blog
+tags: ""
+categories: 
+  - Blog
   - event material
 ---
 
