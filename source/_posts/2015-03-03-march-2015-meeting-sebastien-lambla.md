@@ -18,7 +18,7 @@ Aberdeen Developers are pleased to present a talk by Sebastien Lambla, on Thursd
 
 **OWIN, Why, What and How?**
 
-OWIN is a set of open interfaces for web components on .net. Much has changed since the early days of that specification. What is OWNI? What does componentising mean for building web application? Expect to see code, slides, unicorns, Funcs and discussions about how to build your components now and be ready for asp.net vNext for free!
+OWIN is a set of open interfaces for web components on .net. Much has changed since the early days of that specification. What is OWIN? What does componentising mean for building web application? Expect to see code, slides, unicorns, Funcs and discussions about how to build your components now and be ready for asp.net vNext for free!
 
 [![Eventbrite - Aberdeen Developers .Net User Group - March 2015 Meeting](https://www.eventbrite.com/custombutton?eid=11987778769)](http://adnuguk-march-2015.eventbrite.com/?aff=blog)
 
