@@ -5,9 +5,53 @@
     <description>Website for the meetings and events hosted by the Aberdeen Developers .Net User Group</description>
     <link>http://www.aberdeendevelopers.co.uk/</link>
     <atom:link href="http://www.aberdeendevelopers.co.uk/feed" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 25 Feb 2015 15:47:14 +0000</pubDate>
-    <lastBuildDate>Wed, 25 Feb 2015 15:47:14 +0000</lastBuildDate>
+    <pubDate>Tue, 03 Mar 2015 09:22:36 +0000</pubDate>
+    <lastBuildDate>Tue, 03 Mar 2015 09:22:36 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>March 2015 Meeting - Sebastien Lambla</title>
+        <description>&lt;p&gt;Aberdeen Developers are pleased to present a talk by Sebastien Lambla, on Thursday 12th March 2015 at the Robert Gordon University.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;OWIN, Why, What and How?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;OWIN is a set of open interfaces for web components on .net. Much has changed since the early days of that specification. What is OWNI? What does componentising mean for building web application? Expect to see code, slides, unicorns, Funcs and discussions about how to build your components now and be ready for asp.net vNext for free!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://adnuguk-march-2015.eventbrite.com/?aff=blog&quot;&gt;&lt;img src=&quot;https://www.eventbrite.com/custombutton?eid=11987778769&quot; alt=&quot;Eventbrite - Aberdeen Developers .Net User Group - March 2015 Meeting&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Speaker Bio&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Sebastien Lambla has been involved in software development since receiving his first web browser, back in the days of Netsape Navigator 1.2. After a few years of hacking on javascript, he turned his attention to the .net platform, on which he would spend the next few years building software in many companies. From 2006, Sebastien has been running Caffeine IT, a consultancy helping clients from all over Europe implement first-grade and innovative solutions. Keen Open-Source promoter, Sebastien has created multiple high-profile open-source projects that are in use in many Fortune 500 companies, including OpenRasta, at a time the most popular resource-oriented framework on .net. Long-time advocate of the ReST architectural style and resource-oriented computing, Sebastien has delivered over the years new platforms leveraging the architecture of the web, from small independents to Fortune 500s.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Agenda - Thursday, 12th March 2015 &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;1800 - 1825: Arrival and registration
+1825 - 1830: Introduction
+1830 - 1930: OWIN, Why, What and How?
+1930 Onwards: Questions &amp;amp; Answers followed by Prize Draw&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Location and Directions&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Venue: Room N311, Riverside East Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7QQ, GB&lt;/p&gt;
+
+&lt;p&gt;Directions: &lt;a href=&quot;https://maps.google.co.uk/maps?q=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,+Aberdeen,+Aberdeen+City+AB10+7QG,+GB&amp;amp;hl=en&amp;amp;ll=57.119317,-2.136133&amp;amp;spn=0.004165,0.012413&amp;amp;sll=57.746995,-4.687341&amp;amp;sspn=8.392957,25.422363&amp;amp;hq=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,&amp;amp;hnear=AB10+7QG,+United+Kingdom&amp;amp;t=m&amp;amp;z=17&amp;amp;iwloc=A&quot;&gt;Map showing Garthdee Campus&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Prize Draw&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic &lt;a href=&quot;http://www.aberdeendevelopers.co.uk/sponsors/&quot;&gt;sponsors&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 03 Mar 2015 00:00:00 +0000</pubDate>
+        <link>http://www.aberdeendevelopers.co.uk/march-2015-meeting-sebastien-lambla</link>
+        <guid isPermaLink="true">http://www.aberdeendevelopers.co.uk/march-2015-meeting-sebastien-lambla</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>events</category>
+        
+      </item>
     
       <item>
         <title>February Meeting - Christos Matskas - Completed</title>
@@ -277,55 +321,6 @@
         <category>event feedback</category>
         
         <category>event material</category>
-        
-      </item>
-    
-      <item>
-        <title>August 2014 Meeting - Shawn Wildermuth</title>
-        <description>&lt;p&gt;Aberdeen Developers are pleased to present a talk by Shawn Wildermuth on Thursday 7th August 2014 at the Robert Gordon University.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Getting started with Web API 2&lt;/p&gt;
-
-&lt;p&gt;Are you getting ready to build an API that works over HTTP? ASP.NET Web API 2 is probably your best way to do it. In this talk, Shawn Wildermuth can show you how to create your own API!nit or no unit test?&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.eventbrite.com/e/aberdeen-developers-net-user-group-august-2014-meeting-tickets-11987778769?ref=ebtnebregn&quot;&gt;&lt;img src=&quot;https://www.eventbrite.com/custombutton?eid=11987778769&quot; alt=&quot;Eventbrite - Aberdeen Developers .Net User Group - August 2014 Meeting&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Speaker Bio&lt;/p&gt;
-
-&lt;p&gt;Shawn Wildermuth is an eight-time Microsoft MVP (Data), member of the INETA Speaker&amp;rsquo;s Bureau and an author of six books and dozens of articles on .NET. Shawn is involved with Microsoft as a Silverlight Insider, Data Insider and Connected Technology Advisors (WCF/Oslo/WF). He has been seen speaking at a variety of international conferences including TechEd, Oredev, SDC, VSLive, WinDev, MIX, DevTeach and DevReach. He is currently teaching workshops around the country through his training company AgiliTrain (&lt;a href=&quot;http://agilitrain.com&quot;&gt;http://agilitrain.com&lt;/a&gt;). He can also be reached via his blog at &lt;a href=&quot;http://wildermuth.com/&quot;&gt;http://wildermuth.com&lt;/a&gt;.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Agenda - Thursday, 7th August 2014&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;1800 - 1815: Arrival and registration&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;1815 - 1820: Introduction&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;1820 - 1920: Getting started with Web API 2&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;1920 onwards: Questions and drinks at the bar&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-
-&lt;p&gt;Prize Draw&lt;/p&gt;
-
-&lt;p&gt;All attendees will be entered into a prize draw, with the chance of winning one of the prizes listed &lt;a href=&quot;http://www.gep13.co.uk/blog/?p=107&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Location and Directions&lt;/p&gt;
-
-&lt;p&gt;Venue: Riverside East Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7QQ, GB&lt;/p&gt;
-
-&lt;p&gt;Directions: &lt;a href=&quot;https://maps.google.co.uk/maps?q=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,+Aberdeen,+Aberdeen+City+AB10+7QG,+GB&amp;amp;hl=en&amp;amp;ll=57.119317,-2.136133&amp;amp;spn=0.004165,0.012413&amp;amp;sll=57.746995,-4.687341&amp;amp;sspn=8.392957,25.422363&amp;amp;hq=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,&amp;amp;hnear=AB10+7QG,+United+Kingdom&amp;amp;t=m&amp;amp;z=17&amp;amp;iwloc=A&quot;&gt;Map showing Garthdee Campus&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 21 Jun 2014 19:42:33 +0000</pubDate>
-        <link>http://www.aberdeendevelopers.co.uk/august-2014-meeting-shawn-wildermuth</link>
-        <guid isPermaLink="true">http://www.aberdeendevelopers.co.uk/august-2014-meeting-shawn-wildermuth</guid>
-        
-        
-        <category>blog</category>
-        
-        <category>events</category>
         
       </item>
     

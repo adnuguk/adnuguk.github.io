@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Events | Aberdeen Developers .Net User Group]]></title>
   <link href="http://www.aberdeendevelopers.co.uk/blog/categories/events/atom.xml" rel="self"/>
   <link href="http://www.aberdeendevelopers.co.uk/"/>
-  <updated>2015-02-25T15:47:14+00:00</updated>
+  <updated>2015-03-03T09:22:36+00:00</updated>
   <id>http://www.aberdeendevelopers.co.uk/</id>
   <author>
     <name><![CDATA[gep13]]></name>
@@ -12,6 +12,44 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[March 2015 Meeting - Sebastien Lambla]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/march-2015-meeting-sebastien-lambla"/>
+    <updated>2015-03-03T00:00:00+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/march-2015-meeting-sebastien-lambla</id>
+    <content type="html"><![CDATA[<p>Aberdeen Developers are pleased to present a talk by Sebastien Lambla, on Thursday 12th March 2015 at the Robert Gordon University.</p>
+
+<hr />
+
+<p><strong>OWIN, Why, What and How?</strong></p>
+
+<p>OWIN is a set of open interfaces for web components on .net. Much has changed since the early days of that specification. What is OWNI? What does componentising mean for building web application? Expect to see code, slides, unicorns, Funcs and discussions about how to build your components now and be ready for asp.net vNext for free!</p>
+
+<p><a href="http://adnuguk-march-2015.eventbrite.com/?aff=blog"><img src="https://www.eventbrite.com/custombutton?eid=11987778769" alt="Eventbrite - Aberdeen Developers .Net User Group - March 2015 Meeting" /></a></p>
+
+<p><strong>Speaker Bio</strong></p>
+
+<p>Sebastien Lambla has been involved in software development since receiving his first web browser, back in the days of Netsape Navigator 1.2. After a few years of hacking on javascript, he turned his attention to the .net platform, on which he would spend the next few years building software in many companies. From 2006, Sebastien has been running Caffeine IT, a consultancy helping clients from all over Europe implement first-grade and innovative solutions. Keen Open-Source promoter, Sebastien has created multiple high-profile open-source projects that are in use in many Fortune 500 companies, including OpenRasta, at a time the most popular resource-oriented framework on .net. Long-time advocate of the ReST architectural style and resource-oriented computing, Sebastien has delivered over the years new platforms leveraging the architecture of the web, from small independents to Fortune 500s.</p>
+
+<p><strong>Agenda - Thursday, 12th March 2015 </strong></p>
+
+<p>1800 - 1825: Arrival and registration
+1825 - 1830: Introduction
+1830 - 1930: OWIN, Why, What and How?
+1930 Onwards: Questions &amp; Answers followed by Prize Draw</p>
+
+<p><strong>Location and Directions</strong></p>
+
+<p>Venue: Room N311, Riverside East Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7QQ, GB</p>
+
+<p>Directions: <a href="https://maps.google.co.uk/maps?q=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,+Aberdeen,+Aberdeen+City+AB10+7QG,+GB&amp;hl=en&amp;ll=57.119317,-2.136133&amp;spn=0.004165,0.012413&amp;sll=57.746995,-4.687341&amp;sspn=8.392957,25.422363&amp;hq=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,&amp;hnear=AB10+7QG,+United+Kingdom&amp;t=m&amp;z=17&amp;iwloc=A">Map showing Garthdee Campus</a></p>
+
+<p><strong>Prize Draw</strong></p>
+
+<p>All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[February 2015 Meeting - Christos Matskas]]></title>
@@ -194,54 +232,6 @@ Directions: <a href="https://maps.google.co.uk/maps?q=ab10+7qq&amp;hl=en&amp;sl
 <h2>Slides</h2>
 
 <p>Slides and extra links from the talk are available on <a href="http://tech.trailmax.info/talks/">Max&rsquo;s blog</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Northern Lights Conference 2013 - Aberdeen]]></title>
-    <link href="http://www.aberdeendevelopers.co.uk/northern-lights-conference-2013-aberdeen"/>
-    <updated>2013-10-05T20:15:52+00:00</updated>
-    <id>http://www.aberdeendevelopers.co.uk/northern-lights-conference-2013-aberdeen</id>
-    <content type="html"><![CDATA[<h1>Get your tickets now!</h1>
-
-<p>I wanted to let you know about an upcoming event in Aberdeen that I have been helping to arrange. It is taking place on Friday 18th October 2013.  The event in question is the Northern Lights 2013 Conference.  The website for the conference can be found here:</p>
-
-<p><a href="http://northernlightsconf.co.uk/">http://northernlightsconf.co.uk/</a></p>
-
-<p>The event is in its third year, and this year the theme is tools.  Both the tools that we use, and the tools we build.  There is a wide range of speakers available, including:</p>
-
-<ul>
-<li><p><a href="http://northernlightsconf.co.uk/speakers/2013/09/23/hadi-hariri.html">Hadi Hariri</a></p></li>
-<li><p><a href="http://northernlightsconf.co.uk/speakers/2013/09/23/kendall-miller.html">Kendall Miller</a></p></li>
-<li><p><a href="http://northernlightsconf.co.uk/speakers/2013/09/24/sarah-drummond.html">Sarah Drummond</a></p></li>
-<li><p><a href="http://northernlightsconf.co.uk/speakers/2013/09/23/kate-stone.html">Kate Stone</a></p></li>
-<li><p><a href="http://northernlightsconf.co.uk/speakers/2013/10/02/maria-gutierrez.html">Maria Gutierrez</a></p></li>
-<li><p><a href="http://northernlightsconf.co.uk/speakers/2013/09/23/niall-merrigan.html">Niall Merrigan</a></p></li>
-<li><p><a href="http://northernlightsconf.co.uk/speakers/2013/09/23/glenn-henriksen.html">Glenn Hendriksen</a></p></li>
-</ul>
-
-
-<p>Who are offering up an exciting line up of talks.</p>
-
-<p>In addition, there will be two open spaces at the conference, where attendees will have an opportunity to suggest a topic for an interactive conversation with other attendees and speakers.  If you haven’t been to an open space before, they are fantastic.  It is a perfect opportunity to interact with other like mind people about a topic that you are interested in.  The best way to get something out of this is to suggest a topic that you are especially interested in, and hopefully other people will get involved as well.</p>
-
-<p>Tickets are £15 for the day, which includes coffee and lunch for regular attendees, and Students tickets to the talks are free, plus you can buy a lunch ticket for £5.</p>
-
-<p>We hope to see you there.  If you have any questions about the event, then please don’t hesitate to get in touch with me.</p>
-
-<p>If you know anyone else who would be interested in attending this event, I would really appreciate it if you could forward on this email.</p>
-
-<p>This event is lovingly sponsored by:</p>
-
-<ul>
-<li><p>University of Aberdeen -  <a href="http://www.abdn.ac.uk">http://www.abdn.ac.uk/</a></p></li>
-<li><p>Neo - <a href="http://www.neo.com">http://www.neo.com</a></p></li>
-<li><p>Fifth Ring - <a href="http://www.fifthring.com">http://www.fifthring.com</a></p></li>
-<li><p>Codify - <a href="http://www.codify.ltd.uk">http://www.codify.ltd.uk</a></p></li>
-<li><p>Arnold Clark - <a href="http://www.arnoldclark.com">http://www.arnoldclark.com</a></p></li>
-<li><p>AAA - <a href="http://www.aaajobs.co.uk">http://aaajobs.co.uk</a></p></li>
-</ul>
-
 ]]></content>
   </entry>
   
