@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Blog | Aberdeen Developers .Net User Group]]></title>
   <link href="http://www.aberdeendevelopers.co.uk/blog/categories/blog/atom.xml" rel="self"/>
   <link href="http://www.aberdeendevelopers.co.uk/"/>
-  <updated>2015-03-03T09:22:36+00:00</updated>
+  <updated>2015-03-03T09:35:17+00:00</updated>
   <id>http://www.aberdeendevelopers.co.uk/</id>
   <author>
     <name><![CDATA[gep13]]></name>
@@ -24,7 +24,7 @@
 
 <p><strong>OWIN, Why, What and How?</strong></p>
 
-<p>OWIN is a set of open interfaces for web components on .net. Much has changed since the early days of that specification. What is OWNI? What does componentising mean for building web application? Expect to see code, slides, unicorns, Funcs and discussions about how to build your components now and be ready for asp.net vNext for free!</p>
+<p>OWIN is a set of open interfaces for web components on .net. Much has changed since the early days of that specification. What is OWIN? What does componentising mean for building web application? Expect to see code, slides, unicorns, Funcs and discussions about how to build your components now and be ready for asp.net vNext for free!</p>
 
 <p><a href="http://adnuguk-march-2015.eventbrite.com/?aff=blog"><img src="https://www.eventbrite.com/custombutton?eid=11987778769" alt="Eventbrite - Aberdeen Developers .Net User Group - March 2015 Meeting" /></a></p>
 
