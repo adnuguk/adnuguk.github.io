@@ -4,7 +4,7 @@
   <title><![CDATA[Aberdeen Developers .Net User Group]]></title>
   <link href="http://www.aberdeendevelopers.co.uk/atom.xml" rel="self"/>
   <link href="http://www.aberdeendevelopers.co.uk/"/>
-  <updated>2015-03-03T09:35:17+00:00</updated>
+  <updated>2015-04-15T08:08:59+00:00</updated>
   <id>http://www.aberdeendevelopers.co.uk/</id>
   <author>
     <name><![CDATA[gep13]]></name>
@@ -12,6 +12,29 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Microsoft UK Edinburgh Events]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/microsoft-uk-edinburgh-events"/>
+    <updated>2015-04-15T00:00:00+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/microsoft-uk-edinburgh-events</id>
+    <content type="html"><![CDATA[<p>Microsoft UK are running a couple of one day events in Edinburgh this month (April), these events offer hands-on sessions guided by experts and are a great place to start with the basics and an opportunity to pick the brains of the experts.</p>
+
+<p><strong><a href="https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032622343&amp;Culture=en-GB&amp;community=0">Microsoft Azure Developer Cloud Camp</a></strong></p>
+
+<p>A one-day Azure hands-on camp to experience the versatility of the Azure platform, and see the practical capabilities that Azure brings within reach your business, IT company and department.</p>
+
+<p>22 April 2015 - Edinburgh, 09:00 - 17:00 -
+<a href="https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032622343&amp;Culture=en-GB&amp;community=0">Register</a></p>
+
+<p><strong><a href="https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032622342&amp;Culture=en-GB&amp;community=0">Microsoft Developer Web Camp</a></strong></p>
+
+<p>Web Camps are live, no-fluff events created for web developers, by web developers. You’ll learn from seasoned experts who start with the basics and ramp up to more advanced topics as the day goes on. Don&rsquo;t miss this free opportunity to sharpen your web development skills.</p>
+
+<p>23 April 2015 - Edinburgh, 09:00 - 17:00 -
+<a href="https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032622342&amp;Culture=en-GB&amp;community=0">Register</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[March 2015 Meeting - Sebastien Lambla]]></title>
@@ -574,23 +597,6 @@ Directions: <a href="https://maps.google.co.uk/maps?q=ab10+7qq&amp;hl=en&amp;sl
 <li><p>AAA - <a href="http://www.aaajobs.co.uk">http://aaajobs.co.uk</a></p></li>
 </ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[September 2013 Meeting - Completed]]></title>
-    <link href="http://www.aberdeendevelopers.co.uk/september-2013-meeting-completed"/>
-    <updated>2013-10-05T19:57:36+00:00</updated>
-    <id>http://www.aberdeendevelopers.co.uk/september-2013-meeting-completed</id>
-    <content type="html"><![CDATA[<h1>Slides and Code from Prism Talk</h1>
-
-<p>On Thursday 19th September 2013, Aberdeen Developers .Net User Group welcomed Martin Taylor for a talk entitled &ldquo;Patterns and Practices: Prism&rdquo;.  Full details of the event can be found <a href="http://adnuguk.me/17Ss2U6">here</a>.</p>
-
-<p>If you were not able to attend you can get the slides and the code from this talk in the download links for this post.</p>
-
-<p>[wpdm_file id=7]</p>
-
-<p>[wpdm_file id=8]</p>
 ]]></content>
   </entry>
   

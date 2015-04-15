@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Blog | Aberdeen Developers .Net User Group]]></title>
   <link href="http://www.aberdeendevelopers.co.uk/blog/categories/blog/atom.xml" rel="self"/>
   <link href="http://www.aberdeendevelopers.co.uk/"/>
-  <updated>2015-03-03T09:35:17+00:00</updated>
+  <updated>2015-04-15T08:08:59+00:00</updated>
   <id>http://www.aberdeendevelopers.co.uk/</id>
   <author>
     <name><![CDATA[gep13]]></name>
@@ -12,6 +12,29 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Microsoft UK Edinburgh Events]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/microsoft-uk-edinburgh-events"/>
+    <updated>2015-04-15T00:00:00+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/microsoft-uk-edinburgh-events</id>
+    <content type="html"><![CDATA[<p>Microsoft UK are running a couple of one day events in Edinburgh this month (April), these events offer hands-on sessions guided by experts and are a great place to start with the basics and an opportunity to pick the brains of the experts.</p>
+
+<p><strong><a href="https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032622343&amp;Culture=en-GB&amp;community=0">Microsoft Azure Developer Cloud Camp</a></strong></p>
+
+<p>A one-day Azure hands-on camp to experience the versatility of the Azure platform, and see the practical capabilities that Azure brings within reach your business, IT company and department.</p>
+
+<p>22 April 2015 - Edinburgh, 09:00 - 17:00 -
+<a href="https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032622343&amp;Culture=en-GB&amp;community=0">Register</a></p>
+
+<p><strong><a href="https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032622342&amp;Culture=en-GB&amp;community=0">Microsoft Developer Web Camp</a></strong></p>
+
+<p>Web Camps are live, no-fluff events created for web developers, by web developers. You’ll learn from seasoned experts who start with the basics and ramp up to more advanced topics as the day goes on. Don&rsquo;t miss this free opportunity to sharpen your web development skills.</p>
+
+<p>23 April 2015 - Edinburgh, 09:00 - 17:00 -
+<a href="https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032622342&amp;Culture=en-GB&amp;community=0">Register</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[March 2015 Meeting - Sebastien Lambla]]></title>
@@ -124,27 +147,6 @@
 
 
 <p><strong>Closing Date: 20 October 2014</strong></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[August 2014 Meeting - Shawn Wildermuth - Completed]]></title>
-    <link href="http://www.aberdeendevelopers.co.uk/August-2014-meeting-completed"/>
-    <updated>2014-08-09T11:18:31+00:00</updated>
-    <id>http://www.aberdeendevelopers.co.uk/August-2014-meeting-completed</id>
-    <content type="html"><![CDATA[<h1>Slides and Code from Web API 2 Talk</h1>
-
-<p>You can find the Slides and Code that Shawn presented <a href="http://wildermuth.com/2014/8/8/Web_API_in_Aberdeen_Scotland">here</a>.  If you want to get in touch with Shawn, you can use his twitter account <a href="https://twitter.com/ShawnWildermuth">@ShawnWildermuth</a></p>
-
-<h1>Prizes</h1>
-
-<p>For everyone who was lucky enough to win a prize from one of our <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>, I have requested all of the prizes.  If you haven&rsquo;t heard anything, please get in touch, and I will try to sort this out.</p>
-
-<h1>Feedback</h1>
-
-<p>As those of you who attended will know, I forgot to take the feedback forms with me, so I am reverting to using SurveyMonkey for this session.  If you would like to provide feedback for this session, then you can do so <a href="https://www.surveymonkey.com/s/Y6TMXPR">here</a>.</p>
-
-<p>Everyone who was registered to attend the event should have received an email from SurveyMonkey about the above feedback form.</p>
 ]]></content>
   </entry>
   
