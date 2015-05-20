@@ -170,6 +170,14 @@
     </url>
     
     <url>
+        <loc>/blog/categories/event/index.html</loc>
+    </url>
+    
+    <url>
+        <loc>/blog/categories/event/atom.xml</loc>
+    </url>
+    
+    <url>
         <loc>/posts/2/index.html</loc>
     </url>
     
@@ -202,6 +210,10 @@
     </url>
     
 
+    
+    <url>
+        <loc>/june-2015-meeting-steven-chalmers</loc>
+    </url>
     
     <url>
         <loc>/microsoft-uk-edinburgh-events</loc>

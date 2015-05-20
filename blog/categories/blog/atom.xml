@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Blog | Aberdeen Developers .Net User Group]]></title>
   <link href="http://www.aberdeendevelopers.co.uk/blog/categories/blog/atom.xml" rel="self"/>
   <link href="http://www.aberdeendevelopers.co.uk/"/>
-  <updated>2015-04-15T08:08:59+00:00</updated>
+  <updated>2015-05-20T21:25:47+00:00</updated>
   <id>http://www.aberdeendevelopers.co.uk/</id>
   <author>
     <name><![CDATA[gep13]]></name>
@@ -12,6 +12,49 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[June 2015 Meeting - Steven Chalmers]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/june-2015-meeting-steven-chalmers"/>
+    <updated>2015-05-20T00:00:00+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/june-2015-meeting-steven-chalmers</id>
+    <content type="html"><![CDATA[<p>Aberdeen Developers are pleased to present a talk by Steven Chalmers, on Thursday 18th June 2015 at the Robert Gordon University.</p>
+
+<hr />
+
+<p><strong>Getting a helping hand from the Telerik Kendo UI and Reports</strong></p>
+
+<p>With a new project based on heavy data entry and manipulation combined with getting to grips with new tech some help was required. I turned to using the Telerik tools in my ASP.NET MVC website. It simplified the data entry and the presentation of data and thus left lots of time to fight with CSS styling instead.</p>
+
+<p>At the start I didn&rsquo;t really know what I was getting and even if it was going to be of use. It looked pretty in the Telerik demos but how complex was it really? In the presentation I want to share some of the knowledge I gained to give a simple view on how the Telerik Kendo UI and the Telerik reports slot into the ASP.MVC environment. Hopefully you can gain enough information to decide if it will benefit your projects or not.</p>
+
+<p><a href="http://www.eventbrite.com/e/aberdeen-developers-net-user-group-june-2015-meeting-tickets-17071686875?aff=blog"><img src="https://www.eventbrite.com/custombutton?eid=11987778769" alt="Eventbrite - Aberdeen Developers .Net User Group - June 2015 Meeting" /></a></p>
+
+<p><strong>Speaker Bio</strong></p>
+
+<p>Steven Chalmers has been programming on many different computers and embedded systems since the late 70&rsquo;s. From typing in bytes, assembly all the way through to c#. In the past half year he has made a jump into new territory with the development of websites using ASP.NET MVC, JavaScript, jQuery and the Telerik tools.</p>
+
+<p><strong>Agenda - Thursday, 18th June 2015 </strong></p>
+
+<ul>
+<li>1800 - 1825: Arrival and registration</li>
+<li>1825 - 1830: Introduction</li>
+<li>1830 - 1930: Getting a helping hand from the Telerik Kendo UI and Reports</li>
+<li>1930 Onwards: Questions &amp; Answers followed by Prize Draw</li>
+</ul>
+
+
+<p><strong>Location and Directions</strong></p>
+
+<p>Venue: Room N310, Riverside East Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7QQ, GB</p>
+
+<p>Directions: <a href="https://maps.google.co.uk/maps?q=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,+Aberdeen,+Aberdeen+City+AB10+7QG,+GB&amp;hl=en&amp;ll=57.119317,-2.136133&amp;spn=0.004165,0.012413&amp;sll=57.746995,-4.687341&amp;sspn=8.392957,25.422363&amp;hq=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,&amp;hnear=AB10+7QG,+United+Kingdom&amp;t=m&amp;z=17&amp;iwloc=A">Map showing Garthdee Campus</a></p>
+
+<p><strong>Prize Draw</strong></p>
+
+<p>All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Microsoft UK Edinburgh Events]]></title>
@@ -105,48 +148,6 @@
 <p><strong>Speaker Bio</strong></p>
 
 <p>Christos Matskas has been working as a software developer professionally for the last 11 years. He is the founder and CEO of SoftwareLounge, a software consultancy firm, and co-founder of TowzieTyke an apps development powerhouse. His portfolio includes collaborations with some great companies such as MarkIT, Lockheed Martin and Barclays. Over the years he had the opportunity to work on a numerous exciting projects from mobile apps to data crunching back-end solutions. His blog, <a href="https://cmatskas.com">https://cmatskas.com</a>, is full with useful tutorials, tips and tricks and reviews about software development and tools. Christos also contributes to Open Source and is a regular speaker at conferences and user groups talking about .NET, the Cloud and software development in general.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Job Vacancy - Software Developer - SPD]]></title>
-    <link href="http://www.aberdeendevelopers.co.uk/job-vacancy-software-developer-spd"/>
-    <updated>2014-10-13T00:00:00+00:00</updated>
-    <id>http://www.aberdeendevelopers.co.uk/job-vacancy-software-developer-spd</id>
-    <content type="html"><![CDATA[<p>Aberdeen Developers have been asked to promote the following job vacancy.  If you are interested in the position, or would like some more information, then please use the following link:</p>
-
-<p><a href="https://petrofac.taleo.net/careersection/2/jobdetail.ftl?job=008338&amp;lang=en">https://petrofac.taleo.net/careersection/2/jobdetail.ftl?job=008338&amp;lang=en</a></p>
-
-<hr />
-
-
-<p><strong>Purpose</strong></p>
-
-<p>WellAtlas is a software tool used internally by our Well Engineering team and also by a number of global operators. It is now a proven solution encompassing a series of integrated specialist modules, that together, bring visibility and assurance of all critical elements required to meet a company’s project delivery agenda. Due to internal and external client requirements as well as our Product Roadmap, the opportunity for a Software Developer has become key to the continued growth of this service line.</p>
-
-<p>The role of the Software Developer will encompass all aspects of the software life cycle from initial requirements gathering through design, build and testing and onto deployment and support.</p>
-
-<p><strong>Role:</strong></p>
-
-<ul>
-<li>Coordination of multiple simultaneous streams of software development between existing and potential clients</li>
-<li>Design, development and implementation of both internal and client driven software projects</li>
-<li>Collaboration with Product Management by validating the product roadmap, setting priorities and providing estimates</li>
-<li>Ensuring visibility through lightweight metrics and continuous project status reporting</li>
-<li>Ensure document quality and technical accuracy. Creation and maintenance of development documentation (coding standards etc.)</li>
-<li>Design, development and implementation of both internal and client driven software projects</li>
-<li>Development of reports using Microsoft SQL Server Reporting Services, as well as developing any necessary ASP.NET (C#) web pages and dialogs for selection of reporting criteria, filters etc.</li>
-<li>Administration and support of IIS and SQL Servers.</li>
-<li>The candidate will be flexible, driven and show a ‘can do’ attitude</li>
-</ul>
-
-
-<p>Please see the link above for full details of &ldquo;Key Accountabilities&rdquo;, &ldquo;Knowledge, Skills &amp; Experience expected&rdquo;, and &ldquo;Minimum Qualifications required&rdquo;</p>
-
-<hr />
-
-
-<p><strong>Closing Date: 20 October 2014</strong></p>
 ]]></content>
   </entry>
   

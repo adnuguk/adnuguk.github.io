@@ -5,9 +5,58 @@
     <description>Website for the meetings and events hosted by the Aberdeen Developers .Net User Group</description>
     <link>http://www.aberdeendevelopers.co.uk/</link>
     <atom:link href="http://www.aberdeendevelopers.co.uk/feed" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 15 Apr 2015 08:08:59 +0000</pubDate>
-    <lastBuildDate>Wed, 15 Apr 2015 08:08:59 +0000</lastBuildDate>
+    <pubDate>Wed, 20 May 2015 21:25:47 +0000</pubDate>
+    <lastBuildDate>Wed, 20 May 2015 21:25:47 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>June 2015 Meeting - Steven Chalmers</title>
+        <description>&lt;p&gt;Aberdeen Developers are pleased to present a talk by Steven Chalmers, on Thursday 18th June 2015 at the Robert Gordon University.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Getting a helping hand from the Telerik Kendo UI and Reports&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;With a new project based on heavy data entry and manipulation combined with getting to grips with new tech some help was required. I turned to using the Telerik tools in my ASP.NET MVC website. It simplified the data entry and the presentation of data and thus left lots of time to fight with CSS styling instead.&lt;/p&gt;
+
+&lt;p&gt;At the start I didn&amp;rsquo;t really know what I was getting and even if it was going to be of use. It looked pretty in the Telerik demos but how complex was it really? In the presentation I want to share some of the knowledge I gained to give a simple view on how the Telerik Kendo UI and the Telerik reports slot into the ASP.MVC environment. Hopefully you can gain enough information to decide if it will benefit your projects or not.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.eventbrite.com/e/aberdeen-developers-net-user-group-june-2015-meeting-tickets-17071686875?aff=blog&quot;&gt;&lt;img src=&quot;https://www.eventbrite.com/custombutton?eid=11987778769&quot; alt=&quot;Eventbrite - Aberdeen Developers .Net User Group - June 2015 Meeting&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Speaker Bio&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Steven Chalmers has been programming on many different computers and embedded systems since the late 70&amp;rsquo;s. From typing in bytes, assembly all the way through to c#. In the past half year he has made a jump into new territory with the development of websites using ASP.NET MVC, JavaScript, jQuery and the Telerik tools.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Agenda - Thursday, 18th June 2015 &lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;1800 - 1825: Arrival and registration&lt;/li&gt;
+&lt;li&gt;1825 - 1830: Introduction&lt;/li&gt;
+&lt;li&gt;1830 - 1930: Getting a helping hand from the Telerik Kendo UI and Reports&lt;/li&gt;
+&lt;li&gt;1930 Onwards: Questions &amp;amp; Answers followed by Prize Draw&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;&lt;strong&gt;Location and Directions&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Venue: Room N310, Riverside East Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7QQ, GB&lt;/p&gt;
+
+&lt;p&gt;Directions: &lt;a href=&quot;https://maps.google.co.uk/maps?q=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,+Aberdeen,+Aberdeen+City+AB10+7QG,+GB&amp;amp;hl=en&amp;amp;ll=57.119317,-2.136133&amp;amp;spn=0.004165,0.012413&amp;amp;sll=57.746995,-4.687341&amp;amp;sspn=8.392957,25.422363&amp;amp;hq=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,&amp;amp;hnear=AB10+7QG,+United+Kingdom&amp;amp;t=m&amp;amp;z=17&amp;amp;iwloc=A&quot;&gt;Map showing Garthdee Campus&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Prize Draw&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic &lt;a href=&quot;http://www.aberdeendevelopers.co.uk/sponsors/&quot;&gt;sponsors&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 20 May 2015 00:00:00 +0000</pubDate>
+        <link>http://www.aberdeendevelopers.co.uk/june-2015-meeting-steven-chalmers</link>
+        <guid isPermaLink="true">http://www.aberdeendevelopers.co.uk/june-2015-meeting-steven-chalmers</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>event</category>
+        
+      </item>
     
       <item>
         <title>Microsoft UK Edinburgh Events</title>
@@ -272,41 +321,6 @@
         <category>blog</category>
         
         <category>job vacancy</category>
-        
-      </item>
-    
-      <item>
-        <title>August 2014 Meeting - Shawn Wildermuth - Completed</title>
-        <description>&lt;h1&gt;Slides and Code from Web API 2 Talk&lt;/h1&gt;
-
-&lt;p&gt;You can find the Slides and Code that Shawn presented &lt;a href=&quot;http://wildermuth.com/2014/8/8/Web_API_in_Aberdeen_Scotland&quot;&gt;here&lt;/a&gt;.  If you want to get in touch with Shawn, you can use his twitter account &lt;a href=&quot;https://twitter.com/ShawnWildermuth&quot;&gt;@ShawnWildermuth&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1&gt;Prizes&lt;/h1&gt;
-
-&lt;p&gt;For everyone who was lucky enough to win a prize from one of our &lt;a href=&quot;http://www.aberdeendevelopers.co.uk/sponsors/&quot;&gt;sponsors&lt;/a&gt;, I have requested all of the prizes.  If you haven&amp;rsquo;t heard anything, please get in touch, and I will try to sort this out.&lt;/p&gt;
-
-&lt;h1&gt;Feedback&lt;/h1&gt;
-
-&lt;p&gt;As those of you who attended will know, I forgot to take the feedback forms with me, so I am reverting to using SurveyMonkey for this session.  If you would like to provide feedback for this session, then you can do so &lt;a href=&quot;https://www.surveymonkey.com/s/Y6TMXPR&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Everyone who was registered to attend the event should have received an email from SurveyMonkey about the above feedback form.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 09 Aug 2014 11:18:31 +0000</pubDate>
-        <link>http://www.aberdeendevelopers.co.uk/August-2014-meeting-completed</link>
-        <guid isPermaLink="true">http://www.aberdeendevelopers.co.uk/August-2014-meeting-completed</guid>
-        
-        <category>Shawn Wildermuth</category>
-        
-        <category>Slides</category>
-        
-        <category>Web API</category>
-        
-        
-        <category>blog</category>
-        
-        <category>event feedback</category>
-        
-        <category>event material</category>
         
       </item>
     
