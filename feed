@@ -5,19 +5,19 @@
     <description>Website for the meetings and events hosted by the Aberdeen Developers .Net User Group</description>
     <link>http://www.aberdeendevelopers.co.uk/</link>
     <atom:link href="http://www.aberdeendevelopers.co.uk/feed" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 19 Jun 2015 13:02:26 +0000</pubDate>
-    <lastBuildDate>Fri, 19 Jun 2015 13:02:26 +0000</lastBuildDate>
+    <pubDate>Fri, 19 Jun 2015 13:19:59 +0000</pubDate>
+    <lastBuildDate>Fri, 19 Jun 2015 13:19:59 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
-        <title>June 2015 Meeting -  Steven Chalmers - Completed</title>
-        <description>&lt;h1&gt;Slides and Code from June&amp;rsquo;s Talk&lt;/h1&gt;
+        <title>June 2015 Meeting -  Completed</title>
+        <description>&lt;p&gt;&lt;strong&gt; Slides and Code from June&amp;rsquo;s Talk &lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;A massive thank you to Steven for sharing his experience and expertise at last night&amp;rsquo;s meeting, and of course thanks to all those who managed to attend!&lt;/p&gt;
 
 &lt;p&gt;You can find the &lt;a href=&quot;https://github.com/CodeBeastie/Presentation/blob/master/Slides.pdf&quot;&gt;Slides&lt;/a&gt; and &lt;a href=&quot;https://github.com/CodeBeastie/Presentation/&quot;&gt;Code&lt;/a&gt; from Steve&amp;rsquo;s presentation on his GitHub page &lt;a href=&quot;https://github.com/CodeBeastie/Presentation/&quot;&gt;here&lt;/a&gt;.  Also be sure to check out his &lt;a href=&quot;http://blog.codebeastie.com/&quot;&gt;blog&lt;/a&gt; for some more information and tips including the &lt;a href=&quot;http://blog.codebeastie.com/kendo-grid-error-handling/&quot;&gt;handy tip&lt;/a&gt; for showing error messages from the server in a specific cell of the Telerik Grid.&lt;/p&gt;
 
-&lt;h1&gt;Prizes&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt; Prizes &lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;For everyone who was lucky enough to win a prize from one of our awesome &lt;a href=&quot;http://www.aberdeendevelopers.co.uk/sponsors/&quot;&gt;sponsors&lt;/a&gt;, I have requested all of the prizes.  If you haven&amp;rsquo;t heard anything, please get in touch.&lt;/p&gt;
 </description>

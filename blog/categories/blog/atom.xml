@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Blog | Aberdeen Developers .Net User Group]]></title>
   <link href="http://www.aberdeendevelopers.co.uk/blog/categories/blog/atom.xml" rel="self"/>
   <link href="http://www.aberdeendevelopers.co.uk/"/>
-  <updated>2015-06-19T13:02:26+00:00</updated>
+  <updated>2015-06-19T13:19:59+00:00</updated>
   <id>http://www.aberdeendevelopers.co.uk/</id>
   <author>
     <name><![CDATA[gep13]]></name>
@@ -14,17 +14,17 @@
 
   
   <entry>
-    <title type="html"><![CDATA[June 2015 Meeting - Steven Chalmers - Completed]]></title>
+    <title type="html"><![CDATA[June 2015 Meeting - Completed]]></title>
     <link href="http://www.aberdeendevelopers.co.uk/june-2015-meeting-steven-chalmers-completed"/>
     <updated>2015-06-19T00:00:00+00:00</updated>
     <id>http://www.aberdeendevelopers.co.uk/june-2015-meeting-steven-chalmers-completed</id>
-    <content type="html"><![CDATA[<h1>Slides and Code from June&rsquo;s Talk</h1>
+    <content type="html"><![CDATA[<p><strong> Slides and Code from June&rsquo;s Talk </strong></p>
 
 <p>A massive thank you to Steven for sharing his experience and expertise at last night&rsquo;s meeting, and of course thanks to all those who managed to attend!</p>
 
 <p>You can find the <a href="https://github.com/CodeBeastie/Presentation/blob/master/Slides.pdf">Slides</a> and <a href="https://github.com/CodeBeastie/Presentation/">Code</a> from Steve&rsquo;s presentation on his GitHub page <a href="https://github.com/CodeBeastie/Presentation/">here</a>.  Also be sure to check out his <a href="http://blog.codebeastie.com/">blog</a> for some more information and tips including the <a href="http://blog.codebeastie.com/kendo-grid-error-handling/">handy tip</a> for showing error messages from the server in a specific cell of the Telerik Grid.</p>
 
-<h1>Prizes</h1>
+<p><strong> Prizes </strong></p>
 
 <p>For everyone who was lucky enough to win a prize from one of our awesome <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>, I have requested all of the prizes.  If you haven&rsquo;t heard anything, please get in touch.</p>
 ]]></content>
