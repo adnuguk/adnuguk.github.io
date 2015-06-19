@@ -5,9 +5,32 @@
     <description>Website for the meetings and events hosted by the Aberdeen Developers .Net User Group</description>
     <link>http://www.aberdeendevelopers.co.uk/</link>
     <atom:link href="http://www.aberdeendevelopers.co.uk/feed" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 20 May 2015 21:25:47 +0000</pubDate>
-    <lastBuildDate>Wed, 20 May 2015 21:25:47 +0000</lastBuildDate>
+    <pubDate>Fri, 19 Jun 2015 13:02:26 +0000</pubDate>
+    <lastBuildDate>Fri, 19 Jun 2015 13:02:26 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>June 2015 Meeting -  Steven Chalmers - Completed</title>
+        <description>&lt;h1&gt;Slides and Code from June&amp;rsquo;s Talk&lt;/h1&gt;
+
+&lt;p&gt;A massive thank you to Steven for sharing his experience and expertise at last night&amp;rsquo;s meeting, and of course thanks to all those who managed to attend!&lt;/p&gt;
+
+&lt;p&gt;You can find the &lt;a href=&quot;https://github.com/CodeBeastie/Presentation/blob/master/Slides.pdf&quot;&gt;Slides&lt;/a&gt; and &lt;a href=&quot;https://github.com/CodeBeastie/Presentation/&quot;&gt;Code&lt;/a&gt; from Steve&amp;rsquo;s presentation on his GitHub page &lt;a href=&quot;https://github.com/CodeBeastie/Presentation/&quot;&gt;here&lt;/a&gt;.  Also be sure to check out his &lt;a href=&quot;http://blog.codebeastie.com/&quot;&gt;blog&lt;/a&gt; for some more information and tips including the &lt;a href=&quot;http://blog.codebeastie.com/kendo-grid-error-handling/&quot;&gt;handy tip&lt;/a&gt; for showing error messages from the server in a specific cell of the Telerik Grid.&lt;/p&gt;
+
+&lt;h1&gt;Prizes&lt;/h1&gt;
+
+&lt;p&gt;For everyone who was lucky enough to win a prize from one of our awesome &lt;a href=&quot;http://www.aberdeendevelopers.co.uk/sponsors/&quot;&gt;sponsors&lt;/a&gt;, I have requested all of the prizes.  If you haven&amp;rsquo;t heard anything, please get in touch.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 19 Jun 2015 00:00:00 +0000</pubDate>
+        <link>http://www.aberdeendevelopers.co.uk/june-2015-meeting-steven-chalmers-completed</link>
+        <guid isPermaLink="true">http://www.aberdeendevelopers.co.uk/june-2015-meeting-steven-chalmers-completed</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>event material</category>
+        
+      </item>
     
       <item>
         <title>June 2015 Meeting - Steven Chalmers</title>
@@ -267,60 +290,6 @@
         
         
         <category>community events</category>
-        
-      </item>
-    
-      <item>
-        <title>Job Vacancy - Software Developer - SPD</title>
-        <description>&lt;p&gt;Aberdeen Developers have been asked to promote the following job vacancy.  If you are interested in the position, or would like some more information, then please use the following link:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://petrofac.taleo.net/careersection/2/jobdetail.ftl?job=008338&amp;amp;lang=en&quot;&gt;https://petrofac.taleo.net/careersection/2/jobdetail.ftl?job=008338&amp;amp;lang=en&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-
-&lt;p&gt;&lt;strong&gt;Purpose&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;WellAtlas is a software tool used internally by our Well Engineering team and also by a number of global operators. It is now a proven solution encompassing a series of integrated specialist modules, that together, bring visibility and assurance of all critical elements required to meet a company’s project delivery agenda. Due to internal and external client requirements as well as our Product Roadmap, the opportunity for a Software Developer has become key to the continued growth of this service line.&lt;/p&gt;
-
-&lt;p&gt;The role of the Software Developer will encompass all aspects of the software life cycle from initial requirements gathering through design, build and testing and onto deployment and support.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Coordination of multiple simultaneous streams of software development between existing and potential clients&lt;/li&gt;
-&lt;li&gt;Design, development and implementation of both internal and client driven software projects&lt;/li&gt;
-&lt;li&gt;Collaboration with Product Management by validating the product roadmap, setting priorities and providing estimates&lt;/li&gt;
-&lt;li&gt;Ensuring visibility through lightweight metrics and continuous project status reporting&lt;/li&gt;
-&lt;li&gt;Ensure document quality and technical accuracy. Creation and maintenance of development documentation (coding standards etc.)&lt;/li&gt;
-&lt;li&gt;Design, development and implementation of both internal and client driven software projects&lt;/li&gt;
-&lt;li&gt;Development of reports using Microsoft SQL Server Reporting Services, as well as developing any necessary ASP.NET (C#) web pages and dialogs for selection of reporting criteria, filters etc.&lt;/li&gt;
-&lt;li&gt;Administration and support of IIS and SQL Servers.&lt;/li&gt;
-&lt;li&gt;The candidate will be flexible, driven and show a ‘can do’ attitude&lt;/li&gt;
-&lt;/ul&gt;
-
-
-&lt;p&gt;Please see the link above for full details of &amp;ldquo;Key Accountabilities&amp;rdquo;, &amp;ldquo;Knowledge, Skills &amp;amp; Experience expected&amp;rdquo;, and &amp;ldquo;Minimum Qualifications required&amp;rdquo;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-
-&lt;p&gt;&lt;strong&gt;Closing Date: 20 October 2014&lt;/strong&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 13 Oct 2014 00:00:00 +0000</pubDate>
-        <link>http://www.aberdeendevelopers.co.uk/job-vacancy-software-developer-spd</link>
-        <guid isPermaLink="true">http://www.aberdeendevelopers.co.uk/job-vacancy-software-developer-spd</guid>
-        
-        <category>SPD</category>
-        
-        <category>Software Developer</category>
-        
-        <category>Job</category>
-        
-        
-        <category>blog</category>
-        
-        <category>job vacancy</category>
         
       </item>
     

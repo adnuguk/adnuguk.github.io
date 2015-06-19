@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Blog | Aberdeen Developers .Net User Group]]></title>
   <link href="http://www.aberdeendevelopers.co.uk/blog/categories/blog/atom.xml" rel="self"/>
   <link href="http://www.aberdeendevelopers.co.uk/"/>
-  <updated>2015-05-20T21:25:47+00:00</updated>
+  <updated>2015-06-19T13:02:26+00:00</updated>
   <id>http://www.aberdeendevelopers.co.uk/</id>
   <author>
     <name><![CDATA[gep13]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[June 2015 Meeting - Steven Chalmers - Completed]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/june-2015-meeting-steven-chalmers-completed"/>
+    <updated>2015-06-19T00:00:00+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/june-2015-meeting-steven-chalmers-completed</id>
+    <content type="html"><![CDATA[<h1>Slides and Code from June&rsquo;s Talk</h1>
+
+<p>A massive thank you to Steven for sharing his experience and expertise at last night&rsquo;s meeting, and of course thanks to all those who managed to attend!</p>
+
+<p>You can find the <a href="https://github.com/CodeBeastie/Presentation/blob/master/Slides.pdf">Slides</a> and <a href="https://github.com/CodeBeastie/Presentation/">Code</a> from Steve&rsquo;s presentation on his GitHub page <a href="https://github.com/CodeBeastie/Presentation/">here</a>.  Also be sure to check out his <a href="http://blog.codebeastie.com/">blog</a> for some more information and tips including the <a href="http://blog.codebeastie.com/kendo-grid-error-handling/">handy tip</a> for showing error messages from the server in a specific cell of the Telerik Grid.</p>
+
+<h1>Prizes</h1>
+
+<p>For everyone who was lucky enough to win a prize from one of our awesome <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>, I have requested all of the prizes.  If you haven&rsquo;t heard anything, please get in touch.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[June 2015 Meeting - Steven Chalmers]]></title>
@@ -127,27 +144,6 @@
 <p><strong> Prizes </strong></p>
 
 <p>For everyone who was lucky enough to win a prize from one of our amazing <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>, I have requested all of the prizes.  If you haven&rsquo;t heard anything, please get in touch, and we will try to sort this out.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[February 2015 Meeting - Christos Matskas]]></title>
-    <link href="http://www.aberdeendevelopers.co.uk/february-2015-meeting-christos-matskas"/>
-    <updated>2015-01-09T00:00:00+00:00</updated>
-    <id>http://www.aberdeendevelopers.co.uk/february-2015-meeting-christos-matskas</id>
-    <content type="html"><![CDATA[<p>Aberdeen Developers are pleased to present a talk by Christos Matskas, this is a joint event with BCS Aberdeen Branch on Thursday 19th February 2015 at the Robert Gordon University.</p>
-
-<hr />
-
-<p><strong>Cross platform mobile development with the power of Xamarin</strong></p>
-
-<p>Are you a .NET developer? Do you develop for mobile platforms or would you like to get started but you don’t know how or where? Then you should join Christos Matskas as he shows you how to get off the ground with mobile application development using the power of Xamarin and explains how to build powerful, full-featured, native applications that can run across all platforms. You will learn how to speed up your development cycle, reduce overhead costs and create “the one codebase to rule them all”.</p>
-
-<p><a href="http://adnuguk-feb2015.eventbrite.com/?aff=blog"><img src="https://www.eventbrite.com/custombutton?eid=11987778769" alt="Eventbrite - Aberdeen Developers .Net User Group - February 2015 Meeting" /></a></p>
-
-<p><strong>Speaker Bio</strong></p>
-
-<p>Christos Matskas has been working as a software developer professionally for the last 11 years. He is the founder and CEO of SoftwareLounge, a software consultancy firm, and co-founder of TowzieTyke an apps development powerhouse. His portfolio includes collaborations with some great companies such as MarkIT, Lockheed Martin and Barclays. Over the years he had the opportunity to work on a numerous exciting projects from mobile apps to data crunching back-end solutions. His blog, <a href="https://cmatskas.com">https://cmatskas.com</a>, is full with useful tutorials, tips and tricks and reviews about software development and tools. Christos also contributes to Open Source and is a regular speaker at conferences and user groups talking about .NET, the Cloud and software development in general.</p>
 ]]></content>
   </entry>
   
