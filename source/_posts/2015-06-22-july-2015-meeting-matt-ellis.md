@@ -44,3 +44,9 @@ Directions: [Map showing Garthdee Campus](https://maps.google.co.uk/maps?q=Facu
 
 All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic [sponsors][sponsors_page].
 [sponsors_page]: http://www.aberdeendevelopers.co.uk/sponsors/
+
+**Tour Dates**
+
+As part of the Scotland Tour, Matt will also be presenting at the following venues:
+
++ [Skyscanner, Glasgow - Wednesday, 22nd July](https://www.eventbrite.co.uk/e/net-core-blimey-tickets-17510783224)
