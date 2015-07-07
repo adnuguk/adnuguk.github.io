@@ -5,8 +5,8 @@
     <description>Website for the meetings and events hosted by the Aberdeen Developers .Net User Group</description>
     <link>http://www.aberdeendevelopers.co.uk/</link>
     <atom:link href="http://www.aberdeendevelopers.co.uk/feed" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 22 Jun 2015 21:37:05 +0000</pubDate>
-    <lastBuildDate>Mon, 22 Jun 2015 21:37:05 +0000</lastBuildDate>
+    <pubDate>Tue, 07 Jul 2015 19:31:04 +0000</pubDate>
+    <lastBuildDate>Tue, 07 Jul 2015 19:31:04 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -43,7 +43,15 @@
 
 &lt;p&gt;&lt;strong&gt;Prize Draw&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic &lt;a href=&quot;http://www.aberdeendevelopers.co.uk/sponsors/&quot;&gt;sponsors&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic &lt;a href=&quot;http://www.aberdeendevelopers.co.uk/sponsors/&quot;&gt;sponsors&lt;/a&gt;.
+&lt;strong&gt;Tour Dates&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;As part of the Scotland Tour, Matt will also be presenting at the following venues:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.eventbrite.co.uk/e/net-core-blimey-tickets-17510783224&quot;&gt;Skyscanner, Glasgow - Wednesday, 22nd July&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 </description>
         <pubDate>Mon, 22 Jun 2015 00:00:00 +0000</pubDate>
         <link>http://www.aberdeendevelopers.co.uk/july-2015-meeting-matt-ellis</link>
