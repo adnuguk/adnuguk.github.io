@@ -13,6 +13,7 @@ categories:
 ---
 
 
+
 Aberdeen Developers are pleased to present the final night of Matt Ellis’s Scottish Tour. Join us on Thursday 23rd July 2015 at the Robert Gordon University to learn more about Microsoft’s recent move to open-source .NET!
 
 ***
@@ -49,4 +50,5 @@ All attendees will be entered into a prize draw, with the chance of winning one 
 
 As part of the Scotland Tour, Matt will also be presenting at the following venues:
 
++ [Skyscanner, Edinburgh - Tuesday, 21st July](https://www.eventbrite.co.uk/e/c-6-features-and-tooling-tickets-17510913614)
 + [Skyscanner, Glasgow - Wednesday, 22nd July](https://www.eventbrite.co.uk/e/net-core-blimey-tickets-17510783224)
