@@ -5,9 +5,57 @@
     <description>Website for the meetings and events hosted by the Aberdeen Developers .Net User Group</description>
     <link>http://www.aberdeendevelopers.co.uk/</link>
     <atom:link href="http://www.aberdeendevelopers.co.uk/feed" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 13 Aug 2015 08:51:47 +0000</pubDate>
-    <lastBuildDate>Thu, 13 Aug 2015 08:51:47 +0000</lastBuildDate>
+    <pubDate>Fri, 04 Sep 2015 11:32:04 +0000</pubDate>
+    <lastBuildDate>Fri, 04 Sep 2015 11:32:04 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>September 2015 Meeting #1 - Colin Mackay</title>
+        <description>&lt;p&gt;Aberdeen Developers are pleased to present a talk by Colin Mackay, on Thursday 10th September 2015 at the Robert Gordon University.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Continuous Delivery&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Manually delivery software can be a time consuming and error prone affair. Why have a valuable person sit and manually do this? They&amp;rsquo;re bored, and as a result they&amp;rsquo;re not paying full attention and mistakes happen. It isn&amp;rsquo;t repeatable so all those deployments to the testing environment count for nothing when it all goes horribly wrong when deploying to the production environment. There must be a better way of delivering software.&lt;/p&gt;
+
+&lt;p&gt;There is!&lt;/p&gt;
+
+&lt;p&gt;Amazon reportedly deploys to production every few seconds, GitHub do it several times a day. What makes this possible is a continuous delivery pipeline - a set of processes and a culture of development that ensure that get you to the point where every commit to your source repository is a potential for production system.&lt;/p&gt;
+
+&lt;p&gt;Continuous Delivery aims to remove the issues with building, testing and ultimately deploying to production in a safe, repeatable, well tested and highly confident way. I aim to show you how to get started on this journey. It isn&amp;rsquo;t as daunting as it first looks.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.eventbrite.com/e/aberdeen-developers-net-user-group-september-2015-meeting-1-tickets-18308101023?aff=blog&quot;&gt;&lt;img src=&quot;https://www.eventbrite.com/custombutton?eid=11987778769&quot; alt=&quot;Eventbrite - Aberdeen Developers .Net User Group - September 2015 Meeting #1&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Speaker Bio&lt;/strong&gt;
+Colin Mackay is a software developer, former MVP, and speaker at user groups and previous DDD events.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Agenda - Thursday,  10th September 2015&lt;/strong&gt;
++ 1800 - 1825: Arrival and registration
++ 1825 - 1830: Introduction
++ 1830 - 1930: Continuous Delivery
++ 1930 Onwards: Questions &amp;amp; Answers followed by Prize Draw&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Location and Directions&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Venue: Room N310, Riverside East Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7QQ, GB&lt;/p&gt;
+
+&lt;p&gt;Directions: &lt;a href=&quot;https://maps.google.co.uk/maps?q=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,+Aberdeen,+Aberdeen+City+AB10+7QG,+GB&amp;amp;hl=en&amp;amp;ll=57.119317,-2.136133&amp;amp;spn=0.004165,0.012413&amp;amp;sll=57.746995,-4.687341&amp;amp;sspn=8.392957,25.422363&amp;amp;hq=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,&amp;amp;hnear=AB10+7QG,+United+Kingdom&amp;amp;t=m&amp;amp;z=17&amp;amp;iwloc=A&quot;&gt;Map showing Garthdee Campus&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Prize Draw&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic &lt;a href=&quot;http://www.aberdeendevelopers.co.uk/sponsors/&quot;&gt;sponsors&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 04 Sep 2015 00:00:00 +0000</pubDate>
+        <link>http://www.aberdeendevelopers.co.uk/september-2015-meeting-1-colin-mackay</link>
+        <guid isPermaLink="true">http://www.aberdeendevelopers.co.uk/september-2015-meeting-1-colin-mackay</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>events</category>
+        
+      </item>
     
       <item>
         <title>August 2015 Meeting #2 - Mike Taulty</title>
@@ -359,19 +407,6 @@
         <category>blog</category>
         
         <category>events</category>
-        
-      </item>
-    
-      <item>
-        <title>Microsoft Exams</title>
-        <description>&lt;p&gt;Those who have been trying to book Microsoft Exams in recent months will be fully aware of the lack of local test centres in Aberdeen.  Unfortunately, there still appears to be a lack of any long term commitment for any new test centres, but Aberdeen Developers have been informed that there is some availability at a private session that has been organised at Aberdeen College on 27th November at 9am.&lt;/p&gt;
-
-&lt;p&gt;Aberdeen College are a Pearson Vue partner who don’t normally offer certification externally but Andrew at Motion Software has managed to arrange the use of this test centre for his team. He has kindly offered the remaining spaces to our members for a small fee (£5-£10) over the standard exam cost. Anyone looking to sit any Microsoft Exams should contact Andrew via his email [andrew]&amp;lsquo;at&amp;rsquo;[motionsoftware]&amp;lsquo;dot&amp;rsquo;[co]&amp;lsquo;dot&amp;rsquo;[uk] for more details.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 31 Oct 2014 00:00:00 +0000</pubDate>
-        <link>http://www.aberdeendevelopers.co.uk/microsoft-exams</link>
-        <guid isPermaLink="true">http://www.aberdeendevelopers.co.uk/microsoft-exams</guid>
-        
         
       </item>
     
