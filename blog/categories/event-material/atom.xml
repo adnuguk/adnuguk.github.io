@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Event Material | Aberdeen Developers .Net User Group]]></title>
   <link href="http://www.aberdeendevelopers.co.uk/blog/categories/event-material/atom.xml" rel="self"/>
   <link href="http://www.aberdeendevelopers.co.uk/"/>
-  <updated>2015-09-04T11:32:04+00:00</updated>
+  <updated>2015-09-06T20:22:51+00:00</updated>
   <id>http://www.aberdeendevelopers.co.uk/</id>
   <author>
     <name><![CDATA[gep13]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[July Meeting - Matt Ellis - Completed]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/July-2015-meeting-matt-ellis-completed"/>
+    <updated>2015-07-23T00:00:00+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/July-2015-meeting-matt-ellis-completed</id>
+    <content type="html"><![CDATA[<p>Thanks once again to Matt for making the journey up to Aberdeen to deliver his awesome talk on .Net Core!  If you want to get in touch with Matt, you can use his twitter account <a href="https://twitter.com/citizenmatt">@citizenmatt</a> and make sure you follow him for up-to-date news, articles and tips. You can also find a copy of the slides used in the presentation <a href="http://www.slideshare.net/citizenmatt/dot-netcoreblimey-07-2015">here</a>.</p>
+
+<p><strong> Prizes </strong></p>
+
+<p>For everyone who was lucky enough to win a prize from one of our amazing <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>, I have requested all of the prizes.  If you haven&rsquo;t heard anything, please get in touch, and we will try to sort this out.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[June 2015 Meeting - Completed]]></title>
@@ -84,19 +97,6 @@
 <h1>Prizes</h1>
 
 <p>For everyone who was lucky enough to win a prize from one of our <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>, I have requested all of the prizes.  If you haven&rsquo;t heard anything, please get in touch, and I will try to sort this out.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[November 2013 Meeting - Completed]]></title>
-    <link href="http://www.aberdeendevelopers.co.uk/november-2013-meeting-completed"/>
-    <updated>2013-12-05T20:56:31+00:00</updated>
-    <id>http://www.aberdeendevelopers.co.uk/november-2013-meeting-completed</id>
-    <content type="html"><![CDATA[<h1>Slides from Unit Testing Talk</h1>
-
-<p>On Thursday 21st November 2013, Aberdeen Developers .Net User Group welcomed Max Vasilyev for a talk entitled &ldquo;&rdquo;.  Full details of the event can be found <a href="http://adnuguk.me/1hbuLgl">here</a>.</p>
-
-<p>If you were not able to attend, you can find the slides on Max&rsquo;s site <a href="http://tech.trailmax.info/talks/">here</a>.</p>
 ]]></content>
   </entry>
   

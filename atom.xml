@@ -4,7 +4,7 @@
   <title><![CDATA[Aberdeen Developers .Net User Group]]></title>
   <link href="http://www.aberdeendevelopers.co.uk/atom.xml" rel="self"/>
   <link href="http://www.aberdeendevelopers.co.uk/"/>
-  <updated>2015-09-04T11:32:04+00:00</updated>
+  <updated>2015-09-06T20:22:51+00:00</updated>
   <id>http://www.aberdeendevelopers.co.uk/</id>
   <author>
     <name><![CDATA[gep13]]></name>
@@ -148,6 +148,19 @@ Colin Mackay is a software developer, former MVP, and speaker at user groups and
 <p><strong>Prize Draw</strong></p>
 
 <p>All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[July Meeting - Matt Ellis - Completed]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/July-2015-meeting-matt-ellis-completed"/>
+    <updated>2015-07-23T00:00:00+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/July-2015-meeting-matt-ellis-completed</id>
+    <content type="html"><![CDATA[<p>Thanks once again to Matt for making the journey up to Aberdeen to deliver his awesome talk on .Net Core!  If you want to get in touch with Matt, you can use his twitter account <a href="https://twitter.com/citizenmatt">@citizenmatt</a> and make sure you follow him for up-to-date news, articles and tips. You can also find a copy of the slides used in the presentation <a href="http://www.slideshare.net/citizenmatt/dot-netcoreblimey-07-2015">here</a>.</p>
+
+<p><strong> Prizes </strong></p>
+
+<p>For everyone who was lucky enough to win a prize from one of our amazing <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>, I have requested all of the prizes.  If you haven&rsquo;t heard anything, please get in touch, and we will try to sort this out.</p>
 ]]></content>
   </entry>
   
@@ -611,39 +624,6 @@ Colin Mackay is a software developer, former MVP, and speaker at user groups and
 <p>Venue: Riverside East Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7QQ, GB</p>
 
 <p>Directions: <a href="https://maps.google.co.uk/maps?q=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,+Aberdeen,+Aberdeen+City+AB10+7QG,+GB&amp;hl=en&amp;ll=57.119317,-2.136133&amp;spn=0.004165,0.012413&amp;sll=57.746995,-4.687341&amp;sspn=8.392957,25.422363&amp;hq=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,&amp;hnear=AB10+7QG,+United+Kingdom&amp;t=m&amp;z=17&amp;iwloc=A">Map showing Garthdee Campus</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Job Vacancy - Web and Applications Developer for RGU - Aberdeen]]></title>
-    <link href="http://www.aberdeendevelopers.co.uk/job-vacancy-web-applications-developer-rgu-aberdeen"/>
-    <updated>2014-03-25T20:56:03+00:00</updated>
-    <id>http://www.aberdeendevelopers.co.uk/job-vacancy-web-applications-developer-rgu-aberdeen</id>
-    <content type="html"><![CDATA[<p>Aberdeen Developers have been asked to promote the following job vacancy.  If you are interested in the position, or would like some more information, then please use the following link:</p>
-
-<p><a href="http://www4.rgu.ac.uk/jobs/disp_details_sum.cfm?RJ_ID=41294">http://www4.rgu.ac.uk/jobs/disp_details_sum.cfm?RJ_ID=41294</a></p>
-
-<p><strong>Web and Applications Developer</strong> (Ref C41294)
-IT Services Department</p>
-
-<p>We require a Web and Application Developer with experience in the overall architecture, design and support of online applications and a passion for learning and working with leading technologies.</p>
-
-<p>You will be working as part of the in house development team and will have responsibility for the day to day support, administration and development of a wide variety of services and applications.
-You&rsquo;ll need significant knowledge and experience of developing applications for the web including understanding of Object Oriented coding concepts and techniques.</p>
-
-<p>We also expect you to have a strong understanding of one or more leading web application technologies such as PHP, ASP.NET, C# or ColdFusion, and associated technologies such as HTML, CSS, Javascript and XML.</p>
-
-<p>We’re in the business of changing lives – developing students into highly employable graduates. Be part of their amazing journey by joining our 1500 colleagues who already enjoy the vibrant community, richly rewarding work, competitive pay and lifestyle afforded by the generous 38 days annual holiday allowance (including statutory holidays).</p>
-
-<p>There are a restricted number of certificates of sponsorship available in the UK and there is no guarantee that the University would be able to obtain one should the successful candidate require one.</p>
-
-<p><strong>Salary: £35085 - £37681 including market supplement</strong></p>
-
-<p>Position Type: Full-time , Permanent</p>
-
-<p>Relocation assistance will be available for this post</p>
-
-<p><strong>Closing Date: 13 April 2014</strong></p>
 ]]></content>
   </entry>
   

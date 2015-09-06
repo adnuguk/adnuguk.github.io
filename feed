@@ -5,8 +5,8 @@
     <description>Website for the meetings and events hosted by the Aberdeen Developers .Net User Group</description>
     <link>http://www.aberdeendevelopers.co.uk/</link>
     <atom:link href="http://www.aberdeendevelopers.co.uk/feed" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 04 Sep 2015 11:32:04 +0000</pubDate>
-    <lastBuildDate>Fri, 04 Sep 2015 11:32:04 +0000</lastBuildDate>
+    <pubDate>Sun, 06 Sep 2015 20:22:51 +0000</pubDate>
+    <lastBuildDate>Sun, 06 Sep 2015 20:22:51 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -162,6 +162,25 @@ Colin Mackay is a software developer, former MVP, and speaker at user groups and
         <category>blog</category>
         
         <category>event</category>
+        
+      </item>
+    
+      <item>
+        <title>July Meeting - Matt Ellis - Completed</title>
+        <description>&lt;p&gt;Thanks once again to Matt for making the journey up to Aberdeen to deliver his awesome talk on .Net Core!  If you want to get in touch with Matt, you can use his twitter account &lt;a href=&quot;https://twitter.com/citizenmatt&quot;&gt;@citizenmatt&lt;/a&gt; and make sure you follow him for up-to-date news, articles and tips. You can also find a copy of the slides used in the presentation &lt;a href=&quot;http://www.slideshare.net/citizenmatt/dot-netcoreblimey-07-2015&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt; Prizes &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;For everyone who was lucky enough to win a prize from one of our amazing &lt;a href=&quot;http://www.aberdeendevelopers.co.uk/sponsors/&quot;&gt;sponsors&lt;/a&gt;, I have requested all of the prizes.  If you haven&amp;rsquo;t heard anything, please get in touch, and we will try to sort this out.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 23 Jul 2015 00:00:00 +0000</pubDate>
+        <link>http://www.aberdeendevelopers.co.uk/July-2015-meeting-matt-ellis-completed</link>
+        <guid isPermaLink="true">http://www.aberdeendevelopers.co.uk/July-2015-meeting-matt-ellis-completed</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>event material</category>
         
       </item>
     
@@ -380,33 +399,6 @@ Colin Mackay is a software developer, former MVP, and speaker at user groups and
         <category>blog</category>
         
         <category>event material</category>
-        
-      </item>
-    
-      <item>
-        <title>February 2015 Meeting - Christos Matskas</title>
-        <description>&lt;p&gt;Aberdeen Developers are pleased to present a talk by Christos Matskas, this is a joint event with BCS Aberdeen Branch on Thursday 19th February 2015 at the Robert Gordon University.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Cross platform mobile development with the power of Xamarin&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Are you a .NET developer? Do you develop for mobile platforms or would you like to get started but you don’t know how or where? Then you should join Christos Matskas as he shows you how to get off the ground with mobile application development using the power of Xamarin and explains how to build powerful, full-featured, native applications that can run across all platforms. You will learn how to speed up your development cycle, reduce overhead costs and create “the one codebase to rule them all”.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://adnuguk-feb2015.eventbrite.com/?aff=blog&quot;&gt;&lt;img src=&quot;https://www.eventbrite.com/custombutton?eid=11987778769&quot; alt=&quot;Eventbrite - Aberdeen Developers .Net User Group - February 2015 Meeting&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Speaker Bio&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Christos Matskas has been working as a software developer professionally for the last 11 years. He is the founder and CEO of SoftwareLounge, a software consultancy firm, and co-founder of TowzieTyke an apps development powerhouse. His portfolio includes collaborations with some great companies such as MarkIT, Lockheed Martin and Barclays. Over the years he had the opportunity to work on a numerous exciting projects from mobile apps to data crunching back-end solutions. His blog, &lt;a href=&quot;https://cmatskas.com&quot;&gt;https://cmatskas.com&lt;/a&gt;, is full with useful tutorials, tips and tricks and reviews about software development and tools. Christos also contributes to Open Source and is a regular speaker at conferences and user groups talking about .NET, the Cloud and software development in general.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 09 Jan 2015 00:00:00 +0000</pubDate>
-        <link>http://www.aberdeendevelopers.co.uk/february-2015-meeting-christos-matskas</link>
-        <guid isPermaLink="true">http://www.aberdeendevelopers.co.uk/february-2015-meeting-christos-matskas</guid>
-        
-        
-        <category>blog</category>
-        
-        <category>events</category>
         
       </item>
     
