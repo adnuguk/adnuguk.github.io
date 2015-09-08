@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Blog | Aberdeen Developers .Net User Group]]></title>
   <link href="http://www.aberdeendevelopers.co.uk/blog/categories/blog/atom.xml" rel="self"/>
   <link href="http://www.aberdeendevelopers.co.uk/"/>
-  <updated>2015-09-06T20:22:51+00:00</updated>
+  <updated>2015-09-08T08:11:32+00:00</updated>
   <id>http://www.aberdeendevelopers.co.uk/</id>
   <author>
     <name><![CDATA[gep13]]></name>
@@ -12,6 +12,44 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[September 2015 Meeting #2 - Max Vasilyev]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/september-2015-meeting-2-max-vasilyev"/>
+    <updated>2015-09-08T00:00:00+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/september-2015-meeting-2-max-vasilyev</id>
+    <content type="html"><![CDATA[<p>Aberdeen Developers are pleased to present a talk by Max Vasilyev, on Thursday 24th September 2015 at the Robert Gordon University.</p>
+
+<hr />
+
+<p><strong>Command Query Responsibility Segregation</strong></p>
+
+<p>CQRS (Command Query Responsibility Segregation) have been around for a while and many people called and used this architecture/pattern differently. Probably many of you have read many articles about this approach, but never actually got to do it on practice.</p>
+
+<p>In this session there will be a brief theoretical discussion followed by practical examples with code samples and discussion of benefits of this approach.</p>
+
+<p><a href="http://www.eventbrite.com/e/aberdeen-developers-net-user-group-september-2015-meeting-2-tickets-18308807135?aff=blog"><img src="https://www.eventbrite.com/custombutton?eid=11987778769" alt="Eventbrite - Aberdeen Developers .Net User Group - September 2015 Meeting #2" /></a></p>
+
+<p><strong>Speaker Bio</strong>
+Max Vasilyev is a Senior Developer in one of Aberdeen’s .Net development houses. He has been successfully using CQRS in different projects for over 2 years. And he is keen to share his experience with wider audience.</p>
+
+<p><strong>Agenda - Thursday, 24th September 2015</strong>
++ 1800 - 1825: Arrival and registration
++ 1825 - 1830: Introduction
++ 1830 - 1930: Command Query Responsibility Segregation
++ 1930 Onwards: Questions &amp; Answers followed by Prize Draw</p>
+
+<p><strong>Location and Directions</strong></p>
+
+<p>Venue: Room N346, Riverside East Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7QQ, GB</p>
+
+<p>Directions: <a href="https://maps.google.co.uk/maps?q=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,+Aberdeen,+Aberdeen+City+AB10+7QG,+GB&amp;hl=en&amp;ll=57.119317,-2.136133&amp;spn=0.004165,0.012413&amp;sll=57.746995,-4.687341&amp;sspn=8.392957,25.422363&amp;hq=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,&amp;hnear=AB10+7QG,+United+Kingdom&amp;t=m&amp;z=17&amp;iwloc=A">Map showing Garthdee Campus</a></p>
+
+<p><strong>Prize Draw</strong></p>
+
+<p>All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[September 2015 Meeting #1 - Colin Mackay]]></title>
@@ -161,56 +199,6 @@ Colin Mackay is a software developer, former MVP, and speaker at user groups and
 <p><strong> Prizes </strong></p>
 
 <p>For everyone who was lucky enough to win a prize from one of our amazing <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>, I have requested all of the prizes.  If you haven&rsquo;t heard anything, please get in touch, and we will try to sort this out.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[July 2015 Meeting - Matt Ellis]]></title>
-    <link href="http://www.aberdeendevelopers.co.uk/july-2015-meeting-matt-ellis"/>
-    <updated>2015-06-22T00:00:00+00:00</updated>
-    <id>http://www.aberdeendevelopers.co.uk/july-2015-meeting-matt-ellis</id>
-    <content type="html"><![CDATA[<p>Aberdeen Developers are pleased to present the final night of Matt Ellis’s Scottish Tour. Join us on Thursday 23rd July 2015 at the Robert Gordon University to learn more about Microsoft’s recent move to open-source .NET!</p>
-
-<hr />
-
-<p><strong>.NETCore Blimey!</strong></p>
-
-<p>Microsoft have done the unthinkable and open-sourced .net, making it available on GitHub, and even taking it cross-platform. This is great news for developers, but do you know your .NET Core from your .Net Framework? Can you tell your CoreCLR from your CoreFX? And where does asp.net vnext and DNX come into this story? In this session, we’ll take a look at the big picture, dive deeply into some of the more interesting details and see how the pieces of Microsoft’s new .Net stack fit together, what it means for developers and find out exactly how you do run an .exe on Unix.</p>
-
-<p><a href="http://www.eventbrite.com/e/aberdeen-developers-net-user-group-july-2015-meeting-tickets-17423404873?aff=blog"><img src="https://www.eventbrite.com/custombutton?eid=11987778769" alt="Eventbrite - Aberdeen Developers .Net User Group - July 2015 Meeting" /></a></p>
-
-<p><strong>Speaker Bio</strong></p>
-
-<p>Matt Ellis is a developer at JetBrains, working on the Developer Advocacy team. He has 20 years of experience shipping software, having been a developer, team lead and technical authority for companies such as BBC Worldwide, BNP Paribas and Egg, the UK’s first internet bank. During that time, he has worked with a variety of platforms and technologies, from C++ and Unix to C#, Reactive Extensions and the Web. He currently works with language tooling, having fun with abstract syntax trees and source code analysis. He owns and contributes to various open source projects, and believes in the open closed principle.</p>
-
-<p><strong>Agenda - Thursday, 23rd July 2015 </strong></p>
-
-<ul>
-<li>1800 - 1825: Arrival and registration</li>
-<li>1825 - 1830: Introduction</li>
-<li>1830 - 1930: .NETCore Blimey!</li>
-<li>1930 Onwards: Questions &amp; Answers followed by Prize Draw</li>
-</ul>
-
-
-<p><strong>Location and Directions</strong></p>
-
-<p>Venue: Room N204, Riverside East Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7QQ, GB</p>
-
-<p>Directions: <a href="https://maps.google.co.uk/maps?q=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,+Aberdeen,+Aberdeen+City+AB10+7QG,+GB&amp;hl=en&amp;ll=57.119317,-2.136133&amp;spn=0.004165,0.012413&amp;sll=57.746995,-4.687341&amp;sspn=8.392957,25.422363&amp;hq=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,&amp;hnear=AB10+7QG,+United+Kingdom&amp;t=m&amp;z=17&amp;iwloc=A">Map showing Garthdee Campus</a></p>
-
-<p><strong>Prize Draw</strong></p>
-
-<p>All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>.
-<strong>Tour Dates</strong></p>
-
-<p>As part of the Scotland Tour, Matt will also be presenting at the following venues:</p>
-
-<ul>
-<li><a href="https://www.eventbrite.co.uk/e/c-6-features-and-tooling-tickets-17510913614">Skyscanner, Edinburgh - Tuesday, 21st July</a></li>
-<li><a href="https://www.eventbrite.co.uk/e/net-core-blimey-tickets-17510783224">Skyscanner, Glasgow - Wednesday, 22nd July</a></li>
-</ul>
-
 ]]></content>
   </entry>
   
