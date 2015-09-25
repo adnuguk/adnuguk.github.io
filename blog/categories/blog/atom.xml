@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Blog | Aberdeen Developers .Net User Group]]></title>
   <link href="http://www.aberdeendevelopers.co.uk/blog/categories/blog/atom.xml" rel="self"/>
   <link href="http://www.aberdeendevelopers.co.uk/"/>
-  <updated>2015-09-08T08:11:32+00:00</updated>
+  <updated>2015-09-25T08:12:00+00:00</updated>
   <id>http://www.aberdeendevelopers.co.uk/</id>
   <author>
     <name><![CDATA[gep13]]></name>
@@ -12,6 +12,47 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[September Meeting - Max Vasilyev - Completed]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/September-2015-meeting-max-vasilyev-completed"/>
+    <updated>2015-09-25T00:00:00+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/September-2015-meeting-max-vasilyev-completed</id>
+    <content type="html"><![CDATA[<p>Thanks once again to Max for coming along to Aberdeen Devlopers to deliver his awesome talk on CQRS!  If you want to get in touch with Max, you can use his twitter account <a href="https://twitter.com/trailmax">@trailmax</a> and make sure you follow him for up-to-date news, articles and tips. You can also find a copy of the slides used in the presentation <a href="https://github.com/trailmax/CQRS.Talk">here</a>.</p>
+
+<p><strong> Prizes </strong></p>
+
+<p>For everyone who was lucky enough to win a prize from one of our amazing <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>, the prizes will be requested in due course.  If you don&rsquo;t hear anything, please get in touch, and we will try to sort this out.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[September Meeting - Colin Mackay - Completed]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/September-2015-meeting-colin-mackay-completed"/>
+    <updated>2015-09-25T00:00:00+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/September-2015-meeting-colin-mackay-completed</id>
+    <content type="html"><![CDATA[<p>Thanks once again to Colin for making the journey up to Aberdeen to deliver his awesome talk on Continuous Delivery!  If you want to get in touch with Colin, you can use his twitter account <a href="https://twitter.com/colinmackay">@colinmackay</a> and make sure you follow him for up-to-date news, articles and tips. You can also find a copy of the slides used in the presentation <a href="http://colinmackay.scot/2015/09/13/continuous-delivery-aberdeen-developers-net-user-group/">here</a>.</p>
+
+<p><strong> Prizes </strong></p>
+
+<p>For everyone who was lucky enough to win a prize from one of our amazing <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>, I have requested all of the prizes.  If you haven&rsquo;t heard anything, please get in touch, and we will try to sort this out.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[August Meeting - Mike Taulty - Completed]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/August-2015-meeting-mike-taulty-completed"/>
+    <updated>2015-09-25T00:00:00+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/August-2015-meeting-mike-taulty-completed</id>
+    <content type="html"><![CDATA[<p>Thanks once again to Mike for making the journey up to Aberdeen to deliver his awesome talk on Windows 10 and the Universal Windows App Platform!  If you want to get in touch with Mike, you can use his twitter account <a href="https://twitter.com/mtaulty">@mtaulty</a> and make sure you follow him for up-to-date news, articles and tips. You can also find a copy of the slides used in the presentation <a href="http://1drv.ms/1NkYYJr">here</a>.</p>
+
+<p><strong> Prizes </strong></p>
+
+<p>For everyone who was lucky enough to win a prize from one of our amazing <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>, I have requested all of the prizes.  If you haven&rsquo;t heard anything, please get in touch, and we will try to sort this out.</p>
+
+<p>As Mike mentioned, there is the possibility of getting some Windows 10 Swag in the form of t-shirts.  I am currently working on this, and once I know more, I will let you know.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[September 2015 Meeting #2 - Max Vasilyev]]></title>
@@ -90,115 +131,6 @@ Colin Mackay is a software developer, former MVP, and speaker at user groups and
 <p><strong>Prize Draw</strong></p>
 
 <p>All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[August 2015 Meeting #2 - Mike Taulty]]></title>
-    <link href="http://www.aberdeendevelopers.co.uk/august-2015-meeting-2-mike-taulty"/>
-    <updated>2015-08-13T00:00:00+00:00</updated>
-    <id>http://www.aberdeendevelopers.co.uk/august-2015-meeting-2-mike-taulty</id>
-    <content type="html"><![CDATA[<p>Aberdeen Developers are pleased to present a talk by Mike Taulty, on Thursday 27th August 2015 at the Robert Gordon University.</p>
-
-<hr />
-
-<p><strong>Windows 10 and the Universal Windows App Platform</strong></p>
-
-<p>Windows 10 is a big release for Microsoft. Commodious. Huge. Massive. Colossal. Humongous. ;-)</p>
-
-<p>It’s the end of a journey to unify Windows. It’s the beginning of a journey for developers who want to take advantage of a universal app platform available across all Windows devices.</p>
-
-<p>In this session, we’ll dig into what’s changed in Windows 10 for the Windows app developer. We’ll talk about the Universal App Platform that makes it possible to build code that runs on all Windows devices and about the Extension platforms for code that targets specific device families.</p>
-
-<p>We’ll stay in Visual Studio as much as is possible and we’ll lean towards C# and XAML.</p>
-
-<p><a href="http://www.eventbrite.com/e/aberdeen-developers-net-user-group-august-2015-meeting-2-tickets-18094386798?aff=blog"><img src="https://www.eventbrite.com/custombutton?eid=11987778769" alt="Eventbrite - Aberdeen Developers .Net User Group - August 2015 Meeting #2" /></a></p>
-
-<p><strong>Speaker Bio</strong></p>
-
-<p>Mike Taulty works in the Developer and Platform Group at Microsoft in the UK where he has spent the past few years helping developers understand and get the best from the Microsoft platform. Prior to this, Mike spent 3 years with Microsoft Consulting Services as a consultant on developer technologies.</p>
-
-<p>Before joining Microsoft, Mike spent the previous 9 years working as a software developer for a number of enterprises, consultancies and software vendors working with a variety of operating system, client, communication and server technologies. You can find more of a complete career history over on <a href="http://uk.linkedin.com/in/mtaulty">LinkedIn</a>.</p>
-
-<p>Mike holds a BSc Hons (1st Class) in Computer Science from the University of Leeds.</p>
-
-<p><strong>Agenda - Thursday, 27th August 2015</strong>
-+ 1800 - 1825: Arrival and registration
-+ 1825 - 1830: Introduction
-+ 1830 - 1930: Windows 10 and the Universal Windows App Platform
-+ 1930 Onwards: Questions &amp; Answers followed by Prize Draw</p>
-
-<p><strong>Location and Directions</strong></p>
-
-<p>Venue: Room N311, Riverside East Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7QQ, GB</p>
-
-<p>Directions: <a href="https://maps.google.co.uk/maps?q=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,+Aberdeen,+Aberdeen+City+AB10+7QG,+GB&amp;hl=en&amp;ll=57.119317,-2.136133&amp;spn=0.004165,0.012413&amp;sll=57.746995,-4.687341&amp;sspn=8.392957,25.422363&amp;hq=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,&amp;hnear=AB10+7QG,+United+Kingdom&amp;t=m&amp;z=17&amp;iwloc=A">Map showing Garthdee Campus</a></p>
-
-<p><strong>Prize Draw</strong></p>
-
-<p>All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[August 2015 Meeting #1 - Mark Rendle]]></title>
-    <link href="http://www.aberdeendevelopers.co.uk/august-2015-meeting-1-mark-rendle"/>
-    <updated>2015-08-13T00:00:00+00:00</updated>
-    <id>http://www.aberdeendevelopers.co.uk/august-2015-meeting-1-mark-rendle</id>
-    <content type="html"><![CDATA[<p>Aberdeen Developers are pleased to present a talk by Mark Rendle, on Thursday 20th August 2015 at the Robert Gordon University.</p>
-
-<hr />
-
-<p><strong>Docker Strangelove - ASP.NET 5 on Linux</strong></p>
-
-<p>Come and learn all about hacking on ASP.NET on Linux!</p>
-
-<p>Linux is now an officially supported platform for ASP.NET applications and you can use epic open-source things like Docker to manage your deployments.</p>
-
-<p>In this session Mark will show us how to run an ASP.NET 5 application on Linux, then in Docker on Linux, and a whole lot more going as far down the rabbit hole as time allows. There may even be time to set up a mini-cloud-within-a-cloud with automated deployments from GitHub!</p>
-
-<p><a href="http://www.eventbrite.com/e/aberdeen-developers-net-user-group-august-2015-meeting-tickets-17423409888?aff=blog"><img src="https://www.eventbrite.com/custombutton?eid=11987778769" alt="Eventbrite - Aberdeen Developers .Net User Group - August 2015 Meeting #1" /></a></p>
-
-<p>WARNING: may contain traces of demo-fail</p>
-
-<p><strong>Speaker Bio</strong></p>
-
-<p>Mark is the founder and CTO of Oort Corporation, a new company building cloud-based software for people who build cloud-based software. Oort&rsquo;s first product, Zudio, a Windows Azure Storage toolkit, is currently in public preview and will be fully launching in April 2013. Mark has been a Windows Azure Development MVP for three years.</p>
-
-<p>In his spare time, Mark work&rsquo;s on the Simple.Data not-an-ORM and Simple.Web projects, and wanders the world speaking at conferences and user groups. Or he just geeks out learning new programming languages and frameworks; in 2013 he&rsquo;s working a lot with TypeScript and AngularJS.</p>
-
-<p><strong>Agenda - Thursday, 20th August 2015</strong></p>
-
-<ul>
-<li>1800 - 1825: Arrival and registration</li>
-<li>1825 - 1830: Introduction</li>
-<li>1830 - 1930: Docker Strangelove - ASP.NET 5 on Linux</li>
-<li>1930 Onwards: Questions &amp; Answers followed by Prize Draw</li>
-</ul>
-
-
-<p><strong>Location and Directions</strong></p>
-
-<p>Venue: Room N204, Riverside East Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7QQ, GB</p>
-
-<p>Directions: <a href="https://maps.google.co.uk/maps?q=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,+Aberdeen,+Aberdeen+City+AB10+7QG,+GB&amp;hl=en&amp;ll=57.119317,-2.136133&amp;spn=0.004165,0.012413&amp;sll=57.746995,-4.687341&amp;sspn=8.392957,25.422363&amp;hq=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,&amp;hnear=AB10+7QG,+United+Kingdom&amp;t=m&amp;z=17&amp;iwloc=A">Map showing Garthdee Campus</a></p>
-
-<p><strong>Prize Draw</strong></p>
-
-<p>All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[July Meeting - Matt Ellis - Completed]]></title>
-    <link href="http://www.aberdeendevelopers.co.uk/July-2015-meeting-matt-ellis-completed"/>
-    <updated>2015-07-23T00:00:00+00:00</updated>
-    <id>http://www.aberdeendevelopers.co.uk/July-2015-meeting-matt-ellis-completed</id>
-    <content type="html"><![CDATA[<p>Thanks once again to Matt for making the journey up to Aberdeen to deliver his awesome talk on .Net Core!  If you want to get in touch with Matt, you can use his twitter account <a href="https://twitter.com/citizenmatt">@citizenmatt</a> and make sure you follow him for up-to-date news, articles and tips. You can also find a copy of the slides used in the presentation <a href="http://www.slideshare.net/citizenmatt/dot-netcoreblimey-07-2015">here</a>.</p>
-
-<p><strong> Prizes </strong></p>
-
-<p>For everyone who was lucky enough to win a prize from one of our amazing <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>, I have requested all of the prizes.  If you haven&rsquo;t heard anything, please get in touch, and we will try to sort this out.</p>
 ]]></content>
   </entry>
   
