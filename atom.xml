@@ -4,7 +4,7 @@
   <title><![CDATA[Aberdeen Developers .Net User Group]]></title>
   <link href="http://www.aberdeendevelopers.co.uk/atom.xml" rel="self"/>
   <link href="http://www.aberdeendevelopers.co.uk/"/>
-  <updated>2015-09-25T08:12:00+00:00</updated>
+  <updated>2015-10-13T13:20:49+00:00</updated>
   <id>http://www.aberdeendevelopers.co.uk/</id>
   <author>
     <name><![CDATA[gep13]]></name>
@@ -12,6 +12,44 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[October 2015 Meeting - Gary Ewan Park]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/october-2015-meeting-gary-ewan-park"/>
+    <updated>2015-10-13T00:00:00+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/october-2015-meeting-gary-ewan-park</id>
+    <content type="html"><![CDATA[<p>Aberdeen Developers are pleased to present a talk by Gary Ewan Park, on Thursday 22nd October 2015 at the Robert Gordon University.</p>
+
+<hr />
+
+<p><strong>Semantic Versioning with GitVersion</strong></p>
+
+<p>Have you ever needed to control the version number of your application? If so, you will know that this isn’t something that you “get for free”. It’s hard! You may have tried to use some form of auto incrementing number from your Continuous Integration Server, or store a text file in source control and update it each time the build happens. Both of these approaches will work, but they don’t account for more complicated scenarios where you are working on multiple releases at the same time, or you want to use multiple Continuous Integration Servers. In this session, we will look at how we can improve the versioning of your application using a combination of branching strategies (either Gitflow or Githubflow) and an open source tool called GitVersion. GitVersion is a tool which allows you to easy generate the Semantic Version number for your application, based on the current state of your code base in it’s Git Repository.</p>
+
+<p><a href="http://www.eventbrite.com/e/aberdeen-developers-net-user-group-october-2015-meeting-tickets-18944026092?aff=blog"><img src="https://www.eventbrite.com/custombutton?eid=11987778769" alt="Eventbrite - Aberdeen Developers .Net User Group - October 2015 Meeting #1" /></a></p>
+
+<p><strong>Speaker Bio</strong>
+Gary Ewan Park has been developing on the .Net Platform for almost 9 years. His day job with Digital Applications Internatational sees him developing using ASP.NET, AngularJS, WPF, SharePoint, Silverlight, and WCF for Oil Companies working in the North Sea.</p>
+
+<p>In his spare time, Gary contributes to a number of Open Source projects including Chocolatey, ChocolateyGUI, Boxstarter, psake-contrib, GitVersion, and GitReleaseManager.</p>
+
+<p><strong>Agenda - Thursday,  22nd October 2015</strong>
++ 1800 - 1825: Arrival and registration
++ 1825 - 1830: Introduction
++ 1830 - 1930: Semantic Versioning with GitVersion
++ 1930 Onwards: Questions &amp; Answers followed by Prize Draw</p>
+
+<p><strong>Location and Directions</strong></p>
+
+<p>Venue: Room N311, Riverside East Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7QQ, GB</p>
+
+<p>Directions: <a href="https://maps.google.co.uk/maps?q=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,+Aberdeen,+Aberdeen+City+AB10+7QG,+GB&amp;hl=en&amp;ll=57.119317,-2.136133&amp;spn=0.004165,0.012413&amp;sll=57.746995,-4.687341&amp;sspn=8.392957,25.422363&amp;hq=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,&amp;hnear=AB10+7QG,+United+Kingdom&amp;t=m&amp;z=17&amp;iwloc=A">Map showing Garthdee Campus</a></p>
+
+<p><strong>Prize Draw</strong></p>
+
+<p>All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[September Meeting - Max Vasilyev - Completed]]></title>
@@ -516,48 +554,6 @@ Colin Mackay is a software developer, former MVP, and speaker at user groups and
 <p>Hot of the heels of the Northern Lights Conference comes <a href="http://codethecity.org/">Code the City</a>, back for it&rsquo;s second year after it&rsquo;s success last year!  If you are interested in helping out, regardless of what skills you might have, you can register your interest <a href="https://www.eventbrite.co.uk/e/code-the-city-aberdeen-sport-fitness-and-wellbeing-tickets-12794716341">here</a>.</p>
 
 <p>Unfortunately, I will not be able to attend either event, but thoroughly recommend that you check them out!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Job Vacancy - Software Developer - SPD]]></title>
-    <link href="http://www.aberdeendevelopers.co.uk/job-vacancy-software-developer-spd"/>
-    <updated>2014-10-13T00:00:00+00:00</updated>
-    <id>http://www.aberdeendevelopers.co.uk/job-vacancy-software-developer-spd</id>
-    <content type="html"><![CDATA[<p>Aberdeen Developers have been asked to promote the following job vacancy.  If you are interested in the position, or would like some more information, then please use the following link:</p>
-
-<p><a href="https://petrofac.taleo.net/careersection/2/jobdetail.ftl?job=008338&amp;lang=en">https://petrofac.taleo.net/careersection/2/jobdetail.ftl?job=008338&amp;lang=en</a></p>
-
-<hr />
-
-
-<p><strong>Purpose</strong></p>
-
-<p>WellAtlas is a software tool used internally by our Well Engineering team and also by a number of global operators. It is now a proven solution encompassing a series of integrated specialist modules, that together, bring visibility and assurance of all critical elements required to meet a company’s project delivery agenda. Due to internal and external client requirements as well as our Product Roadmap, the opportunity for a Software Developer has become key to the continued growth of this service line.</p>
-
-<p>The role of the Software Developer will encompass all aspects of the software life cycle from initial requirements gathering through design, build and testing and onto deployment and support.</p>
-
-<p><strong>Role:</strong></p>
-
-<ul>
-<li>Coordination of multiple simultaneous streams of software development between existing and potential clients</li>
-<li>Design, development and implementation of both internal and client driven software projects</li>
-<li>Collaboration with Product Management by validating the product roadmap, setting priorities and providing estimates</li>
-<li>Ensuring visibility through lightweight metrics and continuous project status reporting</li>
-<li>Ensure document quality and technical accuracy. Creation and maintenance of development documentation (coding standards etc.)</li>
-<li>Design, development and implementation of both internal and client driven software projects</li>
-<li>Development of reports using Microsoft SQL Server Reporting Services, as well as developing any necessary ASP.NET (C#) web pages and dialogs for selection of reporting criteria, filters etc.</li>
-<li>Administration and support of IIS and SQL Servers.</li>
-<li>The candidate will be flexible, driven and show a ‘can do’ attitude</li>
-</ul>
-
-
-<p>Please see the link above for full details of &ldquo;Key Accountabilities&rdquo;, &ldquo;Knowledge, Skills &amp; Experience expected&rdquo;, and &ldquo;Minimum Qualifications required&rdquo;</p>
-
-<hr />
-
-
-<p><strong>Closing Date: 20 October 2014</strong></p>
 ]]></content>
   </entry>
   
