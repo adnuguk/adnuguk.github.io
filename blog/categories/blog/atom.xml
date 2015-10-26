@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Blog | Aberdeen Developers .Net User Group]]></title>
   <link href="http://www.aberdeendevelopers.co.uk/blog/categories/blog/atom.xml" rel="self"/>
   <link href="http://www.aberdeendevelopers.co.uk/"/>
-  <updated>2015-10-13T13:20:49+00:00</updated>
+  <updated>2015-10-26T22:18:39+00:00</updated>
   <id>http://www.aberdeendevelopers.co.uk/</id>
   <author>
     <name><![CDATA[gep13]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[October Meeting - Gary Ewan Park - Completed]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/October-2015-meeting-gary-ewan-park-completed"/>
+    <updated>2015-10-26T00:00:00+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/October-2015-meeting-gary-ewan-park-completed</id>
+    <content type="html"><![CDATA[<p>Thanks once again to Gary for his talk on GitVersion!  If you want to get in touch with Gary, you can use his twitter account <a href="https://twitter.com/gep13">@gep13</a> and make sure you follow him for up-to-date news, articles and tips. You can also find a copy of the slides used in the presentation <a href="http://www.slideshare.net/gep13/semantic-versioning-with-gitversion-take-2">here</a>.  If you have any questions about GitVersion, you can also ask them at the Gitter Chat room, which you can find <a href="https://gitter.im/GitTools/GitVersion">here</a>.</p>
+
+<p><strong> Prizes </strong></p>
+
+<p>For everyone who was lucky enough to win a prize from one of our amazing <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>, I have requested all of the prizes.  If you haven&rsquo;t heard anything, please get in touch, and we will try to sort this out.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[October 2015 Meeting - Gary Ewan Park]]></title>
@@ -89,44 +102,6 @@ Gary Ewan Park has been developing on the .Net Platform for almost 9 years. His 
 <p>For everyone who was lucky enough to win a prize from one of our amazing <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>, I have requested all of the prizes.  If you haven&rsquo;t heard anything, please get in touch, and we will try to sort this out.</p>
 
 <p>As Mike mentioned, there is the possibility of getting some Windows 10 Swag in the form of t-shirts.  I am currently working on this, and once I know more, I will let you know.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[September 2015 Meeting #2 - Max Vasilyev]]></title>
-    <link href="http://www.aberdeendevelopers.co.uk/september-2015-meeting-2-max-vasilyev"/>
-    <updated>2015-09-08T00:00:00+00:00</updated>
-    <id>http://www.aberdeendevelopers.co.uk/september-2015-meeting-2-max-vasilyev</id>
-    <content type="html"><![CDATA[<p>Aberdeen Developers are pleased to present a talk by Max Vasilyev, on Thursday 24th September 2015 at the Robert Gordon University.</p>
-
-<hr />
-
-<p><strong>Command Query Responsibility Segregation</strong></p>
-
-<p>CQRS (Command Query Responsibility Segregation) have been around for a while and many people called and used this architecture/pattern differently. Probably many of you have read many articles about this approach, but never actually got to do it on practice.</p>
-
-<p>In this session there will be a brief theoretical discussion followed by practical examples with code samples and discussion of benefits of this approach.</p>
-
-<p><a href="http://www.eventbrite.com/e/aberdeen-developers-net-user-group-september-2015-meeting-2-tickets-18308807135?aff=blog"><img src="https://www.eventbrite.com/custombutton?eid=11987778769" alt="Eventbrite - Aberdeen Developers .Net User Group - September 2015 Meeting #2" /></a></p>
-
-<p><strong>Speaker Bio</strong>
-Max Vasilyev is a Senior Developer in one of Aberdeen’s .Net development houses. He has been successfully using CQRS in different projects for over 2 years. And he is keen to share his experience with wider audience.</p>
-
-<p><strong>Agenda - Thursday, 24th September 2015</strong>
-+ 1800 - 1825: Arrival and registration
-+ 1825 - 1830: Introduction
-+ 1830 - 1930: Command Query Responsibility Segregation
-+ 1930 Onwards: Questions &amp; Answers followed by Prize Draw</p>
-
-<p><strong>Location and Directions</strong></p>
-
-<p>Venue: Room N346, Riverside East Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7QQ, GB</p>
-
-<p>Directions: <a href="https://maps.google.co.uk/maps?q=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,+Aberdeen,+Aberdeen+City+AB10+7QG,+GB&amp;hl=en&amp;ll=57.119317,-2.136133&amp;spn=0.004165,0.012413&amp;sll=57.746995,-4.687341&amp;sspn=8.392957,25.422363&amp;hq=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,&amp;hnear=AB10+7QG,+United+Kingdom&amp;t=m&amp;z=17&amp;iwloc=A">Map showing Garthdee Campus</a></p>
-
-<p><strong>Prize Draw</strong></p>
-
-<p>All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>.</p>
 ]]></content>
   </entry>
   

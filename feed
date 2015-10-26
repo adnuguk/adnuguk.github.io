@@ -5,9 +5,28 @@
     <description>Website for the meetings and events hosted by the Aberdeen Developers .Net User Group</description>
     <link>http://www.aberdeendevelopers.co.uk/</link>
     <atom:link href="http://www.aberdeendevelopers.co.uk/feed" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 13 Oct 2015 13:20:49 +0000</pubDate>
-    <lastBuildDate>Tue, 13 Oct 2015 13:20:49 +0000</lastBuildDate>
+    <pubDate>Mon, 26 Oct 2015 22:18:39 +0000</pubDate>
+    <lastBuildDate>Mon, 26 Oct 2015 22:18:39 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>October Meeting - Gary Ewan Park - Completed</title>
+        <description>&lt;p&gt;Thanks once again to Gary for his talk on GitVersion!  If you want to get in touch with Gary, you can use his twitter account &lt;a href=&quot;https://twitter.com/gep13&quot;&gt;@gep13&lt;/a&gt; and make sure you follow him for up-to-date news, articles and tips. You can also find a copy of the slides used in the presentation &lt;a href=&quot;http://www.slideshare.net/gep13/semantic-versioning-with-gitversion-take-2&quot;&gt;here&lt;/a&gt;.  If you have any questions about GitVersion, you can also ask them at the Gitter Chat room, which you can find &lt;a href=&quot;https://gitter.im/GitTools/GitVersion&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt; Prizes &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;For everyone who was lucky enough to win a prize from one of our amazing &lt;a href=&quot;http://www.aberdeendevelopers.co.uk/sponsors/&quot;&gt;sponsors&lt;/a&gt;, I have requested all of the prizes.  If you haven&amp;rsquo;t heard anything, please get in touch, and we will try to sort this out.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 26 Oct 2015 00:00:00 +0000</pubDate>
+        <link>http://www.aberdeendevelopers.co.uk/October-2015-meeting-gary-ewan-park-completed</link>
+        <guid isPermaLink="true">http://www.aberdeendevelopers.co.uk/October-2015-meeting-gary-ewan-park-completed</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>event material</category>
+        
+      </item>
     
       <item>
         <title>October 2015 Meeting - Gary Ewan Park</title>
@@ -328,62 +347,6 @@ Colin Mackay is a software developer, former MVP, and speaker at user groups and
         <category>blog</category>
         
         <category>event material</category>
-        
-      </item>
-    
-      <item>
-        <title>July 2015 Meeting - Matt Ellis</title>
-        <description>&lt;p&gt;Aberdeen Developers are pleased to present the final night of Matt Ellis’s Scottish Tour. Join us on Thursday 23rd July 2015 at the Robert Gordon University to learn more about Microsoft’s recent move to open-source .NET!&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;.NETCore Blimey!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Microsoft have done the unthinkable and open-sourced .net, making it available on GitHub, and even taking it cross-platform. This is great news for developers, but do you know your .NET Core from your .Net Framework? Can you tell your CoreCLR from your CoreFX? And where does asp.net vnext and DNX come into this story? In this session, we’ll take a look at the big picture, dive deeply into some of the more interesting details and see how the pieces of Microsoft’s new .Net stack fit together, what it means for developers and find out exactly how you do run an .exe on Unix.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.eventbrite.com/e/aberdeen-developers-net-user-group-july-2015-meeting-tickets-17423404873?aff=blog&quot;&gt;&lt;img src=&quot;https://www.eventbrite.com/custombutton?eid=11987778769&quot; alt=&quot;Eventbrite - Aberdeen Developers .Net User Group - July 2015 Meeting&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Speaker Bio&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Matt Ellis is a developer at JetBrains, working on the Developer Advocacy team. He has 20 years of experience shipping software, having been a developer, team lead and technical authority for companies such as BBC Worldwide, BNP Paribas and Egg, the UK’s first internet bank. During that time, he has worked with a variety of platforms and technologies, from C++ and Unix to C#, Reactive Extensions and the Web. He currently works with language tooling, having fun with abstract syntax trees and source code analysis. He owns and contributes to various open source projects, and believes in the open closed principle.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Agenda - Thursday, 23rd July 2015 &lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;1800 - 1825: Arrival and registration&lt;/li&gt;
-&lt;li&gt;1825 - 1830: Introduction&lt;/li&gt;
-&lt;li&gt;1830 - 1930: .NETCore Blimey!&lt;/li&gt;
-&lt;li&gt;1930 Onwards: Questions &amp;amp; Answers followed by Prize Draw&lt;/li&gt;
-&lt;/ul&gt;
-
-
-&lt;p&gt;&lt;strong&gt;Location and Directions&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Venue: Room N204, Riverside East Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7QQ, GB&lt;/p&gt;
-
-&lt;p&gt;Directions: &lt;a href=&quot;https://maps.google.co.uk/maps?q=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,+Aberdeen,+Aberdeen+City+AB10+7QG,+GB&amp;amp;hl=en&amp;amp;ll=57.119317,-2.136133&amp;amp;spn=0.004165,0.012413&amp;amp;sll=57.746995,-4.687341&amp;amp;sspn=8.392957,25.422363&amp;amp;hq=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,&amp;amp;hnear=AB10+7QG,+United+Kingdom&amp;amp;t=m&amp;amp;z=17&amp;amp;iwloc=A&quot;&gt;Map showing Garthdee Campus&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Prize Draw&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic &lt;a href=&quot;http://www.aberdeendevelopers.co.uk/sponsors/&quot;&gt;sponsors&lt;/a&gt;.
-&lt;strong&gt;Tour Dates&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;As part of the Scotland Tour, Matt will also be presenting at the following venues:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.eventbrite.co.uk/e/c-6-features-and-tooling-tickets-17510913614&quot;&gt;Skyscanner, Edinburgh - Tuesday, 21st July&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.eventbrite.co.uk/e/net-core-blimey-tickets-17510783224&quot;&gt;Skyscanner, Glasgow - Wednesday, 22nd July&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Mon, 22 Jun 2015 00:00:00 +0000</pubDate>
-        <link>http://www.aberdeendevelopers.co.uk/july-2015-meeting-matt-ellis</link>
-        <guid isPermaLink="true">http://www.aberdeendevelopers.co.uk/july-2015-meeting-matt-ellis</guid>
-        
-        
-        <category>blog</category>
-        
-        <category>event</category>
         
       </item>
     
