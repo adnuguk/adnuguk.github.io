@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Events | Aberdeen Developers .Net User Group]]></title>
   <link href="http://www.aberdeendevelopers.co.uk/blog/categories/events/atom.xml" rel="self"/>
   <link href="http://www.aberdeendevelopers.co.uk/"/>
-  <updated>2015-10-26T22:18:39+00:00</updated>
+  <updated>2016-01-02T22:09:29+00:00</updated>
   <id>http://www.aberdeendevelopers.co.uk/</id>
   <author>
     <name><![CDATA[gep13]]></name>
@@ -12,6 +12,60 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[ScotNetRocks! Aberdeen]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/scotnetrocks-aberdeen"/>
+    <updated>2016-01-02T00:00:00+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/scotnetrocks-aberdeen</id>
+    <content type="html"><![CDATA[<p>Aberdeen Developers are pleased to present the final night of the ScotNetRocks! tour, hopefully you’ll be able to join us to hear Carl and Richard kick off the evening as they take us on a tour of the broad range of subjects they&rsquo;ve explored recording more than 1200 episodes of .NET Rocks over the past 10+ years. After a short break, in which we are hoping to provide some light refreshments, Carl and Richard will be recording a live show with special guest Gary Short.</p>
+
+<hr />
+
+<p><strong>ScotNetRocks!</strong></p>
+
+<p>Join Carl Franklin and Richard Campbell as they take you on a tour of the broad range of subjects they’ve explored recording more than 1200 episodes of .NET Rocks! over the past 10+ years. The development world today is evolving rapidly, but a look at the history of development can help inform the path we’re on and where we’re going. Along the way you’ll hear some great stories from the various .NET Rocks! episodes and get some ideas of how you can take your career and your company into the future of technology.</p>
+
+<p><a href="http://www.eventbrite.com/e/scotnetrocks-aberdeen-tickets-19517547510?aff=blog"><img src="https://www.eventbrite.com/custombutton?eid=11987778769" alt="Eventbrite - Aberdeen Developers .Net User Group - ScotNetRocks! Aberdeen" /></a></p>
+
+<p>This will be a three date tour of Scotland, more information and tickets can be found here:
++ <a href="http://www.eventbrite.com/e/scotnetrocks-glasgow-tickets-19597665144?aff=adnug">Glasgow: 18th January 2016.</a>
++ <a href="http://www.eventbrite.co.uk/e/scotnetrocks-edinburgh-tickets-19510803338?aff=adnug">Edinburgh: 19th January 2016.</a>
++ <a href="http://www.eventbrite.com/e/scotnetrocks-aberdeen-tickets-19517547510?aff=blog">Aberdeen: 21st January 2016.</a></p>
+
+<p><strong>Agenda - Thursday,  21st January 2016</strong>
++ 1815 - Doors open
++ 1825 - Introduction &amp; Housekeeping
++ 1830 - Future of Tech - Carl and Richard
++ 1930 - Break
++ 2000 - .NET Rocks! Live Recording with special guest Gary Short
++ 2100 - Finish</p>
+
+<p><strong>Location and Directions</strong></p>
+
+<p>Venue: Room N242, Riverside East Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7QQ, GB</p>
+
+<p>Directions: <a href="https://maps.google.co.uk/maps?q=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,+Aberdeen,+Aberdeen+City+AB10+7QG,+GB&amp;hl=en&amp;ll=57.119317,-2.136133&amp;spn=0.004165,0.012413&amp;sll=57.746995,-4.687341&amp;sspn=8.392957,25.422363&amp;hq=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,&amp;hnear=AB10+7QG,+United+Kingdom&amp;t=m&amp;z=17&amp;iwloc=A">Map showing Garthdee Campus</a></p>
+
+<p><strong>Sponsors</strong></p>
+
+<p>Big thanks to our sponsors, whose support and generosity have enabled us to bring you the .NET Rocks! Scottish Tour.</p>
+
+<p>Codify</p>
+
+<p>Founded in 2000, Codify have over a decade of experience developing custom applications for the oil and gas industry used by companies of all sizes, from small local businesses to global corporations. Being based in Aberdeen has allowed Codify to gain a high level of knowledge about the energy industry. Codify love to hire smart people, have happy customers and build software that helps their clients get their job done.
+For more information please visit their site at <a href="http://www.codify.ltd.uk/">http://www.codify.ltd.uk/</a></p>
+
+<p>Evoke IT</p>
+
+<p>Evoke IT specialise in all things SharePoint. Since 2011 they have been building and providing businesses with a wealth of tools created to transform the way your company operates. Equipped with the largest team of SharePoint resources in Scotland means they can fully customise the technology to suit your business processes. Evoke IT pride themselves on the individual strengths that each member of their growing company can contribute.
+For more information please visit their site at <a href="http://www.evokeit.com/">http://www.evokeit.com/</a></p>
+
+<p>Lockheed Martin</p>
+
+<p>Lockheed Martin is a global technology organisation with three key areas of focus in the UK; Transportation &amp; Energy, Public Services and Security &amp; Defence. With over 3,000 people throughout the UK, our team of experts ensure our technology solutions enable customers to overcome challenges and become more efficient. We have a proven history of supporting some of the most complex businesses in the world. Our customers include Scottish Government, Heathrow Airport, the NHS, Total E&amp;P, the Ministry of Justice, NATS and Scottish Power.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[October 2015 Meeting - Gary Ewan Park]]></title>
@@ -166,27 +220,6 @@ Colin Mackay is a software developer, former MVP, and speaker at user groups and
 <p><strong>Prize Draw</strong></p>
 
 <p>All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[February 2015 Meeting - Christos Matskas]]></title>
-    <link href="http://www.aberdeendevelopers.co.uk/february-2015-meeting-christos-matskas"/>
-    <updated>2015-01-09T00:00:00+00:00</updated>
-    <id>http://www.aberdeendevelopers.co.uk/february-2015-meeting-christos-matskas</id>
-    <content type="html"><![CDATA[<p>Aberdeen Developers are pleased to present a talk by Christos Matskas, this is a joint event with BCS Aberdeen Branch on Thursday 19th February 2015 at the Robert Gordon University.</p>
-
-<hr />
-
-<p><strong>Cross platform mobile development with the power of Xamarin</strong></p>
-
-<p>Are you a .NET developer? Do you develop for mobile platforms or would you like to get started but you don’t know how or where? Then you should join Christos Matskas as he shows you how to get off the ground with mobile application development using the power of Xamarin and explains how to build powerful, full-featured, native applications that can run across all platforms. You will learn how to speed up your development cycle, reduce overhead costs and create “the one codebase to rule them all”.</p>
-
-<p><a href="http://adnuguk-feb2015.eventbrite.com/?aff=blog"><img src="https://www.eventbrite.com/custombutton?eid=11987778769" alt="Eventbrite - Aberdeen Developers .Net User Group - February 2015 Meeting" /></a></p>
-
-<p><strong>Speaker Bio</strong></p>
-
-<p>Christos Matskas has been working as a software developer professionally for the last 11 years. He is the founder and CEO of SoftwareLounge, a software consultancy firm, and co-founder of TowzieTyke an apps development powerhouse. His portfolio includes collaborations with some great companies such as MarkIT, Lockheed Martin and Barclays. Over the years he had the opportunity to work on a numerous exciting projects from mobile apps to data crunching back-end solutions. His blog, <a href="https://cmatskas.com">https://cmatskas.com</a>, is full with useful tutorials, tips and tricks and reviews about software development and tools. Christos also contributes to Open Source and is a regular speaker at conferences and user groups talking about .NET, the Cloud and software development in general.</p>
 ]]></content>
   </entry>
   

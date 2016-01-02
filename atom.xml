@@ -4,7 +4,7 @@
   <title><![CDATA[Aberdeen Developers .Net User Group]]></title>
   <link href="http://www.aberdeendevelopers.co.uk/atom.xml" rel="self"/>
   <link href="http://www.aberdeendevelopers.co.uk/"/>
-  <updated>2015-10-26T22:18:39+00:00</updated>
+  <updated>2016-01-02T22:09:29+00:00</updated>
   <id>http://www.aberdeendevelopers.co.uk/</id>
   <author>
     <name><![CDATA[gep13]]></name>
@@ -12,6 +12,60 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[ScotNetRocks! Aberdeen]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/scotnetrocks-aberdeen"/>
+    <updated>2016-01-02T00:00:00+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/scotnetrocks-aberdeen</id>
+    <content type="html"><![CDATA[<p>Aberdeen Developers are pleased to present the final night of the ScotNetRocks! tour, hopefully you’ll be able to join us to hear Carl and Richard kick off the evening as they take us on a tour of the broad range of subjects they&rsquo;ve explored recording more than 1200 episodes of .NET Rocks over the past 10+ years. After a short break, in which we are hoping to provide some light refreshments, Carl and Richard will be recording a live show with special guest Gary Short.</p>
+
+<hr />
+
+<p><strong>ScotNetRocks!</strong></p>
+
+<p>Join Carl Franklin and Richard Campbell as they take you on a tour of the broad range of subjects they’ve explored recording more than 1200 episodes of .NET Rocks! over the past 10+ years. The development world today is evolving rapidly, but a look at the history of development can help inform the path we’re on and where we’re going. Along the way you’ll hear some great stories from the various .NET Rocks! episodes and get some ideas of how you can take your career and your company into the future of technology.</p>
+
+<p><a href="http://www.eventbrite.com/e/scotnetrocks-aberdeen-tickets-19517547510?aff=blog"><img src="https://www.eventbrite.com/custombutton?eid=11987778769" alt="Eventbrite - Aberdeen Developers .Net User Group - ScotNetRocks! Aberdeen" /></a></p>
+
+<p>This will be a three date tour of Scotland, more information and tickets can be found here:
++ <a href="http://www.eventbrite.com/e/scotnetrocks-glasgow-tickets-19597665144?aff=adnug">Glasgow: 18th January 2016.</a>
++ <a href="http://www.eventbrite.co.uk/e/scotnetrocks-edinburgh-tickets-19510803338?aff=adnug">Edinburgh: 19th January 2016.</a>
++ <a href="http://www.eventbrite.com/e/scotnetrocks-aberdeen-tickets-19517547510?aff=blog">Aberdeen: 21st January 2016.</a></p>
+
+<p><strong>Agenda - Thursday,  21st January 2016</strong>
++ 1815 - Doors open
++ 1825 - Introduction &amp; Housekeeping
++ 1830 - Future of Tech - Carl and Richard
++ 1930 - Break
++ 2000 - .NET Rocks! Live Recording with special guest Gary Short
++ 2100 - Finish</p>
+
+<p><strong>Location and Directions</strong></p>
+
+<p>Venue: Room N242, Riverside East Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7QQ, GB</p>
+
+<p>Directions: <a href="https://maps.google.co.uk/maps?q=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,+Aberdeen,+Aberdeen+City+AB10+7QG,+GB&amp;hl=en&amp;ll=57.119317,-2.136133&amp;spn=0.004165,0.012413&amp;sll=57.746995,-4.687341&amp;sspn=8.392957,25.422363&amp;hq=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,&amp;hnear=AB10+7QG,+United+Kingdom&amp;t=m&amp;z=17&amp;iwloc=A">Map showing Garthdee Campus</a></p>
+
+<p><strong>Sponsors</strong></p>
+
+<p>Big thanks to our sponsors, whose support and generosity have enabled us to bring you the .NET Rocks! Scottish Tour.</p>
+
+<p>Codify</p>
+
+<p>Founded in 2000, Codify have over a decade of experience developing custom applications for the oil and gas industry used by companies of all sizes, from small local businesses to global corporations. Being based in Aberdeen has allowed Codify to gain a high level of knowledge about the energy industry. Codify love to hire smart people, have happy customers and build software that helps their clients get their job done.
+For more information please visit their site at <a href="http://www.codify.ltd.uk/">http://www.codify.ltd.uk/</a></p>
+
+<p>Evoke IT</p>
+
+<p>Evoke IT specialise in all things SharePoint. Since 2011 they have been building and providing businesses with a wealth of tools created to transform the way your company operates. Equipped with the largest team of SharePoint resources in Scotland means they can fully customise the technology to suit your business processes. Evoke IT pride themselves on the individual strengths that each member of their growing company can contribute.
+For more information please visit their site at <a href="http://www.evokeit.com/">http://www.evokeit.com/</a></p>
+
+<p>Lockheed Martin</p>
+
+<p>Lockheed Martin is a global technology organisation with three key areas of focus in the UK; Transportation &amp; Energy, Public Services and Security &amp; Defence. With over 3,000 people throughout the UK, our team of experts ensure our technology solutions enable customers to overcome challenges and become more efficient. We have a proven history of supporting some of the most complex businesses in the world. Our customers include Scottish Government, Heathrow Airport, the NHS, Total E&amp;P, the Ministry of Justice, NATS and Scottish Power.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[October Meeting - Gary Ewan Park - Completed]]></title>
@@ -526,30 +580,6 @@ Colin Mackay is a software developer, former MVP, and speaker at user groups and
 <p>And answer the two short questions, I would be really grateful!</p>
 
 <p><strong>NOTE:</strong> Your responses will be confidential with only numbers being shared with a potential test centre to assist them in their quest to be able to provide Microsoft and Cisco exams.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Upcoming BCS Talk - Daniel Russel]]></title>
-    <link href="http://www.aberdeendevelopers.co.uk/upcoming-bcs-talk-daniel-russel"/>
-    <updated>2014-10-15T00:00:00+00:00</updated>
-    <id>http://www.aberdeendevelopers.co.uk/upcoming-bcs-talk-daniel-russel</id>
-    <content type="html"><![CDATA[<h2>Teaching 150K+ students at a time: The PowerSearchingWithGoogle.com story</h2>
-
-<p>Just wanted to let you know about an upcoming talk that is being hosted by BCS Aberdeen, which I thought might interest you.  The talk is entitled ****, by Daniel Russell - Senior Research Scientist at Google:</p>
-
-<blockquote><p>MOOCs (Massive Open Online Courses) have become incredibly popular in just the past 12 months. Many MOOCs have had more that 100K students register for their courses. Is this the future of online education? Or is it yet-another passing fancy in the educational technology parade? In the past 12 months we have run three MOOCs with more than 280K registrants. I&#8217;ll talk about what MOOCs are, how they&#8217;re actually run, the social community of learners that are essential for making MOOCs succeed, and what seems to work (and not work) in MOOCs. Along the way, I&#8217;ll talk a bit about how people seem to actually learn how to search&#8230; and do sensemaking as a task. I&#8217;ll also show evidence that behaviors learned in the MOOC persist after the end of class. %}</p></blockquote>
-
-
-<p>If you are interested in attending this event, full details can be found <a href="http://aberdeen.bcs.org/events.php">here</a></p>
-
-<h3>Location</h3>
-
-<p>Room N311, RGU, Riverside East Building, Garthdee Road, Aberdeen</p>
-
-<h3>About the speaker</h3>
-
-<p>Daniel Russell is the Uber Tech Lead for Search Quality and User Happiness in Mountain View. He earned his PhD in computer science, specializing in artificial intelligence until he realized that magnifying and understanding human intelligence was his real passion. Twenty years ago he foreswore AI in favor of HI, and enjoys teaching, learning, running and music, preferably all in one day. He worked at Xerox PARC before it was PARC.com, and was in the Advanced Technology Group at Apple, where he wrote the first 100 web pages for <a href="http://www.apple.com">www.apple.com</a> using SimpleText and a stone knife. He also worked at IBM and briefly at a startup that developed tablet computers before the iPad.</p>
 ]]></content>
   </entry>
   

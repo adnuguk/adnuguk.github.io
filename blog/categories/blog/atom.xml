@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Blog | Aberdeen Developers .Net User Group]]></title>
   <link href="http://www.aberdeendevelopers.co.uk/blog/categories/blog/atom.xml" rel="self"/>
   <link href="http://www.aberdeendevelopers.co.uk/"/>
-  <updated>2015-10-26T22:18:39+00:00</updated>
+  <updated>2016-01-02T22:09:29+00:00</updated>
   <id>http://www.aberdeendevelopers.co.uk/</id>
   <author>
     <name><![CDATA[gep13]]></name>
@@ -12,6 +12,60 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[ScotNetRocks! Aberdeen]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/scotnetrocks-aberdeen"/>
+    <updated>2016-01-02T00:00:00+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/scotnetrocks-aberdeen</id>
+    <content type="html"><![CDATA[<p>Aberdeen Developers are pleased to present the final night of the ScotNetRocks! tour, hopefully you’ll be able to join us to hear Carl and Richard kick off the evening as they take us on a tour of the broad range of subjects they&rsquo;ve explored recording more than 1200 episodes of .NET Rocks over the past 10+ years. After a short break, in which we are hoping to provide some light refreshments, Carl and Richard will be recording a live show with special guest Gary Short.</p>
+
+<hr />
+
+<p><strong>ScotNetRocks!</strong></p>
+
+<p>Join Carl Franklin and Richard Campbell as they take you on a tour of the broad range of subjects they’ve explored recording more than 1200 episodes of .NET Rocks! over the past 10+ years. The development world today is evolving rapidly, but a look at the history of development can help inform the path we’re on and where we’re going. Along the way you’ll hear some great stories from the various .NET Rocks! episodes and get some ideas of how you can take your career and your company into the future of technology.</p>
+
+<p><a href="http://www.eventbrite.com/e/scotnetrocks-aberdeen-tickets-19517547510?aff=blog"><img src="https://www.eventbrite.com/custombutton?eid=11987778769" alt="Eventbrite - Aberdeen Developers .Net User Group - ScotNetRocks! Aberdeen" /></a></p>
+
+<p>This will be a three date tour of Scotland, more information and tickets can be found here:
++ <a href="http://www.eventbrite.com/e/scotnetrocks-glasgow-tickets-19597665144?aff=adnug">Glasgow: 18th January 2016.</a>
++ <a href="http://www.eventbrite.co.uk/e/scotnetrocks-edinburgh-tickets-19510803338?aff=adnug">Edinburgh: 19th January 2016.</a>
++ <a href="http://www.eventbrite.com/e/scotnetrocks-aberdeen-tickets-19517547510?aff=blog">Aberdeen: 21st January 2016.</a></p>
+
+<p><strong>Agenda - Thursday,  21st January 2016</strong>
++ 1815 - Doors open
++ 1825 - Introduction &amp; Housekeeping
++ 1830 - Future of Tech - Carl and Richard
++ 1930 - Break
++ 2000 - .NET Rocks! Live Recording with special guest Gary Short
++ 2100 - Finish</p>
+
+<p><strong>Location and Directions</strong></p>
+
+<p>Venue: Room N242, Riverside East Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7QQ, GB</p>
+
+<p>Directions: <a href="https://maps.google.co.uk/maps?q=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,+Aberdeen,+Aberdeen+City+AB10+7QG,+GB&amp;hl=en&amp;ll=57.119317,-2.136133&amp;spn=0.004165,0.012413&amp;sll=57.746995,-4.687341&amp;sspn=8.392957,25.422363&amp;hq=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,&amp;hnear=AB10+7QG,+United+Kingdom&amp;t=m&amp;z=17&amp;iwloc=A">Map showing Garthdee Campus</a></p>
+
+<p><strong>Sponsors</strong></p>
+
+<p>Big thanks to our sponsors, whose support and generosity have enabled us to bring you the .NET Rocks! Scottish Tour.</p>
+
+<p>Codify</p>
+
+<p>Founded in 2000, Codify have over a decade of experience developing custom applications for the oil and gas industry used by companies of all sizes, from small local businesses to global corporations. Being based in Aberdeen has allowed Codify to gain a high level of knowledge about the energy industry. Codify love to hire smart people, have happy customers and build software that helps their clients get their job done.
+For more information please visit their site at <a href="http://www.codify.ltd.uk/">http://www.codify.ltd.uk/</a></p>
+
+<p>Evoke IT</p>
+
+<p>Evoke IT specialise in all things SharePoint. Since 2011 they have been building and providing businesses with a wealth of tools created to transform the way your company operates. Equipped with the largest team of SharePoint resources in Scotland means they can fully customise the technology to suit your business processes. Evoke IT pride themselves on the individual strengths that each member of their growing company can contribute.
+For more information please visit their site at <a href="http://www.evokeit.com/">http://www.evokeit.com/</a></p>
+
+<p>Lockheed Martin</p>
+
+<p>Lockheed Martin is a global technology organisation with three key areas of focus in the UK; Transportation &amp; Energy, Public Services and Security &amp; Defence. With over 3,000 people throughout the UK, our team of experts ensure our technology solutions enable customers to overcome challenges and become more efficient. We have a proven history of supporting some of the most complex businesses in the world. Our customers include Scottish Government, Heathrow Airport, the NHS, Total E&amp;P, the Ministry of Justice, NATS and Scottish Power.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[October Meeting - Gary Ewan Park - Completed]]></title>
@@ -87,21 +141,6 @@ Gary Ewan Park has been developing on the .Net Platform for almost 9 years. His 
 <p><strong> Prizes </strong></p>
 
 <p>For everyone who was lucky enough to win a prize from one of our amazing <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>, I have requested all of the prizes.  If you haven&rsquo;t heard anything, please get in touch, and we will try to sort this out.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[August Meeting - Mike Taulty - Completed]]></title>
-    <link href="http://www.aberdeendevelopers.co.uk/August-2015-meeting-mike-taulty-completed"/>
-    <updated>2015-09-25T00:00:00+00:00</updated>
-    <id>http://www.aberdeendevelopers.co.uk/August-2015-meeting-mike-taulty-completed</id>
-    <content type="html"><![CDATA[<p>Thanks once again to Mike for making the journey up to Aberdeen to deliver his awesome talk on Windows 10 and the Universal Windows App Platform!  If you want to get in touch with Mike, you can use his twitter account <a href="https://twitter.com/mtaulty">@mtaulty</a> and make sure you follow him for up-to-date news, articles and tips. You can also find a copy of the slides used in the presentation <a href="http://1drv.ms/1NkYYJr">here</a>.</p>
-
-<p><strong> Prizes </strong></p>
-
-<p>For everyone who was lucky enough to win a prize from one of our amazing <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>, I have requested all of the prizes.  If you haven&rsquo;t heard anything, please get in touch, and we will try to sort this out.</p>
-
-<p>As Mike mentioned, there is the possibility of getting some Windows 10 Swag in the form of t-shirts.  I am currently working on this, and once I know more, I will let you know.</p>
 ]]></content>
   </entry>
   
