@@ -8,10 +8,12 @@ sharing: true
 categories: 
   - blog
   - events
-tags: null
+tags: 
+  - "null"
 published: true
 title: "ScotNetRocks! Aberdeen"
 ---
+
 
 Aberdeen Developers are pleased to present the final night of the ScotNetRocks! tour, hopefully you’ll be able to join us to hear Carl and Richard kick off the evening as they take us on a tour of the broad range of subjects they've explored recording more than 1200 episodes of .NET Rocks over the past 10+ years. After a short break, in which we are hoping to provide some light refreshments, Carl and Richard will be recording a live show with special guest Gary Short.
 
@@ -53,7 +55,7 @@ For more information please visit their site at http://www.codify.ltd.uk/
 
 Evoke IT
 
-Evoke IT specialise in all things SharePoint. Since 2011 they have been building and providing businesses with a wealth of tools created to transform the way your company operates. Equipped with the largest team of SharePoint resources in Scotland means they can fully customise the technology to suit your business processes. Evoke IT pride themselves on the individual strengths that each member of their growing company can contribute.
+Evoke IT are Aberdeen’s Microsoft Cloud Specialists and not your ordinary IT company. As a team they design, build and deploy bespoke systems which automate processes, reduce costs and simply improve your work environment. Evoke IT cover the full range of Microsoft Technologies including SharePoint, Office 365 and Azure, providing consultancy, development, training and support. Having recently expanded their offering to include Managed Services, Evoke IT are set to fully support their clients from Infrastructure to Application Development.
 For more information please visit their site at http://www.evokeit.com/
 
 
