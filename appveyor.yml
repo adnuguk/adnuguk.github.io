@@ -21,7 +21,7 @@ clone_folder: C:\projects\adnuguk-github-io
 environment:
   GithubUsername: gep13
   GithubPassword:
-    secure: CE4pJZAZwbds0nOsEMywl509CpUq/MZT/C6QUk1Ct3Tt0I6V23gUI63PCu5cc+cB
+    secure: a8cHHM+vi+e4fRMVpgY65sEV03g7hYDOKyEKBaS+0jKtjj41oOn8XZdRszueGDNf
    
 #---------------------------------#
 #       build configuration       #
