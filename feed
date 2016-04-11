@@ -5,9 +5,63 @@
     <description>Website for the meetings and events hosted by the Aberdeen Developers .Net User Group</description>
     <link>http://www.aberdeendevelopers.co.uk/</link>
     <atom:link href="http://www.aberdeendevelopers.co.uk/feed" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 24 Feb 2016 12:23:40 +0000</pubDate>
-    <lastBuildDate>Wed, 24 Feb 2016 12:23:40 +0000</lastBuildDate>
+    <pubDate>Mon, 11 Apr 2016 12:03:07 +0000</pubDate>
+    <lastBuildDate>Mon, 11 Apr 2016 12:03:07 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>April 2016 Meeting - Gary Ewan Park</title>
+        <description>&lt;p&gt;Aberdeen Developers are pleased to present a talk by Gary Ewan Park, on Thursday 21st April 2016 at the Robert Gordon University.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Having your Cake, and eating to too!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Have you ever wanted to create a build script for your application, but been faced with learning a new language, or DSL, or writing more XML than any person should ever need to?&lt;/li&gt;
+&lt;li&gt;Have you ever wanted to create a build script that will work cross platform?&lt;/li&gt;
+&lt;li&gt;Have you ever wanted to create a build script that has first class support for the most common build tools like XUnit, WiX, SignTool, and many others?&lt;/li&gt;
+&lt;li&gt;Have you ever wanted to create a build script that uses a language that you already know, and love?&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;If you have answered yes to any of these questions, then the Cake (&lt;a href=&quot;http://cakebuild.net/&quot;&gt;http://cakebuild.net/&lt;/a&gt;) Build Automation System is for you!&lt;/p&gt;
+
+&lt;p&gt;In this session we will start with a standard .Net Solution and incrementally add a build and orchestration script to compile the application, run unit tests, perform static analysis, package the application, and more, using the C# skills that you may already have.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.eventbrite.com/e/aberdeen-developers-net-user-group-april-2016-meeting-tickets-24528759179?aff=blog&quot;&gt;&lt;img src=&quot;https://www.eventbrite.com/custombutton?eid=11987778769&quot; alt=&quot;Eventbrite - Aberdeen Developers .Net User Group - April 2016 Meeting&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Speaker Bio&lt;/strong&gt;
+Gary Ewan Park has been developing on the .Net Platform for almost 9 years. His day job sees him developing using ASP.NET, AngularJS, and WPF, for Oil Companies working in the North Sea.&lt;/p&gt;
+
+&lt;p&gt;In his spare time, Gary contributes to a number of Open Source projects including Chocolatey, Boxstarter, Cake, psake and GitVersion.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Agenda - Thursday,  21st April 2016&lt;/strong&gt;
++ 1800 - 1825: Arrival and registration
++ 1825 - 1830: Introduction
++ 1830 - 1930: Having your Cake, and eating to too!
++ 1930 Onwards: Questions &amp;amp; Answers followed by Prize Draw&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Location and Directions&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Venue: Room N309, Riverside East Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7QQ, GB&lt;/p&gt;
+
+&lt;p&gt;Directions: &lt;a href=&quot;https://maps.google.co.uk/maps?q=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,+Aberdeen,+Aberdeen+City+AB10+7QG,+GB&amp;amp;hl=en&amp;amp;ll=57.119317,-2.136133&amp;amp;spn=0.004165,0.012413&amp;amp;sll=57.746995,-4.687341&amp;amp;sspn=8.392957,25.422363&amp;amp;hq=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,&amp;amp;hnear=AB10+7QG,+United+Kingdom&amp;amp;t=m&amp;amp;z=17&amp;amp;iwloc=A&quot;&gt;Map showing Garthdee Campus&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Prize Draw&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic &lt;a href=&quot;http://www.aberdeendevelopers.co.uk/sponsors/&quot;&gt;sponsors&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 11 Apr 2016 00:00:00 +0000</pubDate>
+        <link>http://www.aberdeendevelopers.co.uk/april-2016-meeting-gary-ewan-park</link>
+        <guid isPermaLink="true">http://www.aberdeendevelopers.co.uk/april-2016-meeting-gary-ewan-park</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>events</category>
+        
+      </item>
     
       <item>
         <title>March 2016 Meeting - Christos Matskas</title>
@@ -332,59 +386,6 @@ Colin Mackay is a software developer, former MVP, and speaker at user groups and
         <category>blog</category>
         
         <category>events</category>
-        
-      </item>
-    
-      <item>
-        <title>August 2015 Meeting #2 - Mike Taulty</title>
-        <description>&lt;p&gt;Aberdeen Developers are pleased to present a talk by Mike Taulty, on Thursday 27th August 2015 at the Robert Gordon University.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Windows 10 and the Universal Windows App Platform&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Windows 10 is a big release for Microsoft. Commodious. Huge. Massive. Colossal. Humongous. ;-)&lt;/p&gt;
-
-&lt;p&gt;It’s the end of a journey to unify Windows. It’s the beginning of a journey for developers who want to take advantage of a universal app platform available across all Windows devices.&lt;/p&gt;
-
-&lt;p&gt;In this session, we’ll dig into what’s changed in Windows 10 for the Windows app developer. We’ll talk about the Universal App Platform that makes it possible to build code that runs on all Windows devices and about the Extension platforms for code that targets specific device families.&lt;/p&gt;
-
-&lt;p&gt;We’ll stay in Visual Studio as much as is possible and we’ll lean towards C# and XAML.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.eventbrite.com/e/aberdeen-developers-net-user-group-august-2015-meeting-2-tickets-18094386798?aff=blog&quot;&gt;&lt;img src=&quot;https://www.eventbrite.com/custombutton?eid=11987778769&quot; alt=&quot;Eventbrite - Aberdeen Developers .Net User Group - August 2015 Meeting #2&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Speaker Bio&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Mike Taulty works in the Developer and Platform Group at Microsoft in the UK where he has spent the past few years helping developers understand and get the best from the Microsoft platform. Prior to this, Mike spent 3 years with Microsoft Consulting Services as a consultant on developer technologies.&lt;/p&gt;
-
-&lt;p&gt;Before joining Microsoft, Mike spent the previous 9 years working as a software developer for a number of enterprises, consultancies and software vendors working with a variety of operating system, client, communication and server technologies. You can find more of a complete career history over on &lt;a href=&quot;http://uk.linkedin.com/in/mtaulty&quot;&gt;LinkedIn&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Mike holds a BSc Hons (1st Class) in Computer Science from the University of Leeds.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Agenda - Thursday, 27th August 2015&lt;/strong&gt;
-+ 1800 - 1825: Arrival and registration
-+ 1825 - 1830: Introduction
-+ 1830 - 1930: Windows 10 and the Universal Windows App Platform
-+ 1930 Onwards: Questions &amp;amp; Answers followed by Prize Draw&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Location and Directions&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Venue: Room N311, Riverside East Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7QQ, GB&lt;/p&gt;
-
-&lt;p&gt;Directions: &lt;a href=&quot;https://maps.google.co.uk/maps?q=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,+Aberdeen,+Aberdeen+City+AB10+7QG,+GB&amp;amp;hl=en&amp;amp;ll=57.119317,-2.136133&amp;amp;spn=0.004165,0.012413&amp;amp;sll=57.746995,-4.687341&amp;amp;sspn=8.392957,25.422363&amp;amp;hq=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,&amp;amp;hnear=AB10+7QG,+United+Kingdom&amp;amp;t=m&amp;amp;z=17&amp;amp;iwloc=A&quot;&gt;Map showing Garthdee Campus&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Prize Draw&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic &lt;a href=&quot;http://www.aberdeendevelopers.co.uk/sponsors/&quot;&gt;sponsors&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 13 Aug 2015 00:00:00 +0000</pubDate>
-        <link>http://www.aberdeendevelopers.co.uk/august-2015-meeting-2-mike-taulty</link>
-        <guid isPermaLink="true">http://www.aberdeendevelopers.co.uk/august-2015-meeting-2-mike-taulty</guid>
-        
-        
-        <category>blog</category>
-        
-        <category>event</category>
         
       </item>
     

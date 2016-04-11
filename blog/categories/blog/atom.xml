@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Blog | Aberdeen Developers .Net User Group]]></title>
   <link href="http://www.aberdeendevelopers.co.uk/blog/categories/blog/atom.xml" rel="self"/>
   <link href="http://www.aberdeendevelopers.co.uk/"/>
-  <updated>2016-02-24T12:23:40+00:00</updated>
+  <updated>2016-04-11T12:03:07+00:00</updated>
   <id>http://www.aberdeendevelopers.co.uk/</id>
   <author>
     <name><![CDATA[gep13]]></name>
@@ -12,6 +12,54 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[April 2016 Meeting - Gary Ewan Park]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/april-2016-meeting-gary-ewan-park"/>
+    <updated>2016-04-11T00:00:00+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/april-2016-meeting-gary-ewan-park</id>
+    <content type="html"><![CDATA[<p>Aberdeen Developers are pleased to present a talk by Gary Ewan Park, on Thursday 21st April 2016 at the Robert Gordon University.</p>
+
+<hr />
+
+<p><strong>Having your Cake, and eating to too!</strong></p>
+
+<ul>
+<li>Have you ever wanted to create a build script for your application, but been faced with learning a new language, or DSL, or writing more XML than any person should ever need to?</li>
+<li>Have you ever wanted to create a build script that will work cross platform?</li>
+<li>Have you ever wanted to create a build script that has first class support for the most common build tools like XUnit, WiX, SignTool, and many others?</li>
+<li>Have you ever wanted to create a build script that uses a language that you already know, and love?</li>
+</ul>
+
+
+<p>If you have answered yes to any of these questions, then the Cake (<a href="http://cakebuild.net/">http://cakebuild.net/</a>) Build Automation System is for you!</p>
+
+<p>In this session we will start with a standard .Net Solution and incrementally add a build and orchestration script to compile the application, run unit tests, perform static analysis, package the application, and more, using the C# skills that you may already have.</p>
+
+<p><a href="http://www.eventbrite.com/e/aberdeen-developers-net-user-group-april-2016-meeting-tickets-24528759179?aff=blog"><img src="https://www.eventbrite.com/custombutton?eid=11987778769" alt="Eventbrite - Aberdeen Developers .Net User Group - April 2016 Meeting" /></a></p>
+
+<p><strong>Speaker Bio</strong>
+Gary Ewan Park has been developing on the .Net Platform for almost 9 years. His day job sees him developing using ASP.NET, AngularJS, and WPF, for Oil Companies working in the North Sea.</p>
+
+<p>In his spare time, Gary contributes to a number of Open Source projects including Chocolatey, Boxstarter, Cake, psake and GitVersion.</p>
+
+<p><strong>Agenda - Thursday,  21st April 2016</strong>
++ 1800 - 1825: Arrival and registration
++ 1825 - 1830: Introduction
++ 1830 - 1930: Having your Cake, and eating to too!
++ 1930 Onwards: Questions &amp; Answers followed by Prize Draw</p>
+
+<p><strong>Location and Directions</strong></p>
+
+<p>Venue: Room N309, Riverside East Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7QQ, GB</p>
+
+<p>Directions: <a href="https://maps.google.co.uk/maps?q=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,+Aberdeen,+Aberdeen+City+AB10+7QG,+GB&amp;hl=en&amp;ll=57.119317,-2.136133&amp;spn=0.004165,0.012413&amp;sll=57.746995,-4.687341&amp;sspn=8.392957,25.422363&amp;hq=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,&amp;hnear=AB10+7QG,+United+Kingdom&amp;t=m&amp;z=17&amp;iwloc=A">Map showing Garthdee Campus</a></p>
+
+<p><strong>Prize Draw</strong></p>
+
+<p>All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[March 2016 Meeting - Christos Matskas]]></title>
@@ -159,19 +207,6 @@ Gary Ewan Park has been developing on the .Net Platform for almost 9 years. His 
 <p><strong>Prize Draw</strong></p>
 
 <p>All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[September Meeting - Max Vasilyev - Completed]]></title>
-    <link href="http://www.aberdeendevelopers.co.uk/September-2015-meeting-max-vasilyev-completed"/>
-    <updated>2015-09-25T00:00:00+00:00</updated>
-    <id>http://www.aberdeendevelopers.co.uk/September-2015-meeting-max-vasilyev-completed</id>
-    <content type="html"><![CDATA[<p>Thanks once again to Max for coming along to Aberdeen Devlopers to deliver his awesome talk on CQRS!  If you want to get in touch with Max, you can use his twitter account <a href="https://twitter.com/trailmax">@trailmax</a> and make sure you follow him for up-to-date news, articles and tips. You can also find a copy of the slides used in the presentation <a href="https://github.com/trailmax/CQRS.Talk">here</a>.</p>
-
-<p><strong> Prizes </strong></p>
-
-<p>For everyone who was lucky enough to win a prize from one of our amazing <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>, the prizes will be requested in due course.  If you don&rsquo;t hear anything, please get in touch, and we will try to sort this out.</p>
 ]]></content>
   </entry>
   
