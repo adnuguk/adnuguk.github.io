@@ -4,7 +4,7 @@
   <title><![CDATA[Aberdeen Developers .Net User Group]]></title>
   <link href="http://www.aberdeendevelopers.co.uk/atom.xml" rel="self"/>
   <link href="http://www.aberdeendevelopers.co.uk/"/>
-  <updated>2016-04-11T12:03:07+00:00</updated>
+  <updated>2016-04-26T20:38:26+00:00</updated>
   <id>http://www.aberdeendevelopers.co.uk/</id>
   <author>
     <name><![CDATA[gep13]]></name>
@@ -12,6 +12,53 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[May 2016 Meeting - Kendall Miller]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/may-2016-meeting-kendall-miller"/>
+    <updated>2016-04-26T00:00:00+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/may-2016-meeting-kendall-miller</id>
+    <content type="html"><![CDATA[<p>Aberdeen Developers are pleased to present a talk by Kendall Miller, on Thursday 12th May 2016 at Aberdeen University&rsquo;s Meston Building.</p>
+
+<hr />
+
+<p><strong>To The Cloud! How Azure helped us improve the scalability of our SaaS</strong></p>
+
+<p>Last year we had to make a decision whether to double down with new hardware in our Colo or go another way to grow our SaaS. In this talk we&rsquo;ll walk through the challenges we&rsquo;ve faced moving from our own hardware to Azure including:</p>
+
+<ul>
+<li>Taking advantage of auto-scaling to reduce costs.</li>
+<li>Growing 100x without controlling the hardware.</li>
+<li>When it all goes wrong and Azure falls over.</li>
+<li>How Azure has improved the performance of our on-premises installs too</li>
+</ul>
+
+
+<p>Far from a theoretical conversation about how you could use the cloud, we&rsquo;ll share real data from our production implementation, both the good and the bad. Finally, we&rsquo;ll talk about where we&rsquo;re going with what we&rsquo;ve learned.</p>
+
+<p><a href="http://www.eventbrite.com/e/aberdeen-developers-net-user-group-may-2016-meeting-tickets-24846287916?aff=blog"><img src="https://www.eventbrite.com/custombutton?eid=11987778769" alt="Eventbrite - Aberdeen Developers .Net User Group - May 2016 Meeting" /></a></p>
+
+<p><strong>Speaker Bio</strong></p>
+
+<p>Kendall Miller is one of the founding partners of Gibraltar Software, an Independent Software Vendor (ISV) that develops &amp; markets commercial applications for .NET developers. Introduced commercially in 2009, Loupe is an application logging &amp; monitoring platform that is currently used by customers around the world from individual consultants through Fortune 100 companies and governments. Before starting Gibraltar Software, Kendall worked for multiple startups leading their technology development from beginning through profitability. In each case he&rsquo;s focused on translating enterprise-level performance and capabilities down to smaller companies. Kendall has a B.S in Computer Engineering from the University of Illinois, Urbana-Champaign.</p>
+
+<p><strong>Agenda - Thursday, 12th May 2016</strong>
++ 1800 - 1825: Arrival and registration
++ 1825 - 1830: Introduction
++ 1830 - 1930: To The Cloud! How Azure helped us improve the scalability of our SaaS
++ 1930 Onwards: Questions &amp; Answers followed by Prize Draw</p>
+
+<p><strong>Location and Directions</strong></p>
+
+<p>Venue: Meston Building (Enter via North Entrance), University of Aberdeen, Aberdeen, AB24 3UE</p>
+
+<p>Directions: <a href="https://www.google.com/maps/d/viewer?mid=zy5sr2VnGJ2w.khFsoArRBh_Y&amp;hl=en">Meston Building</a></p>
+
+<p><strong>Prize Draw</strong></p>
+
+<p>All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[April 2016 Meeting - Gary Ewan Park]]></title>
@@ -621,27 +668,6 @@ Colin Mackay is a software developer, former MVP, and speaker at user groups and
 <p><strong> Prizes </strong></p>
 
 <p>For everyone who was lucky enough to win a prize from one of our amazing <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>, I have requested all of the prizes.  If you haven&rsquo;t heard anything, please get in touch, and we will try to sort this out.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[February 2015 Meeting - Christos Matskas]]></title>
-    <link href="http://www.aberdeendevelopers.co.uk/february-2015-meeting-christos-matskas"/>
-    <updated>2015-01-09T00:00:00+00:00</updated>
-    <id>http://www.aberdeendevelopers.co.uk/february-2015-meeting-christos-matskas</id>
-    <content type="html"><![CDATA[<p>Aberdeen Developers are pleased to present a talk by Christos Matskas, this is a joint event with BCS Aberdeen Branch on Thursday 19th February 2015 at the Robert Gordon University.</p>
-
-<hr />
-
-<p><strong>Cross platform mobile development with the power of Xamarin</strong></p>
-
-<p>Are you a .NET developer? Do you develop for mobile platforms or would you like to get started but you don’t know how or where? Then you should join Christos Matskas as he shows you how to get off the ground with mobile application development using the power of Xamarin and explains how to build powerful, full-featured, native applications that can run across all platforms. You will learn how to speed up your development cycle, reduce overhead costs and create “the one codebase to rule them all”.</p>
-
-<p><a href="http://adnuguk-feb2015.eventbrite.com/?aff=blog"><img src="https://www.eventbrite.com/custombutton?eid=11987778769" alt="Eventbrite - Aberdeen Developers .Net User Group - February 2015 Meeting" /></a></p>
-
-<p><strong>Speaker Bio</strong></p>
-
-<p>Christos Matskas has been working as a software developer professionally for the last 11 years. He is the founder and CEO of SoftwareLounge, a software consultancy firm, and co-founder of TowzieTyke an apps development powerhouse. His portfolio includes collaborations with some great companies such as MarkIT, Lockheed Martin and Barclays. Over the years he had the opportunity to work on a numerous exciting projects from mobile apps to data crunching back-end solutions. His blog, <a href="https://cmatskas.com">https://cmatskas.com</a>, is full with useful tutorials, tips and tricks and reviews about software development and tools. Christos also contributes to Open Source and is a regular speaker at conferences and user groups talking about .NET, the Cloud and software development in general.</p>
 ]]></content>
   </entry>
   
