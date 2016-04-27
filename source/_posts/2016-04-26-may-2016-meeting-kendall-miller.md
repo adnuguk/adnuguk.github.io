@@ -5,7 +5,7 @@ keywords: ""
 description: ""
 comments: true
 sharing: true
-categories: 
+categories:
   - blog
   - events
 tags: null
@@ -14,6 +14,7 @@ title: "May 2016 Meeting - Kendall Miller"
 ---
 Aberdeen Developers are pleased to present a talk by Kendall Miller, on Thursday 12th May 2016 at Aberdeen University's Meston Building.
 
+**NOTE:** Please take extra notice of the venue above!  Due to exams happening in our normal RGU venue, this talk will be being hosted by Aberdeen University, in the Meston Building.  Full details of the location can be found below.
 ***
 
 **To The Cloud! How Azure helped us improve the scalability of our SaaS**
