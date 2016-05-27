@@ -1,12 +1,13 @@
 ---
 author: adnuguk
 comments: false
-date: 2013-04-18 20:18:36+00:00
+date: {}
 layout: page
 slug: sponsors
 title: Sponsors
 wordpress_id: 52976463
 permalink: /sponsors/
+published: true
 ---
 
 It is with great pleasure that Aberdeen Developers .Net User Group thank the following companies for their generous sponsorship of our User Group.
@@ -30,9 +31,6 @@ It is with great pleasure that Aberdeen Developers .Net User Group thank the fol
 
 <br />
 [![Mindscape]({{site.images}}/sponsors/mindscape.png)](http://www.mindscapehq.com/?utm_source=Usergroups&utm_campaign=aa782302c1-UserGroupWelcome&utm_medium=email)
-
-<br />
-[![Pluralsight]({{site.images}}/sponsors/pluralsight-fullcolor-500x109-v1.png)](http://www.pluralsight-training.net/)
 
 And finally, a HUGE thank you to Microsoft Technical Communities and Office 365 for providing email for our User Group:
 <br />
