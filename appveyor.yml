@@ -38,7 +38,7 @@ build_script:
   - cmd: bundle install
   - cmd: if not exist _deploy (git clone https://github.com/adnuguk/adnuguk.github.io.git _deploy)
   - cmd: cd _deploy
-  - cmd: git checkout master
+  - cmd: git checkout -f master
   - cmd: cd ..
   - cmd: rake generate
   - cmd: rake deploy
