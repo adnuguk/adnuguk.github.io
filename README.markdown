@@ -1,3 +1,9 @@
+## Aberdeen Developers .Net User Group
+
+If you want to chat to us about the User Group, then you can use our Gitter Room here:
+
+[![Join the chat at https://gitter.im/adnuguk/adnuguk.github.io](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/adnuguk/adnuguk.github.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## What is Octopress?
 
 Octopress is [Jekyll](https://github.com/mojombo/jekyll) blogging at its finest.
