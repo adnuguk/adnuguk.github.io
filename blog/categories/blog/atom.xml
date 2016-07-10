@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Blog | Aberdeen Developers .Net User Group]]></title>
   <link href="http://www.aberdeendevelopers.co.uk/blog/categories/blog/atom.xml" rel="self"/>
   <link href="http://www.aberdeendevelopers.co.uk/"/>
-  <updated>2016-04-27T19:26:13+00:00</updated>
+  <updated>2016-07-10T12:22:31+00:00</updated>
   <id>http://www.aberdeendevelopers.co.uk/</id>
   <author>
     <name><![CDATA[gep13]]></name>
@@ -12,6 +12,53 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Job Vacancy - Brightree - Aberdeen]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/job-vacancy-brightree-aberdeen"/>
+    <updated>2016-05-27T00:00:00+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/job-vacancy-brightree-aberdeen</id>
+    <content type="html"><![CDATA[<p>Aberdeen Developers have been asked to promote the following job vacancy at Brightree. If you are interested in the position, please contact douglas dot cameron at aberdeendevelopers dot co dot uk (replacing the at and dot with @ and . respectively, trying to stop those nasty spiders getting my email address). Details of the job are as follows:</p>
+
+<hr />
+
+<p>Brightree, the fastest growing cloud based business management solution in the U.S. healthcare market, are seeking UK based team-players to join their expanding Aberdeen office.</p>
+
+<p>The ideal candidates have a propensity to share concepts and techniques as well as foster and encourage sharing of knowledge. You will participate in the technical design of the solutions including data modeling, functional design, test criteria, user interface design and development. Practical, relevant experience as a creative problem solver and a proven ability to convert specifications into exception software solutions are critical.</p>
+
+<p><strong>Primary Duties:</strong></p>
+
+<ul>
+<li>Develop new software features</li>
+<li>Maintain existing code through defect correction and refactoring</li>
+<li>Participate in technical design</li>
+<li>DB design/changes</li>
+<li>Provide unit tests for all code</li>
+<li>Conduct code reviews with other developers</li>
+<li>Follow best practices for software development in a cloud based environment</li>
+</ul>
+
+
+<p><strong>Basic Qualifications:</strong></p>
+
+<ul>
+<li>Experience working for a software company with web-based applications using Microsoft technologies.</li>
+<li>Knowledge of C# or VB.net, ASP.NET and web technologies such as Web API, WCF, JavaScript, CSS, HTML and Ajax.</li>
+<li>Experience with MS SQL Server (TSQL/SQL)</li>
+<li>OO knowledge and practical experience of design patterns etc</li>
+<li>Practical experience with source code configuration, versioning and promotion</li>
+<li>Excellent problem solving, issue identification and technical documentation skills</li>
+<li>Ability to manage multiple concurrent priorities and meeting deadlines</li>
+<li>Strong interpersonal and communication skills</li>
+</ul>
+
+
+<p><strong>Preferred Requirements:</strong>
+- Experience using VS 2015, SQL Server, Xamarin, .net 4.0/4.5 techniques a plus
+- Agile software methodology experience a plus
+- Experience working in a SaaS model a plus</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[May 2016 Meeting - Kendall Miller]]></title>
@@ -205,19 +252,6 @@ For more information please visit their site at <a href="http://www.evokeit.com/
 <p>Lockheed Martin</p>
 
 <p>Lockheed Martin is a global technology organisation with three key areas of focus in the UK; Transportation &amp; Energy, Public Services and Security &amp; Defence. With over 3,000 people throughout the UK, our team of experts ensure our technology solutions enable customers to overcome challenges and become more efficient. We have a proven history of supporting some of the most complex businesses in the world. Our customers include Scottish Government, Heathrow Airport, the NHS, Total E&amp;P, the Ministry of Justice, NATS and Scottish Power.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[October Meeting - Gary Ewan Park - Completed]]></title>
-    <link href="http://www.aberdeendevelopers.co.uk/October-2015-meeting-gary-ewan-park-completed"/>
-    <updated>2015-10-26T00:00:00+00:00</updated>
-    <id>http://www.aberdeendevelopers.co.uk/October-2015-meeting-gary-ewan-park-completed</id>
-    <content type="html"><![CDATA[<p>Thanks once again to Gary for his talk on GitVersion!  If you want to get in touch with Gary, you can use his twitter account <a href="https://twitter.com/gep13">@gep13</a> and make sure you follow him for up-to-date news, articles and tips. You can also find a copy of the slides used in the presentation <a href="http://www.slideshare.net/gep13/semantic-versioning-with-gitversion-take-2">here</a>.  If you have any questions about GitVersion, you can also ask them at the Gitter Chat room, which you can find <a href="https://gitter.im/GitTools/GitVersion">here</a>.</p>
-
-<p><strong> Prizes </strong></p>
-
-<p>For everyone who was lucky enough to win a prize from one of our amazing <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>, I have requested all of the prizes.  If you haven&rsquo;t heard anything, please get in touch, and we will try to sort this out.</p>
 ]]></content>
   </entry>
   

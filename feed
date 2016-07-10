@@ -5,9 +5,62 @@
     <description>Website for the meetings and events hosted by the Aberdeen Developers .Net User Group</description>
     <link>http://www.aberdeendevelopers.co.uk/</link>
     <atom:link href="http://www.aberdeendevelopers.co.uk/feed" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 27 Apr 2016 19:26:13 +0000</pubDate>
-    <lastBuildDate>Wed, 27 Apr 2016 19:26:13 +0000</lastBuildDate>
+    <pubDate>Sun, 10 Jul 2016 12:22:31 +0000</pubDate>
+    <lastBuildDate>Sun, 10 Jul 2016 12:22:31 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Job Vacancy - Brightree - Aberdeen</title>
+        <description>&lt;p&gt;Aberdeen Developers have been asked to promote the following job vacancy at Brightree. If you are interested in the position, please contact douglas dot cameron at aberdeendevelopers dot co dot uk (replacing the at and dot with @ and . respectively, trying to stop those nasty spiders getting my email address). Details of the job are as follows:&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Brightree, the fastest growing cloud based business management solution in the U.S. healthcare market, are seeking UK based team-players to join their expanding Aberdeen office.&lt;/p&gt;
+
+&lt;p&gt;The ideal candidates have a propensity to share concepts and techniques as well as foster and encourage sharing of knowledge. You will participate in the technical design of the solutions including data modeling, functional design, test criteria, user interface design and development. Practical, relevant experience as a creative problem solver and a proven ability to convert specifications into exception software solutions are critical.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Primary Duties:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Develop new software features&lt;/li&gt;
+&lt;li&gt;Maintain existing code through defect correction and refactoring&lt;/li&gt;
+&lt;li&gt;Participate in technical design&lt;/li&gt;
+&lt;li&gt;DB design/changes&lt;/li&gt;
+&lt;li&gt;Provide unit tests for all code&lt;/li&gt;
+&lt;li&gt;Conduct code reviews with other developers&lt;/li&gt;
+&lt;li&gt;Follow best practices for software development in a cloud based environment&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;&lt;strong&gt;Basic Qualifications:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Experience working for a software company with web-based applications using Microsoft technologies.&lt;/li&gt;
+&lt;li&gt;Knowledge of C# or VB.net, ASP.NET and web technologies such as Web API, WCF, JavaScript, CSS, HTML and Ajax.&lt;/li&gt;
+&lt;li&gt;Experience with MS SQL Server (TSQL/SQL)&lt;/li&gt;
+&lt;li&gt;OO knowledge and practical experience of design patterns etc&lt;/li&gt;
+&lt;li&gt;Practical experience with source code configuration, versioning and promotion&lt;/li&gt;
+&lt;li&gt;Excellent problem solving, issue identification and technical documentation skills&lt;/li&gt;
+&lt;li&gt;Ability to manage multiple concurrent priorities and meeting deadlines&lt;/li&gt;
+&lt;li&gt;Strong interpersonal and communication skills&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;&lt;strong&gt;Preferred Requirements:&lt;/strong&gt;
+- Experience using VS 2015, SQL Server, Xamarin, .net 4.0/4.5 techniques a plus
+- Agile software methodology experience a plus
+- Experience working in a SaaS model a plus&lt;/p&gt;
+</description>
+        <pubDate>Fri, 27 May 2016 00:00:00 +0000</pubDate>
+        <link>http://www.aberdeendevelopers.co.uk/job-vacancy-brightree-aberdeen</link>
+        <guid isPermaLink="true">http://www.aberdeendevelopers.co.uk/job-vacancy-brightree-aberdeen</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>job vacancy</category>
+        
+      </item>
     
       <item>
         <title>May 2016 Meeting - Kendall Miller</title>
@@ -349,50 +402,6 @@ Gary Ewan Park has been developing on the .Net Platform for almost 9 years. His 
         <category>blog</category>
         
         <category>event material</category>
-        
-      </item>
-    
-      <item>
-        <title>September 2015 Meeting #2 - Max Vasilyev</title>
-        <description>&lt;p&gt;Aberdeen Developers are pleased to present a talk by Max Vasilyev, on Thursday 24th September 2015 at the Robert Gordon University.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Command Query Responsibility Segregation&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;CQRS (Command Query Responsibility Segregation) have been around for a while and many people called and used this architecture/pattern differently. Probably many of you have read many articles about this approach, but never actually got to do it on practice.&lt;/p&gt;
-
-&lt;p&gt;In this session there will be a brief theoretical discussion followed by practical examples with code samples and discussion of benefits of this approach.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.eventbrite.com/e/aberdeen-developers-net-user-group-september-2015-meeting-2-tickets-18308807135?aff=blog&quot;&gt;&lt;img src=&quot;https://www.eventbrite.com/custombutton?eid=11987778769&quot; alt=&quot;Eventbrite - Aberdeen Developers .Net User Group - September 2015 Meeting #2&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Speaker Bio&lt;/strong&gt;
-Max Vasilyev is a Senior Developer in one of Aberdeen’s .Net development houses. He has been successfully using CQRS in different projects for over 2 years. And he is keen to share his experience with wider audience.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Agenda - Thursday, 24th September 2015&lt;/strong&gt;
-+ 1800 - 1825: Arrival and registration
-+ 1825 - 1830: Introduction
-+ 1830 - 1930: Command Query Responsibility Segregation
-+ 1930 Onwards: Questions &amp;amp; Answers followed by Prize Draw&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Location and Directions&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Venue: Room N346, Riverside East Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7QQ, GB&lt;/p&gt;
-
-&lt;p&gt;Directions: &lt;a href=&quot;https://maps.google.co.uk/maps?q=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,+Aberdeen,+Aberdeen+City+AB10+7QG,+GB&amp;amp;hl=en&amp;amp;ll=57.119317,-2.136133&amp;amp;spn=0.004165,0.012413&amp;amp;sll=57.746995,-4.687341&amp;amp;sspn=8.392957,25.422363&amp;amp;hq=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,&amp;amp;hnear=AB10+7QG,+United+Kingdom&amp;amp;t=m&amp;amp;z=17&amp;amp;iwloc=A&quot;&gt;Map showing Garthdee Campus&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Prize Draw&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic &lt;a href=&quot;http://www.aberdeendevelopers.co.uk/sponsors/&quot;&gt;sponsors&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 08 Sep 2015 00:00:00 +0000</pubDate>
-        <link>http://www.aberdeendevelopers.co.uk/september-2015-meeting-2-max-vasilyev</link>
-        <guid isPermaLink="true">http://www.aberdeendevelopers.co.uk/september-2015-meeting-2-max-vasilyev</guid>
-        
-        
-        <category>blog</category>
-        
-        <category>events</category>
         
       </item>
     
