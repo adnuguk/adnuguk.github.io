@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Community Events | Aberdeen Developers .Net User Group]]></title>
+  <link href="http://www.aberdeendevelopers.co.uk/blog/categories/community-events/atom.xml" rel="self"/>
+  <link href="http://www.aberdeendevelopers.co.uk/"/>
+  <updated>2016-04-27T19:26:13+00:00</updated>
+  <id>http://www.aberdeendevelopers.co.uk/</id>
+  <author>
+    <name><![CDATA[gep13]]></name>
+    <email><![CDATA[gep13@aberdeendevelopers.co.uk]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Upcoming BCS Talk - Daniel Russel]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/upcoming-bcs-talk-daniel-russel"/>
+    <updated>2014-10-15T00:00:00+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/upcoming-bcs-talk-daniel-russel</id>
+    <content type="html"><![CDATA[<h2>Teaching 150K+ students at a time: The PowerSearchingWithGoogle.com story</h2>
+
+<p>Just wanted to let you know about an upcoming talk that is being hosted by BCS Aberdeen, which I thought might interest you.  The talk is entitled ****, by Daniel Russell - Senior Research Scientist at Google:</p>
+
+<p><blockquote><p>MOOCs (Massive Open Online Courses) have become incredibly popular in just the past 12 months. Many MOOCs have had more that 100K students register for their courses. Is this the future of online education? Or is it yet-another passing fancy in the educational technology parade? In the past 12 months we have run three MOOCs with more than 280K registrants. I&rsquo;ll talk about what MOOCs are, how they&rsquo;re actually run, the social community of learners that are essential for making MOOCs succeed, and what seems to work (and not work) in MOOCs. Along the way, I&rsquo;ll talk a bit about how people seem to actually learn how to search&hellip; and do sensemaking as a task. I&rsquo;ll also show evidence that behaviors learned in the MOOC persist after the end of class. %}</p></blockquote></p>
+
+<p>If you are interested in attending this event, full details can be found <a href="http://aberdeen.bcs.org/events.php">here</a></p>
+
+<h3>Location</h3>
+
+<p>Room N311, RGU, Riverside East Building, Garthdee Road, Aberdeen</p>
+
+<h3>About the speaker</h3>
+
+<p>Daniel Russell is the Uber Tech Lead for Search Quality and User Happiness in Mountain View. He earned his PhD in computer science, specializing in artificial intelligence until he realized that magnifying and understanding human intelligence was his real passion. Twenty years ago he foreswore AI in favor of HI, and enjoys teaching, learning, running and music, preferably all in one day. He worked at Xerox PARC before it was PARC.com, and was in the Advanced Technology Group at Apple, where he wrote the first 100 web pages for <a href="http://www.apple.com">www.apple.com</a> using SimpleText and a stone knife. He also worked at IBM and briefly at a startup that developed tablet computers before the iPad.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Northern Lights Conf and Code the City 2014]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/northern-lights-conf-and-code-the-city-2014"/>
+    <updated>2014-10-13T00:00:00+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/northern-lights-conf-and-code-the-city-2014</id>
+    <content type="html"><![CDATA[<h2>An exciting few days coming up!</h2>
+
+<p>Have you got your tickets?</p>
+
+<p>There are a few exciting days, in the development world anyway, coming up, starting on the 17th October.  This sees the return of the Northern Lights Conference to the University of Aberdeen.  You can find full details of this event <a href="http://northernlightsconf.co.uk/">here</a>.  The event has 6 great speakers lined up, as well as 12 Open Space Sessions.  If you are interested in attending, you can get your ticket <a href="http://www.store.abdn.ac.uk/browse/product.asp?compid=1&amp;modid=2&amp;catid=23">here</a>.</p>
+
+<p>Hot of the heels of the Northern Lights Conference comes <a href="http://codethecity.org/">Code the City</a>, back for it&rsquo;s second year after it&rsquo;s success last year!  If you are interested in helping out, regardless of what skills you might have, you can register your interest <a href="https://www.eventbrite.co.uk/e/code-the-city-aberdeen-sport-fitness-and-wellbeing-tickets-12794716341">here</a>.</p>
+
+<p>Unfortunately, I will not be able to attend either event, but thoroughly recommend that you check them out!</p>
+]]></content>
+  </entry>
+  
+</feed>

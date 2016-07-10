@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Aberdeen Developers .Net User Group]]></title>
+  <link href="http://www.aberdeendevelopers.co.uk/atom.xml" rel="self"/>
+  <link href="http://www.aberdeendevelopers.co.uk/"/>
+  <updated>2016-04-27T19:26:13+00:00</updated>
+  <id>http://www.aberdeendevelopers.co.uk/</id>
+  <author>
+    <name><![CDATA[gep13]]></name>
+    <email><![CDATA[gep13@aberdeendevelopers.co.uk]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[May 2016 Meeting - Kendall Miller]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/may-2016-meeting-kendall-miller"/>
+    <updated>2016-04-26T00:00:00+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/may-2016-meeting-kendall-miller</id>
+    <content type="html"><![CDATA[<p>Aberdeen Developers are pleased to present a talk by Kendall Miller, on Thursday 12th May 2016 at Aberdeen University&rsquo;s Meston Building.</p>
+
+<p><strong>NOTE:</strong> Please take extra notice of the venue above!  Due to exams happening in our normal RGU venue, this talk will be being hosted by Aberdeen University, in the Meston Building.  Full details of the location can be found below.</p>
+
+<hr />
+
+<p><strong>To The Cloud! How Azure helped us improve the scalability of our SaaS</strong></p>
+
+<p>Last year we had to make a decision whether to double down with new hardware in our Colo or go another way to grow our SaaS. In this talk we&rsquo;ll walk through the challenges we&rsquo;ve faced moving from our own hardware to Azure including:</p>
+
+<ul>
+<li>Taking advantage of auto-scaling to reduce costs.</li>
+<li>Growing 100x without controlling the hardware.</li>
+<li>When it all goes wrong and Azure falls over.</li>
+<li>How Azure has improved the performance of our on-premises installs too</li>
+</ul>
+
+
+<p>Far from a theoretical conversation about how you could use the cloud, we&rsquo;ll share real data from our production implementation, both the good and the bad. Finally, we&rsquo;ll talk about where we&rsquo;re going with what we&rsquo;ve learned.</p>
+
+<p><a href="http://www.eventbrite.com/e/aberdeen-developers-net-user-group-may-2016-meeting-tickets-24846287916?aff=blog"><img src="https://www.eventbrite.com/custombutton?eid=11987778769" alt="Eventbrite - Aberdeen Developers .Net User Group - May 2016 Meeting" /></a></p>
+
+<p><strong>Speaker Bio</strong></p>
+
+<p>Kendall Miller is one of the founding partners of Gibraltar Software, an Independent Software Vendor (ISV) that develops &amp; markets commercial applications for .NET developers. Introduced commercially in 2009, Loupe is an application logging &amp; monitoring platform that is currently used by customers around the world from individual consultants through Fortune 100 companies and governments. Before starting Gibraltar Software, Kendall worked for multiple startups leading their technology development from beginning through profitability. In each case he&rsquo;s focused on translating enterprise-level performance and capabilities down to smaller companies. Kendall has a B.S in Computer Engineering from the University of Illinois, Urbana-Champaign.</p>
+
+<p><strong>Agenda - Thursday, 12th May 2016</strong>
++ 1800 - 1825: Arrival and registration
++ 1825 - 1830: Introduction
++ 1830 - 1930: To The Cloud! How Azure helped us improve the scalability of our SaaS
++ 1930 Onwards: Questions &amp; Answers followed by Prize Draw</p>
+
+<p><strong>Location and Directions</strong></p>
+
+<p>Venue: Meston Building (Enter via North Entrance), University of Aberdeen, Aberdeen, AB24 3UE</p>
+
+<p>Directions: <a href="https://www.google.com/maps/d/viewer?mid=zy5sr2VnGJ2w.khFsoArRBh_Y&amp;hl=en">Meston Building</a></p>
+
+<p><strong>Prize Draw</strong></p>
+
+<p>All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[April 2016 Meeting - Gary Ewan Park]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/april-2016-meeting-gary-ewan-park"/>
+    <updated>2016-04-11T00:00:00+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/april-2016-meeting-gary-ewan-park</id>
+    <content type="html"><![CDATA[<p>Aberdeen Developers are pleased to present a talk by Gary Ewan Park, on Thursday 21st April 2016 at the Robert Gordon University.</p>
+
+<hr />
+
+<p><strong>Having your Cake, and eating to too!</strong></p>
+
+<ul>
+<li>Have you ever wanted to create a build script for your application, but been faced with learning a new language, or DSL, or writing more XML than any person should ever need to?</li>
+<li>Have you ever wanted to create a build script that will work cross platform?</li>
+<li>Have you ever wanted to create a build script that has first class support for the most common build tools like XUnit, WiX, SignTool, and many others?</li>
+<li>Have you ever wanted to create a build script that uses a language that you already know, and love?</li>
+</ul>
+
+
+<p>If you have answered yes to any of these questions, then the Cake (<a href="http://cakebuild.net/">http://cakebuild.net/</a>) Build Automation System is for you!</p>
+
+<p>In this session we will start with a standard .Net Solution and incrementally add a build and orchestration script to compile the application, run unit tests, perform static analysis, package the application, and more, using the C# skills that you may already have.</p>
+
+<p><a href="http://www.eventbrite.com/e/aberdeen-developers-net-user-group-april-2016-meeting-tickets-24528759179?aff=blog"><img src="https://www.eventbrite.com/custombutton?eid=11987778769" alt="Eventbrite - Aberdeen Developers .Net User Group - April 2016 Meeting" /></a></p>
+
+<p><strong>Speaker Bio</strong>
+Gary Ewan Park has been developing on the .Net Platform for almost 9 years. His day job sees him developing using ASP.NET, AngularJS, and WPF, for Oil Companies working in the North Sea.</p>
+
+<p>In his spare time, Gary contributes to a number of Open Source projects including Chocolatey, Boxstarter, Cake, psake and GitVersion.</p>
+
+<p><strong>Agenda - Thursday,  21st April 2016</strong>
++ 1800 - 1825: Arrival and registration
++ 1825 - 1830: Introduction
++ 1830 - 1930: Having your Cake, and eating to too!
++ 1930 Onwards: Questions &amp; Answers followed by Prize Draw</p>
+
+<p><strong>Location and Directions</strong></p>
+
+<p>Venue: Room N309, Riverside East Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7QQ, GB</p>
+
+<p>Directions: <a href="https://maps.google.co.uk/maps?q=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,+Aberdeen,+Aberdeen+City+AB10+7QG,+GB&amp;hl=en&amp;ll=57.119317,-2.136133&amp;spn=0.004165,0.012413&amp;sll=57.746995,-4.687341&amp;sspn=8.392957,25.422363&amp;hq=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,&amp;hnear=AB10+7QG,+United+Kingdom&amp;t=m&amp;z=17&amp;iwloc=A">Map showing Garthdee Campus</a></p>
+
+<p><strong>Prize Draw</strong></p>
+
+<p>All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[March 2016 Meeting - Christos Matskas]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/march-2016-meeting-christos-matskas"/>
+    <updated>2016-02-24T00:00:00+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/march-2016-meeting-christos-matskas</id>
+    <content type="html"><![CDATA[<p>Aberdeen Developers are pleased to present a talk by Christos Matskas, on Thursday 24th March 2016 at the Robert Gordon University.</p>
+
+<hr />
+
+<p><strong>Microsoft’s ASP.NET Core 1.0 is going to rock your world</strong></p>
+
+<p>ASP.NET Core has been rewritten from the ground up to be the best web development platform for Windows, Mac, and Linux. You can now use your favorite editor to create faster, leaner and more memory efficient ASP.NET applications that work everywhere. In this session, you&rsquo;ll get an introduction to the major advancements and an overview of what&rsquo;s changed and what&rsquo;s stayed the same. You&rsquo;ll also get the chance to see how you can leverage all the new front-end tooling like npm, Bower, Grunt and Gulp to manage your application. This is going to be session full of demos and information that promises to rock your world!</p>
+
+<p>In addition, Christos will be presented a bonus lightning talk entitled:</p>
+
+<p><strong>Becoming an awesome Open Source contributor</strong></p>
+
+<p>Are you a developer that wants to give back to the open source community? Perhaps you&rsquo;re already a seasoned contributor but you want to get better? Or you want to join the open source movement because, well, OSS is the future? Just look at all the cool tech built with OSS: Node.js, BootStrap, ASP.NET etc. Join Christos Matskas to learn about the many ways to contribute, key development tools in OSS projects and tips about what it takes to become a succesful first time contributor and collaborator in this welcoming and open community.</p>
+
+<p><a href="https://www.eventbrite.com/e/aberdeen-developers-net-user-group-march-2016-meeting-tickets-21670650499?aff=blog"><img src="https://www.eventbrite.com/custombutton?eid=21670650499" alt="Eventbrite - Aberdeen Developers .Net User Group - March 2016 Meeting" /></a></p>
+
+<p><strong>Speaker Bio</strong></p>
+
+<p>Christos Matskas is a software consultant, author, blogger and speaker. A Microsoft MVP on Visual Studio and Development Technologies, he&rsquo;s a passionate Open Source advocate and a regular contributor to numerous projects. His portfolio includes collaborations with some of the biggest companies in the industry such as MarkIT, Lockheed Martin and Barclays. He&rsquo;s been building software for over 12 years and loves to work closely with the community through speaking at conferences, mentoring and teaching programs.</p>
+
+<p><strong>Agenda - Thursday,  24th March 2016</strong>
++ 1800 - 1825: Arrival and registration
++ 1825 - 1830: Introduction
++ 1830 - 1930: Microsoft’s ASP.NET Core 1.0 is going to rock your world.
++ 1930 - 1945: Bonus Lightning Talk - Becoming an awesome Open Source contributor
++ 1945 Onwards: Questions &amp; Answers followed by Prize Draw</p>
+
+<p><strong>Location and Directions</strong></p>
+
+<p>Venue: Room N309, Riverside East Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7QQ, GB</p>
+
+<p>Directions: <a href="https://maps.google.co.uk/maps?q=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,+Aberdeen,+Aberdeen+City+AB10+7QG,+GB&amp;hl=en&amp;ll=57.119317,-2.136133&amp;spn=0.004165,0.012413&amp;sll=57.746995,-4.687341&amp;sspn=8.392957,25.422363&amp;hq=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,&amp;hnear=AB10+7QG,+United+Kingdom&amp;t=m&amp;z=17&amp;iwloc=A">Map showing Garthdee Campus</a></p>
+
+<p><strong>Prize Draw</strong></p>
+
+<p>All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[ScotNetRocks! Aberdeen]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/scotnetrocks-aberdeen"/>
+    <updated>2016-01-02T00:00:00+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/scotnetrocks-aberdeen</id>
+    <content type="html"><![CDATA[<p>Aberdeen Developers are pleased to present the final night of the ScotNetRocks! tour, hopefully you’ll be able to join us to hear Carl and Richard kick off the evening as they take us on a tour of the broad range of subjects they&rsquo;ve explored recording more than 1200 episodes of .NET Rocks over the past 10+ years. After a short break, in which we are hoping to provide some light refreshments, Carl and Richard will be recording a live show with special guest Gary Short.</p>
+
+<hr />
+
+<p><strong>ScotNetRocks!</strong></p>
+
+<p>Join Carl Franklin and Richard Campbell as they take you on a tour of the broad range of subjects they’ve explored recording more than 1200 episodes of .NET Rocks! over the past 10+ years. The development world today is evolving rapidly, but a look at the history of development can help inform the path we’re on and where we’re going. Along the way you’ll hear some great stories from the various .NET Rocks! episodes and get some ideas of how you can take your career and your company into the future of technology.</p>
+
+<p><a href="http://www.eventbrite.com/e/scotnetrocks-aberdeen-tickets-19517547510?aff=blog"><img src="https://www.eventbrite.com/custombutton?eid=11987778769" alt="Eventbrite - Aberdeen Developers .Net User Group - ScotNetRocks! Aberdeen" /></a></p>
+
+<p>This will be a three date tour of Scotland, more information and tickets can be found here:
++ <a href="http://www.eventbrite.com/e/scotnetrocks-glasgow-tickets-19597665144?aff=adnug">Glasgow: 18th January 2016.</a>
++ <a href="http://www.eventbrite.co.uk/e/scotnetrocks-edinburgh-tickets-19510803338?aff=adnug">Edinburgh: 19th January 2016.</a>
++ <a href="http://www.eventbrite.com/e/scotnetrocks-aberdeen-tickets-19517547510?aff=blog">Aberdeen: 21st January 2016.</a></p>
+
+<p><strong>Agenda - Thursday,  21st January 2016</strong>
++ 1815 - Doors open
++ 1825 - Introduction &amp; Housekeeping
++ 1830 - Future of Tech - Carl and Richard
++ 1930 - Break
++ 2000 - .NET Rocks! Live Recording with special guest Gary Short
++ 2100 - Finish</p>
+
+<p><strong>Location and Directions</strong></p>
+
+<p>Venue: Room N242, Riverside East Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7QQ, GB</p>
+
+<p>Directions: <a href="https://maps.google.co.uk/maps?q=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,+Aberdeen,+Aberdeen+City+AB10+7QG,+GB&amp;hl=en&amp;ll=57.119317,-2.136133&amp;spn=0.004165,0.012413&amp;sll=57.746995,-4.687341&amp;sspn=8.392957,25.422363&amp;hq=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,&amp;hnear=AB10+7QG,+United+Kingdom&amp;t=m&amp;z=17&amp;iwloc=A">Map showing Garthdee Campus</a></p>
+
+<p><strong>Sponsors</strong></p>
+
+<p>Big thanks to our sponsors, whose support and generosity have enabled us to bring you the .NET Rocks! Scottish Tour.</p>
+
+<p>Codify</p>
+
+<p>Founded in 2000, Codify have over a decade of experience developing custom applications for the oil and gas industry used by companies of all sizes, from small local businesses to global corporations. Being based in Aberdeen has allowed Codify to gain a high level of knowledge about the energy industry. Codify love to hire smart people, have happy customers and build software that helps their clients get their job done.
+For more information please visit their site at <a href="http://www.codify.ltd.uk/">http://www.codify.ltd.uk/</a></p>
+
+<p>Evoke IT</p>
+
+<p>Evoke IT are Aberdeen’s Microsoft Cloud Specialists and not your ordinary IT company. As a team they design, build and deploy bespoke systems which automate processes, reduce costs and simply improve your work environment. Evoke IT cover the full range of Microsoft Technologies including SharePoint, Office 365 and Azure, providing consultancy, development, training and support. Having recently expanded their offering to include Managed Services, Evoke IT are set to fully support their clients from Infrastructure to Application Development.
+For more information please visit their site at <a href="http://www.evokeit.com/">http://www.evokeit.com/</a></p>
+
+<p>Lockheed Martin</p>
+
+<p>Lockheed Martin is a global technology organisation with three key areas of focus in the UK; Transportation &amp; Energy, Public Services and Security &amp; Defence. With over 3,000 people throughout the UK, our team of experts ensure our technology solutions enable customers to overcome challenges and become more efficient. We have a proven history of supporting some of the most complex businesses in the world. Our customers include Scottish Government, Heathrow Airport, the NHS, Total E&amp;P, the Ministry of Justice, NATS and Scottish Power.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[October Meeting - Gary Ewan Park - Completed]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/October-2015-meeting-gary-ewan-park-completed"/>
+    <updated>2015-10-26T00:00:00+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/October-2015-meeting-gary-ewan-park-completed</id>
+    <content type="html"><![CDATA[<p>Thanks once again to Gary for his talk on GitVersion!  If you want to get in touch with Gary, you can use his twitter account <a href="https://twitter.com/gep13">@gep13</a> and make sure you follow him for up-to-date news, articles and tips. You can also find a copy of the slides used in the presentation <a href="http://www.slideshare.net/gep13/semantic-versioning-with-gitversion-take-2">here</a>.  If you have any questions about GitVersion, you can also ask them at the Gitter Chat room, which you can find <a href="https://gitter.im/GitTools/GitVersion">here</a>.</p>
+
+<p><strong> Prizes </strong></p>
+
+<p>For everyone who was lucky enough to win a prize from one of our amazing <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>, I have requested all of the prizes.  If you haven&rsquo;t heard anything, please get in touch, and we will try to sort this out.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[October 2015 Meeting - Gary Ewan Park]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/october-2015-meeting-gary-ewan-park"/>
+    <updated>2015-10-13T00:00:00+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/october-2015-meeting-gary-ewan-park</id>
+    <content type="html"><![CDATA[<p>Aberdeen Developers are pleased to present a talk by Gary Ewan Park, on Thursday 22nd October 2015 at the Robert Gordon University.</p>
+
+<hr />
+
+<p><strong>Semantic Versioning with GitVersion</strong></p>
+
+<p>Have you ever needed to control the version number of your application? If so, you will know that this isn’t something that you “get for free”. It’s hard! You may have tried to use some form of auto incrementing number from your Continuous Integration Server, or store a text file in source control and update it each time the build happens. Both of these approaches will work, but they don’t account for more complicated scenarios where you are working on multiple releases at the same time, or you want to use multiple Continuous Integration Servers. In this session, we will look at how we can improve the versioning of your application using a combination of branching strategies (either Gitflow or Githubflow) and an open source tool called GitVersion. GitVersion is a tool which allows you to easy generate the Semantic Version number for your application, based on the current state of your code base in it’s Git Repository.</p>
+
+<p><a href="http://www.eventbrite.com/e/aberdeen-developers-net-user-group-october-2015-meeting-tickets-18944026092?aff=blog"><img src="https://www.eventbrite.com/custombutton?eid=11987778769" alt="Eventbrite - Aberdeen Developers .Net User Group - October 2015 Meeting #1" /></a></p>
+
+<p><strong>Speaker Bio</strong>
+Gary Ewan Park has been developing on the .Net Platform for almost 9 years. His day job with Digital Applications Internatational sees him developing using ASP.NET, AngularJS, WPF, SharePoint, Silverlight, and WCF for Oil Companies working in the North Sea.</p>
+
+<p>In his spare time, Gary contributes to a number of Open Source projects including Chocolatey, ChocolateyGUI, Boxstarter, psake-contrib, GitVersion, and GitReleaseManager.</p>
+
+<p><strong>Agenda - Thursday,  22nd October 2015</strong>
++ 1800 - 1825: Arrival and registration
++ 1825 - 1830: Introduction
++ 1830 - 1930: Semantic Versioning with GitVersion
++ 1930 Onwards: Questions &amp; Answers followed by Prize Draw</p>
+
+<p><strong>Location and Directions</strong></p>
+
+<p>Venue: Room N311, Riverside East Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7QQ, GB</p>
+
+<p>Directions: <a href="https://maps.google.co.uk/maps?q=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,+Aberdeen,+Aberdeen+City+AB10+7QG,+GB&amp;hl=en&amp;ll=57.119317,-2.136133&amp;spn=0.004165,0.012413&amp;sll=57.746995,-4.687341&amp;sspn=8.392957,25.422363&amp;hq=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,&amp;hnear=AB10+7QG,+United+Kingdom&amp;t=m&amp;z=17&amp;iwloc=A">Map showing Garthdee Campus</a></p>
+
+<p><strong>Prize Draw</strong></p>
+
+<p>All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[September Meeting - Max Vasilyev - Completed]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/September-2015-meeting-max-vasilyev-completed"/>
+    <updated>2015-09-25T00:00:00+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/September-2015-meeting-max-vasilyev-completed</id>
+    <content type="html"><![CDATA[<p>Thanks once again to Max for coming along to Aberdeen Devlopers to deliver his awesome talk on CQRS!  If you want to get in touch with Max, you can use his twitter account <a href="https://twitter.com/trailmax">@trailmax</a> and make sure you follow him for up-to-date news, articles and tips. You can also find a copy of the slides used in the presentation <a href="https://github.com/trailmax/CQRS.Talk">here</a>.</p>
+
+<p><strong> Prizes </strong></p>
+
+<p>For everyone who was lucky enough to win a prize from one of our amazing <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>, the prizes will be requested in due course.  If you don&rsquo;t hear anything, please get in touch, and we will try to sort this out.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[September Meeting - Colin Mackay - Completed]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/September-2015-meeting-colin-mackay-completed"/>
+    <updated>2015-09-25T00:00:00+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/September-2015-meeting-colin-mackay-completed</id>
+    <content type="html"><![CDATA[<p>Thanks once again to Colin for making the journey up to Aberdeen to deliver his awesome talk on Continuous Delivery!  If you want to get in touch with Colin, you can use his twitter account <a href="https://twitter.com/colinmackay">@colinmackay</a> and make sure you follow him for up-to-date news, articles and tips. You can also find a copy of the slides used in the presentation <a href="http://colinmackay.scot/2015/09/13/continuous-delivery-aberdeen-developers-net-user-group/">here</a>.</p>
+
+<p><strong> Prizes </strong></p>
+
+<p>For everyone who was lucky enough to win a prize from one of our amazing <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>, I have requested all of the prizes.  If you haven&rsquo;t heard anything, please get in touch, and we will try to sort this out.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[August Meeting - Mike Taulty - Completed]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/August-2015-meeting-mike-taulty-completed"/>
+    <updated>2015-09-25T00:00:00+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/August-2015-meeting-mike-taulty-completed</id>
+    <content type="html"><![CDATA[<p>Thanks once again to Mike for making the journey up to Aberdeen to deliver his awesome talk on Windows 10 and the Universal Windows App Platform!  If you want to get in touch with Mike, you can use his twitter account <a href="https://twitter.com/mtaulty">@mtaulty</a> and make sure you follow him for up-to-date news, articles and tips. You can also find a copy of the slides used in the presentation <a href="http://1drv.ms/1NkYYJr">here</a>.</p>
+
+<p><strong> Prizes </strong></p>
+
+<p>For everyone who was lucky enough to win a prize from one of our amazing <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>, I have requested all of the prizes.  If you haven&rsquo;t heard anything, please get in touch, and we will try to sort this out.</p>
+
+<p>As Mike mentioned, there is the possibility of getting some Windows 10 Swag in the form of t-shirts.  I am currently working on this, and once I know more, I will let you know.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[September 2015 Meeting #2 - Max Vasilyev]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/september-2015-meeting-2-max-vasilyev"/>
+    <updated>2015-09-08T00:00:00+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/september-2015-meeting-2-max-vasilyev</id>
+    <content type="html"><![CDATA[<p>Aberdeen Developers are pleased to present a talk by Max Vasilyev, on Thursday 24th September 2015 at the Robert Gordon University.</p>
+
+<hr />
+
+<p><strong>Command Query Responsibility Segregation</strong></p>
+
+<p>CQRS (Command Query Responsibility Segregation) have been around for a while and many people called and used this architecture/pattern differently. Probably many of you have read many articles about this approach, but never actually got to do it on practice.</p>
+
+<p>In this session there will be a brief theoretical discussion followed by practical examples with code samples and discussion of benefits of this approach.</p>
+
+<p><a href="http://www.eventbrite.com/e/aberdeen-developers-net-user-group-september-2015-meeting-2-tickets-18308807135?aff=blog"><img src="https://www.eventbrite.com/custombutton?eid=11987778769" alt="Eventbrite - Aberdeen Developers .Net User Group - September 2015 Meeting #2" /></a></p>
+
+<p><strong>Speaker Bio</strong>
+Max Vasilyev is a Senior Developer in one of Aberdeen’s .Net development houses. He has been successfully using CQRS in different projects for over 2 years. And he is keen to share his experience with wider audience.</p>
+
+<p><strong>Agenda - Thursday, 24th September 2015</strong>
++ 1800 - 1825: Arrival and registration
++ 1825 - 1830: Introduction
++ 1830 - 1930: Command Query Responsibility Segregation
++ 1930 Onwards: Questions &amp; Answers followed by Prize Draw</p>
+
+<p><strong>Location and Directions</strong></p>
+
+<p>Venue: Room N346, Riverside East Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7QQ, GB</p>
+
+<p>Directions: <a href="https://maps.google.co.uk/maps?q=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,+Aberdeen,+Aberdeen+City+AB10+7QG,+GB&amp;hl=en&amp;ll=57.119317,-2.136133&amp;spn=0.004165,0.012413&amp;sll=57.746995,-4.687341&amp;sspn=8.392957,25.422363&amp;hq=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,&amp;hnear=AB10+7QG,+United+Kingdom&amp;t=m&amp;z=17&amp;iwloc=A">Map showing Garthdee Campus</a></p>
+
+<p><strong>Prize Draw</strong></p>
+
+<p>All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[September 2015 Meeting #1 - Colin Mackay]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/september-2015-meeting-1-colin-mackay"/>
+    <updated>2015-09-04T00:00:00+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/september-2015-meeting-1-colin-mackay</id>
+    <content type="html"><![CDATA[<p>Aberdeen Developers are pleased to present a talk by Colin Mackay, on Thursday 10th September 2015 at the Robert Gordon University.</p>
+
+<hr />
+
+<p><strong>Continuous Delivery</strong></p>
+
+<p>Manually delivery software can be a time consuming and error prone affair. Why have a valuable person sit and manually do this? They&rsquo;re bored, and as a result they&rsquo;re not paying full attention and mistakes happen. It isn&rsquo;t repeatable so all those deployments to the testing environment count for nothing when it all goes horribly wrong when deploying to the production environment. There must be a better way of delivering software.</p>
+
+<p>There is!</p>
+
+<p>Amazon reportedly deploys to production every few seconds, GitHub do it several times a day. What makes this possible is a continuous delivery pipeline - a set of processes and a culture of development that ensure that get you to the point where every commit to your source repository is a potential for production system.</p>
+
+<p>Continuous Delivery aims to remove the issues with building, testing and ultimately deploying to production in a safe, repeatable, well tested and highly confident way. I aim to show you how to get started on this journey. It isn&rsquo;t as daunting as it first looks.</p>
+
+<p><a href="http://www.eventbrite.com/e/aberdeen-developers-net-user-group-september-2015-meeting-1-tickets-18308101023?aff=blog"><img src="https://www.eventbrite.com/custombutton?eid=11987778769" alt="Eventbrite - Aberdeen Developers .Net User Group - September 2015 Meeting #1" /></a></p>
+
+<p><strong>Speaker Bio</strong>
+Colin Mackay is a software developer, former MVP, and speaker at user groups and previous DDD events.</p>
+
+<p><strong>Agenda - Thursday,  10th September 2015</strong>
++ 1800 - 1825: Arrival and registration
++ 1825 - 1830: Introduction
++ 1830 - 1930: Continuous Delivery
++ 1930 Onwards: Questions &amp; Answers followed by Prize Draw</p>
+
+<p><strong>Location and Directions</strong></p>
+
+<p>Venue: Room N310, Riverside East Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7QQ, GB</p>
+
+<p>Directions: <a href="https://maps.google.co.uk/maps?q=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,+Aberdeen,+Aberdeen+City+AB10+7QG,+GB&amp;hl=en&amp;ll=57.119317,-2.136133&amp;spn=0.004165,0.012413&amp;sll=57.746995,-4.687341&amp;sspn=8.392957,25.422363&amp;hq=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,&amp;hnear=AB10+7QG,+United+Kingdom&amp;t=m&amp;z=17&amp;iwloc=A">Map showing Garthdee Campus</a></p>
+
+<p><strong>Prize Draw</strong></p>
+
+<p>All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[August 2015 Meeting #2 - Mike Taulty]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/august-2015-meeting-2-mike-taulty"/>
+    <updated>2015-08-13T00:00:00+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/august-2015-meeting-2-mike-taulty</id>
+    <content type="html"><![CDATA[<p>Aberdeen Developers are pleased to present a talk by Mike Taulty, on Thursday 27th August 2015 at the Robert Gordon University.</p>
+
+<hr />
+
+<p><strong>Windows 10 and the Universal Windows App Platform</strong></p>
+
+<p>Windows 10 is a big release for Microsoft. Commodious. Huge. Massive. Colossal. Humongous. ;-)</p>
+
+<p>It’s the end of a journey to unify Windows. It’s the beginning of a journey for developers who want to take advantage of a universal app platform available across all Windows devices.</p>
+
+<p>In this session, we’ll dig into what’s changed in Windows 10 for the Windows app developer. We’ll talk about the Universal App Platform that makes it possible to build code that runs on all Windows devices and about the Extension platforms for code that targets specific device families.</p>
+
+<p>We’ll stay in Visual Studio as much as is possible and we’ll lean towards C# and XAML.</p>
+
+<p><a href="http://www.eventbrite.com/e/aberdeen-developers-net-user-group-august-2015-meeting-2-tickets-18094386798?aff=blog"><img src="https://www.eventbrite.com/custombutton?eid=11987778769" alt="Eventbrite - Aberdeen Developers .Net User Group - August 2015 Meeting #2" /></a></p>
+
+<p><strong>Speaker Bio</strong></p>
+
+<p>Mike Taulty works in the Developer and Platform Group at Microsoft in the UK where he has spent the past few years helping developers understand and get the best from the Microsoft platform. Prior to this, Mike spent 3 years with Microsoft Consulting Services as a consultant on developer technologies.</p>
+
+<p>Before joining Microsoft, Mike spent the previous 9 years working as a software developer for a number of enterprises, consultancies and software vendors working with a variety of operating system, client, communication and server technologies. You can find more of a complete career history over on <a href="http://uk.linkedin.com/in/mtaulty">LinkedIn</a>.</p>
+
+<p>Mike holds a BSc Hons (1st Class) in Computer Science from the University of Leeds.</p>
+
+<p><strong>Agenda - Thursday, 27th August 2015</strong>
++ 1800 - 1825: Arrival and registration
++ 1825 - 1830: Introduction
++ 1830 - 1930: Windows 10 and the Universal Windows App Platform
++ 1930 Onwards: Questions &amp; Answers followed by Prize Draw</p>
+
+<p><strong>Location and Directions</strong></p>
+
+<p>Venue: Room N311, Riverside East Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7QQ, GB</p>
+
+<p>Directions: <a href="https://maps.google.co.uk/maps?q=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,+Aberdeen,+Aberdeen+City+AB10+7QG,+GB&amp;hl=en&amp;ll=57.119317,-2.136133&amp;spn=0.004165,0.012413&amp;sll=57.746995,-4.687341&amp;sspn=8.392957,25.422363&amp;hq=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,&amp;hnear=AB10+7QG,+United+Kingdom&amp;t=m&amp;z=17&amp;iwloc=A">Map showing Garthdee Campus</a></p>
+
+<p><strong>Prize Draw</strong></p>
+
+<p>All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[August 2015 Meeting #1 - Mark Rendle]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/august-2015-meeting-1-mark-rendle"/>
+    <updated>2015-08-13T00:00:00+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/august-2015-meeting-1-mark-rendle</id>
+    <content type="html"><![CDATA[<p>Aberdeen Developers are pleased to present a talk by Mark Rendle, on Thursday 20th August 2015 at the Robert Gordon University.</p>
+
+<hr />
+
+<p><strong>Docker Strangelove - ASP.NET 5 on Linux</strong></p>
+
+<p>Come and learn all about hacking on ASP.NET on Linux!</p>
+
+<p>Linux is now an officially supported platform for ASP.NET applications and you can use epic open-source things like Docker to manage your deployments.</p>
+
+<p>In this session Mark will show us how to run an ASP.NET 5 application on Linux, then in Docker on Linux, and a whole lot more going as far down the rabbit hole as time allows. There may even be time to set up a mini-cloud-within-a-cloud with automated deployments from GitHub!</p>
+
+<p><a href="http://www.eventbrite.com/e/aberdeen-developers-net-user-group-august-2015-meeting-tickets-17423409888?aff=blog"><img src="https://www.eventbrite.com/custombutton?eid=11987778769" alt="Eventbrite - Aberdeen Developers .Net User Group - August 2015 Meeting #1" /></a></p>
+
+<p>WARNING: may contain traces of demo-fail</p>
+
+<p><strong>Speaker Bio</strong></p>
+
+<p>Mark is the founder and CTO of Oort Corporation, a new company building cloud-based software for people who build cloud-based software. Oort&rsquo;s first product, Zudio, a Windows Azure Storage toolkit, is currently in public preview and will be fully launching in April 2013. Mark has been a Windows Azure Development MVP for three years.</p>
+
+<p>In his spare time, Mark work&rsquo;s on the Simple.Data not-an-ORM and Simple.Web projects, and wanders the world speaking at conferences and user groups. Or he just geeks out learning new programming languages and frameworks; in 2013 he&rsquo;s working a lot with TypeScript and AngularJS.</p>
+
+<p><strong>Agenda - Thursday, 20th August 2015</strong></p>
+
+<ul>
+<li>1800 - 1825: Arrival and registration</li>
+<li>1825 - 1830: Introduction</li>
+<li>1830 - 1930: Docker Strangelove - ASP.NET 5 on Linux</li>
+<li>1930 Onwards: Questions &amp; Answers followed by Prize Draw</li>
+</ul>
+
+
+<p><strong>Location and Directions</strong></p>
+
+<p>Venue: Room N204, Riverside East Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7QQ, GB</p>
+
+<p>Directions: <a href="https://maps.google.co.uk/maps?q=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,+Aberdeen,+Aberdeen+City+AB10+7QG,+GB&amp;hl=en&amp;ll=57.119317,-2.136133&amp;spn=0.004165,0.012413&amp;sll=57.746995,-4.687341&amp;sspn=8.392957,25.422363&amp;hq=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,&amp;hnear=AB10+7QG,+United+Kingdom&amp;t=m&amp;z=17&amp;iwloc=A">Map showing Garthdee Campus</a></p>
+
+<p><strong>Prize Draw</strong></p>
+
+<p>All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[July Meeting - Matt Ellis - Completed]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/July-2015-meeting-matt-ellis-completed"/>
+    <updated>2015-07-23T00:00:00+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/July-2015-meeting-matt-ellis-completed</id>
+    <content type="html"><![CDATA[<p>Thanks once again to Matt for making the journey up to Aberdeen to deliver his awesome talk on .Net Core!  If you want to get in touch with Matt, you can use his twitter account <a href="https://twitter.com/citizenmatt">@citizenmatt</a> and make sure you follow him for up-to-date news, articles and tips. You can also find a copy of the slides used in the presentation <a href="http://www.slideshare.net/citizenmatt/dot-netcoreblimey-07-2015">here</a>.</p>
+
+<p><strong> Prizes </strong></p>
+
+<p>For everyone who was lucky enough to win a prize from one of our amazing <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>, I have requested all of the prizes.  If you haven&rsquo;t heard anything, please get in touch, and we will try to sort this out.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[July 2015 Meeting - Matt Ellis]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/july-2015-meeting-matt-ellis"/>
+    <updated>2015-06-22T00:00:00+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/july-2015-meeting-matt-ellis</id>
+    <content type="html"><![CDATA[<p>Aberdeen Developers are pleased to present the final night of Matt Ellis’s Scottish Tour. Join us on Thursday 23rd July 2015 at the Robert Gordon University to learn more about Microsoft’s recent move to open-source .NET!</p>
+
+<hr />
+
+<p><strong>.NETCore Blimey!</strong></p>
+
+<p>Microsoft have done the unthinkable and open-sourced .net, making it available on GitHub, and even taking it cross-platform. This is great news for developers, but do you know your .NET Core from your .Net Framework? Can you tell your CoreCLR from your CoreFX? And where does asp.net vnext and DNX come into this story? In this session, we’ll take a look at the big picture, dive deeply into some of the more interesting details and see how the pieces of Microsoft’s new .Net stack fit together, what it means for developers and find out exactly how you do run an .exe on Unix.</p>
+
+<p><a href="http://www.eventbrite.com/e/aberdeen-developers-net-user-group-july-2015-meeting-tickets-17423404873?aff=blog"><img src="https://www.eventbrite.com/custombutton?eid=11987778769" alt="Eventbrite - Aberdeen Developers .Net User Group - July 2015 Meeting" /></a></p>
+
+<p><strong>Speaker Bio</strong></p>
+
+<p>Matt Ellis is a developer at JetBrains, working on the Developer Advocacy team. He has 20 years of experience shipping software, having been a developer, team lead and technical authority for companies such as BBC Worldwide, BNP Paribas and Egg, the UK’s first internet bank. During that time, he has worked with a variety of platforms and technologies, from C++ and Unix to C#, Reactive Extensions and the Web. He currently works with language tooling, having fun with abstract syntax trees and source code analysis. He owns and contributes to various open source projects, and believes in the open closed principle.</p>
+
+<p><strong>Agenda - Thursday, 23rd July 2015 </strong></p>
+
+<ul>
+<li>1800 - 1825: Arrival and registration</li>
+<li>1825 - 1830: Introduction</li>
+<li>1830 - 1930: .NETCore Blimey!</li>
+<li>1930 Onwards: Questions &amp; Answers followed by Prize Draw</li>
+</ul>
+
+
+<p><strong>Location and Directions</strong></p>
+
+<p>Venue: Room N204, Riverside East Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7QQ, GB</p>
+
+<p>Directions: <a href="https://maps.google.co.uk/maps?q=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,+Aberdeen,+Aberdeen+City+AB10+7QG,+GB&amp;hl=en&amp;ll=57.119317,-2.136133&amp;spn=0.004165,0.012413&amp;sll=57.746995,-4.687341&amp;sspn=8.392957,25.422363&amp;hq=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,&amp;hnear=AB10+7QG,+United+Kingdom&amp;t=m&amp;z=17&amp;iwloc=A">Map showing Garthdee Campus</a></p>
+
+<p><strong>Prize Draw</strong></p>
+
+<p>All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>.
+<strong>Tour Dates</strong></p>
+
+<p>As part of the Scotland Tour, Matt will also be presenting at the following venues:</p>
+
+<ul>
+<li><a href="https://www.eventbrite.co.uk/e/c-6-features-and-tooling-tickets-17510913614">Skyscanner, Edinburgh - Tuesday, 21st July</a></li>
+<li><a href="https://www.eventbrite.co.uk/e/net-core-blimey-tickets-17510783224">Skyscanner, Glasgow - Wednesday, 22nd July</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[June 2015 Meeting - Completed]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/june-2015-meeting-steven-chalmers-completed"/>
+    <updated>2015-06-19T00:00:00+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/june-2015-meeting-steven-chalmers-completed</id>
+    <content type="html"><![CDATA[<p><strong> Slides and Code from June&rsquo;s Talk </strong></p>
+
+<p>A massive thank you to Steven for sharing his experience and expertise at last night&rsquo;s meeting, and of course thanks to all those who managed to attend!</p>
+
+<p>You can find the <a href="https://github.com/CodeBeastie/Presentation/blob/master/Slides.pdf">Slides</a> and <a href="https://github.com/CodeBeastie/Presentation/">Code</a> from Steve&rsquo;s presentation on his GitHub page <a href="https://github.com/CodeBeastie/Presentation/">here</a>.  Also be sure to check out his <a href="http://blog.codebeastie.com/">blog</a> for some more information and tips including the <a href="http://blog.codebeastie.com/kendo-grid-error-handling/">handy tip</a> for showing error messages from the server in a specific cell of the Telerik Grid.</p>
+
+<p><strong> Prizes </strong></p>
+
+<p>For everyone who was lucky enough to win a prize from one of our awesome <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>, I have requested all of the prizes.  If you haven&rsquo;t heard anything, please get in touch.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[June 2015 Meeting - Steven Chalmers]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/june-2015-meeting-steven-chalmers"/>
+    <updated>2015-05-20T00:00:00+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/june-2015-meeting-steven-chalmers</id>
+    <content type="html"><![CDATA[<p>Aberdeen Developers are pleased to present a talk by Steven Chalmers, on Thursday 18th June 2015 at the Robert Gordon University.</p>
+
+<hr />
+
+<p><strong>Getting a helping hand from the Telerik Kendo UI and Reports</strong></p>
+
+<p>With a new project based on heavy data entry and manipulation combined with getting to grips with new tech some help was required. I turned to using the Telerik tools in my ASP.NET MVC website. It simplified the data entry and the presentation of data and thus left lots of time to fight with CSS styling instead.</p>
+
+<p>At the start I didn&rsquo;t really know what I was getting and even if it was going to be of use. It looked pretty in the Telerik demos but how complex was it really? In the presentation I want to share some of the knowledge I gained to give a simple view on how the Telerik Kendo UI and the Telerik reports slot into the ASP.MVC environment. Hopefully you can gain enough information to decide if it will benefit your projects or not.</p>
+
+<p><a href="http://www.eventbrite.com/e/aberdeen-developers-net-user-group-june-2015-meeting-tickets-17071686875?aff=blog"><img src="https://www.eventbrite.com/custombutton?eid=11987778769" alt="Eventbrite - Aberdeen Developers .Net User Group - June 2015 Meeting" /></a></p>
+
+<p><strong>Speaker Bio</strong></p>
+
+<p>Steven Chalmers has been programming on many different computers and embedded systems since the late 70&rsquo;s. From typing in bytes, assembly all the way through to c#. In the past half year he has made a jump into new territory with the development of websites using ASP.NET MVC, JavaScript, jQuery and the Telerik tools.</p>
+
+<p><strong>Agenda - Thursday, 18th June 2015 </strong></p>
+
+<ul>
+<li>1800 - 1825: Arrival and registration</li>
+<li>1825 - 1830: Introduction</li>
+<li>1830 - 1930: Getting a helping hand from the Telerik Kendo UI and Reports</li>
+<li>1930 Onwards: Questions &amp; Answers followed by Prize Draw</li>
+</ul>
+
+
+<p><strong>Location and Directions</strong></p>
+
+<p>Venue: Room N310, Riverside East Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7QQ, GB</p>
+
+<p>Directions: <a href="https://maps.google.co.uk/maps?q=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,+Aberdeen,+Aberdeen+City+AB10+7QG,+GB&amp;hl=en&amp;ll=57.119317,-2.136133&amp;spn=0.004165,0.012413&amp;sll=57.746995,-4.687341&amp;sspn=8.392957,25.422363&amp;hq=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,&amp;hnear=AB10+7QG,+United+Kingdom&amp;t=m&amp;z=17&amp;iwloc=A">Map showing Garthdee Campus</a></p>
+
+<p><strong>Prize Draw</strong></p>
+
+<p>All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Microsoft UK Edinburgh Events]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/microsoft-uk-edinburgh-events"/>
+    <updated>2015-04-15T00:00:00+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/microsoft-uk-edinburgh-events</id>
+    <content type="html"><![CDATA[<p>Microsoft UK are running a couple of one day events in Edinburgh this month (April), these events offer hands-on sessions guided by experts and are a great place to start with the basics and an opportunity to pick the brains of the experts.</p>
+
+<p><strong><a href="https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032622343&amp;Culture=en-GB&amp;community=0">Microsoft Azure Developer Cloud Camp</a></strong></p>
+
+<p>A one-day Azure hands-on camp to experience the versatility of the Azure platform, and see the practical capabilities that Azure brings within reach your business, IT company and department.</p>
+
+<p>22 April 2015 - Edinburgh, 09:00 - 17:00 -
+<a href="https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032622343&amp;Culture=en-GB&amp;community=0">Register</a></p>
+
+<p><strong><a href="https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032622342&amp;Culture=en-GB&amp;community=0">Microsoft Developer Web Camp</a></strong></p>
+
+<p>Web Camps are live, no-fluff events created for web developers, by web developers. You’ll learn from seasoned experts who start with the basics and ramp up to more advanced topics as the day goes on. Don&rsquo;t miss this free opportunity to sharpen your web development skills.</p>
+
+<p>23 April 2015 - Edinburgh, 09:00 - 17:00 -
+<a href="https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032622342&amp;Culture=en-GB&amp;community=0">Register</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[March 2015 Meeting - Sebastien Lambla]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/march-2015-meeting-sebastien-lambla"/>
+    <updated>2015-03-03T00:00:00+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/march-2015-meeting-sebastien-lambla</id>
+    <content type="html"><![CDATA[<p>Aberdeen Developers are pleased to present a talk by Sebastien Lambla, on Thursday 12th March 2015 at the Robert Gordon University.</p>
+
+<hr />
+
+<p><strong>OWIN, Why, What and How?</strong></p>
+
+<p>OWIN is a set of open interfaces for web components on .net. Much has changed since the early days of that specification. What is OWIN? What does componentising mean for building web application? Expect to see code, slides, unicorns, Funcs and discussions about how to build your components now and be ready for asp.net vNext for free!</p>
+
+<p><a href="http://adnuguk-march-2015.eventbrite.com/?aff=blog"><img src="https://www.eventbrite.com/custombutton?eid=11987778769" alt="Eventbrite - Aberdeen Developers .Net User Group - March 2015 Meeting" /></a></p>
+
+<p><strong>Speaker Bio</strong></p>
+
+<p>Sebastien Lambla has been involved in software development since receiving his first web browser, back in the days of Netsape Navigator 1.2. After a few years of hacking on javascript, he turned his attention to the .net platform, on which he would spend the next few years building software in many companies. From 2006, Sebastien has been running Caffeine IT, a consultancy helping clients from all over Europe implement first-grade and innovative solutions. Keen Open-Source promoter, Sebastien has created multiple high-profile open-source projects that are in use in many Fortune 500 companies, including OpenRasta, at a time the most popular resource-oriented framework on .net. Long-time advocate of the ReST architectural style and resource-oriented computing, Sebastien has delivered over the years new platforms leveraging the architecture of the web, from small independents to Fortune 500s.</p>
+
+<p><strong>Agenda - Thursday, 12th March 2015 </strong></p>
+
+<p>1800 - 1825: Arrival and registration
+1825 - 1830: Introduction
+1830 - 1930: OWIN, Why, What and How?
+1930 Onwards: Questions &amp; Answers followed by Prize Draw</p>
+
+<p><strong>Location and Directions</strong></p>
+
+<p>Venue: Room N311, Riverside East Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7QQ, GB</p>
+
+<p>Directions: <a href="https://maps.google.co.uk/maps?q=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,+Aberdeen,+Aberdeen+City+AB10+7QG,+GB&amp;hl=en&amp;ll=57.119317,-2.136133&amp;spn=0.004165,0.012413&amp;sll=57.746995,-4.687341&amp;sspn=8.392957,25.422363&amp;hq=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,&amp;hnear=AB10+7QG,+United+Kingdom&amp;t=m&amp;z=17&amp;iwloc=A">Map showing Garthdee Campus</a></p>
+
+<p><strong>Prize Draw</strong></p>
+
+<p>All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[February Meeting - Christos Matskas - Completed]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/february-meeting-christos-matskas-completed"/>
+    <updated>2015-02-25T00:00:00+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/february-meeting-christos-matskas-completed</id>
+    <content type="html"><![CDATA[<p>Thanks once again to Christos for making the journey up to Aberdeen to deliver his awesome talk on Cross platform mobile development with the power of Xamarin! Christos has provided a in depth review his trip along with his slides and the videos captured by himself and BCS Aberdeen, you can find his blog post <a href="https://cmatskas.com/cross-platform-application-development-with-xamarin/">here</a>.  If you want to get in touch with Christos, you can use his twitter account <a href="https://twitter.com/christosmatskas">@christosmatskas</a> and make sure you follow him for up-to-date news, articles and tips..</p>
+
+<p><strong> Prizes </strong></p>
+
+<p>For everyone who was lucky enough to win a prize from one of our amazing <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>, I have requested all of the prizes.  If you haven&rsquo;t heard anything, please get in touch, and we will try to sort this out.</p>
+]]></content>
+  </entry>
+  
+</feed>

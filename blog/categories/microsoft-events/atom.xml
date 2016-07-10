@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Microsoft Events | Aberdeen Developers .Net User Group]]></title>
+  <link href="http://www.aberdeendevelopers.co.uk/blog/categories/microsoft-events/atom.xml" rel="self"/>
+  <link href="http://www.aberdeendevelopers.co.uk/"/>
+  <updated>2016-04-27T19:26:13+00:00</updated>
+  <id>http://www.aberdeendevelopers.co.uk/</id>
+  <author>
+    <name><![CDATA[gep13]]></name>
+    <email><![CDATA[gep13@aberdeendevelopers.co.uk]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Microsoft Developer Camps in Edinburgh]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/microsoft-developer-camps-in-edinburgh"/>
+    <updated>2012-08-07T14:28:31+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/microsoft-developer-camps-in-edinburgh</id>
+    <content type="html"><![CDATA[<p>Are you currently using, or away to use, Windows Azure, or developing an application for Windows 8?  If so, then a series of Developer Camps running in Edinburgh might be right up your street!  These events will likely fill up very quickly, so if you are at all interested, I would suggest that you sign up early!</p>
+
+<h3>Windows Azure Developer Camp – 30th August – Radisson Blu, Edinburgh</h3>
+
+<p><a href="https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032522070&amp;Culture=en-GB&amp;community=0">https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032522070&amp;Culture=en-GB&amp;community=0</a></p>
+
+<h3>Windows 8 UX Workshop – 30th August – Radisson Blu, Edinburgh</h3>
+
+<p><a href="https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032522071&amp;Culture=en-GB&amp;community=0">https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032522071&amp;Culture=en-GB&amp;community=0</a></p>
+
+<h3>Microsoft Windows 8 DevCamp – 31st August – Radisson Blu, Edinburgh</h3>
+
+<p><a href="https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032522072&amp;Culture=en-GB&amp;community=0">https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032522072&amp;Culture=en-GB&amp;community=0</a></p>
+
+<h3>Microsoft Windows 8 DevCamp – 1st September – Radisson Blu, Edinburgh</h3>
+
+<p><a href="https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032522073&amp;Culture=en-GB&amp;community=0">https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032522073&amp;Culture=en-GB&amp;community=0</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[UK Windows Azure Conference 2012]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/uk-windows-azure-conference-2012"/>
+    <updated>2012-05-29T19:22:00+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/uk-windows-azure-conference-2012</id>
+    <content type="html"><![CDATA[<p>I just wanted to give you a heads up about a very interesting event which is going to be taking place on Friday 22nd June 2012. The UK Windows Azure Conference 2012 is being run by the UK Windows Azure User Group, with the help of Microsoft. and eSynergy Solutions.</p>
+
+<p>Full details of the event can be found here:</p>
+
+<p><a href="http://azureconference2012.eventbrite.co.uk/">http://azureconference2012.eventbrite.co.uk/</a></p>
+
+<p>Registration costs £25.</p>
+
+<p>In case you needed any more convincing, Scott Guthrie will be doing the Keynote Presentation.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Microsoft UK Tech.Days and IT Pro Camps]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/microsoft-uk-tech-days-and-it-pro-camps"/>
+    <updated>2012-03-10T15:17:45+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/microsoft-uk-tech-days-and-it-pro-camps</id>
+    <content type="html"><![CDATA[<p>I just wanted to bring some upcoming events to your attention. With all the hype about Windows 8 and Visual Studio 11 releases lately, it looks as those Microsoft are following up with a huge number of in-person and webinar events. If you haven’t already done so, I will recommend that you take a look here:</p>
+
+<p><a href="http://uktechdays.cloudapp.net/upcoming-events.aspx">http://uktechdays.cloudapp.net/upcoming-events.aspx</a></p>
+
+<p>and here:</p>
+
+<p><a href="http://uktechdays.cloudapp.net/it-pro-camps.aspx">http://uktechdays.cloudapp.net/it-pro-camps.aspx</a></p>
+
+<p>Although I would say that there are a higher number of events happening south of the border, there are still a fair number of events taking place in Edinburgh. Over the last year of so, I have been a number of these events and if you can make it, I would strongly recommend that you attend. I am already registered for the Windows 8 event in Edinburgh.</p>
+
+<p>Gary</p>
+]]></content>
+  </entry>
+  
+</feed>

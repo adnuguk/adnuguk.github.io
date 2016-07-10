@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Event Feedback | Aberdeen Developers .Net User Group]]></title>
+  <link href="http://www.aberdeendevelopers.co.uk/blog/categories/event-feedback/atom.xml" rel="self"/>
+  <link href="http://www.aberdeendevelopers.co.uk/"/>
+  <updated>2016-04-27T19:26:13+00:00</updated>
+  <id>http://www.aberdeendevelopers.co.uk/</id>
+  <author>
+    <name><![CDATA[gep13]]></name>
+    <email><![CDATA[gep13@aberdeendevelopers.co.uk]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[August 2014 Meeting - Shawn Wildermuth - Completed]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/August-2014-meeting-completed"/>
+    <updated>2014-08-09T11:18:31+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/August-2014-meeting-completed</id>
+    <content type="html"><![CDATA[<h1>Slides and Code from Web API 2 Talk</h1>
+
+<p>You can find the Slides and Code that Shawn presented <a href="http://wildermuth.com/2014/8/8/Web_API_in_Aberdeen_Scotland">here</a>.  If you want to get in touch with Shawn, you can use his twitter account <a href="https://twitter.com/ShawnWildermuth">@ShawnWildermuth</a></p>
+
+<h1>Prizes</h1>
+
+<p>For everyone who was lucky enough to win a prize from one of our <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>, I have requested all of the prizes.  If you haven&rsquo;t heard anything, please get in touch, and I will try to sort this out.</p>
+
+<h1>Feedback</h1>
+
+<p>As those of you who attended will know, I forgot to take the feedback forms with me, so I am reverting to using SurveyMonkey for this session.  If you would like to provide feedback for this session, then you can do so <a href="https://www.surveymonkey.com/s/Y6TMXPR">here</a>.</p>
+
+<p>Everyone who was registered to attend the event should have received an email from SurveyMonkey about the above feedback form.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[July 2014 Meeting - Anthony and Nik - Completed]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/july-2014-meeting-completed"/>
+    <updated>2014-08-08T22:06:31+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/july-2014-meeting-completed</id>
+    <content type="html"><![CDATA[<h1>Slides and Code from Glimpse Talk</h1>
+
+<p>I am still waiting to hear back from Anthony about where to find the Slides and Code for his presentation.  Once I hear back, I will update this post.</p>
+
+<p>You can find a video of the session <a href="https://www.youtube.com/watch?v=lvhlkUnVYyg">here</a>.  This was recorded by our friends at <a href="http://aberdeen.bcs.org/">BCS</a>.</p>
+
+<h1>Slides and Code from Azure Web Sites Talk</h1>
+
+<p>You can find the Slides and Code that Nik presented <a href="https://github.com/nikmd23/talk-website-secrets-exposed">here</a>.  If you want to get in touch with Nik, you can use his twitter account <a href="https://twitter.com/nikmd23">@nikmd23</a></p>
+
+<p>You can find a video of the session <a href="https://www.youtube.com/watch?v=Zeb_o_ALBMg">here</a>.  This was recorded by our friends at <a href="http://aberdeen.bcs.org/">BCS</a>.</p>
+
+<h1>Prizes</h1>
+
+<p>For everyone who was lucky enough to win a prize from one of our <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>, I have requested all of the prizes.  If you haven&rsquo;t heard anything, please get in touch, and I will try to sort this out.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[November 2013 Meeting - Completed]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/november-2013-meeting-completed"/>
+    <updated>2013-12-05T20:56:31+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/november-2013-meeting-completed</id>
+    <content type="html"><![CDATA[<h1>Slides from Unit Testing Talk</h1>
+
+<p>On Thursday 21st November 2013, Aberdeen Developers .Net User Group welcomed Max Vasilyev for a talk entitled &ldquo;&rdquo;.  Full details of the event can be found <a href="http://adnuguk.me/1hbuLgl">here</a>.</p>
+
+<p>If you were not able to attend, you can find the slides on Max&rsquo;s site <a href="http://tech.trailmax.info/talks/">here</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[October 2013 Meeting - Completed]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/october-2013-meeting-completed"/>
+    <updated>2013-10-27T20:28:06+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/october-2013-meeting-completed</id>
+    <content type="html"><![CDATA[<h1>Slides and Code from Agile Talk</h1>
+
+<p>On Thursday 18th October 2013, Aberdeen Developers .Net User Group welcomed Kendall Miller for a talk entitled &ldquo;Introducing Agile to the Enterprise&rdquo;.  Full details of the event can be found <a href="http://adnuguk.me/1bXDVKe">here</a>.</p>
+
+<p>If you were not able to attend you can get the slides from the slideshare links below:</p>
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/14842800" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
+
+<p> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/gibraltarsoftware/introducing-agile-to-the-enterprise" title="Introducing Agile to the Enterprise" target="_blank">Introducing Agile to the Enterprise</a> </strong> from <strong><a href="http://www.slideshare.net/gibraltarsoftware" target="_blank">Gibraltar Software</a></strong> </div></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[September 2013 Meeting - Completed]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/september-2013-meeting-completed"/>
+    <updated>2013-10-05T19:57:36+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/september-2013-meeting-completed</id>
+    <content type="html"><![CDATA[<h1>Slides and Code from Prism Talk</h1>
+
+<p>On Thursday 19th September 2013, Aberdeen Developers .Net User Group welcomed Martin Taylor for a talk entitled &ldquo;Patterns and Practices: Prism&rdquo;.  Full details of the event can be found <a href="http://adnuguk.me/17Ss2U6">here</a>.</p>
+
+<p>If you were not able to attend you can get the slides and the code from this talk in the download links for this post.</p>
+
+<p>[wpdm_file id=7]</p>
+
+<p>[wpdm_file id=8]</p>
+]]></content>
+  </entry>
+  
+</feed>

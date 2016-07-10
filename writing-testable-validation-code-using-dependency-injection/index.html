@@ -1,0 +1,373 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Writing Testable Validation Code Using Dependency Injection - Aberdeen Developers .Net User Group</title>
+  <meta name="author" content="gep13">
+
+  
+  <meta name="description" content="This article was submitted to the Aberdeen Developers .Net User Group by Norman Noble. The idea for writing this came about when I was discussing ASP &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://www.aberdeendevelopers.co.uk/writing-testable-validation-code-using-dependency-injection">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/feed" rel="alternate" title="Aberdeen Developers .Net User Group" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <!-- meta tags for twitter card -->
+
+    <meta property="twitter:card" content="summary">
+    <meta property="twitter:site" content="adnuguk">
+    <meta property="twitter:url" content="http://www.aberdeendevelopers.co.uk/writing-testable-validation-code-using-dependency-injection">
+    <meta property="twitter:title" content="Writing Testable Validation Code Using Dependency Injection">
+    <meta property="twitter:description" content="This article was submitted to the Aberdeen Developers .Net User Group by Norman Noble. The idea for writing this came about when I was discussing ASP.Net MVC (Model View Controller) with an old &hellip;">
+
+
+<!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="//fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="//fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+<!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+<link rel="stylesheet" type="text/css" href="http://assets.cookieconsent.silktide.com/current/style.min.css"/>
+<script type="text/javascript" src="http://assets.cookieconsent.silktide.com/current/plugin.min.js"></script>
+<script type="text/javascript">
+	// <![CDATA[
+		cc.initialise({
+			cookies: {
+				social: {
+					title: 'Disqus et al.',
+					description: 'Used for comments. You\'ll nee'+
+							'd to log in to Disqus to leave'+
+							' comments.'
+				},
+				analytics: {
+					title: 'Analytics',
+					description: 'Anonymously measure your use o'+
+							'f this website to improve your'+
+							' experience.'
+				}
+			},
+			settings: {
+				bannerPosition: "bottom",
+				disableallsites: true
+			}
+		});
+	// ]]>
+</script>
+<!-- End Cookie Consent plugin -->
+
+
+
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-19680256-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">Aberdeen Developers .Net User Group</a></h1>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/feed" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="https://www.google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:www.aberdeendevelopers.co.uk" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/about">About</a></li>
+  <li><a href="/">Blog</a></li>
+  <li><a href="/contact">Contact</a></li>
+  <li><a href="/events">Events</a></li>
+  <li><a href="/jobs">Jobs</a></li>
+  <li><a href="/sponsors">Sponsors</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">Writing Testable Validation Code Using Dependency Injection</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+<time class='entry-date' datetime='2011-02-02T21:41:00+00:00'><span class='date'><span class='date-month'>Feb</span> <span class='date-day'>2</span><span class='date-suffix'>nd</span>, <span class='date-year'>2011</span></span> <span class='time'>9:41 pm</span></time>
+        
+           | <a href="#disqus_thread"
+             data-disqus-identifier="http://www.aberdeendevelopers.co.uk">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p><strong>This article was submitted to the Aberdeen Developers .Net User Group by Norman Noble.</strong></p>
+
+<p>The idea for writing this came about when I was discussing <a href="http://www.asp.net/mvc">ASP.Net MVC</a> (Model View Controller) with an old friend Dave about a week ago. I was having a look at Microsoft’s latest version having briefly looked at MVC when it first came out with version 3.5 of the .Net Framework. Dave’s company had just successfully released their first commercial application written entirely in MVC and I was keen to hear his thoughts on things that he knew now that he wished he’d known at the start of the project. Dave told me that in the start they had followed the <a href="http://nerddinnerbook.s3.amazonaws.com/Intro.htm">NerdDinner tutorial</a> and had adopted the patterns used by the tutorial. He also told me that he was particularly impressed with the way that the tutorial had handled its validation code and that they saw that as the way forward. I decided that the best way to get back into this stuff was as ever to start cutting some code.</p>
+
+<p>The tutorial is easy enough to follow and is very good at explaining the basics of MVC so if MVC is something you are interested in I would thoroughly recommend going through the tutorial. It will give you all you need to get going (<a href="http://stackoverflow.com/">Stack Overflow</a> can fill in the rest). One of the fundamental advantages MVC provides over standard ASP.Net development is that it makes your code easier to test. By testing I mean proper unit testing using a Framework like <a href="http://www.nunit.org/">NUnit</a> or Visual Studios inbuilt MSTest. If you’re new or have limited experience in writing unit tests I would recommend reading <a href="http://artofunittesting.com/">the art of UNIT TESTING</a> by Roy Osherove. It’s an excellent read with lots of really useful tips based on the experience of both failed and successful projects. When it comes to unit testing and <a href="http://en.wikipedia.org/wiki/Test-driven_development">TDD</a> Roy really knows what he is talking about.</p>
+
+<p>Getting back to the MVC tutorial, I followed it through section by section and eventually arrived at the section on validation. I was quite keen to see what was suggested as Dave had been particularly enthusiastic about how this example handled it. I was slightly disappointed to find that the validation was some simple schema based validation using partial classes on the existing LINQ to SQL classes. To give the article some credit it does explain quite thoroughly that schema based validation is not the greatest and should only be used in the simplest of cases where there are little or no business rules to be applied. You can see a full example of Schema based validation in <a href="http://nerddinnerbook.s3.amazonaws.com/Part3.htm">part 3</a> of the tutorial.</p>
+
+<p>A basic example looks something like this:</p>
+
+<p><a href="http://www.aberdeendevelopers.co.uk/wp-content/uploads/876f59b7-2636-4af8-b201-0447ad4fd6c0.png"><img src="http://www.aberdeendevelopers.co.uk/wp-content/uploads/876f59b7-2636-4af8-b201-0447ad4fd6c0_thumb.png" alt="876f59b7-2636-4af8-b201-0447ad4fd6c0" /></a></p>
+
+<pre><code>&lt;span class="kwrd"&gt;partial&lt;/span&gt; &lt;span class="kwrd"&gt;class&lt;/span&gt; Customer
+  {
+      &lt;span class="kwrd"&gt;public&lt;/span&gt; &lt;span class="kwrd"&gt;bool&lt;/span&gt; IsValid()
+      {
+          &lt;span class="kwrd"&gt;bool&lt;/span&gt; isValid = &lt;span class="kwrd"&gt;true&lt;/span&gt;;
+
+         &lt;span class="kwrd"&gt;if&lt;/span&gt; (Age &lt; 18)
+          {
+              isValid = &lt;span class="kwrd"&gt;false&lt;/span&gt;;
+          }
+
+          &lt;span class="kwrd"&gt;return&lt;/span&gt; isValid;
+      }
+  }
+</code></pre>
+
+<p>This got me to thinking about what I didn’t like about this particular method of performing validation and more importantly how I’d prefer to see it being done. In my opinion most validation is part of the business rules of a system and as such should be stored in the Business Layer of the application. Also having the validation in the Data Access Layer creates a dependency on the Data Store when creating unit tests which prevent your tests from being fully robust and subject to change should the data in the data store change.</p>
+
+<p>A test for the code above may look something like:</p>
+
+<pre><code>      [TestMethod]
+      &lt;span class="kwrd"&gt;public&lt;/span&gt; &lt;span class="kwrd"&gt;void&lt;/span&gt; Customer_Over18_IsValid()
+      {
+          &lt;span class="rem"&gt;//Arrange&lt;/span&gt;
+          Customer cs = CustomerRepository.GetCustomer(1);
+
+          &lt;span class="rem"&gt;//Act&lt;/span&gt;
+          &lt;span class="kwrd"&gt;bool&lt;/span&gt; isValid = cs.IsValid();
+
+          &lt;span class="rem"&gt;//Assert&lt;/span&gt;
+          Assert.IsTrue(isValid);
+      }
+</code></pre>
+
+<p>So as mentioned above this unit test is dependant on a Data Store (in this case a repository) which could be subject to change. This could then potentially break the unit test even though neither the validation functionality nor the Customer object have not changed.</p>
+
+<p>The way I prefer to get round this is to create a validation class for each Entity in the business layer that contains a method that allows me to pass in the entity to be validated. This solves the two problems that I have by moving the validation code into the Business Layer allowing you to centralise all validation code instead of having some in the DAL and some in the BLL. It also removes the dependency on the actual entities as when writing your tests you can create stub objects that use the primary objects as base classes. You can then use these stubs in your unit tests assured that the validation functionality is being properly tested and will not be subject to breaking should your Data Store or its functionality change.</p>
+
+<p>A basic example of this would be:</p>
+
+<pre><code>  &lt;span class="kwrd"&gt;public&lt;/span&gt; &lt;span class="kwrd"&gt;class&lt;/span&gt; CustomerValidator : ICustomerValidator
+  {
+      &lt;span class="kwrd"&gt;public&lt;/span&gt; &lt;span class="kwrd"&gt;static&lt;/span&gt; &lt;span class="kwrd"&gt;bool&lt;/span&gt; IsValid(Customer cs)
+      {
+          &lt;span class="kwrd"&gt;bool&lt;/span&gt; isValid = &lt;span class="kwrd"&gt;true&lt;/span&gt;;
+
+          &lt;span class="kwrd"&gt;if&lt;/span&gt; (cs.Age &lt; 18)
+          {
+              isValid = &lt;span class="kwrd"&gt;false&lt;/span&gt;;
+          }
+
+          &lt;span class="kwrd"&gt;return&lt;/span&gt; isValid;
+      }
+  }
+</code></pre>
+
+<p>This method completely seperates the validation code from any dependencies as they can be injected in through the method call.</p>
+
+<p>A test for the code above would look something like this:</p>
+
+<pre><code>      [TestMethod]
+      &lt;span class="kwrd"&gt;public&lt;/span&gt; &lt;span class="kwrd"&gt;void&lt;/span&gt; Customer_Over18_IsValid()
+      {
+          &lt;span class="rem"&gt;//Arrange&lt;/span&gt;
+          StubCustomer scs = &lt;span class="kwrd"&gt;new&lt;/span&gt; StubCustomer(&lt;span class="str"&gt;"Norman"&lt;/span&gt;, &lt;span class="str"&gt;"Aberdeen"&lt;/span&gt;, 31);
+
+          &lt;span class="rem"&gt;//Act&lt;/span&gt;
+          &lt;span class="kwrd"&gt;bool&lt;/span&gt; isValid = CustomerValidator.IsValid(scs);
+
+          &lt;span class="rem"&gt;//Assert&lt;/span&gt;
+          Assert.IsTrue(isValid);
+      }
+</code></pre>
+
+<p>In the example above the StubCustomer class has been created which has the Customer class as a base class. As the creation of the item under test is now controlled the unit test is far more robust and is only concerned with the functionality it is supposed to be testing. Therefore the only thing that will break this test is a change in the functionality of Customer which is what you would expect.</p>
+
+<p>There are variations of the example above. For instance you may prefer to “inject” the dependency through a property setter instead. The above example is simply the way I prefer to do it.</p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">gep13</span></span>
+
+      
+
+
+
+
+<time class='entry-date' datetime='2011-02-02T21:41:00+00:00'><span class='date'><span class='date-month'>Feb</span> <span class='date-day'>2</span><span class='date-suffix'>nd</span>, <span class='date-year'>2011</span></span> <span class='time'>9:41 pm</span></time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/blog/categories/articles/'>articles</a>, <a class='category' href='/blog/categories/blog/'>blog</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://www.aberdeendevelopers.co.uk/writing-testable-validation-code-using-dependency-injection" data-via="adnuguk" data-counturl="http://www.aberdeendevelopers.co.uk/writing-testable-validation-code-using-dependency-injection" >Tweet</a>
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/adnuguk-january-2011-meeting-completed" title="Previous Post: #ADNUGUK – January 2011 Meeting - Completed">&laquo; #ADNUGUK – January 2011 Meeting - Completed</a>
+      
+      
+        <a class="basic-alignment right" href="/press-and-journal-article" title="Next Post: Press and Journal Article">Press and Journal Article &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/may-2016-meeting-kendall-miller">May 2016 Meeting - Kendall Miller</a>
+      </li>
+    
+      <li class="post">
+        <a href="/april-2016-meeting-gary-ewan-park">April 2016 Meeting - Gary Ewan Park</a>
+      </li>
+    
+      <li class="post">
+        <a href="/march-2016-meeting-christos-matskas">March 2016 Meeting - Christos Matskas</a>
+      </li>
+    
+      <li class="post">
+        <a href="/scotnetrocks-aberdeen">ScotNetRocks! Aberdeen</a>
+      </li>
+    
+      <li class="post">
+        <a href="/October-2015-meeting-gary-ewan-park-completed">October Meeting - Gary Ewan Park - Completed</a>
+      </li>
+    
+  </ul>
+</section>
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2016 - gep13 -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'aberdeendevelopersnetusergroup';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://www.aberdeendevelopers.co.uk/writing-testable-validation-code-using-dependency-injection';
+        var disqus_url = 'http://www.aberdeendevelopers.co.uk/writing-testable-validation-code-using-dependency-injection';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = '//' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>
