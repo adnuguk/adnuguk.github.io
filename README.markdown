@@ -1,5 +1,7 @@
 ## What is Octopress?
 
+[![Join the chat at https://gitter.im/adnuguk/adnuguk.github.io](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/adnuguk/adnuguk.github.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Octopress is [Jekyll](https://github.com/mojombo/jekyll) blogging at its finest.
 
 1. **Octopress sports a clean responsive theme** written in semantic HTML5, focused on readability and friendliness toward mobile devices.
