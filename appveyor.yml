@@ -23,7 +23,13 @@ environment:
   GithubUsername: gep13
   GithubPassword:
     secure: a8cHHM+vi+e4fRMVpgY65sEV03g7hYDOKyEKBaS+0jKtjj41oOn8XZdRszueGDNf
-   
+
+# Branches to build
+branches:
+  # Whitelist
+  only:
+    - source
+
 #---------------------------------#
 #       build configuration       #
 #---------------------------------#
@@ -42,7 +48,7 @@ build_script:
   - cmd: cd ..
   - cmd: rake generate
   - cmd: rake deploy
-  
+
 test: off
 
 skip_commits:
