@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Blog | Aberdeen Developers .Net User Group]]></title>
   <link href="http://www.aberdeendevelopers.co.uk/blog/categories/blog/atom.xml" rel="self"/>
   <link href="http://www.aberdeendevelopers.co.uk/"/>
-  <updated>2016-08-03T09:51:24+00:00</updated>
+  <updated>2016-08-03T09:59:28+00:00</updated>
   <id>http://www.aberdeendevelopers.co.uk/</id>
   <author>
     <name><![CDATA[gep13]]></name>
@@ -26,11 +26,15 @@
 
 <p>Having developed an Azure website for an internal company tool that is used daily by 30 people across multiple sites, I will cover my experiences of using Azure for over a year.</p>
 
-<p>I will share:
-+ Reasons why
-+ Setup and running costs
-+ Features and tools of the Azure websites and Azure Databases
-+ Performance, architecture and coding worries and solutions</p>
+<p>I will share:</p>
+
+<ul>
+<li>Reasons why</li>
+<li>Setup and running costs</li>
+<li>Features and tools of the Azure websites and Azure Databases</li>
+<li>Performance, architecture and coding worries and solutions</li>
+</ul>
+
 
 <p><a href="http://www.eventbrite.com/e/aberdeen-developers-net-user-group-august-2016-meeting-tickets-26706378497?aff=blog"><img src="https://www.eventbrite.com/custombutton?eid=11987778769" alt="Eventbrite - Aberdeen Developers .Net User Group - August 2016 Meeting" /></a></p>
 
@@ -38,11 +42,15 @@
 
 <p>Steven Chalmers has been programming on many different computers and embedded systems since the late 70&rsquo;s. From typing in bytes, assembly all the way through to c#. Currently using ASP.NET MVC, Telerik tools on Azure at work but at home its having fun with his kids by game programming in Roblox.</p>
 
-<p><strong>Agenda - Thursday, 18th August 2016</strong>
-+ 1800 - 1825: Arrival and registration
-+ 1825 - 1830: Introduction
-+ 1830 - 1930: Experiences of using an Azure website and database in Production
-+ 1930 - 2000: Q&amp;A and Prize Draw</p>
+<p><strong>Agenda - Thursday, 18th August 2016</strong></p>
+
+<ul>
+<li>1800 - 1825: Arrival and registration</li>
+<li>1825 - 1830: Introduction</li>
+<li>1830 - 1930: Experiences of using an Azure website and database in Production</li>
+<li>1930 - 2000: Q&amp;A and Prize Draw</li>
+</ul>
+
 
 <p><strong>Location and Directions</strong></p>
 
