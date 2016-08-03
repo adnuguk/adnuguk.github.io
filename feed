@@ -5,9 +5,58 @@
     <description>Website for the meetings and events hosted by the Aberdeen Developers .Net User Group</description>
     <link>http://www.aberdeendevelopers.co.uk/</link>
     <atom:link href="http://www.aberdeendevelopers.co.uk/feed" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 17 Jul 2016 21:12:16 +0000</pubDate>
-    <lastBuildDate>Sun, 17 Jul 2016 21:12:16 +0000</lastBuildDate>
+    <pubDate>Wed, 03 Aug 2016 09:51:24 +0000</pubDate>
+    <lastBuildDate>Wed, 03 Aug 2016 09:51:24 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>August 2016 Meeting - Steven Chalmers</title>
+        <description>&lt;p&gt;Aberdeen Developers are pleased to present a talk by Steven Chalmers, on Thursday 18th August 2016 at the Robert Gordon University.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Experiences of using an Azure website and database in Production&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Having developed an Azure website for an internal company tool that is used daily by 30 people across multiple sites, I will cover my experiences of using Azure for over a year.&lt;/p&gt;
+
+&lt;p&gt;I will share:
++ Reasons why
++ Setup and running costs
++ Features and tools of the Azure websites and Azure Databases
++ Performance, architecture and coding worries and solutions&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.eventbrite.com/e/aberdeen-developers-net-user-group-august-2016-meeting-tickets-26706378497?aff=blog&quot;&gt;&lt;img src=&quot;https://www.eventbrite.com/custombutton?eid=11987778769&quot; alt=&quot;Eventbrite - Aberdeen Developers .Net User Group - August 2016 Meeting&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Speaker Bio&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Steven Chalmers has been programming on many different computers and embedded systems since the late 70&amp;rsquo;s. From typing in bytes, assembly all the way through to c#. Currently using ASP.NET MVC, Telerik tools on Azure at work but at home its having fun with his kids by game programming in Roblox.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Agenda - Thursday, 18th August 2016&lt;/strong&gt;
++ 1800 - 1825: Arrival and registration
++ 1825 - 1830: Introduction
++ 1830 - 1930: Experiences of using an Azure website and database in Production
++ 1930 - 2000: Q&amp;amp;A and Prize Draw&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Location and Directions&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Venue: Room N310, Riverside East Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7QQ, GB&lt;/p&gt;
+
+&lt;p&gt;Directions: &lt;a href=&quot;https://maps.google.co.uk/maps?q=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,+Aberdeen,+Aberdeen+City+AB10+7QG,+GB&amp;amp;hl=en&amp;amp;ll=57.119317,-2.136133&amp;amp;spn=0.004165,0.012413&amp;amp;sll=57.746995,-4.687341&amp;amp;sspn=8.392957,25.422363&amp;amp;hq=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,&amp;amp;hnear=AB10+7QG,+United+Kingdom&amp;amp;t=m&amp;amp;z=17&amp;amp;iwloc=A&quot;&gt;Map showing Garthdee Campus&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Prize Draw&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic &lt;a href=&quot;http://www.aberdeendevelopers.co.uk/sponsors/&quot;&gt;sponsors&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 03 Aug 2016 00:00:00 +0000</pubDate>
+        <link>http://www.aberdeendevelopers.co.uk/august-2016-meeting-steven-chalmers</link>
+        <guid isPermaLink="true">http://www.aberdeendevelopers.co.uk/august-2016-meeting-steven-chalmers</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>events</category>
+        
+      </item>
     
       <item>
         <title>July 2016 Meeting - Mike Taulty</title>
@@ -412,25 +461,6 @@ Gary Ewan Park has been developing on the .Net Platform for almost 9 years. His 
         <pubDate>Fri, 25 Sep 2015 00:00:00 +0000</pubDate>
         <link>http://www.aberdeendevelopers.co.uk/September-2015-meeting-max-vasilyev-completed</link>
         <guid isPermaLink="true">http://www.aberdeendevelopers.co.uk/September-2015-meeting-max-vasilyev-completed</guid>
-        
-        
-        <category>blog</category>
-        
-        <category>event material</category>
-        
-      </item>
-    
-      <item>
-        <title>September Meeting - Colin Mackay - Completed</title>
-        <description>&lt;p&gt;Thanks once again to Colin for making the journey up to Aberdeen to deliver his awesome talk on Continuous Delivery!  If you want to get in touch with Colin, you can use his twitter account &lt;a href=&quot;https://twitter.com/colinmackay&quot;&gt;@colinmackay&lt;/a&gt; and make sure you follow him for up-to-date news, articles and tips. You can also find a copy of the slides used in the presentation &lt;a href=&quot;http://colinmackay.scot/2015/09/13/continuous-delivery-aberdeen-developers-net-user-group/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt; Prizes &lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;For everyone who was lucky enough to win a prize from one of our amazing &lt;a href=&quot;http://www.aberdeendevelopers.co.uk/sponsors/&quot;&gt;sponsors&lt;/a&gt;, I have requested all of the prizes.  If you haven&amp;rsquo;t heard anything, please get in touch, and we will try to sort this out.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 25 Sep 2015 00:00:00 +0000</pubDate>
-        <link>http://www.aberdeendevelopers.co.uk/September-2015-meeting-colin-mackay-completed</link>
-        <guid isPermaLink="true">http://www.aberdeendevelopers.co.uk/September-2015-meeting-colin-mackay-completed</guid>
         
         
         <category>blog</category>

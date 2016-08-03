@@ -4,7 +4,7 @@
   <title><![CDATA[Aberdeen Developers .Net User Group]]></title>
   <link href="http://www.aberdeendevelopers.co.uk/atom.xml" rel="self"/>
   <link href="http://www.aberdeendevelopers.co.uk/"/>
-  <updated>2016-07-17T21:12:16+00:00</updated>
+  <updated>2016-08-03T09:51:24+00:00</updated>
   <id>http://www.aberdeendevelopers.co.uk/</id>
   <author>
     <name><![CDATA[gep13]]></name>
@@ -12,6 +12,49 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[August 2016 Meeting - Steven Chalmers]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/august-2016-meeting-steven-chalmers"/>
+    <updated>2016-08-03T00:00:00+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/august-2016-meeting-steven-chalmers</id>
+    <content type="html"><![CDATA[<p>Aberdeen Developers are pleased to present a talk by Steven Chalmers, on Thursday 18th August 2016 at the Robert Gordon University.</p>
+
+<hr />
+
+<p><strong>Experiences of using an Azure website and database in Production</strong></p>
+
+<p>Having developed an Azure website for an internal company tool that is used daily by 30 people across multiple sites, I will cover my experiences of using Azure for over a year.</p>
+
+<p>I will share:
++ Reasons why
++ Setup and running costs
++ Features and tools of the Azure websites and Azure Databases
++ Performance, architecture and coding worries and solutions</p>
+
+<p><a href="http://www.eventbrite.com/e/aberdeen-developers-net-user-group-august-2016-meeting-tickets-26706378497?aff=blog"><img src="https://www.eventbrite.com/custombutton?eid=11987778769" alt="Eventbrite - Aberdeen Developers .Net User Group - August 2016 Meeting" /></a></p>
+
+<p><strong>Speaker Bio</strong></p>
+
+<p>Steven Chalmers has been programming on many different computers and embedded systems since the late 70&rsquo;s. From typing in bytes, assembly all the way through to c#. Currently using ASP.NET MVC, Telerik tools on Azure at work but at home its having fun with his kids by game programming in Roblox.</p>
+
+<p><strong>Agenda - Thursday, 18th August 2016</strong>
++ 1800 - 1825: Arrival and registration
++ 1825 - 1830: Introduction
++ 1830 - 1930: Experiences of using an Azure website and database in Production
++ 1930 - 2000: Q&amp;A and Prize Draw</p>
+
+<p><strong>Location and Directions</strong></p>
+
+<p>Venue: Room N310, Riverside East Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7QQ, GB</p>
+
+<p>Directions: <a href="https://maps.google.co.uk/maps?q=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,+Aberdeen,+Aberdeen+City+AB10+7QG,+GB&amp;hl=en&amp;ll=57.119317,-2.136133&amp;spn=0.004165,0.012413&amp;sll=57.746995,-4.687341&amp;sspn=8.392957,25.422363&amp;hq=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,&amp;hnear=AB10+7QG,+United+Kingdom&amp;t=m&amp;z=17&amp;iwloc=A">Map showing Garthdee Campus</a></p>
+
+<p><strong>Prize Draw</strong></p>
+
+<p>All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[July 2016 Meeting - Mike Taulty]]></title>
@@ -692,29 +735,6 @@ Colin Mackay is a software developer, former MVP, and speaker at user groups and
 <p><strong>Prize Draw</strong></p>
 
 <p>All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Microsoft UK Edinburgh Events]]></title>
-    <link href="http://www.aberdeendevelopers.co.uk/microsoft-uk-edinburgh-events"/>
-    <updated>2015-04-15T00:00:00+00:00</updated>
-    <id>http://www.aberdeendevelopers.co.uk/microsoft-uk-edinburgh-events</id>
-    <content type="html"><![CDATA[<p>Microsoft UK are running a couple of one day events in Edinburgh this month (April), these events offer hands-on sessions guided by experts and are a great place to start with the basics and an opportunity to pick the brains of the experts.</p>
-
-<p><strong><a href="https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032622343&amp;Culture=en-GB&amp;community=0">Microsoft Azure Developer Cloud Camp</a></strong></p>
-
-<p>A one-day Azure hands-on camp to experience the versatility of the Azure platform, and see the practical capabilities that Azure brings within reach your business, IT company and department.</p>
-
-<p>22 April 2015 - Edinburgh, 09:00 - 17:00 -
-<a href="https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032622343&amp;Culture=en-GB&amp;community=0">Register</a></p>
-
-<p><strong><a href="https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032622342&amp;Culture=en-GB&amp;community=0">Microsoft Developer Web Camp</a></strong></p>
-
-<p>Web Camps are live, no-fluff events created for web developers, by web developers. You’ll learn from seasoned experts who start with the basics and ramp up to more advanced topics as the day goes on. Don&rsquo;t miss this free opportunity to sharpen your web development skills.</p>
-
-<p>23 April 2015 - Edinburgh, 09:00 - 17:00 -
-<a href="https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032622342&amp;Culture=en-GB&amp;community=0">Register</a></p>
 ]]></content>
   </entry>
   
