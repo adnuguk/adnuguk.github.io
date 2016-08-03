@@ -20,6 +20,7 @@ Aberdeen Developers are pleased to present a talk by Steven Chalmers, on Thursda
 Having developed an Azure website for an internal company tool that is used daily by 30 people across multiple sites, I will cover my experiences of using Azure for over a year.
 
 I will share:
+
 + Reasons why
 + Setup and running costs
 + Features and tools of the Azure websites and Azure Databases
@@ -33,6 +34,7 @@ I will share:
 Steven Chalmers has been programming on many different computers and embedded systems since the late 70's. From typing in bytes, assembly all the way through to c#. Currently using ASP.NET MVC, Telerik tools on Azure at work but at home its having fun with his kids by game programming in Roblox. 
 
 **Agenda - Thursday, 18th August 2016**
+
 + 1800 - 1825: Arrival and registration
 + 1825 - 1830: Introduction
 + 1830 - 1930: Experiences of using an Azure website and database in Production
