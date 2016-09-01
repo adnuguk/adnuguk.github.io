@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Blog | Aberdeen Developers .Net User Group]]></title>
   <link href="http://www.aberdeendevelopers.co.uk/blog/categories/blog/atom.xml" rel="self"/>
   <link href="http://www.aberdeendevelopers.co.uk/"/>
-  <updated>2016-09-01T15:40:09+00:00</updated>
+  <updated>2016-09-01T15:41:43+00:00</updated>
   <id>http://www.aberdeendevelopers.co.uk/</id>
   <author>
     <name><![CDATA[gep13]]></name>
@@ -12,6 +12,53 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Job Vacancy - Brightree - Aberdeen]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/job-vacancy-brightree-aberdeen"/>
+    <updated>2016-09-01T00:00:00+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/job-vacancy-brightree-aberdeen</id>
+    <content type="html"><![CDATA[<p>Aberdeen Developers have been asked to promote the following job vacancy at Brightree in Aberdeen. If you are interested in the position, please contact douglas dot cameron at aberdeendevelopers dot co dot uk (replacing the at and dot with @ and . respectively, trying to stop those nasty spiders getting my email address). Details of the role are as follows:</p>
+
+<hr />
+
+<p>Brightree, the fastest growing cloud based business management solution in the U.S. healthcare market, are seeking UK based team-players to join their expanding Aberdeen office.</p>
+
+<p>The ideal candidates have a propensity to share concepts and techniques as well as foster and encourage sharing of knowledge. You will participate in the technical design of the solutions including data modeling, functional design, test criteria, user interface design and development. Practical, relevant experience as a creative problem solver and a proven ability to convert specifications into exception software solutions are critical.</p>
+
+<p><strong>Primary Duties:</strong></p>
+
+<ul>
+<li>Develop new software features</li>
+<li>Maintain existing code through defect correction and refactoring</li>
+<li>Participate in technical design</li>
+<li>DB design/changes</li>
+<li>Provide unit tests for all code</li>
+<li>Conduct code reviews with other developers</li>
+<li>Follow best practices for software development in a cloud based environment</li>
+</ul>
+
+
+<p><strong>Basic Qualifications:</strong></p>
+
+<ul>
+<li>Experience working for a software company with web-based applications using Microsoft technologies.</li>
+<li>Knowledge of C# or VB.net, ASP.NET and web technologies such as Web API, WCF, JavaScript, CSS, HTML and Ajax.</li>
+<li>Experience with MS SQL Server (TSQL/SQL)</li>
+<li>OO knowledge and practical experience of design patterns etc</li>
+<li>Practical experience with source code configuration, versioning and promotion</li>
+<li>Excellent problem solving, issue identification and technical documentation skills</li>
+<li>Ability to manage multiple concurrent priorities and meeting deadlines</li>
+<li>Strong interpersonal and communication skills</li>
+</ul>
+
+
+<p><strong>Preferred Requirements:</strong>
+- Experience using VS 2015, SQL Server, Xamarin, .net 4.0/4.5 techniques a plus
+- Agile software methodology experience a plus
+- Experience working in a SaaS model a plus</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[August 2016 Meeting - Steven Chalmers]]></title>
@@ -197,50 +244,6 @@ Gary Ewan Park has been developing on the .Net Platform for almost 9 years. His 
 + 1825 - 1830: Introduction
 + 1830 - 1930: Having your Cake, and eating to too!
 + 1930 Onwards: Questions &amp; Answers followed by Prize Draw</p>
-
-<p><strong>Location and Directions</strong></p>
-
-<p>Venue: Room N309, Riverside East Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7QQ, GB</p>
-
-<p>Directions: <a href="https://maps.google.co.uk/maps?q=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,+Aberdeen,+Aberdeen+City+AB10+7QG,+GB&amp;hl=en&amp;ll=57.119317,-2.136133&amp;spn=0.004165,0.012413&amp;sll=57.746995,-4.687341&amp;sspn=8.392957,25.422363&amp;hq=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,&amp;hnear=AB10+7QG,+United+Kingdom&amp;t=m&amp;z=17&amp;iwloc=A">Map showing Garthdee Campus</a></p>
-
-<p><strong>Prize Draw</strong></p>
-
-<p>All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[March 2016 Meeting - Christos Matskas]]></title>
-    <link href="http://www.aberdeendevelopers.co.uk/march-2016-meeting-christos-matskas"/>
-    <updated>2016-02-24T00:00:00+00:00</updated>
-    <id>http://www.aberdeendevelopers.co.uk/march-2016-meeting-christos-matskas</id>
-    <content type="html"><![CDATA[<p>Aberdeen Developers are pleased to present a talk by Christos Matskas, on Thursday 24th March 2016 at the Robert Gordon University.</p>
-
-<hr />
-
-<p><strong>Microsoft’s ASP.NET Core 1.0 is going to rock your world</strong></p>
-
-<p>ASP.NET Core has been rewritten from the ground up to be the best web development platform for Windows, Mac, and Linux. You can now use your favorite editor to create faster, leaner and more memory efficient ASP.NET applications that work everywhere. In this session, you&rsquo;ll get an introduction to the major advancements and an overview of what&rsquo;s changed and what&rsquo;s stayed the same. You&rsquo;ll also get the chance to see how you can leverage all the new front-end tooling like npm, Bower, Grunt and Gulp to manage your application. This is going to be session full of demos and information that promises to rock your world!</p>
-
-<p>In addition, Christos will be presented a bonus lightning talk entitled:</p>
-
-<p><strong>Becoming an awesome Open Source contributor</strong></p>
-
-<p>Are you a developer that wants to give back to the open source community? Perhaps you&rsquo;re already a seasoned contributor but you want to get better? Or you want to join the open source movement because, well, OSS is the future? Just look at all the cool tech built with OSS: Node.js, BootStrap, ASP.NET etc. Join Christos Matskas to learn about the many ways to contribute, key development tools in OSS projects and tips about what it takes to become a succesful first time contributor and collaborator in this welcoming and open community.</p>
-
-<p><a href="https://www.eventbrite.com/e/aberdeen-developers-net-user-group-march-2016-meeting-tickets-21670650499?aff=blog"><img src="https://www.eventbrite.com/custombutton?eid=21670650499" alt="Eventbrite - Aberdeen Developers .Net User Group - March 2016 Meeting" /></a></p>
-
-<p><strong>Speaker Bio</strong></p>
-
-<p>Christos Matskas is a software consultant, author, blogger and speaker. A Microsoft MVP on Visual Studio and Development Technologies, he&rsquo;s a passionate Open Source advocate and a regular contributor to numerous projects. His portfolio includes collaborations with some of the biggest companies in the industry such as MarkIT, Lockheed Martin and Barclays. He&rsquo;s been building software for over 12 years and loves to work closely with the community through speaking at conferences, mentoring and teaching programs.</p>
-
-<p><strong>Agenda - Thursday,  24th March 2016</strong>
-+ 1800 - 1825: Arrival and registration
-+ 1825 - 1830: Introduction
-+ 1830 - 1930: Microsoft’s ASP.NET Core 1.0 is going to rock your world.
-+ 1930 - 1945: Bonus Lightning Talk - Becoming an awesome Open Source contributor
-+ 1945 Onwards: Questions &amp; Answers followed by Prize Draw</p>
 
 <p><strong>Location and Directions</strong></p>
 
