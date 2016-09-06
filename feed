@@ -5,9 +5,58 @@
     <description>Website for the meetings and events hosted by the Aberdeen Developers .Net User Group</description>
     <link>http://www.aberdeendevelopers.co.uk/</link>
     <atom:link href="http://www.aberdeendevelopers.co.uk/feed" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 01 Sep 2016 15:41:43 +0000</pubDate>
-    <lastBuildDate>Thu, 01 Sep 2016 15:41:43 +0000</lastBuildDate>
+    <pubDate>Tue, 06 Sep 2016 20:10:16 +0000</pubDate>
+    <lastBuildDate>Tue, 06 Sep 2016 20:10:16 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>September 2016 Meeting - Colin Mackay</title>
+        <description>&lt;p&gt;Aberdeen Developers are pleased to present a talk by Colin Mackay, on Thursday 15th September 2016 at the Robert Gordon University.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Storymapping for Beginners&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Sometimes it is difficult to work out how to prioritise the backlog and effectively work iteratively while still holding on to the big picture. What do you put in your MVP (Minimal Viable Product)? What then goes in each incremental release to give your users more and more useful functionality? Storymapping is a technique for solving this problem and getting your solution to your users faster.&lt;/p&gt;
+
+&lt;p&gt;In this highly interactive session I&amp;rsquo;ll explain how you go about creating a story map and I&amp;rsquo;ll get you to create one. Lots of sticky notes later you should have a fairly good grasp and be able to use the same technique on your own projects to better manage your backlog and keep everyone aware of the big picture while still working on individual stories.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.eventbrite.com/e/aberdeen-developers-net-user-group-september-2016-meeting-tickets-27403321071?aff=blog&quot;&gt;&lt;img src=&quot;https://www.eventbrite.com/custombutton?eid=11987778769&quot; alt=&quot;Eventbrite - Aberdeen Developers .Net User Group - September 2016 Meeting&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Speaker Bio&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Colin Mackay was C# MVP for 4 years (2007, 2008, 2009, 2010), and Code Project MVP (for 5 years) and, as of writing, is in the top 3% of StackOverflow users. He runs Scottish Developers and organises DDD Scotland.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Agenda - Thursday, 15th September 2016&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;1800 - 1825: Arrival and registration&lt;/li&gt;
+&lt;li&gt;1825 - 1830: Introduction&lt;/li&gt;
+&lt;li&gt;1830 - 1930: Storymapping for Beginners&lt;/li&gt;
+&lt;li&gt;1930 - 2000: Q&amp;amp;A and Prize Draw&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;&lt;strong&gt;Location and Directions&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Venue: Room N310, Riverside East Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7QQ, GB&lt;/p&gt;
+
+&lt;p&gt;Directions: &lt;a href=&quot;https://maps.google.co.uk/maps?q=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,+Aberdeen,+Aberdeen+City+AB10+7QG,+GB&amp;amp;hl=en&amp;amp;ll=57.119317,-2.136133&amp;amp;spn=0.004165,0.012413&amp;amp;sll=57.746995,-4.687341&amp;amp;sspn=8.392957,25.422363&amp;amp;hq=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,&amp;amp;hnear=AB10+7QG,+United+Kingdom&amp;amp;t=m&amp;amp;z=17&amp;amp;iwloc=A&quot;&gt;Map showing Garthdee Campus&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Prize Draw&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic &lt;a href=&quot;http://www.aberdeendevelopers.co.uk/sponsors/&quot;&gt;sponsors&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 06 Sep 2016 00:00:00 +0000</pubDate>
+        <link>http://www.aberdeendevelopers.co.uk/september-2016-meeting-colin-mackay</link>
+        <guid isPermaLink="true">http://www.aberdeendevelopers.co.uk/september-2016-meeting-colin-mackay</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>events</category>
+        
+      </item>
     
       <item>
         <title>Job Vacancy - Brightree - Aberdeen</title>
@@ -455,25 +504,6 @@ Gary Ewan Park has been developing on the .Net Platform for almost 9 years. His 
         <category>blog</category>
         
         <category>events</category>
-        
-      </item>
-    
-      <item>
-        <title>September Meeting - Max Vasilyev - Completed</title>
-        <description>&lt;p&gt;Thanks once again to Max for coming along to Aberdeen Devlopers to deliver his awesome talk on CQRS!  If you want to get in touch with Max, you can use his twitter account &lt;a href=&quot;https://twitter.com/trailmax&quot;&gt;@trailmax&lt;/a&gt; and make sure you follow him for up-to-date news, articles and tips. You can also find a copy of the slides used in the presentation &lt;a href=&quot;https://github.com/trailmax/CQRS.Talk&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt; Prizes &lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;For everyone who was lucky enough to win a prize from one of our amazing &lt;a href=&quot;http://www.aberdeendevelopers.co.uk/sponsors/&quot;&gt;sponsors&lt;/a&gt;, the prizes will be requested in due course.  If you don&amp;rsquo;t hear anything, please get in touch, and we will try to sort this out.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 25 Sep 2015 00:00:00 +0000</pubDate>
-        <link>http://www.aberdeendevelopers.co.uk/September-2015-meeting-max-vasilyev-completed</link>
-        <guid isPermaLink="true">http://www.aberdeendevelopers.co.uk/September-2015-meeting-max-vasilyev-completed</guid>
-        
-        
-        <category>blog</category>
-        
-        <category>event material</category>
         
       </item>
     
