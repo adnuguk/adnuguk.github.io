@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Blog | Aberdeen Developers .Net User Group]]></title>
   <link href="http://www.aberdeendevelopers.co.uk/blog/categories/blog/atom.xml" rel="self"/>
   <link href="http://www.aberdeendevelopers.co.uk/"/>
-  <updated>2016-09-06T20:10:16+00:00</updated>
+  <updated>2016-10-11T12:10:32+00:00</updated>
   <id>http://www.aberdeendevelopers.co.uk/</id>
   <author>
     <name><![CDATA[gep13]]></name>
@@ -12,6 +12,47 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/your-filename"/>
+    <updated>2016-10-11T00:00:00+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/your-filename</id>
+    <content type="html"><![CDATA[<p>Aberdeen Developers are pleased to present a talk by Keith Davidson, on Thursday 20th October 2016 at the Robert Gordon University.</p>
+
+<hr />
+
+<p><strong>BreezeJS</strong></p>
+
+<p>BreezeJS is a free, open source JavaScript library that helps you manage data in rich client applications. If you store data in a database, query and save those data as complex object graphs, and share these graphs across multiple screens of your JavaScript client, Breeze is for you. This presentation will introduce BreezeJs and demonstrate some of it&rsquo;s advantages.</p>
+
+<p><a href="https://www.eventbrite.com/e/aberdeen-developers-net-user-group-october-2016-meeting-tickets-28505462606?aff=blog"><img src="https://www.eventbrite.com/custombutton?eid=11987778769" alt="Eventbrite - Aberdeen Developers .Net User Group - October 2016 Meeting" /></a></p>
+
+<p><strong>Speaker Bio</strong></p>
+
+<p>Keith Davidson has been programming web sites and apps since the late 90&rsquo;s and started his professional development career in 2000, writing applications with consulting firm Accenture.  He is currently a Senior Software Developer with Petrofac.  When not trying to keep up with the latest web technologies or contributing to open source projects, he enjoys tinkering with Raspberry Pi and Arduino platforms and occasionally plays the drums.</p>
+
+<p><strong>Agenda - Thursday, 20th October 2016</strong></p>
+
+<ul>
+<li>1800 - 1825: Arrival and registration</li>
+<li>1825 - 1830: Introduction</li>
+<li>1830 - 1930: BreezeJS</li>
+<li>1930 - 2000: Q&amp;A and Prize Draw</li>
+</ul>
+
+
+<p><strong>Location and Directions</strong></p>
+
+<p>Venue: Room N311, The Sir Ian Wood Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7GJ, GB</p>
+
+<p>Directions: <a href="https://www.google.co.uk/maps/place/The+Sir+Ian+Wood+Building,+Garthdee+Rd,+Aberdeen+AB10+7GJ">Map showing Garthdee Campus</a></p>
+
+<p><strong>Prize Draw</strong></p>
+
+<p>All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[September 2016 Meeting - Colin Mackay]]></title>
@@ -196,55 +237,6 @@
 <p>Venue: Room N309, Riverside East Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7QQ, GB</p>
 
 <p>Directions: <a href="https://maps.google.co.uk/maps?q=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,+Aberdeen,+Aberdeen+City+AB10+7QG,+GB&amp;hl=en&amp;ll=57.119317,-2.136133&amp;spn=0.004165,0.012413&amp;sll=57.746995,-4.687341&amp;sspn=8.392957,25.422363&amp;hq=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,&amp;hnear=AB10+7QG,+United+Kingdom&amp;t=m&amp;z=17&amp;iwloc=A">Map showing Garthdee Campus</a></p>
-
-<p><strong>Prize Draw</strong></p>
-
-<p>All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[May 2016 Meeting - Kendall Miller]]></title>
-    <link href="http://www.aberdeendevelopers.co.uk/may-2016-meeting-kendall-miller"/>
-    <updated>2016-04-26T00:00:00+00:00</updated>
-    <id>http://www.aberdeendevelopers.co.uk/may-2016-meeting-kendall-miller</id>
-    <content type="html"><![CDATA[<p>Aberdeen Developers are pleased to present a talk by Kendall Miller, on Thursday 12th May 2016 at Aberdeen University&rsquo;s Meston Building.</p>
-
-<p><strong>NOTE:</strong> Please take extra notice of the venue above!  Due to exams happening in our normal RGU venue, this talk will be being hosted by Aberdeen University, in the Meston Building.  Full details of the location can be found below.</p>
-
-<hr />
-
-<p><strong>To The Cloud! How Azure helped us improve the scalability of our SaaS</strong></p>
-
-<p>Last year we had to make a decision whether to double down with new hardware in our Colo or go another way to grow our SaaS. In this talk we&rsquo;ll walk through the challenges we&rsquo;ve faced moving from our own hardware to Azure including:</p>
-
-<ul>
-<li>Taking advantage of auto-scaling to reduce costs.</li>
-<li>Growing 100x without controlling the hardware.</li>
-<li>When it all goes wrong and Azure falls over.</li>
-<li>How Azure has improved the performance of our on-premises installs too</li>
-</ul>
-
-
-<p>Far from a theoretical conversation about how you could use the cloud, we&rsquo;ll share real data from our production implementation, both the good and the bad. Finally, we&rsquo;ll talk about where we&rsquo;re going with what we&rsquo;ve learned.</p>
-
-<p><a href="http://www.eventbrite.com/e/aberdeen-developers-net-user-group-may-2016-meeting-tickets-24846287916?aff=blog"><img src="https://www.eventbrite.com/custombutton?eid=11987778769" alt="Eventbrite - Aberdeen Developers .Net User Group - May 2016 Meeting" /></a></p>
-
-<p><strong>Speaker Bio</strong></p>
-
-<p>Kendall Miller is one of the founding partners of Gibraltar Software, an Independent Software Vendor (ISV) that develops &amp; markets commercial applications for .NET developers. Introduced commercially in 2009, Loupe is an application logging &amp; monitoring platform that is currently used by customers around the world from individual consultants through Fortune 100 companies and governments. Before starting Gibraltar Software, Kendall worked for multiple startups leading their technology development from beginning through profitability. In each case he&rsquo;s focused on translating enterprise-level performance and capabilities down to smaller companies. Kendall has a B.S in Computer Engineering from the University of Illinois, Urbana-Champaign.</p>
-
-<p><strong>Agenda - Thursday, 12th May 2016</strong>
-+ 1800 - 1825: Arrival and registration
-+ 1825 - 1830: Introduction
-+ 1830 - 1930: To The Cloud! How Azure helped us improve the scalability of our SaaS
-+ 1930 Onwards: Questions &amp; Answers followed by Prize Draw</p>
-
-<p><strong>Location and Directions</strong></p>
-
-<p>Venue: Meston Building (Enter via North Entrance), University of Aberdeen, Aberdeen, AB24 3UE</p>
-
-<p>Directions: <a href="https://www.google.com/maps/d/viewer?mid=zy5sr2VnGJ2w.khFsoArRBh_Y&amp;hl=en">Meston Building</a></p>
 
 <p><strong>Prize Draw</strong></p>
 

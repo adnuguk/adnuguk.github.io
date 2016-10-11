@@ -4,7 +4,7 @@
   <title><![CDATA[Aberdeen Developers .Net User Group]]></title>
   <link href="http://www.aberdeendevelopers.co.uk/atom.xml" rel="self"/>
   <link href="http://www.aberdeendevelopers.co.uk/"/>
-  <updated>2016-09-06T20:10:16+00:00</updated>
+  <updated>2016-10-11T12:10:32+00:00</updated>
   <id>http://www.aberdeendevelopers.co.uk/</id>
   <author>
     <name><![CDATA[gep13]]></name>
@@ -12,6 +12,47 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/your-filename"/>
+    <updated>2016-10-11T00:00:00+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/your-filename</id>
+    <content type="html"><![CDATA[<p>Aberdeen Developers are pleased to present a talk by Keith Davidson, on Thursday 20th October 2016 at the Robert Gordon University.</p>
+
+<hr />
+
+<p><strong>BreezeJS</strong></p>
+
+<p>BreezeJS is a free, open source JavaScript library that helps you manage data in rich client applications. If you store data in a database, query and save those data as complex object graphs, and share these graphs across multiple screens of your JavaScript client, Breeze is for you. This presentation will introduce BreezeJs and demonstrate some of it&rsquo;s advantages.</p>
+
+<p><a href="https://www.eventbrite.com/e/aberdeen-developers-net-user-group-october-2016-meeting-tickets-28505462606?aff=blog"><img src="https://www.eventbrite.com/custombutton?eid=11987778769" alt="Eventbrite - Aberdeen Developers .Net User Group - October 2016 Meeting" /></a></p>
+
+<p><strong>Speaker Bio</strong></p>
+
+<p>Keith Davidson has been programming web sites and apps since the late 90&rsquo;s and started his professional development career in 2000, writing applications with consulting firm Accenture.  He is currently a Senior Software Developer with Petrofac.  When not trying to keep up with the latest web technologies or contributing to open source projects, he enjoys tinkering with Raspberry Pi and Arduino platforms and occasionally plays the drums.</p>
+
+<p><strong>Agenda - Thursday, 20th October 2016</strong></p>
+
+<ul>
+<li>1800 - 1825: Arrival and registration</li>
+<li>1825 - 1830: Introduction</li>
+<li>1830 - 1930: BreezeJS</li>
+<li>1930 - 2000: Q&amp;A and Prize Draw</li>
+</ul>
+
+
+<p><strong>Location and Directions</strong></p>
+
+<p>Venue: Room N311, The Sir Ian Wood Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7GJ, GB</p>
+
+<p>Directions: <a href="https://www.google.co.uk/maps/place/The+Sir+Ian+Wood+Building,+Garthdee+Rd,+Aberdeen+AB10+7GJ">Map showing Garthdee Campus</a></p>
+
+<p><strong>Prize Draw</strong></p>
+
+<p>All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[September 2016 Meeting - Colin Mackay]]></title>
@@ -726,23 +767,6 @@ Colin Mackay is a software developer, former MVP, and speaker at user groups and
 <li><a href="https://www.eventbrite.co.uk/e/net-core-blimey-tickets-17510783224">Skyscanner, Glasgow - Wednesday, 22nd July</a></li>
 </ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[June 2015 Meeting - Completed]]></title>
-    <link href="http://www.aberdeendevelopers.co.uk/june-2015-meeting-steven-chalmers-completed"/>
-    <updated>2015-06-19T00:00:00+00:00</updated>
-    <id>http://www.aberdeendevelopers.co.uk/june-2015-meeting-steven-chalmers-completed</id>
-    <content type="html"><![CDATA[<p><strong> Slides and Code from June&rsquo;s Talk </strong></p>
-
-<p>A massive thank you to Steven for sharing his experience and expertise at last night&rsquo;s meeting, and of course thanks to all those who managed to attend!</p>
-
-<p>You can find the <a href="https://github.com/CodeBeastie/Presentation/blob/master/Slides.pdf">Slides</a> and <a href="https://github.com/CodeBeastie/Presentation/">Code</a> from Steve&rsquo;s presentation on his GitHub page <a href="https://github.com/CodeBeastie/Presentation/">here</a>.  Also be sure to check out his <a href="http://blog.codebeastie.com/">blog</a> for some more information and tips including the <a href="http://blog.codebeastie.com/kendo-grid-error-handling/">handy tip</a> for showing error messages from the server in a specific cell of the Telerik Grid.</p>
-
-<p><strong> Prizes </strong></p>
-
-<p>For everyone who was lucky enough to win a prize from one of our awesome <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>, I have requested all of the prizes.  If you haven&rsquo;t heard anything, please get in touch.</p>
 ]]></content>
   </entry>
   

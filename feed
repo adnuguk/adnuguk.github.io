@@ -5,9 +5,56 @@
     <description>Website for the meetings and events hosted by the Aberdeen Developers .Net User Group</description>
     <link>http://www.aberdeendevelopers.co.uk/</link>
     <atom:link href="http://www.aberdeendevelopers.co.uk/feed" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 06 Sep 2016 20:10:16 +0000</pubDate>
-    <lastBuildDate>Tue, 06 Sep 2016 20:10:16 +0000</lastBuildDate>
+    <pubDate>Tue, 11 Oct 2016 12:10:32 +0000</pubDate>
+    <lastBuildDate>Tue, 11 Oct 2016 12:10:32 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title></title>
+        <description>&lt;p&gt;Aberdeen Developers are pleased to present a talk by Keith Davidson, on Thursday 20th October 2016 at the Robert Gordon University.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;BreezeJS&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;BreezeJS is a free, open source JavaScript library that helps you manage data in rich client applications. If you store data in a database, query and save those data as complex object graphs, and share these graphs across multiple screens of your JavaScript client, Breeze is for you. This presentation will introduce BreezeJs and demonstrate some of it&amp;rsquo;s advantages.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.eventbrite.com/e/aberdeen-developers-net-user-group-october-2016-meeting-tickets-28505462606?aff=blog&quot;&gt;&lt;img src=&quot;https://www.eventbrite.com/custombutton?eid=11987778769&quot; alt=&quot;Eventbrite - Aberdeen Developers .Net User Group - October 2016 Meeting&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Speaker Bio&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Keith Davidson has been programming web sites and apps since the late 90&amp;rsquo;s and started his professional development career in 2000, writing applications with consulting firm Accenture.  He is currently a Senior Software Developer with Petrofac.  When not trying to keep up with the latest web technologies or contributing to open source projects, he enjoys tinkering with Raspberry Pi and Arduino platforms and occasionally plays the drums.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Agenda - Thursday, 20th October 2016&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;1800 - 1825: Arrival and registration&lt;/li&gt;
+&lt;li&gt;1825 - 1830: Introduction&lt;/li&gt;
+&lt;li&gt;1830 - 1930: BreezeJS&lt;/li&gt;
+&lt;li&gt;1930 - 2000: Q&amp;amp;A and Prize Draw&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;&lt;strong&gt;Location and Directions&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Venue: Room N311, The Sir Ian Wood Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7GJ, GB&lt;/p&gt;
+
+&lt;p&gt;Directions: &lt;a href=&quot;https://www.google.co.uk/maps/place/The+Sir+Ian+Wood+Building,+Garthdee+Rd,+Aberdeen+AB10+7GJ&quot;&gt;Map showing Garthdee Campus&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Prize Draw&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic &lt;a href=&quot;http://www.aberdeendevelopers.co.uk/sponsors/&quot;&gt;sponsors&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 11 Oct 2016 00:00:00 +0000</pubDate>
+        <link>http://www.aberdeendevelopers.co.uk/your-filename</link>
+        <guid isPermaLink="true">http://www.aberdeendevelopers.co.uk/your-filename</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>events</category>
+        
+      </item>
     
       <item>
         <title>September 2016 Meeting - Colin Mackay</title>
@@ -460,50 +507,6 @@ For more information please visit their site at &lt;a href=&quot;http://www.evok
         <category>blog</category>
         
         <category>event material</category>
-        
-      </item>
-    
-      <item>
-        <title>October 2015 Meeting - Gary Ewan Park</title>
-        <description>&lt;p&gt;Aberdeen Developers are pleased to present a talk by Gary Ewan Park, on Thursday 22nd October 2015 at the Robert Gordon University.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Semantic Versioning with GitVersion&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Have you ever needed to control the version number of your application? If so, you will know that this isn’t something that you “get for free”. It’s hard! You may have tried to use some form of auto incrementing number from your Continuous Integration Server, or store a text file in source control and update it each time the build happens. Both of these approaches will work, but they don’t account for more complicated scenarios where you are working on multiple releases at the same time, or you want to use multiple Continuous Integration Servers. In this session, we will look at how we can improve the versioning of your application using a combination of branching strategies (either Gitflow or Githubflow) and an open source tool called GitVersion. GitVersion is a tool which allows you to easy generate the Semantic Version number for your application, based on the current state of your code base in it’s Git Repository.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.eventbrite.com/e/aberdeen-developers-net-user-group-october-2015-meeting-tickets-18944026092?aff=blog&quot;&gt;&lt;img src=&quot;https://www.eventbrite.com/custombutton?eid=11987778769&quot; alt=&quot;Eventbrite - Aberdeen Developers .Net User Group - October 2015 Meeting #1&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Speaker Bio&lt;/strong&gt;
-Gary Ewan Park has been developing on the .Net Platform for almost 9 years. His day job with Digital Applications Internatational sees him developing using ASP.NET, AngularJS, WPF, SharePoint, Silverlight, and WCF for Oil Companies working in the North Sea.&lt;/p&gt;
-
-&lt;p&gt;In his spare time, Gary contributes to a number of Open Source projects including Chocolatey, ChocolateyGUI, Boxstarter, psake-contrib, GitVersion, and GitReleaseManager.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Agenda - Thursday,  22nd October 2015&lt;/strong&gt;
-+ 1800 - 1825: Arrival and registration
-+ 1825 - 1830: Introduction
-+ 1830 - 1930: Semantic Versioning with GitVersion
-+ 1930 Onwards: Questions &amp;amp; Answers followed by Prize Draw&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Location and Directions&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Venue: Room N311, Riverside East Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7QQ, GB&lt;/p&gt;
-
-&lt;p&gt;Directions: &lt;a href=&quot;https://maps.google.co.uk/maps?q=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,+Aberdeen,+Aberdeen+City+AB10+7QG,+GB&amp;amp;hl=en&amp;amp;ll=57.119317,-2.136133&amp;amp;spn=0.004165,0.012413&amp;amp;sll=57.746995,-4.687341&amp;amp;sspn=8.392957,25.422363&amp;amp;hq=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,&amp;amp;hnear=AB10+7QG,+United+Kingdom&amp;amp;t=m&amp;amp;z=17&amp;amp;iwloc=A&quot;&gt;Map showing Garthdee Campus&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Prize Draw&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic &lt;a href=&quot;http://www.aberdeendevelopers.co.uk/sponsors/&quot;&gt;sponsors&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 13 Oct 2015 00:00:00 +0000</pubDate>
-        <link>http://www.aberdeendevelopers.co.uk/october-2015-meeting-gary-ewan-park</link>
-        <guid isPermaLink="true">http://www.aberdeendevelopers.co.uk/october-2015-meeting-gary-ewan-park</guid>
-        
-        
-        <category>blog</category>
-        
-        <category>events</category>
         
       </item>
     
