@@ -4,7 +4,7 @@ author: Nyami
 comments: true
 sharing: true
 published: true
-title: ''
+title: 'October 2016 Meeting - Keith Davidson'
 categories:
   - blog
   - events
