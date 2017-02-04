@@ -34,5 +34,15 @@ It is with great pleasure that Aberdeen Developers .Net User Group thank the fol
 [OzCodeLink]: http://www.oz-code.com
 [OzCodeImage]: {{site.images}}/sponsors/ozcode_logo.svg (OzCode)
 
+[![Aspose][AsposeImage]][AsposeLink]
+
+[AsposeLink]: http://www.aspose.com/
+[AsposeImage]: {{site.images}}/sponsors/Aspose-285x90.png (Aspose)
+
+[![Devart][DevartImage]][DevartLink]
+
+[DevartLink]: https://www.devart.com/
+[DevartImage]: {{site.images}}/sponsors/devart.png (Devart)
+
 And finally, a HUGE thank you to Microsoft Technical Communities and Office 365 for providing email for our User Group:
 ![Office 365]({{site.images}}/sponsors/Powered_by_O365.png)
