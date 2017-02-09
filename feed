@@ -5,9 +5,57 @@
     <description>Website for the meetings and events hosted by the Aberdeen Developers .Net User Group</description>
     <link>http://www.aberdeendevelopers.co.uk/</link>
     <atom:link href="http://www.aberdeendevelopers.co.uk/feed" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 09 Feb 2017 18:09:59 +0000</pubDate>
-    <lastBuildDate>Thu, 09 Feb 2017 18:09:59 +0000</lastBuildDate>
+    <pubDate>Thu, 09 Feb 2017 18:11:20 +0000</pubDate>
+    <lastBuildDate>Thu, 09 Feb 2017 18:11:20 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>March 2017 - Mark Allan</title>
+        <description>&lt;p&gt;Aberdeen Developers are pleased to present our first meeting in March where we will be joined by Mark Allan, on Wednesday 8th March 2017 at the Robert Gordon University.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.eventbrite.com/e/march-2017-mark-allan-azure-functions-documentdb-tickets-31775756142?aff=blog&quot;&gt;&lt;img src=&quot;https://www.eventbrite.com/custombutton?eid=11987778769&quot; alt=&quot;Eventbrite - Aberdeen Developers .Net User Group - March 2017 Mark Allan&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Azure Functions&lt;/strong&gt;
+The natural evolution of Platform As A Service, Functions As A Service is the cornerstone of the new serverless paradigm. Learn how Azure Functions allows you to develop naturally scalable and event-driven &amp;ldquo;nano-service&amp;rdquo; solutions. Write exactly the code you need, with infrastructure and scaling taken care of for you, built-in security and integrations and a pay-per-second pricing model.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;DocumentDB&lt;/strong&gt;
+DocumentDB is Microsoft&amp;rsquo;s cloud-first database solution for schemaless data. With DocumentDB you can query any collection of JSON data with SQL and JavaScript, and because it&amp;rsquo;s designed for the cloud, you get guaranteed low latency, global replication, unlimited scale and a usage-based pricing model based on storage and throughput. Mark will discuss the usage of DocumentDB and how querying, indexing, consistency and so on differ from a traditional relational database.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Speaker Bio&lt;/strong&gt;
+Mark is a software developer based on the beautiful North Coast of Ireland. He&amp;rsquo;s been a professional developer since the 1980s and freelance since 2000, working on a myriad of projects for everything from local startups and councils to multinational corporations and federal government departments. While something of a technology omnivore, particularly if it&amp;rsquo;s new and shiny, he currently tends towards Xamarin and ReactJS front-ends sitting on top of scalable Azure services, using a functional and reactive approach. You can find him on Twitter, LinkedIn and most other places as MarkXA.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Agenda - Wednesday 8th March&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;1800 - 1820: Arrival and registration&lt;/li&gt;
+&lt;li&gt;1820 - 1825: Introduction&lt;/li&gt;
+&lt;li&gt;1825 - 1955: Azure Functions &amp;amp; DocumentDB&lt;/li&gt;
+&lt;li&gt;1955 - 2010: Q&amp;amp;A and Prize Draw&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;&lt;strong&gt;Location and Directions&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Venue: Room N345, The Sir Ian Wood Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7GJ, GB&lt;/p&gt;
+
+&lt;p&gt;Directions: &lt;a href=&quot;https://www.google.co.uk/maps/place/The+Sir+Ian+Wood+Building,+Garthdee+Rd,+Aberdeen+AB10+7GJ&quot;&gt;Map showing Garthdee Campus&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Prize Draw&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic &lt;a href=&quot;http://www.aberdeendevelopers.co.uk/sponsors/&quot;&gt;sponsors&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 09 Feb 2017 00:00:00 +0000</pubDate>
+        <link>http://www.aberdeendevelopers.co.uk/march-2017-mark-allan</link>
+        <guid isPermaLink="true">http://www.aberdeendevelopers.co.uk/march-2017-mark-allan</guid>
+        
+        <category>blog</category>
+        
+        <category>events</category>
+        
+        
+      </item>
     
       <item>
         <title>October 2016 Meeting - Keith Davidson</title>
@@ -488,25 +536,6 @@ For more information please visit their site at &lt;a href=&quot;http://www.evok
         <category>blog</category>
         
         <category>events</category>
-        
-      </item>
-    
-      <item>
-        <title>October Meeting - Gary Ewan Park - Completed</title>
-        <description>&lt;p&gt;Thanks once again to Gary for his talk on GitVersion!  If you want to get in touch with Gary, you can use his twitter account &lt;a href=&quot;https://twitter.com/gep13&quot;&gt;@gep13&lt;/a&gt; and make sure you follow him for up-to-date news, articles and tips. You can also find a copy of the slides used in the presentation &lt;a href=&quot;http://www.slideshare.net/gep13/semantic-versioning-with-gitversion-take-2&quot;&gt;here&lt;/a&gt;.  If you have any questions about GitVersion, you can also ask them at the Gitter Chat room, which you can find &lt;a href=&quot;https://gitter.im/GitTools/GitVersion&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt; Prizes &lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;For everyone who was lucky enough to win a prize from one of our amazing &lt;a href=&quot;http://www.aberdeendevelopers.co.uk/sponsors/&quot;&gt;sponsors&lt;/a&gt;, I have requested all of the prizes.  If you haven&amp;rsquo;t heard anything, please get in touch, and we will try to sort this out.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 26 Oct 2015 00:00:00 +0000</pubDate>
-        <link>http://www.aberdeendevelopers.co.uk/October-2015-meeting-gary-ewan-park-completed</link>
-        <guid isPermaLink="true">http://www.aberdeendevelopers.co.uk/October-2015-meeting-gary-ewan-park-completed</guid>
-        
-        
-        <category>blog</category>
-        
-        <category>event material</category>
         
       </item>
     
