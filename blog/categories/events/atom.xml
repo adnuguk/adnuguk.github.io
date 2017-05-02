@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Events | Aberdeen Developers .Net User Group]]></title>
   <link href="http://www.aberdeendevelopers.co.uk/blog/categories/events/atom.xml" rel="self"/>
   <link href="http://www.aberdeendevelopers.co.uk/"/>
-  <updated>2017-05-02T12:14:37+00:00</updated>
+  <updated>2017-05-02T12:18:04+00:00</updated>
   <id>http://www.aberdeendevelopers.co.uk/</id>
   <author>
     <name><![CDATA[gep13]]></name>
@@ -45,6 +45,66 @@
 <p><strong>Location and Directions</strong></p>
 
 <p>Venue: Room N311, The Sir Ian Wood Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7GJ, GB</p>
+
+<p>Directions: <a href="https://www.google.co.uk/maps/place/The+Sir+Ian+Wood+Building,+Garthdee+Rd,+Aberdeen+AB10+7GJ">Map showing Garthdee Campus</a></p>
+
+<p><strong>Prize Draw</strong></p>
+
+<p>All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[March 2017 - Microsoft Special]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/march-2017-microsoft-special"/>
+    <updated>2017-02-09T00:00:00+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/march-2017-microsoft-special</id>
+    <content type="html"><![CDATA[<p>Aberdeen Developers are pleased to present a Microsoft special meeting, on Thursday 23rd March 2017 at the Robert Gordon University. We’re joined by Martin Kearn and Martin Beeby who are both evangelists from Microsoft. The Martin’s will cover 4 topics including the future of the web, Machine Learning, Document DB and Conversation-as-a-platform (bots). The focus will be on general technology so this event will be suitable for .net developers and folks on other stacks. We’re hoping for a full house to make the most of this one-off special event.</p>
+
+<p><a href="https://www.eventbrite.com/e/march-2017-microsoft-special-tickets-31775703986?aff=blog"><img src="https://www.eventbrite.com/custombutton?eid=11987778769" alt="Eventbrite - Aberdeen Developers .Net User Group - March 2017 Microsoft Special" /></a></p>
+
+<hr />
+
+<p><strong>Agenda - Thursday, 23rd March 2016</strong></p>
+
+<ul>
+<li>1800 - 1830: Arrival and registration</li>
+<li>1830 - 1840: Welcome and introduction</li>
+<li>1840 - 1910: Martin Beeby - The Web on Day 10,000</li>
+<li>1910 - 1940: Martin Kearn - Machine Learning for Muggles</li>
+<li>1940 - 2000: Break</li>
+<li>2000 - 2030: Martin Beeby - DocumentDB: a NoSQL database-as-a-service</li>
+<li>2030 - 2100: Martin Kearn - The Fuss about Bots</li>
+<li>2100: Close</li>
+</ul>
+
+
+<p><strong>Speaker Bios</strong></p>
+
+<p><strong><em>Martin Beeby</em></strong>
+Martin Beeby has been a developer since he was 16. Having no garage, unlike his American counterparts, he began developing small sites, apps and hacks from the comfort of his bedroom.
+Today Martin works for Microsoft where he talks to developers about the Web. Martin has, over the past 17 years, worked on projects with many Major brands. Martin has written articles for, and been featured in, NET Magazine, Creative Bloq, SitePoint, ZDNet, the Microsoft Developer Network, and many more.</p>
+
+<p><strong><em>Martin Kearn</em></strong>
+Martin is a technical evangelist for Microsoft based in the UK. In his role, Martin talks with customers, partners, start-ups and anyone who is willing to listen about developing applications on the Microsoft platform. This includes Windows, Office, Microsoft Azure and Web technologies including ASP.net and the Edge browser. Martin has been working with Microsoft development technologies since the late 90&rsquo;s and has been working for Microsoft directly since 2005.</p>
+
+<p><strong>Talks</strong>
+<strong><em>The Web on Day 10,000</em></strong>
+We’re fast approaching 10,000 days since December 1990 when the first website was published and changed everything.
+Martin looks at the future capabilities of browsers, devices and servers and how applications will be impacted by advances in those three areas. Using live code and demos he’ll explores, amongst other things, Bots, Web Components, Web Assembly, Cognitive Services, Language Understanding, Speech and Serverless application architecture.</p>
+
+<p><strong><em>Machine Learning for Muggles</em></strong>
+Artificial Intelligence is the latest hotness. Machine Learning sits behind artificial intelligence and on the surface it may seem like a deeply technical, scientific topic. We are here to tell you that it is more accessible than you think. We’ll look at some of the basics around the Azure Machine Learning service. We’ll also look some of the Microsoft Cognitive Services APIs which make it very easy to implement artificial intelligence ‘smarts’ into your application with simple, standard REST calls.</p>
+
+<p><strong><em>DocumentDB: a NoSQL database-as-a-service</em></strong>
+DocumentDB is a database for document and key-value data, provided as a service inside on Microsoft Azure. It has all the properties of a NoSQL database whilst retaining the ability to easily query the data with SQL. Martin will look into how it works, when to use it and how you can utilise it from many different types of applications.</p>
+
+<p><strong><em>The Fuss about Bots</em></strong>
+Some people say that Bots are the new Apps and thr way we interact with our devices is going to fundamentally change to a world where we are using natural language to interact with Bots and Digital Assistants. Microsoft are investing heavily in bots and have a tool called the Microsoft Bot Framework. In this talk we&rsquo;ll look at what a bot is, deisgn patterns for bots and the Microsoft Bot Framework which lets you write a single bot that is pblished to multiple social channels such as Skype, Facebook and Slack.</p>
+
+<p><strong>Location and Directions</strong></p>
+
+<p>Venue: Room N117, The Sir Ian Wood Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7GJ, GB</p>
 
 <p>Directions: <a href="https://www.google.co.uk/maps/place/The+Sir+Ian+Wood+Building,+Garthdee+Rd,+Aberdeen+AB10+7GJ">Map showing Garthdee Campus</a></p>
 
@@ -180,55 +240,6 @@
 <p><strong>Location and Directions</strong></p>
 
 <p>Venue: Room N310, Riverside East Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7QQ, GB</p>
-
-<p>Directions: <a href="https://maps.google.co.uk/maps?q=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,+Aberdeen,+Aberdeen+City+AB10+7QG,+GB&amp;hl=en&amp;ll=57.119317,-2.136133&amp;spn=0.004165,0.012413&amp;sll=57.746995,-4.687341&amp;sspn=8.392957,25.422363&amp;hq=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,&amp;hnear=AB10+7QG,+United+Kingdom&amp;t=m&amp;z=17&amp;iwloc=A">Map showing Garthdee Campus</a></p>
-
-<p><strong>Prize Draw</strong></p>
-
-<p>All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[July 2016 Meeting - Mike Taulty]]></title>
-    <link href="http://www.aberdeendevelopers.co.uk/july-2016-meeting-mike-taulty"/>
-    <updated>2016-07-13T00:00:00+00:00</updated>
-    <id>http://www.aberdeendevelopers.co.uk/july-2016-meeting-mike-taulty</id>
-    <content type="html"><![CDATA[<p>Aberdeen Developers are pleased to present a talk by Mike Taulty, on Thursday 21th July 2016 at the Robert Gordon University.</p>
-
-<hr />
-
-<p><strong>A Platform for More Personal Computing?</strong></p>
-
-<p>Salt and pepper. Fish and chips. Starsky and Hutch. Windows and PC.</p>
-
-<p>Just as Windows became intrinsically linked with personal computing, Microsoft is working to make that just-over-the-horizon leap towards natural interaction and ‘More Personal Computing’ (MPC). It’s already surfacing today in technologies like ‘Cortana’ and ‘Windows Hello’.</p>
-
-<p>In this session, we’ll take a demo-based approach to look at some of the MPC technologies that Windows developers already have available to them in the Universal Windows Platform and some additional technologies out in the cloud under the banner of ‘Microsoft Cognitive Services’</p>
-
-<p>We’ll look at some things with pens, touch, speech, facial recognition, speaker identification and we’ll see what the Windows 10 app platform has to offer developers building modern apps with an ever-more personal touch.</p>
-
-<p>You should expect Visual Studio, C# code and XAML UI and most of the talk will build up an application from scratch adding features as we go along.</p>
-
-<p><a href="http://www.eventbrite.com/e/aberdeen-developers-net-user-group-july-2016-meeting-tickets-26418169456?aff=blog"><img src="https://www.eventbrite.com/custombutton?eid=11987778769" alt="Eventbrite - Aberdeen Developers .Net User Group - July 2016 Meeting" /></a></p>
-
-<p><strong>Speaker Bio</strong></p>
-
-<p>Mike Taulty works in the Developer and Platform Group at Microsoft in the UK where he has spent the past few years helping developers understand and get the best from the Microsoft platform. Prior to this, Mike spent 3 years with Microsoft Consulting Services as a consultant on developer technologies.</p>
-
-<p>Before joining Microsoft, Mike spent the previous 9 years working as a software developer for a number of enterprises, consultancies and software vendors working with a variety of operating system, client, communication and server technologies. You can find more of a complete career history over on <a href="http://uk.linkedin.com/in/mtaulty">LinkedIn</a>.</p>
-
-<p>Mike holds a BSc Hons (1st Class) in Computer Science from the University of Leeds.</p>
-
-<p><strong>Agenda - Thursday, 21th July 2016</strong>
-+ 1800 - 1825: Arrival and registration
-+ 1825 - 1830: Introduction
-+ 1830 - 1930: A Platform for More Personal Computing?
-+ 1930 - 2000: Q&amp;A and Prize Draw</p>
-
-<p><strong>Location and Directions</strong></p>
-
-<p>Venue: Room N309, Riverside East Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7QQ, GB</p>
 
 <p>Directions: <a href="https://maps.google.co.uk/maps?q=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,+Aberdeen,+Aberdeen+City+AB10+7QG,+GB&amp;hl=en&amp;ll=57.119317,-2.136133&amp;spn=0.004165,0.012413&amp;sll=57.746995,-4.687341&amp;sspn=8.392957,25.422363&amp;hq=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,&amp;hnear=AB10+7QG,+United+Kingdom&amp;t=m&amp;z=17&amp;iwloc=A">Map showing Garthdee Campus</a></p>
 
