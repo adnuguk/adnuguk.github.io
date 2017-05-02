@@ -5,7 +5,7 @@ comments: true
 sharing: true
 published: true
 title: March 2017 - Microsoft Special
-tags:
+categories:
   - blog
   - events
 ---
