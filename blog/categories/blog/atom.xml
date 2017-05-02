@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Blog | Aberdeen Developers .Net User Group]]></title>
   <link href="http://www.aberdeendevelopers.co.uk/blog/categories/blog/atom.xml" rel="self"/>
   <link href="http://www.aberdeendevelopers.co.uk/"/>
-  <updated>2017-02-09T18:12:53+00:00</updated>
+  <updated>2017-05-02T12:14:37+00:00</updated>
   <id>http://www.aberdeendevelopers.co.uk/</id>
   <author>
     <name><![CDATA[gep13]]></name>
@@ -12,6 +12,47 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[June 2017 - Donovan Brown - Zero to DevOps]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/june-2017-donovan-brown-zero-to-devops"/>
+    <updated>2017-05-02T00:00:00+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/june-2017-donovan-brown-zero-to-devops</id>
+    <content type="html"><![CDATA[<p>Aberdeen Developers are pleased to present, The Man in the Black Shirt, Donovan Brown, on Thursday 8th June 2017 at the Robert Gordon University.</p>
+
+<hr />
+
+<p><strong>Zero to DevOps</strong></p>
+
+<p>DevOps is about people, process and products. Getting it all right requires effort but the benefits to your organization and customers can be huge. In this demo-heavy session, Donovan Brown will show you how to go from “zero to DevOps” like a pro. Starting from just a blank desktop, he will create a new team project and a complete pipeline. He will also deploy an ASP.NET MVC application into Azure all live and hands on.</p>
+
+<p><a href="https://www.eventbrite.com/e/june-2017-donovan-brown-zero-to-devops-tickets-31775897565?aff=blog"><img src="https://www.eventbrite.com/custombutton?eid=11987778769" alt="Zero to DevOps - Donovan Brown - 8th June 2017" /></a></p>
+
+<p><strong>Speaker Bio</strong></p>
+
+<p>Donovan is a Principal Program Manager for DevOps in the Developer Division at Microsoft, focusing on developer tools including Visual Studio Team Services and Team Foundation Server. Before joining Microsoft, Donovan spent seven years as a Process Consultant and a Certified Scrum Master. Donovan has travelled the globe helping companies in the U.S., Canada, India, Germany, and the UK develop solutions using agile practices in industries including Communications, Health Care, Energy, and Financial Services. Donovan is an avid programmer, often finding ways to integrate software into his other hobbies and activities.</p>
+
+<p><strong>Agenda - Thursday, 8th June 2017</strong></p>
+
+<ul>
+<li>1800 - 1825: Arrival and registration</li>
+<li>1825 - 1830: Introduction</li>
+<li>1830 - 1930: Zero to DevOps</li>
+<li>1930 - 2000: Q&amp;A and Prize Draw</li>
+</ul>
+
+
+<p><strong>Location and Directions</strong></p>
+
+<p>Venue: Room N311, The Sir Ian Wood Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7GJ, GB</p>
+
+<p>Directions: <a href="https://www.google.co.uk/maps/place/The+Sir+Ian+Wood+Building,+Garthdee+Rd,+Aberdeen+AB10+7GJ">Map showing Garthdee Campus</a></p>
+
+<p><strong>Prize Draw</strong></p>
+
+<p>All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[October 2016 Meeting - Keith Davidson]]></title>
@@ -186,55 +227,6 @@
 <p><strong>Location and Directions</strong></p>
 
 <p>Venue: Room N310, Riverside East Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7QQ, GB</p>
-
-<p>Directions: <a href="https://maps.google.co.uk/maps?q=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,+Aberdeen,+Aberdeen+City+AB10+7QG,+GB&amp;hl=en&amp;ll=57.119317,-2.136133&amp;spn=0.004165,0.012413&amp;sll=57.746995,-4.687341&amp;sspn=8.392957,25.422363&amp;hq=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,&amp;hnear=AB10+7QG,+United+Kingdom&amp;t=m&amp;z=17&amp;iwloc=A">Map showing Garthdee Campus</a></p>
-
-<p><strong>Prize Draw</strong></p>
-
-<p>All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[July 2016 Meeting - Mike Taulty]]></title>
-    <link href="http://www.aberdeendevelopers.co.uk/july-2016-meeting-mike-taulty"/>
-    <updated>2016-07-13T00:00:00+00:00</updated>
-    <id>http://www.aberdeendevelopers.co.uk/july-2016-meeting-mike-taulty</id>
-    <content type="html"><![CDATA[<p>Aberdeen Developers are pleased to present a talk by Mike Taulty, on Thursday 21th July 2016 at the Robert Gordon University.</p>
-
-<hr />
-
-<p><strong>A Platform for More Personal Computing?</strong></p>
-
-<p>Salt and pepper. Fish and chips. Starsky and Hutch. Windows and PC.</p>
-
-<p>Just as Windows became intrinsically linked with personal computing, Microsoft is working to make that just-over-the-horizon leap towards natural interaction and ‘More Personal Computing’ (MPC). It’s already surfacing today in technologies like ‘Cortana’ and ‘Windows Hello’.</p>
-
-<p>In this session, we’ll take a demo-based approach to look at some of the MPC technologies that Windows developers already have available to them in the Universal Windows Platform and some additional technologies out in the cloud under the banner of ‘Microsoft Cognitive Services’</p>
-
-<p>We’ll look at some things with pens, touch, speech, facial recognition, speaker identification and we’ll see what the Windows 10 app platform has to offer developers building modern apps with an ever-more personal touch.</p>
-
-<p>You should expect Visual Studio, C# code and XAML UI and most of the talk will build up an application from scratch adding features as we go along.</p>
-
-<p><a href="http://www.eventbrite.com/e/aberdeen-developers-net-user-group-july-2016-meeting-tickets-26418169456?aff=blog"><img src="https://www.eventbrite.com/custombutton?eid=11987778769" alt="Eventbrite - Aberdeen Developers .Net User Group - July 2016 Meeting" /></a></p>
-
-<p><strong>Speaker Bio</strong></p>
-
-<p>Mike Taulty works in the Developer and Platform Group at Microsoft in the UK where he has spent the past few years helping developers understand and get the best from the Microsoft platform. Prior to this, Mike spent 3 years with Microsoft Consulting Services as a consultant on developer technologies.</p>
-
-<p>Before joining Microsoft, Mike spent the previous 9 years working as a software developer for a number of enterprises, consultancies and software vendors working with a variety of operating system, client, communication and server technologies. You can find more of a complete career history over on <a href="http://uk.linkedin.com/in/mtaulty">LinkedIn</a>.</p>
-
-<p>Mike holds a BSc Hons (1st Class) in Computer Science from the University of Leeds.</p>
-
-<p><strong>Agenda - Thursday, 21th July 2016</strong>
-+ 1800 - 1825: Arrival and registration
-+ 1825 - 1830: Introduction
-+ 1830 - 1930: A Platform for More Personal Computing?
-+ 1930 - 2000: Q&amp;A and Prize Draw</p>
-
-<p><strong>Location and Directions</strong></p>
-
-<p>Venue: Room N309, Riverside East Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7QQ, GB</p>
 
 <p>Directions: <a href="https://maps.google.co.uk/maps?q=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,+Aberdeen,+Aberdeen+City+AB10+7QG,+GB&amp;hl=en&amp;ll=57.119317,-2.136133&amp;spn=0.004165,0.012413&amp;sll=57.746995,-4.687341&amp;sspn=8.392957,25.422363&amp;hq=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,&amp;hnear=AB10+7QG,+United+Kingdom&amp;t=m&amp;z=17&amp;iwloc=A">Map showing Garthdee Campus</a></p>
 

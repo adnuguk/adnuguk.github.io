@@ -5,9 +5,56 @@
     <description>Website for the meetings and events hosted by the Aberdeen Developers .Net User Group</description>
     <link>http://www.aberdeendevelopers.co.uk/</link>
     <atom:link href="http://www.aberdeendevelopers.co.uk/feed" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 09 Feb 2017 18:12:53 +0000</pubDate>
-    <lastBuildDate>Thu, 09 Feb 2017 18:12:53 +0000</lastBuildDate>
+    <pubDate>Tue, 02 May 2017 12:14:37 +0000</pubDate>
+    <lastBuildDate>Tue, 02 May 2017 12:14:37 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>June 2017 - Donovan Brown - Zero to DevOps</title>
+        <description>&lt;p&gt;Aberdeen Developers are pleased to present, The Man in the Black Shirt, Donovan Brown, on Thursday 8th June 2017 at the Robert Gordon University.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Zero to DevOps&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;DevOps is about people, process and products. Getting it all right requires effort but the benefits to your organization and customers can be huge. In this demo-heavy session, Donovan Brown will show you how to go from “zero to DevOps” like a pro. Starting from just a blank desktop, he will create a new team project and a complete pipeline. He will also deploy an ASP.NET MVC application into Azure all live and hands on.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.eventbrite.com/e/june-2017-donovan-brown-zero-to-devops-tickets-31775897565?aff=blog&quot;&gt;&lt;img src=&quot;https://www.eventbrite.com/custombutton?eid=11987778769&quot; alt=&quot;Zero to DevOps - Donovan Brown - 8th June 2017&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Speaker Bio&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Donovan is a Principal Program Manager for DevOps in the Developer Division at Microsoft, focusing on developer tools including Visual Studio Team Services and Team Foundation Server. Before joining Microsoft, Donovan spent seven years as a Process Consultant and a Certified Scrum Master. Donovan has travelled the globe helping companies in the U.S., Canada, India, Germany, and the UK develop solutions using agile practices in industries including Communications, Health Care, Energy, and Financial Services. Donovan is an avid programmer, often finding ways to integrate software into his other hobbies and activities.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Agenda - Thursday, 8th June 2017&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;1800 - 1825: Arrival and registration&lt;/li&gt;
+&lt;li&gt;1825 - 1830: Introduction&lt;/li&gt;
+&lt;li&gt;1830 - 1930: Zero to DevOps&lt;/li&gt;
+&lt;li&gt;1930 - 2000: Q&amp;amp;A and Prize Draw&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;&lt;strong&gt;Location and Directions&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Venue: Room N311, The Sir Ian Wood Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7GJ, GB&lt;/p&gt;
+
+&lt;p&gt;Directions: &lt;a href=&quot;https://www.google.co.uk/maps/place/The+Sir+Ian+Wood+Building,+Garthdee+Rd,+Aberdeen+AB10+7GJ&quot;&gt;Map showing Garthdee Campus&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Prize Draw&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic &lt;a href=&quot;http://www.aberdeendevelopers.co.uk/sponsors/&quot;&gt;sponsors&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 02 May 2017 00:00:00 +0000</pubDate>
+        <link>http://www.aberdeendevelopers.co.uk/june-2017-donovan-brown-zero-to-devops</link>
+        <guid isPermaLink="true">http://www.aberdeendevelopers.co.uk/june-2017-donovan-brown-zero-to-devops</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>events</category>
+        
+      </item>
     
       <item>
         <title>March 2017 - Microsoft Special</title>
@@ -485,56 +532,6 @@ Gary Ewan Park has been developing on the .Net Platform for almost 9 years. His 
         <pubDate>Mon, 11 Apr 2016 00:00:00 +0000</pubDate>
         <link>http://www.aberdeendevelopers.co.uk/april-2016-meeting-gary-ewan-park</link>
         <guid isPermaLink="true">http://www.aberdeendevelopers.co.uk/april-2016-meeting-gary-ewan-park</guid>
-        
-        
-        <category>blog</category>
-        
-        <category>events</category>
-        
-      </item>
-    
-      <item>
-        <title>March 2016 Meeting - Christos Matskas</title>
-        <description>&lt;p&gt;Aberdeen Developers are pleased to present a talk by Christos Matskas, on Thursday 24th March 2016 at the Robert Gordon University.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Microsoft’s ASP.NET Core 1.0 is going to rock your world&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;ASP.NET Core has been rewritten from the ground up to be the best web development platform for Windows, Mac, and Linux. You can now use your favorite editor to create faster, leaner and more memory efficient ASP.NET applications that work everywhere. In this session, you&amp;rsquo;ll get an introduction to the major advancements and an overview of what&amp;rsquo;s changed and what&amp;rsquo;s stayed the same. You&amp;rsquo;ll also get the chance to see how you can leverage all the new front-end tooling like npm, Bower, Grunt and Gulp to manage your application. This is going to be session full of demos and information that promises to rock your world!&lt;/p&gt;
-
-&lt;p&gt;In addition, Christos will be presented a bonus lightning talk entitled:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Becoming an awesome Open Source contributor&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Are you a developer that wants to give back to the open source community? Perhaps you&amp;rsquo;re already a seasoned contributor but you want to get better? Or you want to join the open source movement because, well, OSS is the future? Just look at all the cool tech built with OSS: Node.js, BootStrap, ASP.NET etc. Join Christos Matskas to learn about the many ways to contribute, key development tools in OSS projects and tips about what it takes to become a succesful first time contributor and collaborator in this welcoming and open community.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.eventbrite.com/e/aberdeen-developers-net-user-group-march-2016-meeting-tickets-21670650499?aff=blog&quot;&gt;&lt;img src=&quot;https://www.eventbrite.com/custombutton?eid=21670650499&quot; alt=&quot;Eventbrite - Aberdeen Developers .Net User Group - March 2016 Meeting&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Speaker Bio&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Christos Matskas is a software consultant, author, blogger and speaker. A Microsoft MVP on Visual Studio and Development Technologies, he&amp;rsquo;s a passionate Open Source advocate and a regular contributor to numerous projects. His portfolio includes collaborations with some of the biggest companies in the industry such as MarkIT, Lockheed Martin and Barclays. He&amp;rsquo;s been building software for over 12 years and loves to work closely with the community through speaking at conferences, mentoring and teaching programs.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Agenda - Thursday,  24th March 2016&lt;/strong&gt;
-+ 1800 - 1825: Arrival and registration
-+ 1825 - 1830: Introduction
-+ 1830 - 1930: Microsoft’s ASP.NET Core 1.0 is going to rock your world.
-+ 1930 - 1945: Bonus Lightning Talk - Becoming an awesome Open Source contributor
-+ 1945 Onwards: Questions &amp;amp; Answers followed by Prize Draw&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Location and Directions&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Venue: Room N309, Riverside East Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7QQ, GB&lt;/p&gt;
-
-&lt;p&gt;Directions: &lt;a href=&quot;https://maps.google.co.uk/maps?q=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,+Aberdeen,+Aberdeen+City+AB10+7QG,+GB&amp;amp;hl=en&amp;amp;ll=57.119317,-2.136133&amp;amp;spn=0.004165,0.012413&amp;amp;sll=57.746995,-4.687341&amp;amp;sspn=8.392957,25.422363&amp;amp;hq=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,&amp;amp;hnear=AB10+7QG,+United+Kingdom&amp;amp;t=m&amp;amp;z=17&amp;amp;iwloc=A&quot;&gt;Map showing Garthdee Campus&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Prize Draw&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic &lt;a href=&quot;http://www.aberdeendevelopers.co.uk/sponsors/&quot;&gt;sponsors&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 24 Feb 2016 00:00:00 +0000</pubDate>
-        <link>http://www.aberdeendevelopers.co.uk/march-2016-meeting-christos-matskas</link>
-        <guid isPermaLink="true">http://www.aberdeendevelopers.co.uk/march-2016-meeting-christos-matskas</guid>
         
         
         <category>blog</category>
