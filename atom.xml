@@ -4,7 +4,7 @@
   <title><![CDATA[Aberdeen Developers .Net User Group]]></title>
   <link href="http://www.aberdeendevelopers.co.uk/atom.xml" rel="self"/>
   <link href="http://www.aberdeendevelopers.co.uk/"/>
-  <updated>2017-05-02T12:21:55+00:00</updated>
+  <updated>2017-05-04T14:52:48+00:00</updated>
   <id>http://www.aberdeendevelopers.co.uk/</id>
   <author>
     <name><![CDATA[gep13]]></name>
@@ -12,6 +12,47 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Jun 2017 - Richard Campbell - History of .NET]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/jun-2017-richard-campbell-history-of-net"/>
+    <updated>2017-05-04T00:00:00+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/jun-2017-richard-campbell-history-of-net</id>
+    <content type="html"><![CDATA[<p>Aberdeen Developers are pleased to present, Richard Campbell, on Monday 19th June 2017 at the Robert Gordon University.</p>
+
+<hr />
+
+<p><strong>History of .NET</strong></p>
+
+<p>The .NET Framework is more than fifteen years old! Or is it? Join Richard Campbell on a tour of the history of .NET, Visual Studio and the related tools that have been the principal way that developers build software in the Microsoft space. The conversation explores the relationship between development tools, operating systems and the hardware that runs it all - the winding path of .NET is influenced by many things - and the future is only getting more interesting!</p>
+
+<p><a href="https://www.eventbrite.com/e/june-2017-richard-campbell-history-of-net-tickets-33347428055?aff=blog"><img src="https://www.eventbrite.com/custombutton?eid=11987778769" alt="History of .NET - Richard Campbell - 19th June 2017" /></a></p>
+
+<p><strong>Speaker Bio</strong></p>
+
+<p>Richard Campbell has spent more than 30 years playing around with microcomputers. Along the way he&rsquo;s done virtually every job you can imagine in the industry, from manufacturing to programming to consulting, training and writing. An impressive list of organizations, including Barnes&amp;Noble.com, Dow Chemical, Johnson &amp; Johnson Health Care Services, Reuters, Subaru/Isuzu and the U.S. Air Force, have benefited from Richard&rsquo;s consulting expertise. Today Richard is a Microsoft Regional Director, an ASP.NET MVP and a serial entrepreneur. Richard is a partner in PWOP Productions that creates a number of popular podcasts. He&rsquo;s the co-host of .NET Rocks!, the Internet Audio Talkshow for .NET Developers which publishes twice a week to over 150,000 listeners in more than 120 countries worldwide, The Tablet Show focused on cross-platform mobile and tablet development, as well as host of RunAs Radio, the podcast for Microsoft IT Professionals.</p>
+
+<p><strong>Agenda - Monday, 19th June 2017</strong></p>
+
+<ul>
+<li>1800 - 1825: Arrival and registration</li>
+<li>1825 - 1830: Introduction</li>
+<li>1830 - 1930: History of .NET</li>
+<li>1930 - 2000: Q&amp;A and Prize Draw</li>
+</ul>
+
+
+<p><strong>Location and Directions</strong></p>
+
+<p>Venue: Room N309, The Sir Ian Wood Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7GJ, GB</p>
+
+<p>Directions: <a href="https://www.google.co.uk/maps/place/The+Sir+Ian+Wood+Building,+Garthdee+Rd,+Aberdeen+AB10+7GJ">Map showing Garthdee Campus</a></p>
+
+<p><strong>Prize Draw</strong></p>
+
+<p>All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[June 2017 - Donovan Brown - Zero to DevOps]]></title>
@@ -745,53 +786,6 @@ Colin Mackay is a software developer, former MVP, and speaker at user groups and
 <p><strong>Location and Directions</strong></p>
 
 <p>Venue: Room N310, Riverside East Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7QQ, GB</p>
-
-<p>Directions: <a href="https://maps.google.co.uk/maps?q=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,+Aberdeen,+Aberdeen+City+AB10+7QG,+GB&amp;hl=en&amp;ll=57.119317,-2.136133&amp;spn=0.004165,0.012413&amp;sll=57.746995,-4.687341&amp;sspn=8.392957,25.422363&amp;hq=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,&amp;hnear=AB10+7QG,+United+Kingdom&amp;t=m&amp;z=17&amp;iwloc=A">Map showing Garthdee Campus</a></p>
-
-<p><strong>Prize Draw</strong></p>
-
-<p>All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[August 2015 Meeting #2 - Mike Taulty]]></title>
-    <link href="http://www.aberdeendevelopers.co.uk/august-2015-meeting-2-mike-taulty"/>
-    <updated>2015-08-13T00:00:00+00:00</updated>
-    <id>http://www.aberdeendevelopers.co.uk/august-2015-meeting-2-mike-taulty</id>
-    <content type="html"><![CDATA[<p>Aberdeen Developers are pleased to present a talk by Mike Taulty, on Thursday 27th August 2015 at the Robert Gordon University.</p>
-
-<hr />
-
-<p><strong>Windows 10 and the Universal Windows App Platform</strong></p>
-
-<p>Windows 10 is a big release for Microsoft. Commodious. Huge. Massive. Colossal. Humongous. ;-)</p>
-
-<p>It’s the end of a journey to unify Windows. It’s the beginning of a journey for developers who want to take advantage of a universal app platform available across all Windows devices.</p>
-
-<p>In this session, we’ll dig into what’s changed in Windows 10 for the Windows app developer. We’ll talk about the Universal App Platform that makes it possible to build code that runs on all Windows devices and about the Extension platforms for code that targets specific device families.</p>
-
-<p>We’ll stay in Visual Studio as much as is possible and we’ll lean towards C# and XAML.</p>
-
-<p><a href="http://www.eventbrite.com/e/aberdeen-developers-net-user-group-august-2015-meeting-2-tickets-18094386798?aff=blog"><img src="https://www.eventbrite.com/custombutton?eid=11987778769" alt="Eventbrite - Aberdeen Developers .Net User Group - August 2015 Meeting #2" /></a></p>
-
-<p><strong>Speaker Bio</strong></p>
-
-<p>Mike Taulty works in the Developer and Platform Group at Microsoft in the UK where he has spent the past few years helping developers understand and get the best from the Microsoft platform. Prior to this, Mike spent 3 years with Microsoft Consulting Services as a consultant on developer technologies.</p>
-
-<p>Before joining Microsoft, Mike spent the previous 9 years working as a software developer for a number of enterprises, consultancies and software vendors working with a variety of operating system, client, communication and server technologies. You can find more of a complete career history over on <a href="http://uk.linkedin.com/in/mtaulty">LinkedIn</a>.</p>
-
-<p>Mike holds a BSc Hons (1st Class) in Computer Science from the University of Leeds.</p>
-
-<p><strong>Agenda - Thursday, 27th August 2015</strong>
-+ 1800 - 1825: Arrival and registration
-+ 1825 - 1830: Introduction
-+ 1830 - 1930: Windows 10 and the Universal Windows App Platform
-+ 1930 Onwards: Questions &amp; Answers followed by Prize Draw</p>
-
-<p><strong>Location and Directions</strong></p>
-
-<p>Venue: Room N311, Riverside East Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7QQ, GB</p>
 
 <p>Directions: <a href="https://maps.google.co.uk/maps?q=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,+Aberdeen,+Aberdeen+City+AB10+7QG,+GB&amp;hl=en&amp;ll=57.119317,-2.136133&amp;spn=0.004165,0.012413&amp;sll=57.746995,-4.687341&amp;sspn=8.392957,25.422363&amp;hq=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,&amp;hnear=AB10+7QG,+United+Kingdom&amp;t=m&amp;z=17&amp;iwloc=A">Map showing Garthdee Campus</a></p>
 
