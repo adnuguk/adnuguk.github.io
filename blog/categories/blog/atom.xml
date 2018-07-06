@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Blog | Aberdeen Developers .Net User Group]]></title>
   <link href="http://www.aberdeendevelopers.co.uk/blog/categories/blog/atom.xml" rel="self"/>
   <link href="http://www.aberdeendevelopers.co.uk/"/>
-  <updated>2017-05-04T14:52:48+00:00</updated>
+  <updated>2018-07-06T18:36:17+00:00</updated>
   <id>http://www.aberdeendevelopers.co.uk/</id>
   <author>
     <name><![CDATA[gep13]]></name>
@@ -12,6 +12,32 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[July 2018 - .NET and Natter]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/july-2018-net-and-natter"/>
+    <updated>2018-07-06T00:00:00+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/july-2018-net-and-natter</id>
+    <content type="html"><![CDATA[<p>Aberdeen Developers are pleased to present something a little different for us. Hopefully you’ll be able to join us at Engage Gaming for our first “.NET and Natter”, a catch up and general geek out on all things .NET.</p>
+
+<p>No planned agenda for this meeting so all topics considered, hopefully we can all get involved in the conversation. So, bring along your laptop and show off your latest work, share your experience on that awesome new framework you’ve been working with, sound out those crazy ideas you have with the rest of the group, or just enjoy a beer, a burger and a catch up.</p>
+
+<p><a href="https://www.meetup.com/en-AU/Aberdeen-Developers-NET-User-Group/events/252025130/">July .NET and Natter</a></p>
+
+<p><strong>Agenda - Thursday, 19th July 2018</strong></p>
+
+<ul>
+<li>1830 - 2000: .NET and Natter</li>
+</ul>
+
+
+<p><strong>Location and Directions</strong></p>
+
+<p>Venue: Engage Gaming, 26 North Silver Street AB10 1RL · Aberdeen</p>
+
+<p>Directions: <a href="https://www.google.co.uk/maps/place/Engage+Gaming/@57.1472976,-2.108418,17z/data=!3m1!4b1!4m5!3m4!1s0x48840e23a3284dc1:0xc44805b2e37148c0!8m2!3d57.1472947!4d-2.1062293">Map showing Engage Gaming</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Jun 2017 - Richard Campbell - History of .NET]]></title>
@@ -188,47 +214,6 @@ Mark is a software developer based on the beautiful North Coast of Ireland. He&r
 <p><strong>Location and Directions</strong></p>
 
 <p>Venue: Room N345, The Sir Ian Wood Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7GJ, GB</p>
-
-<p>Directions: <a href="https://www.google.co.uk/maps/place/The+Sir+Ian+Wood+Building,+Garthdee+Rd,+Aberdeen+AB10+7GJ">Map showing Garthdee Campus</a></p>
-
-<p><strong>Prize Draw</strong></p>
-
-<p>All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[October 2016 Meeting - Keith Davidson]]></title>
-    <link href="http://www.aberdeendevelopers.co.uk/october-2016-meeting-keith-davidson"/>
-    <updated>2016-10-11T00:00:00+00:00</updated>
-    <id>http://www.aberdeendevelopers.co.uk/october-2016-meeting-keith-davidson</id>
-    <content type="html"><![CDATA[<p>Aberdeen Developers are pleased to present a talk by Keith Davidson, on Thursday 20th October 2016 at the Robert Gordon University.</p>
-
-<hr />
-
-<p><strong>BreezeJS</strong></p>
-
-<p>BreezeJS is a free, open source JavaScript library that helps you manage data in rich client applications. If you store data in a database, query and save those data as complex object graphs, and share these graphs across multiple screens of your JavaScript client, Breeze is for you. This presentation will introduce BreezeJs and demonstrate some of it&rsquo;s advantages.</p>
-
-<p><a href="https://www.eventbrite.com/e/aberdeen-developers-net-user-group-october-2016-meeting-tickets-28505462606?aff=blog"><img src="https://www.eventbrite.com/custombutton?eid=11987778769" alt="Eventbrite - Aberdeen Developers .Net User Group - October 2016 Meeting" /></a></p>
-
-<p><strong>Speaker Bio</strong></p>
-
-<p>Keith Davidson has been programming web sites and apps since the late 90&rsquo;s and started his professional development career in 2000, writing applications with consulting firm Accenture.  He is currently a Senior Software Developer with Petrofac.  When not trying to keep up with the latest web technologies or contributing to open source projects, he enjoys tinkering with Raspberry Pi and Arduino platforms and occasionally plays the drums.</p>
-
-<p><strong>Agenda - Thursday, 20th October 2016</strong></p>
-
-<ul>
-<li>1800 - 1825: Arrival and registration</li>
-<li>1825 - 1830: Introduction</li>
-<li>1830 - 1930: BreezeJS</li>
-<li>1930 - 2000: Q&amp;A and Prize Draw</li>
-</ul>
-
-
-<p><strong>Location and Directions</strong></p>
-
-<p>Venue: Room N311, The Sir Ian Wood Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7GJ, GB</p>
 
 <p>Directions: <a href="https://www.google.co.uk/maps/place/The+Sir+Ian+Wood+Building,+Garthdee+Rd,+Aberdeen+AB10+7GJ">Map showing Garthdee Campus</a></p>
 

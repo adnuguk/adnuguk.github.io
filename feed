@@ -5,9 +5,41 @@
     <description>Website for the meetings and events hosted by the Aberdeen Developers .Net User Group</description>
     <link>http://www.aberdeendevelopers.co.uk/</link>
     <atom:link href="http://www.aberdeendevelopers.co.uk/feed" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 04 May 2017 14:52:48 +0000</pubDate>
-    <lastBuildDate>Thu, 04 May 2017 14:52:48 +0000</lastBuildDate>
+    <pubDate>Fri, 06 Jul 2018 18:36:17 +0000</pubDate>
+    <lastBuildDate>Fri, 06 Jul 2018 18:36:17 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>July 2018 - .NET and Natter</title>
+        <description>&lt;p&gt;Aberdeen Developers are pleased to present something a little different for us. Hopefully you’ll be able to join us at Engage Gaming for our first “.NET and Natter”, a catch up and general geek out on all things .NET.&lt;/p&gt;
+
+&lt;p&gt;No planned agenda for this meeting so all topics considered, hopefully we can all get involved in the conversation. So, bring along your laptop and show off your latest work, share your experience on that awesome new framework you’ve been working with, sound out those crazy ideas you have with the rest of the group, or just enjoy a beer, a burger and a catch up.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.meetup.com/en-AU/Aberdeen-Developers-NET-User-Group/events/252025130/&quot;&gt;July .NET and Natter&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Agenda - Thursday, 19th July 2018&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;1830 - 2000: .NET and Natter&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;&lt;strong&gt;Location and Directions&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Venue: Engage Gaming, 26 North Silver Street AB10 1RL · Aberdeen&lt;/p&gt;
+
+&lt;p&gt;Directions: &lt;a href=&quot;https://www.google.co.uk/maps/place/Engage+Gaming/@57.1472976,-2.108418,17z/data=!3m1!4b1!4m5!3m4!1s0x48840e23a3284dc1:0xc44805b2e37148c0!8m2!3d57.1472947!4d-2.1062293&quot;&gt;Map showing Engage Gaming&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
+        <link>http://www.aberdeendevelopers.co.uk/july-2018-net-and-natter</link>
+        <guid isPermaLink="true">http://www.aberdeendevelopers.co.uk/july-2018-net-and-natter</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>events</category>
+        
+      </item>
     
       <item>
         <title>Jun 2017 - Richard Campbell - History of .NET</title>
@@ -470,61 +502,6 @@ Mark is a software developer based on the beautiful North Coast of Ireland. He&a
         <pubDate>Wed, 13 Jul 2016 00:00:00 +0000</pubDate>
         <link>http://www.aberdeendevelopers.co.uk/july-2016-meeting-mike-taulty</link>
         <guid isPermaLink="true">http://www.aberdeendevelopers.co.uk/july-2016-meeting-mike-taulty</guid>
-        
-        
-        <category>blog</category>
-        
-        <category>events</category>
-        
-      </item>
-    
-      <item>
-        <title>May 2016 Meeting - Kendall Miller</title>
-        <description>&lt;p&gt;Aberdeen Developers are pleased to present a talk by Kendall Miller, on Thursday 12th May 2016 at Aberdeen University&amp;rsquo;s Meston Building.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;NOTE:&lt;/strong&gt; Please take extra notice of the venue above!  Due to exams happening in our normal RGU venue, this talk will be being hosted by Aberdeen University, in the Meston Building.  Full details of the location can be found below.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;To The Cloud! How Azure helped us improve the scalability of our SaaS&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Last year we had to make a decision whether to double down with new hardware in our Colo or go another way to grow our SaaS. In this talk we&amp;rsquo;ll walk through the challenges we&amp;rsquo;ve faced moving from our own hardware to Azure including:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Taking advantage of auto-scaling to reduce costs.&lt;/li&gt;
-&lt;li&gt;Growing 100x without controlling the hardware.&lt;/li&gt;
-&lt;li&gt;When it all goes wrong and Azure falls over.&lt;/li&gt;
-&lt;li&gt;How Azure has improved the performance of our on-premises installs too&lt;/li&gt;
-&lt;/ul&gt;
-
-
-&lt;p&gt;Far from a theoretical conversation about how you could use the cloud, we&amp;rsquo;ll share real data from our production implementation, both the good and the bad. Finally, we&amp;rsquo;ll talk about where we&amp;rsquo;re going with what we&amp;rsquo;ve learned.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.eventbrite.com/e/aberdeen-developers-net-user-group-may-2016-meeting-tickets-24846287916?aff=blog&quot;&gt;&lt;img src=&quot;https://www.eventbrite.com/custombutton?eid=11987778769&quot; alt=&quot;Eventbrite - Aberdeen Developers .Net User Group - May 2016 Meeting&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Speaker Bio&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Kendall Miller is one of the founding partners of Gibraltar Software, an Independent Software Vendor (ISV) that develops &amp;amp; markets commercial applications for .NET developers. Introduced commercially in 2009, Loupe is an application logging &amp;amp; monitoring platform that is currently used by customers around the world from individual consultants through Fortune 100 companies and governments. Before starting Gibraltar Software, Kendall worked for multiple startups leading their technology development from beginning through profitability. In each case he&amp;rsquo;s focused on translating enterprise-level performance and capabilities down to smaller companies. Kendall has a B.S in Computer Engineering from the University of Illinois, Urbana-Champaign.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Agenda - Thursday, 12th May 2016&lt;/strong&gt;
-+ 1800 - 1825: Arrival and registration
-+ 1825 - 1830: Introduction
-+ 1830 - 1930: To The Cloud! How Azure helped us improve the scalability of our SaaS
-+ 1930 Onwards: Questions &amp;amp; Answers followed by Prize Draw&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Location and Directions&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Venue: Meston Building (Enter via North Entrance), University of Aberdeen, Aberdeen, AB24 3UE&lt;/p&gt;
-
-&lt;p&gt;Directions: &lt;a href=&quot;https://www.google.com/maps/d/viewer?mid=zy5sr2VnGJ2w.khFsoArRBh_Y&amp;amp;hl=en&quot;&gt;Meston Building&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Prize Draw&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic &lt;a href=&quot;http://www.aberdeendevelopers.co.uk/sponsors/&quot;&gt;sponsors&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 26 Apr 2016 00:00:00 +0000</pubDate>
-        <link>http://www.aberdeendevelopers.co.uk/may-2016-meeting-kendall-miller</link>
-        <guid isPermaLink="true">http://www.aberdeendevelopers.co.uk/may-2016-meeting-kendall-miller</guid>
         
         
         <category>blog</category>

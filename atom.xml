@@ -4,7 +4,7 @@
   <title><![CDATA[Aberdeen Developers .Net User Group]]></title>
   <link href="http://www.aberdeendevelopers.co.uk/atom.xml" rel="self"/>
   <link href="http://www.aberdeendevelopers.co.uk/"/>
-  <updated>2017-05-04T14:52:48+00:00</updated>
+  <updated>2018-07-06T18:36:17+00:00</updated>
   <id>http://www.aberdeendevelopers.co.uk/</id>
   <author>
     <name><![CDATA[gep13]]></name>
@@ -12,6 +12,32 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[July 2018 - .NET and Natter]]></title>
+    <link href="http://www.aberdeendevelopers.co.uk/july-2018-net-and-natter"/>
+    <updated>2018-07-06T00:00:00+00:00</updated>
+    <id>http://www.aberdeendevelopers.co.uk/july-2018-net-and-natter</id>
+    <content type="html"><![CDATA[<p>Aberdeen Developers are pleased to present something a little different for us. Hopefully you’ll be able to join us at Engage Gaming for our first “.NET and Natter”, a catch up and general geek out on all things .NET.</p>
+
+<p>No planned agenda for this meeting so all topics considered, hopefully we can all get involved in the conversation. So, bring along your laptop and show off your latest work, share your experience on that awesome new framework you’ve been working with, sound out those crazy ideas you have with the rest of the group, or just enjoy a beer, a burger and a catch up.</p>
+
+<p><a href="https://www.meetup.com/en-AU/Aberdeen-Developers-NET-User-Group/events/252025130/">July .NET and Natter</a></p>
+
+<p><strong>Agenda - Thursday, 19th July 2018</strong></p>
+
+<ul>
+<li>1830 - 2000: .NET and Natter</li>
+</ul>
+
+
+<p><strong>Location and Directions</strong></p>
+
+<p>Venue: Engage Gaming, 26 North Silver Street AB10 1RL · Aberdeen</p>
+
+<p>Directions: <a href="https://www.google.co.uk/maps/place/Engage+Gaming/@57.1472976,-2.108418,17z/data=!3m1!4b1!4m5!3m4!1s0x48840e23a3284dc1:0xc44805b2e37148c0!8m2!3d57.1472947!4d-2.1062293">Map showing Engage Gaming</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Jun 2017 - Richard Campbell - History of .NET]]></title>
@@ -744,48 +770,6 @@ Max Vasilyev is a Senior Developer in one of Aberdeen’s .Net development house
 <p><strong>Location and Directions</strong></p>
 
 <p>Venue: Room N346, Riverside East Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7QQ, GB</p>
-
-<p>Directions: <a href="https://maps.google.co.uk/maps?q=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,+Aberdeen,+Aberdeen+City+AB10+7QG,+GB&amp;hl=en&amp;ll=57.119317,-2.136133&amp;spn=0.004165,0.012413&amp;sll=57.746995,-4.687341&amp;sspn=8.392957,25.422363&amp;hq=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,&amp;hnear=AB10+7QG,+United+Kingdom&amp;t=m&amp;z=17&amp;iwloc=A">Map showing Garthdee Campus</a></p>
-
-<p><strong>Prize Draw</strong></p>
-
-<p>All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[September 2015 Meeting #1 - Colin Mackay]]></title>
-    <link href="http://www.aberdeendevelopers.co.uk/september-2015-meeting-1-colin-mackay"/>
-    <updated>2015-09-04T00:00:00+00:00</updated>
-    <id>http://www.aberdeendevelopers.co.uk/september-2015-meeting-1-colin-mackay</id>
-    <content type="html"><![CDATA[<p>Aberdeen Developers are pleased to present a talk by Colin Mackay, on Thursday 10th September 2015 at the Robert Gordon University.</p>
-
-<hr />
-
-<p><strong>Continuous Delivery</strong></p>
-
-<p>Manually delivery software can be a time consuming and error prone affair. Why have a valuable person sit and manually do this? They&rsquo;re bored, and as a result they&rsquo;re not paying full attention and mistakes happen. It isn&rsquo;t repeatable so all those deployments to the testing environment count for nothing when it all goes horribly wrong when deploying to the production environment. There must be a better way of delivering software.</p>
-
-<p>There is!</p>
-
-<p>Amazon reportedly deploys to production every few seconds, GitHub do it several times a day. What makes this possible is a continuous delivery pipeline - a set of processes and a culture of development that ensure that get you to the point where every commit to your source repository is a potential for production system.</p>
-
-<p>Continuous Delivery aims to remove the issues with building, testing and ultimately deploying to production in a safe, repeatable, well tested and highly confident way. I aim to show you how to get started on this journey. It isn&rsquo;t as daunting as it first looks.</p>
-
-<p><a href="http://www.eventbrite.com/e/aberdeen-developers-net-user-group-september-2015-meeting-1-tickets-18308101023?aff=blog"><img src="https://www.eventbrite.com/custombutton?eid=11987778769" alt="Eventbrite - Aberdeen Developers .Net User Group - September 2015 Meeting #1" /></a></p>
-
-<p><strong>Speaker Bio</strong>
-Colin Mackay is a software developer, former MVP, and speaker at user groups and previous DDD events.</p>
-
-<p><strong>Agenda - Thursday,  10th September 2015</strong>
-+ 1800 - 1825: Arrival and registration
-+ 1825 - 1830: Introduction
-+ 1830 - 1930: Continuous Delivery
-+ 1930 Onwards: Questions &amp; Answers followed by Prize Draw</p>
-
-<p><strong>Location and Directions</strong></p>
-
-<p>Venue: Room N310, Riverside East Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7QQ, GB</p>
 
 <p>Directions: <a href="https://maps.google.co.uk/maps?q=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,+Aberdeen,+Aberdeen+City+AB10+7QG,+GB&amp;hl=en&amp;ll=57.119317,-2.136133&amp;spn=0.004165,0.012413&amp;sll=57.746995,-4.687341&amp;sspn=8.392957,25.422363&amp;hq=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,&amp;hnear=AB10+7QG,+United+Kingdom&amp;t=m&amp;z=17&amp;iwloc=A">Map showing Garthdee Campus</a></p>
 
