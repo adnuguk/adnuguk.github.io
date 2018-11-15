@@ -15,7 +15,7 @@ Aberdeen Developers are pleased to present AI for Fun And Profit, a talk from Ga
 
 **AI for Fun And Profit**
 
-"How I Made £500 Betting During Royal Ascot Week And What That Can Teach You About AI" should be the title for November's meeting but due to it's vebosity it's been shorted for the blog etc.
+"How I Made £500 Betting During Royal Ascot Week And What That Can Teach You About AI" should be the title for November's meeting but due to it's verbosity it's been shorted for the blog etc.
 
 We'll have Gary Short introduce us to some serious AI concepts and demonstrate how to build a model used to predict which horse will win a race explaining the weaknesses along with techniques to mitigate against them along the way.
 
