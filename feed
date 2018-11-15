@@ -5,9 +5,58 @@
     <description>Website for the meetings and events hosted by the Aberdeen Developers .Net User Group</description>
     <link>http://www.aberdeendevelopers.co.uk/</link>
     <atom:link href="http://www.aberdeendevelopers.co.uk/feed" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 06 Jul 2018 18:36:17 +0000</pubDate>
-    <lastBuildDate>Fri, 06 Jul 2018 18:36:17 +0000</lastBuildDate>
+    <pubDate>Thu, 15 Nov 2018 12:49:48 +0000</pubDate>
+    <lastBuildDate>Thu, 15 Nov 2018 12:49:48 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Nov 2018 - Gary Short - AI for Fun And Profit</title>
+        <description>&lt;p&gt;Aberdeen Developers are pleased to present AI for Fun And Profit, a talk from Gary Short. Hopefull you&amp;rsquo;ll be able to join us on Thursday 22nd November at the Robert Gordon University.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;AI for Fun And Profit&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;How I Made £500 Betting During Royal Ascot Week And What That Can Teach You About AI&amp;rdquo; should be the title for November&amp;rsquo;s meeting but due to it&amp;rsquo;s vebosity it&amp;rsquo;s been shorted for the blog etc.&lt;/p&gt;
+
+&lt;p&gt;We&amp;rsquo;ll have Gary Short introduce us to some serious AI concepts and demonstrate how to build a model used to predict which horse will win a race explaining the weaknesses along with techniques to mitigate against them along the way.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.meetup.com/Aberdeen-Developers-NET-User-Group/events/256043638/&quot;&gt;AI for Fun And Profit&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Speaker Bio&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Gary Short is a Data Solution Architect for Microsoft. He specialises in machine learning and &amp;ldquo;big data&amp;rdquo; on the Azure Platform, but has an interest in data science, in all forms, especially computational linguistics and social network analysis. Gary also loves creating clickbait headlines in his spare time.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Agenda - Thursday, 22nd November 2018&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;1800 - 1825: Arrival and registration&lt;/li&gt;
+&lt;li&gt;1825 - 1830: Introduction&lt;/li&gt;
+&lt;li&gt;1830 - 1930: AI for Fun And Profit&lt;/li&gt;
+&lt;li&gt;1930 - 2000: Q&amp;amp;A and Prize Draw&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;&lt;strong&gt;Location and Directions&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Venue: Room N204, The Sir Ian Wood Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7GJ, GB&lt;/p&gt;
+
+&lt;p&gt;Directions: &lt;a href=&quot;https://www.google.co.uk/maps/place/The+Sir+Ian+Wood+Building,+Garthdee+Rd,+Aberdeen+AB10+7GJ&quot;&gt;Map showing Garthdee Campus&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Prize Draw&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic &lt;a href=&quot;http://www.aberdeendevelopers.co.uk/sponsors/&quot;&gt;sponsors&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
+        <link>http://www.aberdeendevelopers.co.uk/nov-2018-gary-short-ai-for-fun-and-profit</link>
+        <guid isPermaLink="true">http://www.aberdeendevelopers.co.uk/nov-2018-gary-short-ai-for-fun-and-profit</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>events</category>
+        
+      </item>
     
       <item>
         <title>July 2018 - .NET and Natter</title>
@@ -447,61 +496,6 @@ Mark is a software developer based on the beautiful North Coast of Ireland. He&a
         <pubDate>Wed, 03 Aug 2016 00:00:00 +0000</pubDate>
         <link>http://www.aberdeendevelopers.co.uk/august-2016-meeting-steven-chalmers</link>
         <guid isPermaLink="true">http://www.aberdeendevelopers.co.uk/august-2016-meeting-steven-chalmers</guid>
-        
-        
-        <category>blog</category>
-        
-        <category>events</category>
-        
-      </item>
-    
-      <item>
-        <title>July 2016 Meeting - Mike Taulty</title>
-        <description>&lt;p&gt;Aberdeen Developers are pleased to present a talk by Mike Taulty, on Thursday 21th July 2016 at the Robert Gordon University.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;A Platform for More Personal Computing?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Salt and pepper. Fish and chips. Starsky and Hutch. Windows and PC.&lt;/p&gt;
-
-&lt;p&gt;Just as Windows became intrinsically linked with personal computing, Microsoft is working to make that just-over-the-horizon leap towards natural interaction and ‘More Personal Computing’ (MPC). It’s already surfacing today in technologies like ‘Cortana’ and ‘Windows Hello’.&lt;/p&gt;
-
-&lt;p&gt;In this session, we’ll take a demo-based approach to look at some of the MPC technologies that Windows developers already have available to them in the Universal Windows Platform and some additional technologies out in the cloud under the banner of ‘Microsoft Cognitive Services’&lt;/p&gt;
-
-&lt;p&gt;We’ll look at some things with pens, touch, speech, facial recognition, speaker identification and we’ll see what the Windows 10 app platform has to offer developers building modern apps with an ever-more personal touch.&lt;/p&gt;
-
-&lt;p&gt;You should expect Visual Studio, C# code and XAML UI and most of the talk will build up an application from scratch adding features as we go along.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.eventbrite.com/e/aberdeen-developers-net-user-group-july-2016-meeting-tickets-26418169456?aff=blog&quot;&gt;&lt;img src=&quot;https://www.eventbrite.com/custombutton?eid=11987778769&quot; alt=&quot;Eventbrite - Aberdeen Developers .Net User Group - July 2016 Meeting&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Speaker Bio&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Mike Taulty works in the Developer and Platform Group at Microsoft in the UK where he has spent the past few years helping developers understand and get the best from the Microsoft platform. Prior to this, Mike spent 3 years with Microsoft Consulting Services as a consultant on developer technologies.&lt;/p&gt;
-
-&lt;p&gt;Before joining Microsoft, Mike spent the previous 9 years working as a software developer for a number of enterprises, consultancies and software vendors working with a variety of operating system, client, communication and server technologies. You can find more of a complete career history over on &lt;a href=&quot;http://uk.linkedin.com/in/mtaulty&quot;&gt;LinkedIn&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Mike holds a BSc Hons (1st Class) in Computer Science from the University of Leeds.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Agenda - Thursday, 21th July 2016&lt;/strong&gt;
-+ 1800 - 1825: Arrival and registration
-+ 1825 - 1830: Introduction
-+ 1830 - 1930: A Platform for More Personal Computing?
-+ 1930 - 2000: Q&amp;amp;A and Prize Draw&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Location and Directions&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Venue: Room N309, Riverside East Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7QQ, GB&lt;/p&gt;
-
-&lt;p&gt;Directions: &lt;a href=&quot;https://maps.google.co.uk/maps?q=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,+Aberdeen,+Aberdeen+City+AB10+7QG,+GB&amp;amp;hl=en&amp;amp;ll=57.119317,-2.136133&amp;amp;spn=0.004165,0.012413&amp;amp;sll=57.746995,-4.687341&amp;amp;sspn=8.392957,25.422363&amp;amp;hq=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,&amp;amp;hnear=AB10+7QG,+United+Kingdom&amp;amp;t=m&amp;amp;z=17&amp;amp;iwloc=A&quot;&gt;Map showing Garthdee Campus&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Prize Draw&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic &lt;a href=&quot;http://www.aberdeendevelopers.co.uk/sponsors/&quot;&gt;sponsors&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 13 Jul 2016 00:00:00 +0000</pubDate>
-        <link>http://www.aberdeendevelopers.co.uk/july-2016-meeting-mike-taulty</link>
-        <guid isPermaLink="true">http://www.aberdeendevelopers.co.uk/july-2016-meeting-mike-taulty</guid>
         
         
         <category>blog</category>
