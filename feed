@@ -5,8 +5,8 @@
     <description>Website for the meetings and events hosted by the Aberdeen Developers .Net User Group</description>
     <link>http://www.aberdeendevelopers.co.uk/</link>
     <atom:link href="http://www.aberdeendevelopers.co.uk/feed" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 15 Nov 2018 12:49:48 +0000</pubDate>
-    <lastBuildDate>Thu, 15 Nov 2018 12:49:48 +0000</lastBuildDate>
+    <pubDate>Thu, 15 Nov 2018 12:57:33 +0000</pubDate>
+    <lastBuildDate>Thu, 15 Nov 2018 12:57:33 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -17,7 +17,7 @@
 
 &lt;p&gt;&lt;strong&gt;AI for Fun And Profit&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&amp;ldquo;How I Made £500 Betting During Royal Ascot Week And What That Can Teach You About AI&amp;rdquo; should be the title for November&amp;rsquo;s meeting but due to it&amp;rsquo;s vebosity it&amp;rsquo;s been shorted for the blog etc.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;How I Made £500 Betting During Royal Ascot Week And What That Can Teach You About AI&amp;rdquo; should be the title for November&amp;rsquo;s meeting but due to it&amp;rsquo;s verbosity it&amp;rsquo;s been shorted for the blog etc.&lt;/p&gt;
 
 &lt;p&gt;We&amp;rsquo;ll have Gary Short introduce us to some serious AI concepts and demonstrate how to build a model used to predict which horse will win a race explaining the weaknesses along with techniques to mitigate against them along the way.&lt;/p&gt;
 
