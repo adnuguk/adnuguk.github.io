@@ -1,0 +1,18 @@
+System.Globalization.CultureInfo.DefaultThreadCurrentCulture = System.Globalization.CultureInfo.CreateSpecificCulture("en-GB");
+Settings[Keys.Host] = "www.aberdeendevelopers.co.uk";
+Settings["Title"] = "Aberdeen Developers .Net User Group";
+Settings["Description"] = "Aberdeen Developers .Net User Group";
+Settings["Intro"] = "";
+Settings[BlogKeys.PostsPath] = "blog";
+Settings[Keys.LinkLowercase] = true;
+
+Pipelines.Add("Feed2",
+    Documents(Blog.BlogPosts),
+    GenerateFeeds().WithAtomPath(_ => "feed/index.xml"),
+    WriteFiles()
+);
+Pipelines.Add("Feed3",
+    Documents(Blog.BlogPosts),
+    GenerateFeeds().WithAtomPath(_ => "atom.xml"),
+    WriteFiles()
+);
