@@ -6,7 +6,6 @@ slug: job-aberdeenaberdeenshire-area
 title: 'Job: Aberdeen/Aberdeenshire area'
 wordpress_id: 52976403
 categories:
-- Blog
 - Job Vacancy
 tags:
 - Aberdeen

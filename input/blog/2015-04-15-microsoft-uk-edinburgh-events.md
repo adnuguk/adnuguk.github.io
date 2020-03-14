@@ -6,7 +6,6 @@ author: nyami
 keywords: ""
 description: Microsoft UK Edinburgh April 2015 Events
 categories:
-  - blog
 ---
 
 Microsoft UK are running a couple of one day events in Edinburgh this month (April), these events offer hands-on sessions guided by experts and are a great place to start with the basics and an opportunity to pick the brains of the experts.

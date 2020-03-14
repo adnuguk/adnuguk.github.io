@@ -6,7 +6,6 @@ slug: adnuguk-november-2011-meeting
 title: '#ADNUGUK – November 2011 Meeting'
 wordpress_id: 69
 categories:
-- Blog
 - Events
 tags:
 - Gill Cleeren

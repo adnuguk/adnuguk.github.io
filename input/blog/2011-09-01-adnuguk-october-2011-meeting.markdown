@@ -6,7 +6,6 @@ slug: adnuguk-october-2011-meeting
 title: '#ADNUGUK – October 2011 Meeting'
 wordpress_id: 9998117
 categories:
-- Blog
 - Events
 tags:
 - Mark Rendle

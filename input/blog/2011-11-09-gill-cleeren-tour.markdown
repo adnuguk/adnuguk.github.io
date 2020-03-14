@@ -6,7 +6,6 @@ slug: gill-cleeren-tour
 title: Gill Cleeren Tour
 wordpress_id: 52976388
 categories:
-- Blog
 - Tours
 tags:
 - Gill Cleeren

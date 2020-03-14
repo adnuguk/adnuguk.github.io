@@ -6,7 +6,6 @@ slug: adnuguk-march-2013-meeting
 title: ADNUGUK - March 2013 Meeting
 wordpress_id: 2762
 categories:
-- Blog
 - Events
 tags:
 - Chocolatey

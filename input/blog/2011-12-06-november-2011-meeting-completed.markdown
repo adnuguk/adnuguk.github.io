@@ -6,7 +6,6 @@ slug: november-2011-meeting-completed
 title: November 2011 Meeting – Completed
 wordpress_id: 52976384
 categories:
-- Blog
 - Event Feedback
 - Event Material
 tags:

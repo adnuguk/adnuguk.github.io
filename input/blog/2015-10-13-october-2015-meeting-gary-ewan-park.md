@@ -4,7 +4,6 @@ author: Nyami
 keywords: ""
 description: ""
 categories:
-  - blog
   - events
 Published: 13/10/2015
 title: "October 2015 Meeting - Gary Ewan Park"

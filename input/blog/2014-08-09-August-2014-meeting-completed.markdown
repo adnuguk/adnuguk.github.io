@@ -5,7 +5,6 @@ layout: post
 slug: august-2014-meeting-completed
 title: August 2014 Meeting - Shawn Wildermuth - Completed
 categories:
-- Blog
 - Event Feedback
 - Event Material
 tags:

@@ -6,7 +6,6 @@ slug: july-2014-meeting-nik-molnar-anthony-van-der-hoorn
 title: July 2014 Meeting - Nik Molnar and Anthony van der Hoorn
 wordpress_id: 52976706
 categories:
-- Blog
 - Events
 ---
 

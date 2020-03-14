@@ -4,7 +4,6 @@ author: Nyami
 Published: 09/02/2017
 title: March 2017 - Mark Allan
 categories:
-  - blog
   - events
 ---
 Aberdeen Developers are pleased to present our first meeting in March where we will be joined by Mark Allan, on Wednesday 8th March 2017 at the Robert Gordon University.

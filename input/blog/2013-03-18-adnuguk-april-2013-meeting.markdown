@@ -6,7 +6,6 @@ slug: adnuguk-april-2013-meeting
 title: ADNUGUK - April 2013 Meeting
 wordpress_id: 2761
 categories:
-- Blog
 - Events
 tags:
 - Gill Cleeren

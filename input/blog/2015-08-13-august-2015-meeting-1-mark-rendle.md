@@ -6,7 +6,6 @@ author: nyami
 keywords: ""
 description: ""
 categories:
-  - blog
   - event
 ---
 

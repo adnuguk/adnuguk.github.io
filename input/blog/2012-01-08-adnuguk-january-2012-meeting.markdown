@@ -6,7 +6,6 @@ slug: adnuguk-january-2012-meeting
 title: ADNUGUK – January 2012 Meeting
 wordpress_id: 719
 categories:
-- Blog
 - Events
 tags:
 - HTTP Caching

@@ -6,7 +6,6 @@ slug: scottish-user-group-events-for-december-2011
 title: Scottish User Group Events for December 2011
 wordpress_id: 52976387
 categories:
-- Blog
 - Monthly Event Rollup
 tags:
 - Events

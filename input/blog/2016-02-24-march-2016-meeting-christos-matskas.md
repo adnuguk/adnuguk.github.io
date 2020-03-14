@@ -4,7 +4,6 @@ author: gep13
 keywords: ""
 description: "March 2016 Meeting - Christos Matskas"
 categories:
-  - blog
   - events
 Published: 24/02/2016
 title: "March 2016 Meeting - Christos Matskas"

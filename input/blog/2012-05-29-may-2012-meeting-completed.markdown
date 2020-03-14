@@ -6,7 +6,6 @@ slug: may-2012-meeting-completed
 title: May 2012 Meeting – Completed
 wordpress_id: 2771
 categories:
-- Blog
 - Event Feedback
 - Event Material
 tags:

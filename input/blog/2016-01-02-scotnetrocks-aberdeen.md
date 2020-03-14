@@ -4,7 +4,6 @@ author: nyami
 keywords: ""
 description: "ScotNetRocks! Aberdeen"
 categories:
-  - blog
   - events
 Published: 02/01/2016
 title: "ScotNetRocks! Aberdeen"

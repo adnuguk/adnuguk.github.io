@@ -6,7 +6,6 @@ slug: adnuguk-august-2012-meeting
 title: ADNUGUK–August 2012 Meeting
 wordpress_id: 565
 categories:
-- Blog
 - Events
 tags:
 - Colin Gemmell

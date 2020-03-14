@@ -6,7 +6,6 @@ author: nyami
 keywords: ""
 description: June 2015 Meeting
 categories:
-  - blog
   - event
 ---
 

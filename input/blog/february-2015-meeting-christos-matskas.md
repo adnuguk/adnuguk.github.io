@@ -3,7 +3,6 @@ Title: "February 2015 Meeting - Christos Matskas"
 Published: 09/01/2015
 Author: nyami
 Tags:
-  - Blog
   - Events
 ---
 

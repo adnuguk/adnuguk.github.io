@@ -4,7 +4,6 @@ author: nyami
 keywords: ""
 description: "September 2015 Meeting #2 - Max Vasilyev"
 categories:
-  - blog
   - events
 Published: 08/09/2015
 title: "September 2015 Meeting #2 - Max Vasilyev"

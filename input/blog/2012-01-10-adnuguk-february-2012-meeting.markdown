@@ -6,7 +6,6 @@ slug: adnuguk-february-2012-meeting
 title: ADNUGUK – February 2012 Meeting
 wordpress_id: 92
 categories:
-- Blog
 - Events
 tags:
 - Matt Lacey

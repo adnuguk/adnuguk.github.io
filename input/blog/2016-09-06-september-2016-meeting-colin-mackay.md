@@ -6,7 +6,6 @@ description: Description
 Published: 06/09/2016
 title: September 2016 Meeting - Colin Mackay
 categories:
-  - blog
   - events
 ---
 Aberdeen Developers are pleased to present a talk by Colin Mackay, on Thursday 15th September 2016 at the Robert Gordon University.

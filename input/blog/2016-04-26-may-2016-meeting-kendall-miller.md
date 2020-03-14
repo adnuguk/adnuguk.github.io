@@ -4,7 +4,6 @@ author: Nyami
 keywords: ""
 description: ""
 categories:
-  - blog
   - events
 Published: 26/04/2016
 title: "May 2016 Meeting - Kendall Miller"

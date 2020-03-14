@@ -6,7 +6,6 @@ slug: adnuguk-december-2011-meeting
 title: ADNUGUK–December 2011 Meeting
 wordpress_id: 29
 categories:
-- Blog
 - Events
 tags:
 - Craig Murphy

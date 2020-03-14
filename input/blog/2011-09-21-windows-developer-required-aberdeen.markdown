@@ -6,7 +6,6 @@ slug: windows-developer-required-aberdeen
 title: Windows Developer Required – Aberdeen
 wordpress_id: 773
 categories:
-- Blog
 - Job Vacancy
 tags:
 - Aberdeen

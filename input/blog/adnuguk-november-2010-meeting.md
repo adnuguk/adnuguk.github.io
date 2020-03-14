@@ -3,7 +3,6 @@ Title: '#ADNUGUK – November 2010 Meeting'
 Published: 2010-10-29 18:44:00+00:00
 Author: gep13
 Tags:
-- Blog
 - Events
 ---
 

@@ -6,7 +6,6 @@ author: gep13
 keywords: Keywords
 description: "September Meeting - Colin Mackay - Completed"
 categories:
-  - Blog
   - event material
 ---
 

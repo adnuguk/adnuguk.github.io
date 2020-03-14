@@ -6,7 +6,6 @@ author: gep13
 keywords: Keywords
 description: "July Meeting - Matt Ellis - Completed"
 categories:
-  - Blog
   - event material
 ---
 

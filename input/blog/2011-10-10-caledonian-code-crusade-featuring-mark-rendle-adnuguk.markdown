@@ -6,7 +6,6 @@ slug: caledonian-code-crusade-featuring-mark-rendle-adnuguk
 title: 'Caledonian Code Crusade featuring Mark Rendle – #ADNUGUK'
 wordpress_id: 627
 categories:
-- Blog
 - Tours
 tags:
 - Caledonian Code Crusade

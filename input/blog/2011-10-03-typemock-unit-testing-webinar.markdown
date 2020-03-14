@@ -6,7 +6,6 @@ slug: typemock-unit-testing-webinar
 title: Typemock Unit Testing Webinar
 wordpress_id: 540332
 categories:
-- Blog
 - Webinars
 tags:
 - Isolator

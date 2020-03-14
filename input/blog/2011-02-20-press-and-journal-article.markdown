@@ -6,7 +6,6 @@ slug: press-and-journal-article
 title: Press and Journal Article
 wordpress_id: 52976396
 categories:
-- Blog
 - Press Releases
 ---
 

@@ -6,7 +6,6 @@ slug: july-2013-meeting-bill-wagner-talking-about-async-await
 title: July 2013 Meeting - Bill Wagner talking about Async/Await
 wordpress_id: 52976634
 categories:
-- Blog
 - Events
 tags:
 - Async

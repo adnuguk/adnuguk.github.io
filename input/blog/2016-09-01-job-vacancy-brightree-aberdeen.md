@@ -7,7 +7,6 @@ Published: 01/09/2016
 title: Job Vacancy - Brightree - Aberdeen
 categories:
   - job vacancy
-  - blog
 ---
 Aberdeen Developers have been asked to promote the following job vacancy at Brightree in Aberdeen. If you are interested in the position, please contact douglas dot cameron at aberdeendevelopers dot co dot uk (replacing the at and dot with @ and . respectively, trying to stop those nasty spiders getting my email address). Details of the role are as follows:
 

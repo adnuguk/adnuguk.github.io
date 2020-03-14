@@ -6,7 +6,6 @@ slug: microsoft-developer-camps-in-edinburgh
 title: Microsoft Developer Camps in Edinburgh
 wordpress_id: 52976399
 categories:
-- Blog
 - Microsoft Events
 tags:
 - Edinburgh

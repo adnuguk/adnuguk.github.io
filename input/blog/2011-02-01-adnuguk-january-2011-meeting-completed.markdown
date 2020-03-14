@@ -6,7 +6,6 @@ slug: adnuguk-january-2011-meeting-completed
 title: '#ADNUGUK – January 2011 Meeting - Completed'
 wordpress_id: 91746
 categories:
-- Blog
 - Event Material
 ---
 

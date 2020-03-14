@@ -6,7 +6,6 @@ slug: august-2014-meeting-shawn-wildermuth
 title: August 2014 Meeting - Shawn Wildermuth
 wordpress_id: 52976708
 categories:
-- Blog
 - Events
 ---
 

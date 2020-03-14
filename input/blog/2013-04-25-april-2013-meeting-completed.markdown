@@ -6,7 +6,6 @@ slug: april-2013-meeting-completed
 title: April 2013 Meeting - Completed
 wordpress_id: 52976595
 categories:
-- Blog
 - Event Feedback
 - Event Material
 tags:

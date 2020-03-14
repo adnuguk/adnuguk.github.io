@@ -6,7 +6,6 @@ slug: february-2012-meeting-completed
 title: February 2012 Meeting – Completed
 wordpress_id: 493
 categories:
-- Blog
 - Event Feedback
 - Event Material
 tags:

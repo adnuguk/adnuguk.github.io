@@ -4,7 +4,6 @@ author: Nyami
 Published: 11/10/2016
 title: 'October 2016 Meeting - Keith Davidson'
 categories:
-  - blog
   - events
 ---
 Aberdeen Developers are pleased to present a talk by Keith Davidson, on Thursday 20th October 2016 at the Robert Gordon University.

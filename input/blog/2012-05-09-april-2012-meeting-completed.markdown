@@ -6,7 +6,6 @@ slug: april-2012-meeting-completed
 title: April 2012 Meeting – Completed
 wordpress_id: 3735
 categories:
-- Blog
 - Event Feedback
 - Event Material
 tags:

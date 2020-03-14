@@ -6,7 +6,6 @@ slug: uk-windows-azure-conference-2012
 title: UK Windows Azure Conference 2012
 wordpress_id: 2770
 categories:
-- Blog
 - Microsoft Events
 tags:
 - Conference 2012

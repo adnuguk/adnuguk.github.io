@@ -4,7 +4,6 @@ author: nyami
 keywords: ""
 description: "April 2016 Meeting - Gary Ewan Park"
 categories:
-  - blog
   - events
 Published: 11/04/2016
 title: "April 2016 Meeting - Gary Ewan Park"

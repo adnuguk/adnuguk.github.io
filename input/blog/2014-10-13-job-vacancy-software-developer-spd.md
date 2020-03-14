@@ -6,7 +6,6 @@ title: "Job Vacancy - Software Developer - SPD"
 keywords: "Job Vacancy, Aberdeen, SPD"
 description: "A job vacancy is available working for SPD (part of Petrofac) in Aberdeen as a Software Developer, if you are interested, please visit link"
 categories:
-  - Blog
   - Job Vacancy
 tags:
   - SPD

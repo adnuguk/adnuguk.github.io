@@ -6,7 +6,6 @@ slug: job-vacancy-senergy-software-aberdeen
 title: Job Vacancy - Senergy Software - Aberdeen
 wordpress_id: 52976610
 categories:
-- Blog
 - Job Vacancy
 tags:
 - Aberdeen

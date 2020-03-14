@@ -6,7 +6,6 @@ slug: job-vacancy-evoke-it-aberdeen
 title: 'Job Vacancy: Evoke IT, Aberdeen'
 wordpress_id: 7
 categories:
-- Blog
 - Job Vacancy
 tags:
 - Aberdeen

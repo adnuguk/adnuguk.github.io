@@ -6,7 +6,6 @@ slug: october-2011-meeting-completed
 title: October 2011 Meeting - Completed
 wordpress_id: 2387
 categories:
-- Blog
 - Event Feedback
 - Event Material
 tags:

@@ -6,7 +6,6 @@ slug: xaml-on-sl5-wp7-win8-and-wpf-training-course
 title: XAML on SL5, WP7, Win8 and WPF Training Course
 wordpress_id: 3738
 categories:
-- Blog
 - Training
 tags:
 - Metro

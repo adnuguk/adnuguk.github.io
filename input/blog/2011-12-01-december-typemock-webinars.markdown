@@ -6,7 +6,6 @@ slug: december-typemock-webinars
 title: December Typemock Webinars
 wordpress_id: 52976385
 categories:
-- Blog
 - Online Events
 tags:
 - TypeMock

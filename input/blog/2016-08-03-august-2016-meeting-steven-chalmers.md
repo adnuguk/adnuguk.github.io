@@ -6,7 +6,6 @@ description: Description
 Published: 03/08/2016
 title: August 2016 Meeting - Steven Chalmers
 categories:
-  - blog
   - events
 ---
 Aberdeen Developers are pleased to present a talk by Steven Chalmers, on Thursday 18th August 2016 at the Robert Gordon University.

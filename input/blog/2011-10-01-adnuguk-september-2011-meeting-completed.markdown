@@ -6,7 +6,6 @@ slug: adnuguk-september-2011-meeting-completed
 title: '#ADNUGUK – September 2011 Meeting – Completed'
 wordpress_id: 39
 categories:
-- Blog
 - Event Feedback
 tags:
 - Phil Leggetter

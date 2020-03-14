@@ -6,7 +6,6 @@ slug: job-vacancy-aberdeen-net-developer
 title: 'Job Vacancy: Aberdeen .Net Developer'
 wordpress_id: 2766
 categories:
-- Blog
 - Job Vacancy
 tags:
 - .Net Developer

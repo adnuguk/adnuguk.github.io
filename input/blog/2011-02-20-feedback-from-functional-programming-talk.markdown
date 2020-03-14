@@ -6,7 +6,6 @@ slug: feedback-from-functional-programming-talk
 title: Feedback from Functional Programming Talk
 wordpress_id: 52976395
 categories:
-- Blog
 - Event Feedback
 ---
 

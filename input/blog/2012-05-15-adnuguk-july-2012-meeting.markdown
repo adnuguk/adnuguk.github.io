@@ -6,7 +6,6 @@ slug: adnuguk-july-2012-meeting
 title: ADNUGUK – July 2012 Meeting
 wordpress_id: 2772
 categories:
-- Blog
 - Events
 tags:
 - ASP.NET

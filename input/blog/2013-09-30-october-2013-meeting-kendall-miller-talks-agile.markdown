@@ -6,7 +6,6 @@ slug: october-2013-meeting-kendall-miller-talks-agile
 title: October 2013 Meeting - Kendall Miller talks about Agile
 wordpress_id: 52976656
 categories:
-- Blog
 - Events
 tags:
 - Agile

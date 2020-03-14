@@ -6,7 +6,6 @@ slug: business-partner-opportunity-in-aberdeen
 title: Business Partner Opportunity in Aberdeen
 wordpress_id: 52976389
 categories:
-- Blog
 - Job Vacancy
 tags:
 - Aberdeen

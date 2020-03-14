@@ -6,7 +6,6 @@ slug: adnuguk-february-2013-meeting
 title: ADNUGUK - February 2013 Meeting
 wordpress_id: 2764
 categories:
-- Blog
 - Events
 tags:
 - Seb Rose

@@ -6,7 +6,6 @@ slug: consultant-job-opportunity-aberdeen
 title: Consultant Job Opportunity – Aberdeen
 wordpress_id: 9
 categories:
-- Blog
 - Job Vacancy
 tags:
 - Aberdeen

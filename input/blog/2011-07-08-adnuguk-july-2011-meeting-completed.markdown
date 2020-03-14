@@ -6,7 +6,6 @@ slug: adnuguk-july-2011-meeting-completed
 title: '#ADNUGUK – July 2011 Meeting - Completed'
 wordpress_id: 52976393
 categories:
-- Blog
 - Event Feedback
 - Event Material
 tags:

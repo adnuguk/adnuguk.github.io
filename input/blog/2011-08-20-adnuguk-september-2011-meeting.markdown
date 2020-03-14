@@ -6,7 +6,6 @@ slug: adnuguk-september-2011-meeting
 title: '#ADNUGUK – September 2011 Meeting'
 wordpress_id: 52976391
 categories:
-- Blog
 - Events
 tags:
 - Meetings

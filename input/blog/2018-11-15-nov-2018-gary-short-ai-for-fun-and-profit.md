@@ -4,7 +4,6 @@ author: nyami
 Published: 15/12/2018
 title: Nov 2018 - Gary Short - AI for Fun And Profit
 categories:
-  - blog
   - events
 ---
 Aberdeen Developers are pleased to present AI for Fun And Profit, a talk from Gary Short. Hopefull you'll be able to join us on Thursday 22nd November at the Robert Gordon University.

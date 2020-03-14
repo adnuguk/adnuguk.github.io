@@ -4,7 +4,6 @@ author: nyami
 keywords: Keywords
 description: "September 2015 Meeting #1 - Colin Mackay"
 categories:
-  - blog
   - events
 Published: 04/09/2015
 title: "September 2015 Meeting #1 - Colin Mackay"

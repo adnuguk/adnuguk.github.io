@@ -6,7 +6,6 @@ slug: job-vacancy-net-developer-businessport-aberdeen
 title: Job Vacancy - .Net Developer at BusinessPort - Aberdeen
 wordpress_id: 52976692
 categories:
-- Blog
 - Job Vacancy
 tags:
 - Aberdeen

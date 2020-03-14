@@ -6,7 +6,6 @@ slug: november-2013-meeting-max-vasilyev-talks-unit-testing
 title: November 2013 Meeting - Max Vasilyev talks about Unit Testing
 wordpress_id: 52976684
 categories:
-- Blog
 - Events
 tags:
 - Max Vasilyev

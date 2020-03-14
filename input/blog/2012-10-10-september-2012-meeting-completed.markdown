@@ -6,7 +6,6 @@ slug: september-2012-meeting-completed
 title: September 2012 Meeting – Completed
 wordpress_id: 2767
 categories:
-- Blog
 - Event Feedback
 - Event Material
 tags:

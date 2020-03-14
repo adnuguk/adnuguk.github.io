@@ -6,7 +6,6 @@ slug: adnuguk-november-2012-meeting
 title: ADNUGUK - November 2012 Meeting
 wordpress_id: 805
 categories:
-- Blog
 - Events
 tags:
 - backbone.js

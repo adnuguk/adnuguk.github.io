@@ -6,7 +6,6 @@ description: Description
 Published: 13/07/2016
 title: July 2016 Meeting - Mike Taulty
 categories:
-  - blog
   - events
 ---
 Aberdeen Developers are pleased to present a talk by Mike Taulty, on Thursday 21th July 2016 at the Robert Gordon University.

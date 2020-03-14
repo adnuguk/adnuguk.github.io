@@ -6,7 +6,6 @@ slug: scottish-meetup-network
 title: Scottish Meetup Network
 wordpress_id: 3739
 categories:
-- Blog
 - Events
 tags:
 - Scotland

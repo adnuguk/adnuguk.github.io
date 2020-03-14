@@ -6,7 +6,6 @@ slug: microsoft-uk-tech-days-and-it-pro-camps
 title: Microsoft UK Tech.Days and IT Pro Camps
 wordpress_id: 3737
 categories:
-- Blog
 - Microsoft Events
 tags:
 - Events

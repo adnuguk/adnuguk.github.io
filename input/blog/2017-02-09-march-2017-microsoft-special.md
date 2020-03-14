@@ -4,7 +4,6 @@ author: nyami
 Published: 09/02/2017
 title: March 2017 - Microsoft Special
 categories:
-  - blog
   - events
 ---
 Aberdeen Developers are pleased to present a Microsoft special meeting, on Thursday 23rd March 2017 at the Robert Gordon University. We're joined by Martin Kearn and Martin Beeby who are both evangelists from Microsoft. The Martin's will cover 4 topics including the future of the web, Machine Learning, Document DB and Conversation-as-a-platform (bots). The focus will be on general technology so this event will be suitable for .net developers and folks on other stacks. We're hoping for a full house to make the most of this one-off special event.

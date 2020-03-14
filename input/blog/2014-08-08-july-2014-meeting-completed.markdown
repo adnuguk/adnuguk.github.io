@@ -5,7 +5,6 @@ layout: post
 slug: july-2014-meeting-completed
 title: July 2014 Meeting - Anthony and Nik - Completed
 categories:
-- Blog
 - Event Feedback
 - Event Material
 tags:

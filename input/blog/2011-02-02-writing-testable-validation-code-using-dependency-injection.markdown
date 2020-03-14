@@ -7,7 +7,6 @@ title: Writing Testable Validation Code Using Dependency Injection
 wordpress_id: 988
 categories:
 - Articles
-- Blog
 tags:
 - Dependency Injection
 - MVC

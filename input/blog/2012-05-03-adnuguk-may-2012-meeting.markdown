@@ -6,7 +6,6 @@ slug: adnuguk-may-2012-meeting
 title: ADNUGUK – May 2012 Meeting
 wordpress_id: 3736
 categories:
-- Blog
 - Events
 tags:
 - Jedi Mind Control

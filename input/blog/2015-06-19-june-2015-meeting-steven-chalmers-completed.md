@@ -6,7 +6,6 @@ author: nyami
 keywords: Keywords
 description: "June 2015 Meeting -  Steven Chalmers - Completed"
 categories:
-  - Blog
   - Event Material
 ---
 

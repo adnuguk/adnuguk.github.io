@@ -6,7 +6,6 @@ slug: adnuguk-september-2012-meeting
 title: ADNUGUK–September 2012 Meeting
 wordpress_id: 60
 categories:
-- Blog
 - Events
 tags:
 - Andrew Westgarth

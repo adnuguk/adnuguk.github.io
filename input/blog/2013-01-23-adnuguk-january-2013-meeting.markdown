@@ -6,7 +6,6 @@ slug: adnuguk-january-2013-meeting
 title: ADNUGUK - January 2013 Meeting
 wordpress_id: 2765
 categories:
-- Blog
 - Events
 tags:
 - Andy Gibson

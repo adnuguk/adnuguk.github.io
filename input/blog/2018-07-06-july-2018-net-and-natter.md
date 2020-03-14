@@ -6,7 +6,6 @@ description: Description
 Published: 06/07/2018
 title: July 2018 - .NET and Natter
 categories:
-  - blog
   - events
 ---
 Aberdeen Developers are pleased to present something a little different for us. Hopefully you'll be able to join us at Engage Gaming for our first ".NET and Natter", a catch up and general geek out on all things .NET.

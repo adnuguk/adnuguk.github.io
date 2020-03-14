@@ -6,7 +6,6 @@ slug: job-vacancy-expro-group-safewells
 title: Job Vacancy - Expro Group - Safewells
 wordpress_id: 6
 categories:
-- Blog
 - Job Vacancy
 tags:
 - Aberdeen

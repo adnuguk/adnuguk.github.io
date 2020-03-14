@@ -6,7 +6,6 @@ slug: august-2013-meeting-jon-skeet-talking-about-abusing-c
 title: August 2013 Meeting - Jon Skeet talking about Abusing C#
 wordpress_id: 52976639
 categories:
-- Blog
 - Events
 tags:
 - Abusing

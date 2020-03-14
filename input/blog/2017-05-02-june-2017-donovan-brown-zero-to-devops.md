@@ -4,7 +4,6 @@ author: nyami
 Published: 02/05/2017
 title: June 2017 - Donovan Brown - Zero to DevOps
 categories:
-  - blog
   - events
 ---
 Aberdeen Developers are pleased to present, The Man in the Black Shirt, Donovan Brown, on Thursday 8th June 2017 at the Robert Gordon University.

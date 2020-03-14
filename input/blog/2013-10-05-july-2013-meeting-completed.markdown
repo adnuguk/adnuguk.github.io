@@ -6,7 +6,6 @@ slug: july-2013-meeting-completed
 title: July 2013 Meeting - Completed
 wordpress_id: 52976659
 categories:
-- Blog
 - Event Feedback
 - Event Material
 tags:

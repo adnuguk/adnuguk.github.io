@@ -6,7 +6,6 @@ slug: adnuguk-april-2012-meeting
 title: ADNUGUK – April 2012 Meeting
 wordpress_id: 27
 categories:
-- Blog
 - Events
 tags:
 - Colin Mackay

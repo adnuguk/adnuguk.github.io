@@ -6,7 +6,6 @@ slug: job-vacancy-aberdeen-2
 title: 'Job Vacancy: Aberdeen'
 wordpress_id: 2769
 categories:
-- Blog
 - Job Vacancy
 tags:
 - Aberdeen
