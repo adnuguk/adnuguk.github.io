@@ -3,7 +3,6 @@ layout: post
 Published: 13/08/2015
 title: "August 2015 Meeting #2 - Mike Taulty"
 author: nyami
-keywords: ""
 description: ""
 categories:
   - event

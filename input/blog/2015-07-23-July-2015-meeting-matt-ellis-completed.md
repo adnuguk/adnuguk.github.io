@@ -3,7 +3,6 @@ layout: post
 Published: 23/07/2015
 title: "July Meeting - Matt Ellis - Completed"
 author: gep13
-keywords: Keywords
 description: "July Meeting - Matt Ellis - Completed"
 categories:
   - event material

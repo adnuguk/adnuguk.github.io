@@ -1,7 +1,6 @@
 ---
 layout: post
 author: nyami
-keywords: Keywords
 description: Description
 Published: 06/07/2018
 title: July 2018 - .NET and Natter

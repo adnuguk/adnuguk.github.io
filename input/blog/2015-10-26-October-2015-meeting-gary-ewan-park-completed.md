@@ -3,7 +3,6 @@ layout: post
 Published: 26/10/2015
 title: "October Meeting - Gary Ewan Park - Completed"
 author: gep13
-keywords: Keywords
 description: "October Meeting - Gary Ewan Park - Completed"
 categories:
   - event material

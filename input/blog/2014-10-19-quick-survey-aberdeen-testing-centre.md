@@ -3,7 +3,6 @@ author: gep13
 layout: post
 Published: 19/10/2014
 title: "Quick Survey - Aberdeen Testing Centre"
-keywords: Keywords
 description: Description
 ---
 

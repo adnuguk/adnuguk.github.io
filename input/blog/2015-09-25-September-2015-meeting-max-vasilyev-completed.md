@@ -3,7 +3,6 @@ layout: post
 Published: 25/09/2015
 title: "September Meeting - Max Vasilyev - Completed"
 author: gep13
-keywords: Keywords
 description: "September Meeting - Max Vasilyev - Completed"
 categories:
   - event material

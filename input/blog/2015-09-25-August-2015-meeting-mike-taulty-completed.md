@@ -3,7 +3,6 @@ layout: post
 Published: 25/09/2015
 title: "August Meeting - Mike Taulty - Completed"
 author: gep13
-keywords: Keywords
 description: "August Meeting - Mike Taulty - Completed"
 categories:
   - event material

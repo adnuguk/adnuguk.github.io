@@ -1,7 +1,6 @@
 ---
 layout: post
 author: gep13
-keywords: ""
 description: "March 2016 Meeting - Christos Matskas"
 categories:
   - events

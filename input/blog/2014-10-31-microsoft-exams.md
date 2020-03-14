@@ -3,7 +3,6 @@ author: nyami
 layout: post
 Published: 31/10/2014
 title: Microsoft Exams
-keywords: Microsoft Exams MCP
 description: Microsoft Exams
 ---
 

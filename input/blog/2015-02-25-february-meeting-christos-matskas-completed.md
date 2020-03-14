@@ -3,7 +3,6 @@ layout: post
 Published: 25/02/2015
 title: "February Meeting - Christos Matskas - Completed"
 author: nyami
-keywords: Keywords
 description: "February Meeting - Christos Matskas - Completed"
 categories:
   - event material

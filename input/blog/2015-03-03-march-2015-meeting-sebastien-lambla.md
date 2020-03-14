@@ -3,7 +3,6 @@ layout: post
 Published: 03/03/2015
 title: "March 2015 Meeting - Sebastien Lambla"
 author: nyami
-keywords: Keywords
 description: "March 2015 Meeting - Sebastien Lambla"
 categories:
   - events

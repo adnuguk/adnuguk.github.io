@@ -1,7 +1,6 @@
 ---
 layout: post
 author: nyami
-keywords: ""
 description: "ScotNetRocks! Aberdeen"
 categories:
   - events

@@ -1,7 +1,6 @@
 ---
 layout: post
 author: Nyami
-keywords: ""
 description: ""
 categories:
   - events
