@@ -1,14 +1,13 @@
 ---
-author: gep13
-date: 2011-02-02 21:41:00+00:00
-slug: writing-testable-validation-code-using-dependency-injection
-title: Writing Testable Validation Code Using Dependency Injection
-categories:
-- Articles
-tags:
-- Dependency Injection
-- MVC
-- Unit Testing
+author: norman
+Published: 02/02/2011
+Title: Writing Testable Validation Code Using Dependency Injection
+Tags:
+- article
+- dependency injection
+- mvc
+- unit testing
+RedirectFrom: writing-testable-validation-code-using-dependency-injection/
 ---
 
 **This article was submitted to the Aberdeen Developers .Net User Group by Norman Noble.**
@@ -23,41 +22,41 @@ A basic example looks something like this:
 
 [![876f59b7-2636-4af8-b201-0447ad4fd6c0](http://www.aberdeendevelopers.co.uk/wp-content/uploads/876f59b7-2636-4af8-b201-0447ad4fd6c0_thumb.png)](http://www.aberdeendevelopers.co.uk/wp-content/uploads/876f59b7-2636-4af8-b201-0447ad4fd6c0.png)
 
+```csharp
+partial class Customer
+{
+    public bool IsValid()
+    {
+        bool isValid = true;
 
-    <span class="kwrd">partial</span> <span class="kwrd">class</span> Customer
-      {
-          <span class="kwrd">public</span> <span class="kwrd">bool</span> IsValid()
-          {
-              <span class="kwrd">bool</span> isValid = <span class="kwrd">true</span>;
+        if (Age < 18)
+        {
+            isValid = false;
+        }
 
-             <span class="kwrd">if</span> (Age < 18)
-              {
-                  isValid = <span class="kwrd">false</span>;
-              }
-
-              <span class="kwrd">return</span> isValid;
-          }
-      }
-
+        return isValid;
+    }
+}
+```
 
 This got me to thinking about what I didn't like about this particular method of performing validation and more importantly how I'd prefer to see it being done. In my opinion most validation is part of the business rules of a system and as such should be stored in the Business Layer of the application. Also having the validation in the Data Access Layer creates a dependency on the Data Store when creating unit tests which prevent your tests from being fully robust and subject to change should the data in the data store change.
 
 A test for the code above may look something like:
 
+```csharp
+[TestMethod]
+public void Customer_Over18_IsValid()
+{
+    //Arrange
+    Customer cs = CustomerRepository.GetCustomer(1);
 
-          [TestMethod]
-          <span class="kwrd">public</span> <span class="kwrd">void</span> Customer_Over18_IsValid()
-          {
-              <span class="rem">//Arrange</span>
-              Customer cs = CustomerRepository.GetCustomer(1);
+    //Act
+    bool isValid = cs.IsValid();
 
-              <span class="rem">//Act</span>
-              <span class="kwrd">bool</span> isValid = cs.IsValid();
-
-              <span class="rem">//Assert</span>
-              Assert.IsTrue(isValid);
-          }
-
+    //Assert
+    Assert.IsTrue(isValid);
+}
+```
 
 So as mentioned above this unit test is dependant on a Data Store (in this case a repository) which could be subject to change. This could then potentially break the unit test even though neither the validation functionality nor the Customer object have not changed.
 
@@ -65,41 +64,41 @@ The way I prefer to get round this is to create a validation class for each Enti
 
 A basic example of this would be:
 
+```csharp
+public class CustomerValidator : ICustomerValidator
+{
+    public static bool IsValid(Customer cs)
+    {
+        bool isValid = true;
 
-      <span class="kwrd">public</span> <span class="kwrd">class</span> CustomerValidator : ICustomerValidator
-      {
-          <span class="kwrd">public</span> <span class="kwrd">static</span> <span class="kwrd">bool</span> IsValid(Customer cs)
-          {
-              <span class="kwrd">bool</span> isValid = <span class="kwrd">true</span>;
+        if (cs.Age < 18)
+        {
+            isValid = false;
+        }
 
-              <span class="kwrd">if</span> (cs.Age < 18)
-              {
-                  isValid = <span class="kwrd">false</span>;
-              }
+        return isValid;
+    }
+}
+```
 
-              <span class="kwrd">return</span> isValid;
-          }
-      }
-
-
-This method completely seperates the validation code from any dependencies as they can be injected in through the method call.
+This method completely separates the validation code from any dependencies as they can be injected in through the method call.
 
 A test for the code above would look something like this:
 
+```csharp
+[TestMethod]
+public void Customer_Over18_IsValid()
+{
+    //Arrange
+    StubCustomer scs = new StubCustomer("Norman", "Aberdeen", 31);
 
-          [TestMethod]
-          <span class="kwrd">public</span> <span class="kwrd">void</span> Customer_Over18_IsValid()
-          {
-              <span class="rem">//Arrange</span>
-              StubCustomer scs = <span class="kwrd">new</span> StubCustomer(<span class="str">"Norman"</span>, <span class="str">"Aberdeen"</span>, 31);
+    //Act
+    bool isValid = CustomerValidator.IsValid(scs);
 
-              <span class="rem">//Act</span>
-              <span class="kwrd">bool</span> isValid = CustomerValidator.IsValid(scs);
-
-              <span class="rem">//Assert</span>
-              Assert.IsTrue(isValid);
-          }
-
+    //Assert
+    Assert.IsTrue(isValid);
+}
+```
 
 In the example above the StubCustomer class has been created which has the Customer class as a base class. As the creation of the item under test is now controlled the unit test is far more robust and is only concerned with the functionality it is supposed to be testing. Therefore the only thing that will break this test is a change in the functionality of Customer which is what you would expect.
 
