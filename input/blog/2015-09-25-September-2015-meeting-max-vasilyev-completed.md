@@ -6,7 +6,6 @@ author: gep13
 keywords: Keywords
 description: "September Meeting - Max Vasilyev - Completed"
 sharing: true
-tags: ""
 categories:
   - Blog
   - event material

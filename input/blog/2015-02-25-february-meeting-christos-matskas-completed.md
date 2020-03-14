@@ -6,7 +6,6 @@ author: nyami
 keywords: Keywords
 description: "February Meeting - Christos Matskas - Completed"
 sharing: true
-tags: ""
 categories:
   - Blog
   - event material
