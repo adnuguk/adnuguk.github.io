@@ -1,14 +1,12 @@
 ---
-author: adnuguk
-date: 2011-04-27 19:03:53+00:00
-slug: job-aberdeenaberdeenshire-area
-title: 'Job: Aberdeen/Aberdeenshire area'
-categories:
-- Job Vacancy
-tags:
-- Aberdeen
-- Delphi
-- Job Opportunity
+Author: adnuguk
+Published: 27/04/2011
+Title: 'Job: Aberdeen/Aberdeenshire area'
+Tags:
+- aberdeen
+- delphi
+- job opportunity
+RedirectFrom: job-aberdeenaberdeenshire-area/index.html
 ---
 
 Through the [Aberdeen Developers website](http://www.aberdeendevelopers.co.uk/) I have been made aware of a job vacancy in the Aberdeen area.
