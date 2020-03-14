@@ -2,7 +2,6 @@
 author: nyami
 Published: 31/10/2014
 title: Microsoft Exams
-description: Microsoft Exams
 ---
 
 Those who have been trying to book Microsoft Exams in recent months will be fully aware of the lack of local test centres in Aberdeen.  Unfortunately, there still appears to be a lack of any long term commitment for any new test centres, but Aberdeen Developers have been informed that there is some availability at a private session that has been organised at Aberdeen College on 27th November at 9am.

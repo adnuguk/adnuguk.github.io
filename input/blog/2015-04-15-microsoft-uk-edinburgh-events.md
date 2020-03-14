@@ -2,7 +2,6 @@
 Published: 15/04/2015
 title: Microsoft UK Edinburgh Events
 author: nyami
-description: Microsoft UK Edinburgh April 2015 Events
 categories:
 ---
 

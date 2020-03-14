@@ -1,6 +1,5 @@
 ---
 author: nyami
-description: "September 2015 Meeting #1 - Colin Mackay"
 categories:
   - events
 Published: 04/09/2015

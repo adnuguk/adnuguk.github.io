@@ -1,6 +1,5 @@
 ---
 author: nyami
-description: "ScotNetRocks! Aberdeen"
 categories:
   - events
 Published: 02/01/2016

@@ -2,7 +2,6 @@
 author: gep13
 Published: 13/10/2014
 title: "Job Vacancy - Software Developer - SPD"
-description: "A job vacancy is available working for SPD (part of Petrofac) in Aberdeen as a Software Developer, if you are interested, please visit link"
 categories:
   - Job Vacancy
 tags:

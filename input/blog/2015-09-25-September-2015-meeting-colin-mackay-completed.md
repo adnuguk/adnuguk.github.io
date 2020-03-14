@@ -2,7 +2,6 @@
 Published: 25/09/2015
 title: "September Meeting - Colin Mackay - Completed"
 author: gep13
-description: "September Meeting - Colin Mackay - Completed"
 categories:
   - event material
 ---

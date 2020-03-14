@@ -2,7 +2,6 @@
 Published: 23/07/2015
 title: "July Meeting - Matt Ellis - Completed"
 author: gep13
-description: "July Meeting - Matt Ellis - Completed"
 categories:
   - event material
 ---

@@ -2,7 +2,6 @@
 author: gep13
 Published: 19/10/2014
 title: "Quick Survey - Aberdeen Testing Centre"
-description: Description
 ---
 
 Aberdeen Developers have been approached by a local software development company who are keen to gauge the number of people that would welcome an Aberdeen test centre for Microsoft and Cisco exams.

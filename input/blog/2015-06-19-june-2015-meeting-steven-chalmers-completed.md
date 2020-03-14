@@ -2,7 +2,6 @@
 Published: 19/06/2015
 title: "June 2015 Meeting -  Completed"
 author: nyami
-description: "June 2015 Meeting -  Steven Chalmers - Completed"
 categories:
   - Event Material
 ---

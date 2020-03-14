@@ -1,6 +1,5 @@
 ---
 author: nyami
-description: "September 2015 Meeting #2 - Max Vasilyev"
 categories:
   - events
 Published: 08/09/2015

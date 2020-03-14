@@ -1,6 +1,5 @@
 ---
 author: nyami
-description: ""
 categories:
   - events
 Published: 13/10/2015

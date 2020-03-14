@@ -1,6 +1,5 @@
 ---
 author: nyami
-description: Description
 Published: 01/09/2016
 title: Job Vacancy - Brightree - Aberdeen
 categories:

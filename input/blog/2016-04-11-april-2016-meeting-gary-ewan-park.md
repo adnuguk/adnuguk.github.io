@@ -1,6 +1,5 @@
 ---
 author: nyami
-description: "April 2016 Meeting - Gary Ewan Park"
 categories:
   - events
 Published: 11/04/2016

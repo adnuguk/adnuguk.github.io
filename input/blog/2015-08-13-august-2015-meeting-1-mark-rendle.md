@@ -2,7 +2,6 @@
 Published: 13/08/2015
 title: "August 2015 Meeting #1 - Mark Rendle"
 author: nyami
-description: ""
 categories:
   - event
 ---

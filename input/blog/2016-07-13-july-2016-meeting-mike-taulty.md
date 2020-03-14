@@ -1,6 +1,5 @@
 ---
 author: nyami
-description: Description
 Published: 13/07/2016
 title: July 2016 Meeting - Mike Taulty
 categories:
