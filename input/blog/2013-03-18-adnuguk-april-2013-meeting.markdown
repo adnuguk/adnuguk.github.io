@@ -1,7 +1,6 @@
 ---
 author: gep13
 date: 2013-03-18 22:41:00+00:00
-layout: post
 slug: adnuguk-april-2013-meeting
 title: ADNUGUK - April 2013 Meeting
 wordpress_id: 2761

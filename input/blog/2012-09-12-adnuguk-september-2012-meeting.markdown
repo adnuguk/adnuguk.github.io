@@ -1,7 +1,6 @@
 ---
 author: gep13
 date: 2012-09-12 19:49:32+00:00
-layout: post
 slug: adnuguk-september-2012-meeting
 title: ADNUGUK–September 2012 Meeting
 wordpress_id: 60

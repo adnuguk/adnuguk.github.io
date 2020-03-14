@@ -1,7 +1,6 @@
 ---
 author: gep13
 date: 2014-08-09 11:18:31+00:00
-layout: post
 slug: august-2014-meeting-completed
 title: August 2014 Meeting - Shawn Wildermuth - Completed
 categories:

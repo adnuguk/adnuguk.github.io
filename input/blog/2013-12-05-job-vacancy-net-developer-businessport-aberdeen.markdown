@@ -1,7 +1,6 @@
 ---
 author: gep13
 date: 2013-12-05 21:11:51+00:00
-layout: post
 slug: job-vacancy-net-developer-businessport-aberdeen
 title: Job Vacancy - .Net Developer at BusinessPort - Aberdeen
 wordpress_id: 52976692

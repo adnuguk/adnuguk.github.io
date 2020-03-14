@@ -1,7 +1,6 @@
 ---
 author: gep13
 date: 2013-01-12 12:21:18+00:00
-layout: post
 slug: job-vacancy-aberdeen-net-developer
 title: 'Job Vacancy: Aberdeen .Net Developer'
 wordpress_id: 2766

@@ -1,5 +1,4 @@
 ---
-layout: post
 Published: 22/06/2015
 title: "July 2015 Meeting - Matt Ellis"
 author: nyami

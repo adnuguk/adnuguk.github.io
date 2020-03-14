@@ -1,7 +1,6 @@
 ---
 author: gep13
 date: 2012-03-20 20:41:00+00:00
-layout: post
 slug: february-2012-meeting-completed
 title: February 2012 Meeting – Completed
 wordpress_id: 493

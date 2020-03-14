@@ -1,7 +1,6 @@
 ---
 author: gep13
 date: 2012-03-10 15:17:45+00:00
-layout: post
 slug: microsoft-uk-tech-days-and-it-pro-camps
 title: Microsoft UK Tech.Days and IT Pro Camps
 wordpress_id: 3737

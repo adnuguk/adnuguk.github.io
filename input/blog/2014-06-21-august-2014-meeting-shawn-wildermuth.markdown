@@ -1,7 +1,6 @@
 ---
 author: gep13
 date: 2014-06-21 19:42:33+00:00
-layout: post
 slug: august-2014-meeting-shawn-wildermuth
 title: August 2014 Meeting - Shawn Wildermuth
 wordpress_id: 52976708

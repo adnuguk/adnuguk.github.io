@@ -1,7 +1,6 @@
 ---
 author: gep13
 date: 2013-06-07 07:09:48+00:00
-layout: post
 slug: august-2013-meeting-jon-skeet-talking-about-abusing-c
 title: August 2013 Meeting - Jon Skeet talking about Abusing C#
 wordpress_id: 52976639

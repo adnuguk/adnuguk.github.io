@@ -1,7 +1,6 @@
 ---
 author: gep13
 date: 2013-02-12 20:28:00+00:00
-layout: post
 slug: adnuguk-february-2013-meeting
 title: ADNUGUK - February 2013 Meeting
 wordpress_id: 2764

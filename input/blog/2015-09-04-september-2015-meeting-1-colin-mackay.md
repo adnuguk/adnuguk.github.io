@@ -1,5 +1,4 @@
 ---
-layout: post
 author: nyami
 description: "September 2015 Meeting #1 - Colin Mackay"
 categories:

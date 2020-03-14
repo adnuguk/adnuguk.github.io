@@ -1,5 +1,4 @@
 ---
-layout: post
 author: nyami
 Published: 15/12/2018
 title: Nov 2018 - Gary Short - AI for Fun And Profit

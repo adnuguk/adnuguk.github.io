@@ -1,7 +1,6 @@
 ---
 author: gep13
 date: 2013-04-24 21:58:09+00:00
-layout: post
 slug: may-2013-meeting-remco-blok-talking-about-html5
 title: May 2013 Meeting - Remco Blok talking about HTML5
 wordpress_id: 52976591

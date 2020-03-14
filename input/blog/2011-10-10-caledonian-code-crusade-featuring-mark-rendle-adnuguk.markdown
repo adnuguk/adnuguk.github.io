@@ -1,7 +1,6 @@
 ---
 author: gep13
 date: 2011-10-10 14:41:00+00:00
-layout: post
 slug: caledonian-code-crusade-featuring-mark-rendle-adnuguk
 title: 'Caledonian Code Crusade featuring Mark Rendle – #ADNUGUK'
 wordpress_id: 627

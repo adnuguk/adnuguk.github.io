@@ -1,7 +1,6 @@
 ---
 author: gep13
 date: 2012-05-29 11:46:26+00:00
-layout: post
 slug: may-2012-meeting-completed
 title: May 2012 Meeting – Completed
 wordpress_id: 2771

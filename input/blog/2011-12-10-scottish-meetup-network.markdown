@@ -1,7 +1,6 @@
 ---
 author: gep13
 date: 2011-12-10 13:54:10+00:00
-layout: post
 slug: scottish-meetup-network
 title: Scottish Meetup Network
 wordpress_id: 3739

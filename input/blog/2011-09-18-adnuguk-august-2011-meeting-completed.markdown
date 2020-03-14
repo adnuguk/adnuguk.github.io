@@ -1,7 +1,6 @@
 ---
 author: gep13
 date: 2011-09-18 13:43:00+00:00
-layout: post
 slug: adnuguk-august-2011-meeting-completed
 title: '#ADNUGUK – August 2011 Meeting – Completed'
 wordpress_id: 52976390

@@ -1,5 +1,4 @@
 ---
-layout: post
 Published: 19/06/2015
 title: "June 2015 Meeting -  Completed"
 author: nyami

@@ -2,7 +2,6 @@
 author: adnuguk
 comments: false
 date: 2014-08-08 21:37:08+00:00
-layout: page
 slug: contact
 title: Contact
 permalink: /contact/

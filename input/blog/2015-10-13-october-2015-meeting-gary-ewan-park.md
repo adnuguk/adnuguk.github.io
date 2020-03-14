@@ -1,5 +1,4 @@
 ---
-layout: post
 author: Nyami
 description: ""
 categories:

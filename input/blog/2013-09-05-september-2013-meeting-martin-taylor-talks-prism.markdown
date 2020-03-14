@@ -1,7 +1,6 @@
 ---
 author: gep13
 date: 2013-09-05 17:45:12+00:00
-layout: post
 slug: september-2013-meeting-martin-taylor-talks-prism
 title: September 2013 Meeting - Martin Taylor talks about Prism
 wordpress_id: 52976652

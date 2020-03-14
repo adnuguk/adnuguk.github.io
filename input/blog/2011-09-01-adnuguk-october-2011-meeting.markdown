@@ -1,7 +1,6 @@
 ---
 author: gep13
 date: 2011-09-01 18:54:00+00:00
-layout: post
 slug: adnuguk-october-2011-meeting
 title: '#ADNUGUK – October 2011 Meeting'
 wordpress_id: 9998117

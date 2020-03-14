@@ -1,5 +1,4 @@
 ---
-layout: post
 Published: 15/04/2015
 title: Microsoft UK Edinburgh Events
 author: nyami

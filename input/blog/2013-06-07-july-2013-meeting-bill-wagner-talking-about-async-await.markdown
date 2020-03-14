@@ -1,7 +1,6 @@
 ---
 author: gep13
 date: 2013-06-07 07:09:25+00:00
-layout: post
 slug: july-2013-meeting-bill-wagner-talking-about-async-await
 title: July 2013 Meeting - Bill Wagner talking about Async/Await
 wordpress_id: 52976634

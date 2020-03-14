@@ -1,5 +1,4 @@
 ---
-layout: post
 author: nyami
 description: Description
 Published: 06/07/2018

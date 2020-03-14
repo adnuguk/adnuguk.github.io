@@ -1,5 +1,4 @@
 ---
-layout: post
 author: nyami
 description: "April 2016 Meeting - Gary Ewan Park"
 categories:

@@ -1,5 +1,4 @@
 ---
-layout: post
 author: nyami
 description: "September 2015 Meeting #2 - Max Vasilyev"
 categories:

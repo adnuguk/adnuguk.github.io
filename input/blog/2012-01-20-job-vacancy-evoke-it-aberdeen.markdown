@@ -1,7 +1,6 @@
 ---
 author: gep13
 date: 2012-01-20 17:59:28+00:00
-layout: post
 slug: job-vacancy-evoke-it-aberdeen
 title: 'Job Vacancy: Evoke IT, Aberdeen'
 wordpress_id: 7

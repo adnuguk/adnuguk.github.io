@@ -2,7 +2,6 @@
 author: adnuguk
 comments: false
 date: 2013-04-18T20:19:08.000Z
-layout: page
 slug: about
 title: About
 wordpress_id: 52976465

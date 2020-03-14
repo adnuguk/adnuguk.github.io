@@ -1,6 +1,5 @@
 ---
 author: gep13
-layout: post
 Published: 13/10/2014
 title: Northern Lights Conf and Code the City 2014
 description: Some exciting upcoming events in the Aberdeen Development Calendar

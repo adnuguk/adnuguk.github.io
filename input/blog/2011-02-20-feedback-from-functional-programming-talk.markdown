@@ -1,7 +1,6 @@
 ---
 author: gep13
 date: 2011-02-20 18:38:00+00:00
-layout: post
 slug: feedback-from-functional-programming-talk
 title: Feedback from Functional Programming Talk
 wordpress_id: 52976395

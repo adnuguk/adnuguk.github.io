@@ -1,5 +1,4 @@
 ---
-layout: post
 author: nyami
 Published: 02/05/2017
 title: June 2017 - Donovan Brown - Zero to DevOps

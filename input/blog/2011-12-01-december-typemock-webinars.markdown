@@ -1,7 +1,6 @@
 ---
 author: gep13
 date: 2011-12-01 20:17:00+00:00
-layout: post
 slug: december-typemock-webinars
 title: December Typemock Webinars
 wordpress_id: 52976385

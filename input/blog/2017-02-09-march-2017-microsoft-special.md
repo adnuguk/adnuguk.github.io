@@ -1,5 +1,4 @@
 ---
-layout: post
 author: nyami
 Published: 09/02/2017
 title: March 2017 - Microsoft Special

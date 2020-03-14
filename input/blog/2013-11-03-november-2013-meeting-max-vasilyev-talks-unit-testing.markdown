@@ -1,7 +1,6 @@
 ---
 author: gep13
 date: 2013-11-03 20:31:57+00:00
-layout: post
 slug: november-2013-meeting-max-vasilyev-talks-unit-testing
 title: November 2013 Meeting - Max Vasilyev talks about Unit Testing
 wordpress_id: 52976684

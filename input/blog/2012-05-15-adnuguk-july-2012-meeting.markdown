@@ -1,7 +1,6 @@
 ---
 author: gep13
 date: 2012-05-15 20:05:00+00:00
-layout: post
 slug: adnuguk-july-2012-meeting
 title: ADNUGUK – July 2012 Meeting
 wordpress_id: 2772

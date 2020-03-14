@@ -1,7 +1,6 @@
 ---
 author: gep13
 date: 2012-06-23 12:14:36+00:00
-layout: post
 slug: job-vacancy-aberdeen-2
 title: 'Job Vacancy: Aberdeen'
 wordpress_id: 2769

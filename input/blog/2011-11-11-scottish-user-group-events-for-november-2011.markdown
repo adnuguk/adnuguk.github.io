@@ -1,7 +1,6 @@
 ---
 author: gep13
 date: 2011-11-11 17:44:00+00:00
-layout: post
 slug: scottish-user-group-events-for-november-2011
 title: Scottish User Group Events for November 2011
 wordpress_id: 140506

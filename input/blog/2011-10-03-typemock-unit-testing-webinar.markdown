@@ -1,7 +1,6 @@
 ---
 author: gep13
 date: 2011-10-03 11:53:00+00:00
-layout: post
 slug: typemock-unit-testing-webinar
 title: Typemock Unit Testing Webinar
 wordpress_id: 540332

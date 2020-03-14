@@ -1,5 +1,4 @@
 ---
-layout: post
 Published: 20/05/2015
 title: "June 2015 Meeting - Steven Chalmers"
 author: nyami
