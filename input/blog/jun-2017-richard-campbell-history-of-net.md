@@ -1,10 +1,13 @@
 ---
-author: nyami
+Author: nyami
 Published: 04/05/2017
-title: Jun 2017 - Richard Campbell - History of .NET
-categories:
+Title: Jun 2017 - Richard Campbell - History of .NET
+Tags:
   - events
+  - richard campbell
+RedirectFrom: jun-2017-richard-campbell-history-of-net/index.html
 ---
+
 Aberdeen Developers are pleased to present, Richard Campbell, on Monday 19th June 2017 at the Robert Gordon University.
 
 ***
