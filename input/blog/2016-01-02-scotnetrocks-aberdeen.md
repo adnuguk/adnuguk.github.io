@@ -6,8 +6,6 @@ description: "ScotNetRocks! Aberdeen"
 categories:
   - blog
   - events
-tags:
-  - "null"
 Published: 02/01/2016
 title: "ScotNetRocks! Aberdeen"
 ---
