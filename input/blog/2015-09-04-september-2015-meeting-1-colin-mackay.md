@@ -3,7 +3,6 @@ layout: post
 author: nyami
 keywords: Keywords
 description: "September 2015 Meeting #1 - Colin Mackay"
-comments: true
 sharing: true
 categories:
   - blog

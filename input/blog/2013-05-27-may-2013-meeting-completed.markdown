@@ -1,6 +1,5 @@
 ---
 author: gep13
-comments: true
 date: 2013-05-27 07:14:36+00:00
 layout: post
 slug: may-2013-meeting-completed
@@ -41,17 +40,17 @@ If you were not able to attend you can see the slides below and you can also fin
 
 
 
-  [  
+  [
 
-      ![Get Microsoft Silverlight](http://go.microsoft.com/fwlink/?LinkId=161376)  
+      ![Get Microsoft Silverlight](http://go.microsoft.com/fwlink/?LinkId=161376)
 
-    ](http://go.microsoft.com/fwlink/?LinkID=149156&v=4.0.50401.0)  
+    ](http://go.microsoft.com/fwlink/?LinkID=149156&v=4.0.50401.0)
 
-    
 
-    
 
-  
+
+
+
 
 
 

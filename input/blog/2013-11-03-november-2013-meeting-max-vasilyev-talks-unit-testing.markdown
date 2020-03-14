@@ -1,6 +1,5 @@
 ---
 author: gep13
-comments: true
 date: 2013-11-03 20:31:57+00:00
 layout: post
 slug: november-2013-meeting-max-vasilyev-talks-unit-testing
@@ -28,28 +27,28 @@ Topics discussed:
 
 
 
-	
+
   * ADD: Annoyance Driven Development
 
-	
+
   * Isolation Frameworks
 
-	
+
   * Dependency Injection
 
-	
+
   * Automocking container
 
-	
+
   * continuous Integration
 
-	
+
   * Reflection in tests
 
-	
+
   * Unit or no unit test?
 
-	
+
   * Books review
 
 
@@ -76,16 +75,16 @@ The battle is not won yet, but now business agrees that tests are important and 
 
 
 
-	
+
   * 1800 - 1815: Arrival and registration
 
-	
+
   * 1815 - 1820: Introduction
 
-	
+
   * 1820 - 2000: From zero to 1000 tests in 6 months
 
-	
+
   * 2000 onwards: Questions and drinks at the bar
 
 

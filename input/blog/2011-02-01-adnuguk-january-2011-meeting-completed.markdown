@@ -1,6 +1,5 @@
 ---
 author: gep13
-comments: true
 date: 2011-02-01 18:43:00+00:00
 layout: post
 slug: adnuguk-january-2011-meeting-completed

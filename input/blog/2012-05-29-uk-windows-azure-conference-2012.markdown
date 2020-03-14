@@ -1,6 +1,5 @@
 ---
 author: gep13
-comments: true
 date: 2012-05-29 19:22:00+00:00
 layout: post
 slug: uk-windows-azure-conference-2012

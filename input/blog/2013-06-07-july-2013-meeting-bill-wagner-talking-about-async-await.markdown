@@ -1,6 +1,5 @@
 ---
 author: gep13
-comments: true
 date: 2013-06-07 07:09:25+00:00
 layout: post
 slug: july-2013-meeting-bill-wagner-talking-about-async-await
@@ -45,13 +44,13 @@ Learn current recommendations for asynchronous idioms. I'll cover strategies for
 
 
 
-Bill has spent his entire career in the software industry, spanning both technical and business roles. He spent eight years as a self-employed consultant before co-founding SRT Solutions with Dianne Marsh. Over the past decade they’ve grown SRT Solutions into a premier software development company, amassing 4 FastTrack awards (2011, 2010, 2008, 2007), the Michigan 50 Companies to Watch award (2011), and making the Inc 500/5000 list (2011 and 2012). Bill was also awarded Automation Alley’s Emerging Technology Leader award in 2011.
+Bill has spent his entire career in the software industry, spanning both technical and business roles. He spent eight years as a self-employed consultant before co-founding SRT Solutions with Dianne Marsh. Over the past decade they've grown SRT Solutions into a premier software development company, amassing 4 FastTrack awards (2011, 2010, 2008, 2007), the Michigan 50 Companies to Watch award (2011), and making the Inc 500/5000 list (2011 and 2012). Bill was also awarded Automation Alley's Emerging Technology Leader award in 2011.
 
 
 
 
 
-His technical time is spent between curly braces, primarily with C#. He’s the author of the best selling “Effective C#”, now in its second edition, and “More Effective C#”. His articles have appeared in MSDN Magazine, the C# Developer Center, Visual C++ Developer’s Journal, Visual Studio Magazine, ASP.NET Pro, .NET Developer’s Journal and more. He’s written hundreds of technical articles for software developers. He actively blogs about technical and business topics. Bill is also a regional director for Microsoft.
+His technical time is spent between curly braces, primarily with C#. He's the author of the best selling "Effective C#", now in its second edition, and "More Effective C#". His articles have appeared in MSDN Magazine, the C# Developer Center, Visual C++ Developer's Journal, Visual Studio Magazine, ASP.NET Pro, .NET Developer's Journal and more. He's written hundreds of technical articles for software developers. He actively blogs about technical and business topics. Bill is also a regional director for Microsoft.
 
 
 
@@ -80,16 +79,16 @@ You can find more information about him at his site [here](http://billwagner.azu
 
 
 
-	
+
   * 1800 - 1815: Arrival and registration
 
-	
+
   * 1815 - 1820: Introduction
 
-	
+
   * 1820 - 1920: Async / Await Practices in C# 5
 
-	
+
   * 1920 onwards: Questions and drinks at the bar
 
 

@@ -1,6 +1,5 @@
 ---
 author: gep13
-comments: true
 date: 2012-05-09 11:51:54+00:00
 layout: post
 slug: april-2012-meeting-completed
@@ -15,7 +14,7 @@ tags:
 - Task Parallel Library
 ---
 
-On Thursday 26th April 2012, Aberdeen Developers .Net User Group welcomed Colin Mackay for a talk entitled “Task Parallel Library”. Full details of the event can be found [here](http://adnuguk-apr2012.eventbrite.com/?ebtv=C).
+On Thursday 26th April 2012, Aberdeen Developers .Net User Group welcomed Colin Mackay for a talk entitled "Task Parallel Library". Full details of the event can be found [here](http://adnuguk-apr2012.eventbrite.com/?ebtv=C).
 
 If you were not able to attend you can see the slides below and you can also download them [here](http://www/aberdeendevelopers.co.uk/Uploads/Meetings/2012-04-26-Introduction-to-Parallelisation-Aberdeen.zip).
 

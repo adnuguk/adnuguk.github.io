@@ -5,7 +5,6 @@ title: "September Meeting - Max Vasilyev - Completed"
 author: gep13
 keywords: Keywords
 description: "September Meeting - Max Vasilyev - Completed"
-comments: true
 sharing: true
 tags: ""
 categories:

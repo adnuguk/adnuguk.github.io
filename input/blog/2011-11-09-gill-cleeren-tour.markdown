@@ -1,6 +1,5 @@
 ---
 author: gep13
-comments: true
 date: 2011-11-09 07:47:00+00:00
 layout: post
 slug: gill-cleeren-tour
@@ -39,4 +38,4 @@ What you might not know is that Gill is actually doing 4 events in the UK. They 
 
 
 
-If you don’t get a chance to see him in Aberdeen, you might be able to catch one of the other sessions.
+If you don't get a chance to see him in Aberdeen, you might be able to catch one of the other sessions.

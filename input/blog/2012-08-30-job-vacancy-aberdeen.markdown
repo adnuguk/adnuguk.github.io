@@ -1,6 +1,5 @@
 ---
 author: gep13
-comments: true
 date: 2012-08-30 13:14:00+00:00
 layout: post
 slug: job-vacancy-aberdeen

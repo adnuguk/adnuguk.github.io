@@ -1,6 +1,5 @@
 ---
 author: gep13
-comments: true
 date: 2013-12-05 21:11:51+00:00
 layout: post
 slug: job-vacancy-net-developer-businessport-aberdeen
@@ -26,55 +25,55 @@ Skills and experience required:
 
 
 
-	
+
   * At least 2 years commercial C# .NET experience.
 
-	
+
   * WPF and/or Silverlight
 
-	
+
   * Asp.net (Web forms and/or MVC)
 
-	
+
   * HTML, CSS and JavaScript
 
-	
+
   * WCF
 
-	
+
   * Microsoft SQL Server
 
-	
+
   * Experience with working with ORMs (ie LINQ to SQL or Entity Framework)
 
-	
+
   * Familiarly with source control (TFS, Subversion, VSS etc)
 
 
 One or more of the following skills would be beneficial:
 
-	
+
   * Office Add in development
 
-	
+
   * Works with Unit Testing such as NUnit or MSTest
 
-	
+
   * Experience or an interest in mobile development
 
-	
+
   * SSIS (SQL Server Integration Services)
 
-	
+
   * SSRS (SQL Server Reporting Services)
 
-	
+
   * Installation and deployment tools
 
-	
+
   * Microsoft Certification
 
-	
+
   * SharePoint
 
 

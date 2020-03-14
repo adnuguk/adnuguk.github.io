@@ -1,6 +1,5 @@
 ---
 author: gep13
-comments: true
 date: 2011-09-21 20:42:00+00:00
 layout: post
 slug: consultant-job-opportunity-aberdeen

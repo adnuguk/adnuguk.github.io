@@ -1,6 +1,5 @@
 ---
 author: gep13
-comments: true
 date: 2013-03-04 20:54:00+00:00
 layout: post
 slug: job-vacancy-rgu-aberdeen-web-and-applications-developer
@@ -23,18 +22,18 @@ Aberdeen Developers have been asked to promote the following job vacancy.  If yo
 
 
 
-**Web and Applications Developer** (Ref C38554)  
+**Web and Applications Developer** (Ref C38554)
 IT Services Department
 
 
 
 
-We require a Web and Application Developer with experience in the overall architecture, design and support of online applications and a passion for learning and working with leading technologies.   
-  
-You will be working as part of the in house development team and will have responsibility for the day to day support, administration and development of a wide variety of services and applications.   
-  
-We're in the business of changing lives - developing students into highly employable graduates. Be part of their amazing journey by joining our 1500 colleagues who already enjoy the vibrant community, richly rewarding work, competitive pay and lifestyle afforded by the generous 38 days annual holiday allowance (including statutory holidays).   
-  
+We require a Web and Application Developer with experience in the overall architecture, design and support of online applications and a passion for learning and working with leading technologies.
+
+You will be working as part of the in house development team and will have responsibility for the day to day support, administration and development of a wide variety of services and applications.
+
+We're in the business of changing lives - developing students into highly employable graduates. Be part of their amazing journey by joining our 1500 colleagues who already enjoy the vibrant community, richly rewarding work, competitive pay and lifestyle afforded by the generous 38 days annual holiday allowance (including statutory holidays).
+
 There are a restricted number of certificates of sponsorship available in the UK and there is no guarantee that the University would be able to obtain one should the successful candidate require one.
 
 

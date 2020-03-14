@@ -1,6 +1,5 @@
 ---
 author: gep13
-comments: true
 date: 2012-05-15 20:05:00+00:00
 layout: post
 slug: adnuguk-july-2012-meeting
@@ -37,7 +36,7 @@ It's an exciting time for ASP.NET and Open Source. What does the next version of
 
 
 
-[![Register for Aberdeen Developers .Net User Group - July 2012 Meeting in Aberdeen, Aberdeen City  on Eventbrite](http://www.eventbrite.com/registerbutton?eid=2581657808)](http://scott-hanselman-abz-2012.eventbrite.com?ref=elink)   
+[![Register for Aberdeen Developers .Net User Group - July 2012 Meeting in Aberdeen, Aberdeen City  on Eventbrite](http://www.eventbrite.com/registerbutton?eid=2581657808)](http://scott-hanselman-abz-2012.eventbrite.com?ref=elink)
 
 
 

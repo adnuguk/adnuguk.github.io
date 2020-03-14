@@ -1,6 +1,5 @@
 ---
 author: gep13
-comments: true
 date: 2011-02-20 18:38:00+00:00
 layout: post
 slug: feedback-from-functional-programming-talk

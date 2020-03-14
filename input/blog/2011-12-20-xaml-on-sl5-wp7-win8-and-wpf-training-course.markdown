@@ -1,6 +1,5 @@
 ---
 author: gep13
-comments: true
 date: 2011-12-20 12:50:13+00:00
 layout: post
 slug: xaml-on-sl5-wp7-win8-and-wpf-training-course

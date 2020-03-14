@@ -1,6 +1,5 @@
 ---
 author: gep13
-comments: true
 date: 2011-12-01 20:17:00+00:00
 layout: post
 slug: december-typemock-webinars

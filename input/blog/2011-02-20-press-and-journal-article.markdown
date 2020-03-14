@@ -1,6 +1,5 @@
 ---
 author: gep13
-comments: true
 date: 2011-02-20 18:20:00+00:00
 layout: post
 slug: press-and-journal-article

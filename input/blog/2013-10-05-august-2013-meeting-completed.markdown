@@ -1,6 +1,5 @@
 ---
 author: gep13
-comments: true
 date: 2013-10-05 19:47:48+00:00
 layout: post
 slug: august-2013-meeting-completed

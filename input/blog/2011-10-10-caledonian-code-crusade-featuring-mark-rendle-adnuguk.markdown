@@ -1,6 +1,5 @@
 ---
 author: gep13
-comments: true
 date: 2011-10-10 14:41:00+00:00
 layout: post
 slug: caledonian-code-crusade-featuring-mark-rendle-adnuguk

@@ -1,6 +1,5 @@
 ---
 author: gep13
-comments: true
 date: 2013-09-30 20:20:04+00:00
 layout: post
 slug: october-2013-meeting-kendall-miller-talks-agile
@@ -25,13 +24,13 @@ Aberdeen Developers are pleased to present a talk by Kendall Miller on Thursday 
 
 
 
-	
+
   * **How to discuss Agile with the Business:** It's their money, you need to make sure they're on board with how you're going to spend it.
 
-	
+
   * **Convincing the Team to Work Differently:** Without the right patterns of development within your team, your first Agile project may be the last for a while.
 
-	
+
   * **Useful Compromises:** When you can't change the world overnight, how do you at least get the ship turning in the right direction?
 
 
@@ -59,16 +58,16 @@ Before starting Gibraltar Software, Kendall worked for multiple startups leading
 
 
 
-	
+
   * 1800 - 1815: Arrival and registration
 
-	
+
   * 1815 - 1820: Introduction
 
-	
+
   * 1820 - 1920: Introducing Agile to the Enterprise
 
-	
+
   * 1920 onwards: Questions and drinks at the bar
 
 

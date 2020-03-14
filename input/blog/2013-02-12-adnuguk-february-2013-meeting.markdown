@@ -1,6 +1,5 @@
 ---
 author: gep13
-comments: true
 date: 2013-02-12 20:28:00+00:00
 layout: post
 slug: adnuguk-february-2013-meeting

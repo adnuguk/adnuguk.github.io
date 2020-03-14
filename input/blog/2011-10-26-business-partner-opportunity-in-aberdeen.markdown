@@ -1,6 +1,5 @@
 ---
 author: gep13
-comments: true
 date: 2011-10-26 06:14:00+00:00
 layout: post
 slug: business-partner-opportunity-in-aberdeen

@@ -1,7 +1,6 @@
 ---
 layout: post
 author: Nyami
-comments: true
 sharing: true
 Published: 11/10/2016
 title: 'October 2016 Meeting - Keith Davidson'

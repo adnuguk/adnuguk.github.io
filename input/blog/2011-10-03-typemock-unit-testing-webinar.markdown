@@ -1,6 +1,5 @@
 ---
 author: gep13
-comments: true
 date: 2011-10-03 11:53:00+00:00
 layout: post
 slug: typemock-unit-testing-webinar
@@ -16,13 +15,13 @@ tags:
 - Unit Testing
 ---
 
-In case you hadn’t heard about it, Typemock are hosting a webinar entitled “Tips for Easy Unit Testing: Dealing with Legacy Code – Part II”. In this webinar you will learn:
+In case you hadn't heard about it, Typemock are hosting a webinar entitled "Tips for Easy Unit Testing: Dealing with Legacy Code – Part II". In this webinar you will learn:
 
   * Common problems with unit testing, and how to solve them
   * Applying unit testing patterns to legacy code
-  * How to turn a “real-world” legacy code into maintainable code
+  * How to turn a "real-world" legacy code into maintainable code
   * How unit tests help you understand and change code fearlessly
-  * How to write better unit tests that don’t break
+  * How to write better unit tests that don't break
 
 Registration for this event can be found here:
 

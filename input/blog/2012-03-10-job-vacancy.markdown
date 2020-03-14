@@ -1,6 +1,5 @@
 ---
 author: adnuguk
-comments: true
 date: 2012-03-10 15:24:01+00:00
 layout: post
 slug: job-vacancy
@@ -31,7 +30,7 @@ To work alongside their existing Applications Developer to design, develop and m
 
 
 
-	
+
   * .NET 3.5
 C#
 SQL Server 2005
@@ -42,7 +41,7 @@ User Interface Design and Development
 
 
 
-	
+
   * Network Support Experience
 Service industry expereince
 
@@ -51,7 +50,7 @@ Service industry expereince
 
 
 
-	
+
   * Design, develop and maintain new and existing Windows forms applications using Microsoft tools e.g. visual studio for microsoft.NET framework 3.5 – C# and Microsoft SQLServer2005 and user interface design and development.
 Evaluate off the shelf IT systems and packages to assess whether those are fit for purpose and can add value to the organisation.
 Liaise directly with third party software suppliers and act as an IT Troubleshooter.

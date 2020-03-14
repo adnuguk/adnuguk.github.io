@@ -1,6 +1,5 @@
 ---
 author: gep13
-comments: true
 date: 2013-04-24 21:58:09+00:00
 layout: post
 slug: may-2013-meeting-remco-blok-talking-about-html5
@@ -50,16 +49,16 @@ Remco Blok is a freelance .NET / web software developer and architect from the N
 
 
 
-	
+
   * 1800 - 1815: Arrival and registration
 
-	
+
   * 1815 - 1820: Introduction
 
-	
+
   * 1820 - 1920: HTML5 applications with Kendo UI and TypeScript
 
-	
+
   * 1920 onwards: Questions and drinks at the bar
 
 

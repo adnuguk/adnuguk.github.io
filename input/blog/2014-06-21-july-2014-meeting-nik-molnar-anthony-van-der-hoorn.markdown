@@ -1,6 +1,5 @@
 ---
 author: gep13
-comments: true
 date: 2014-06-21 19:26:16+00:00
 layout: post
 slug: july-2014-meeting-nik-molnar-anthony-van-der-hoorn
@@ -43,7 +42,7 @@ Azure Web Sites Secrets, Exposed
 
 
 
-Microsoft’s premier cloud solution for custom web applications, Windows Azure Web Sites, has brought the DevOps movement to millions of developers and revolutionized the way that servers are provisioned and applications deployed.
+Microsoft's premier cloud solution for custom web applications, Windows Azure Web Sites, has brought the DevOps movement to millions of developers and revolutionized the way that servers are provisioned and applications deployed.
 
 
 
@@ -82,7 +81,7 @@ Anthony van der Hoorn
 
 
 
-Anthony van der Hoorn is a co–founder of Glimpse, and a regular speaker on such topics as Open Source, Web Practices and Diagnostics for the Web. Anthony has specializing in web and front end development with technologies such as JavaScript, CSS, and HTML. He’s bounced between living and working New York City and his home town of Brisbane, Australia – he’s back in the USA at the moment. Anthony previously worked in the Financial Services sector developing high frequency trading systems and, in his spare time, he can be found out and about taking photos, speaking at conferences, and working on other Open Source projects.
+Anthony van der Hoorn is a co–founder of Glimpse, and a regular speaker on such topics as Open Source, Web Practices and Diagnostics for the Web. Anthony has specializing in web and front end development with technologies such as JavaScript, CSS, and HTML. He's bounced between living and working New York City and his home town of Brisbane, Australia – he's back in the USA at the moment. Anthony previously worked in the Financial Services sector developing high frequency trading systems and, in his spare time, he can be found out and about taking photos, speaking at conferences, and working on other Open Source projects.
 
 
 
@@ -101,19 +100,19 @@ Agenda - Wednesday, 30th July 2014
 
 
 
-	
+
   * 1800 - 1815: Arrival and registration
 
-	
+
   * 1815 - 1820: Introduction
 
-	
+
   * 1820 - 1900: Modern Web Diagnostics with a Glimpse into ASP.NET
 
-	
+
   * 1920 - 2000: Azure Web Sites Secrets, Exposed
 
-	
+
   * 2000 - onwards: Questions and drinks at the bar
 
 

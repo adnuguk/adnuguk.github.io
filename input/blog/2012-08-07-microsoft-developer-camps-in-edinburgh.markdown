@@ -1,6 +1,5 @@
 ---
 author: adnuguk
-comments: true
 date: 2012-08-07 14:28:31+00:00
 layout: post
 slug: microsoft-developer-camps-in-edinburgh

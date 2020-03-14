@@ -1,6 +1,5 @@
 ---
 author: gep13
-comments: true
 date: 2013-10-14 19:23:44+00:00
 layout: post
 slug: registration-dunddd-2013-now-open

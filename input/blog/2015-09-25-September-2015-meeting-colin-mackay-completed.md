@@ -5,7 +5,6 @@ title: "September Meeting - Colin Mackay - Completed"
 author: gep13
 keywords: Keywords
 description: "September Meeting - Colin Mackay - Completed"
-comments: true
 sharing: true
 tags: ""
 categories:

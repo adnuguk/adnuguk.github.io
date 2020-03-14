@@ -5,7 +5,6 @@ Published: 13/10/2014
 title: Northern Lights Conf and Code the City 2014
 keywords: "Northern Lights Conference, Code the City, Aberdeen"
 description: Some exciting upcoming events in the Aberdeen Development Calendar
-comments: true
 sharing: true
 categories:
   - Community Events

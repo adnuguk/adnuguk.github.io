@@ -3,7 +3,6 @@ layout: post
 author: Nyami
 keywords: Keywords
 description: Description
-comments: true
 sharing: true
 Published: 13/07/2016
 title: July 2016 Meeting - Mike Taulty

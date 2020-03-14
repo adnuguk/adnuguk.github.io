@@ -1,6 +1,5 @@
 ---
 author: gep13
-comments: true
 date: 2013-06-07 07:09:48+00:00
 layout: post
 slug: august-2013-meeting-jon-skeet-talking-about-abusing-c
@@ -69,16 +68,16 @@ He loves writing and talking about C#, and the third edition of "C# in Depth" wa
 
 
 
-	
+
   * 1800 - 1815: Arrival and registration
 
-	
+
   * 1815 - 1820: Introduction
 
-	
+
   * 1820 - 1920: Abusing C#
 
-	
+
   * 1920 onwards: Questions and drinks at the bar
 
 

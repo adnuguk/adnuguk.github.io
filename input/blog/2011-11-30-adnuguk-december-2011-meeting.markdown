@@ -1,6 +1,5 @@
 ---
 author: gep13
-comments: true
 date: 2011-11-30 13:16:00+00:00
 layout: post
 slug: adnuguk-december-2011-meeting
@@ -63,12 +62,12 @@ Craig is part of the team behind the DeveloperDeveloperDeveloper (DDD) events - 
 
 
 
-He has written hundreds of articles product/book reviews: The Delphi Magazine, International Developer, ASPToday, Developers Group magazine, MSDN Flash and Computer Headline have published his work. He specialises in all things related to .NET, C#, Borland Delphi, XML/Web Services, XSLT, Test-Driven Development, Extreme Programming, agile methods and Scrum.  
+He has written hundreds of articles product/book reviews: The Delphi Magazine, International Developer, ASPToday, Developers Group magazine, MSDN Flash and Computer Headline have published his work. He specialises in all things related to .NET, C#, Borland Delphi, XML/Web Services, XSLT, Test-Driven Development, Extreme Programming, agile methods and Scrum.
 
 
 
 
-In his career to date, Craig has written cost estimating software for the oil and gas industry and asset valuation software for local councils and the Ministry of Defence. He’s currently writing measurement management software for a major Scottish power company and a cost / risk model for a local environmental authority in Ireland.
+In his career to date, Craig has written cost estimating software for the oil and gas industry and asset valuation software for local councils and the Ministry of Defence. He's currently writing measurement management software for a major Scottish power company and a cost / risk model for a local environmental authority in Ireland.
 
 
 
@@ -77,33 +76,33 @@ He has a day-job, a wife and a son. His [blog](http://www.craigmurphy.com/blog) 
 
 
 
- 
+
 
 ## Agenda - Thursday, 24th November 2011
 
 
-  
+
 
   * 1800 - 1815: Arrival and registration
   * 1815 - 1820: Introduction
   * 1820 - 1930: The Importance of Requirements
-  * 1930 onwards: Questions and drinks at the bar 
+  * 1930 onwards: Questions and drinks at the bar
 
 
 
 ## Prize Draw
 
 
-  
+
 
 All attendees will be entered into a prize draw, with the chance of winning one of the prizes listed [here](http://www.gep13.co.uk/blog/?p=107).
 
 
-  
+
 
 ## Location and Directions
 
 
-  
+
 
 Venue: Room A12, RGU Building, St Andrews Street, Aberdeen, AB25 1HG Directions: [Map showing St Andrews Street](http://www.bing.com/maps/?v=2&cp=57.149542434132776~-2.102723645985436&lvl=17&dir=0&sty=c&eo=1&form=LMLTCC)

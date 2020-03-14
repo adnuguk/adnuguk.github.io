@@ -1,6 +1,5 @@
 ---
 author: gep13
-comments: true
 date: 2011-11-11 17:44:00+00:00
 layout: post
 slug: scottish-user-group-events-for-november-2011

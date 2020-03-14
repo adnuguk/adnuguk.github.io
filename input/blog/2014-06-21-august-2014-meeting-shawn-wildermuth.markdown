@@ -1,6 +1,5 @@
 ---
 author: gep13
-comments: true
 date: 2014-06-21 19:42:33+00:00
 layout: post
 slug: august-2014-meeting-shawn-wildermuth
@@ -58,16 +57,16 @@ Agenda - Thursday, 7th August 2014
 
 
 
-	
+
   * 1800 - 1815: Arrival and registration
 
-	
+
   * 1815 - 1820: Introduction
 
-	
+
   * 1820 - 1920: Getting started with Web API 2
 
-	
+
   * 1920 onwards: Questions and drinks at the bar
 
 

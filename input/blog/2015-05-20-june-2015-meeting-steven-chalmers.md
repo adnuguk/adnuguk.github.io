@@ -5,7 +5,6 @@ title: "June 2015 Meeting - Steven Chalmers"
 author: nyami
 keywords: ""
 description: June 2015 Meeting
-comments: true
 sharing: true
 categories:
   - blog

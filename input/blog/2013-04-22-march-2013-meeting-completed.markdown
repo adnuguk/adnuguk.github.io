@@ -1,6 +1,5 @@
 ---
 author: gep13
-comments: true
 date: 2013-04-22 14:46:26+00:00
 layout: post
 slug: march-2013-meeting-completed
@@ -19,7 +18,7 @@ tags:
 # Slides from Chocolatey Talk
 
 
-On Thursday 28th March 2013, Aberdeen Developers .Net User Group welcomed Gary Ewan Park for a talk entitled “Mmmm, Chocolatey Goodness!”.  Full details of the event can be found [here](http://www.aberdeendevelopers.co.uk/adnuguk-march-2013-meeting/).
+On Thursday 28th March 2013, Aberdeen Developers .Net User Group welcomed Gary Ewan Park for a talk entitled "Mmmm, Chocolatey Goodness!".  Full details of the event can be found [here](http://www.aberdeendevelopers.co.uk/adnuguk-march-2013-meeting/).
 
 If you were not able to attend you can see the slides below and you can also find them attached to this blog post.
 
