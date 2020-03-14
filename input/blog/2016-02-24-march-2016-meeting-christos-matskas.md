@@ -7,7 +7,6 @@ sharing: true
 categories:
   - blog
   - events
-tags: null
 Published: 24/02/2016
 title: "March 2016 Meeting - Christos Matskas"
 ---

@@ -7,7 +7,6 @@ sharing: true
 categories:
   - blog
   - events
-tags: null
 Published: 04/09/2015
 title: "September 2015 Meeting #1 - Colin Mackay"
 ---

@@ -7,7 +7,6 @@ sharing: true
 categories:
   - blog
   - events
-tags: null
 Published: 08/09/2015
 title: "September 2015 Meeting #2 - Max Vasilyev"
 ---

@@ -7,7 +7,6 @@ sharing: true
 categories:
   - blog
   - events
-tags: null
 Published: 11/04/2016
 title: "April 2016 Meeting - Gary Ewan Park"
 ---

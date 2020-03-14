@@ -7,7 +7,6 @@ sharing: true
 categories:
   - blog
   - events
-tags: null
 Published: 26/04/2016
 title: "May 2016 Meeting - Kendall Miller"
 ---
