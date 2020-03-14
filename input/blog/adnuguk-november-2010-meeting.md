@@ -1,9 +1,10 @@
 ---
-Title: '#ADNUGUK – November 2010 Meeting'
-Published: 2010-10-29 18:44:00+00:00
 Author: gep13
+Published: 29/10/2010
+Title: '#ADNUGUK – November 2010 Meeting'
 Tags:
-- Events
+- events
+RedirectFrom: adnuguk-november-2010-meeting/
 ---
 
 I have just been asked, via email, for some more details about our upcoming event on Silverlight 4, featuring Mike Taulty and Mike Ormond from Microsoft, so I thought I would post some.

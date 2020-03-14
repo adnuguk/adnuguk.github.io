@@ -1,5 +1,5 @@
 ---
-author: norman
+Author: norman
 Published: 02/02/2011
 Title: Writing Testable Validation Code Using Dependency Injection
 Tags:
