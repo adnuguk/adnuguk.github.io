@@ -3,7 +3,6 @@ author: gep13
 date: 2013-03-04 20:54:00+00:00
 slug: job-vacancy-rgu-aberdeen-web-and-applications-developer
 title: Job Vacancy - RGU, Aberdeen - Web and Applications Developer
-wordpress_id: 2763
 categories:
 - Job Vacancy
 tags:

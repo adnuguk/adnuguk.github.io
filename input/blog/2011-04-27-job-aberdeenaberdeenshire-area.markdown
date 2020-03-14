@@ -3,7 +3,6 @@ author: adnuguk
 date: 2011-04-27 19:03:53+00:00
 slug: job-aberdeenaberdeenshire-area
 title: 'Job: Aberdeen/Aberdeenshire area'
-wordpress_id: 52976403
 categories:
 - Job Vacancy
 tags:

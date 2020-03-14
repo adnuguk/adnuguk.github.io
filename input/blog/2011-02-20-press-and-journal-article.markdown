@@ -3,7 +3,6 @@ author: gep13
 date: 2011-02-20 18:20:00+00:00
 slug: press-and-journal-article
 title: Press and Journal Article
-wordpress_id: 52976396
 categories:
 - Press Releases
 ---

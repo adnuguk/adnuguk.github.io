@@ -3,7 +3,6 @@ author: adnuguk
 date: 2012-03-10 15:24:01+00:00
 slug: job-vacancy
 title: Job Vacancy
-wordpress_id: 52976401
 categories:
 - Job Vacancy
 tags:

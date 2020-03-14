@@ -3,7 +3,6 @@ author: gep13
 date: 2011-11-30 12:21:00+00:00
 slug: job-vacancy-aberdeen-university
 title: 'Job Vacancy: Aberdeen University'
-wordpress_id: 52976386
 categories:
 - Job Vacancy
 tags:

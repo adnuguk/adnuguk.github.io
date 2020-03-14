@@ -3,7 +3,6 @@ author: gep13
 date: 2011-11-13 11:35:00+00:00
 slug: october-2011-meeting-completed
 title: October 2011 Meeting - Completed
-wordpress_id: 2387
 categories:
 - Event Feedback
 - Event Material

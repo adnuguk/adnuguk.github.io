@@ -3,7 +3,6 @@ author: gep13
 date: 2013-05-14 18:09:33+00:00
 slug: job-vacancy-senergy-software-aberdeen
 title: Job Vacancy - Senergy Software - Aberdeen
-wordpress_id: 52976610
 categories:
 - Job Vacancy
 tags:

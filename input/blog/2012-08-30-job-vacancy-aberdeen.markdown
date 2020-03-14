@@ -3,7 +3,6 @@ author: gep13
 date: 2012-08-30 13:14:00+00:00
 slug: job-vacancy-aberdeen
 title: 'Job Vacancy: Aberdeen'
-wordpress_id: 2768
 categories:
 - Job Vacancy
 tags:

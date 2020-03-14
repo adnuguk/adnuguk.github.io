@@ -3,7 +3,6 @@ author: adnuguk
 date: 2012-08-07 14:28:31+00:00
 slug: microsoft-developer-camps-in-edinburgh
 title: Microsoft Developer Camps in Edinburgh
-wordpress_id: 52976399
 categories:
 - Microsoft Events
 tags:

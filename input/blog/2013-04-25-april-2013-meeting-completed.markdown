@@ -3,7 +3,6 @@ author: gep13
 date: 2013-04-25 21:36:36+00:00
 slug: april-2013-meeting-completed
 title: April 2013 Meeting - Completed
-wordpress_id: 52976595
 categories:
 - Event Feedback
 - Event Material

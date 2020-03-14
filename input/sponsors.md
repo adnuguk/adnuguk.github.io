@@ -4,7 +4,6 @@ comments: false
 date: 2013-04-18 20:18:36+00:00
 slug: sponsors
 title: Sponsors
-wordpress_id: 52976463
 permalink: /sponsors/
 ---
 

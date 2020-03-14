@@ -3,7 +3,6 @@ author: gep13
 date: 2013-03-18 22:36:00+00:00
 slug: adnuguk-march-2013-meeting
 title: ADNUGUK - March 2013 Meeting
-wordpress_id: 2762
 categories:
 - Events
 tags:

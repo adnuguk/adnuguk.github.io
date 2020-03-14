@@ -3,7 +3,6 @@ author: gep13
 date: 2011-09-21 20:42:00+00:00
 slug: consultant-job-opportunity-aberdeen
 title: Consultant Job Opportunity – Aberdeen
-wordpress_id: 9
 categories:
 - Job Vacancy
 tags:

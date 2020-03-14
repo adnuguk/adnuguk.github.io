@@ -3,7 +3,6 @@ author: gep13
 date: 2011-11-30 13:16:00+00:00
 slug: adnuguk-december-2011-meeting
 title: ADNUGUK–December 2011 Meeting
-wordpress_id: 29
 categories:
 - Events
 tags:

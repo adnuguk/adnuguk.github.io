@@ -3,7 +3,6 @@ author: gep13
 date: 2011-10-01 14:43:25+00:00
 slug: adnuguk-september-2011-meeting-completed
 title: '#ADNUGUK – September 2011 Meeting – Completed'
-wordpress_id: 39
 categories:
 - Event Feedback
 tags:

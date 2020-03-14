@@ -3,7 +3,6 @@ author: gep13
 date: 2011-10-26 06:14:00+00:00
 slug: business-partner-opportunity-in-aberdeen
 title: Business Partner Opportunity in Aberdeen
-wordpress_id: 52976389
 categories:
 - Job Vacancy
 tags:

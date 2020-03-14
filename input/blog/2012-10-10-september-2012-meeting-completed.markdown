@@ -3,7 +3,6 @@ author: gep13
 date: 2012-10-10 10:35:34+00:00
 slug: september-2012-meeting-completed
 title: September 2012 Meeting – Completed
-wordpress_id: 2767
 categories:
 - Event Feedback
 - Event Material

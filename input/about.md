@@ -4,7 +4,6 @@ comments: false
 date: 2013-04-18T20:19:08.000Z
 slug: about
 title: About
-wordpress_id: 52976465
 permalink: /about/
 ---
 

@@ -3,7 +3,6 @@ author: gep13
 date: 2011-11-09 07:47:00+00:00
 slug: gill-cleeren-tour
 title: Gill Cleeren Tour
-wordpress_id: 52976388
 categories:
 - Tours
 tags:

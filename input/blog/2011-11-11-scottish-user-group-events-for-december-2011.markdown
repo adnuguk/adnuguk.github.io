@@ -3,7 +3,6 @@ author: gep13
 date: 2011-11-11 17:52:00+00:00
 slug: scottish-user-group-events-for-december-2011
 title: Scottish User Group Events for December 2011
-wordpress_id: 52976387
 categories:
 - Monthly Event Rollup
 tags:

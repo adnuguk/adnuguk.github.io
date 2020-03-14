@@ -3,7 +3,6 @@ author: gep13
 date: 2011-02-02 21:41:00+00:00
 slug: writing-testable-validation-code-using-dependency-injection
 title: Writing Testable Validation Code Using Dependency Injection
-wordpress_id: 988
 categories:
 - Articles
 tags:

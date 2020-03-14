@@ -3,7 +3,6 @@ author: gep13
 date: 2012-05-29 19:22:00+00:00
 slug: uk-windows-azure-conference-2012
 title: UK Windows Azure Conference 2012
-wordpress_id: 2770
 categories:
 - Microsoft Events
 tags:

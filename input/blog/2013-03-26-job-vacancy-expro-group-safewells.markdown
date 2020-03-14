@@ -3,7 +3,6 @@ author: gep13
 date: 2013-03-26 21:18:00+00:00
 slug: job-vacancy-expro-group-safewells
 title: Job Vacancy - Expro Group - Safewells
-wordpress_id: 6
 categories:
 - Job Vacancy
 tags:

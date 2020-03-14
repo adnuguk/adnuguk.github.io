@@ -3,7 +3,6 @@ author: gep13
 date: 2013-09-30 20:20:04+00:00
 slug: october-2013-meeting-kendall-miller-talks-agile
 title: October 2013 Meeting - Kendall Miller talks about Agile
-wordpress_id: 52976656
 categories:
 - Events
 tags:

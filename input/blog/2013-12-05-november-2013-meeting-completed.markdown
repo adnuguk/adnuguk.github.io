@@ -3,7 +3,6 @@ author: gep13
 date: 2013-12-05 20:56:31+00:00
 slug: november-2013-meeting-completed
 title: November 2013 Meeting - Completed
-wordpress_id: 52976689
 categories:
 - Event Feedback
 - Event Material

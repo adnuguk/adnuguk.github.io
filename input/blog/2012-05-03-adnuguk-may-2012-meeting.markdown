@@ -3,7 +3,6 @@ author: gep13
 date: 2012-05-03 18:15:00+00:00
 slug: adnuguk-may-2012-meeting
 title: ADNUGUK – May 2012 Meeting
-wordpress_id: 3736
 categories:
 - Events
 tags:

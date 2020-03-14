@@ -3,7 +3,6 @@ author: gep13
 date: 2013-10-14 19:23:44+00:00
 slug: registration-dunddd-2013-now-open
 title: Registration for DunDDD 2013 is now open
-wordpress_id: 52976673
 categories:
 - Conferences
 tags:

@@ -3,7 +3,6 @@ author: gep13
 date: 2011-09-21 20:49:21+00:00
 slug: windows-developer-required-aberdeen
 title: Windows Developer Required – Aberdeen
-wordpress_id: 773
 categories:
 - Job Vacancy
 tags:
