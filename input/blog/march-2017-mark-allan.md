@@ -1,5 +1,5 @@
 ---
-Author: Nyami
+Author: nyami
 Published: 09/02/2017
 Title: March 2017 - Mark Allan
 Tags:

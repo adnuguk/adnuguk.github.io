@@ -1,5 +1,5 @@
 ---
-author: Nyami
+author: nyami
 description: ""
 categories:
   - events

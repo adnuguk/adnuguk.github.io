@@ -1,5 +1,5 @@
 ---
-author: Nyami
+author: nyami
 description: Description
 Published: 03/08/2016
 title: August 2016 Meeting - Steven Chalmers
