@@ -6,7 +6,7 @@ Tags:
   - google
   - bcs Aberdeen
   - events
-RedirectFrom: upcoming-bcs-talk-daniel-russel/
+RedirectFrom: upcoming-bcs-talk-daniel-russel/index.html
 ---
 
 ## Teaching 150K+ students at a time: The PowerSearchingWithGoogle.com story

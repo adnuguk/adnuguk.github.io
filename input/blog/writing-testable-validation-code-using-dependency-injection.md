@@ -7,7 +7,7 @@ Tags:
 - dependency injection
 - mvc
 - unit testing
-RedirectFrom: writing-testable-validation-code-using-dependency-injection/
+RedirectFrom: writing-testable-validation-code-using-dependency-injection/index.html
 ---
 
 **This article was submitted to the Aberdeen Developers .Net User Group by Norman Noble.**
