@@ -5,7 +5,6 @@ title: "August Meeting - Mike Taulty - Completed"
 author: gep13
 keywords: Keywords
 description: "August Meeting - Mike Taulty - Completed"
-sharing: true
 categories:
   - Blog
   - event material

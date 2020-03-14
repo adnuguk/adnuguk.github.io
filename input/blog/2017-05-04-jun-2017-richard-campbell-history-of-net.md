@@ -1,7 +1,6 @@
 ---
 layout: post
 author: nyami
-sharing: true
 Published: 04/05/2017
 title: Jun 2017 - Richard Campbell - History of .NET
 categories:

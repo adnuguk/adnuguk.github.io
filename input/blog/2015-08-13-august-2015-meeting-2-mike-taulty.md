@@ -5,7 +5,6 @@ title: "August 2015 Meeting #2 - Mike Taulty"
 author: nyami
 keywords: ""
 description: ""
-sharing: true
 categories:
   - blog
   - event

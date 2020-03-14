@@ -5,7 +5,6 @@ title: "March 2015 Meeting - Sebastien Lambla"
 author: nyami
 keywords: Keywords
 description: "March 2015 Meeting - Sebastien Lambla"
-sharing: true
 categories:
   - blog
   - events

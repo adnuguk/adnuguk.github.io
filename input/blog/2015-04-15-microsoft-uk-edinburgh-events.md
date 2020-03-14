@@ -5,7 +5,6 @@ title: Microsoft UK Edinburgh Events
 author: nyami
 keywords: ""
 description: Microsoft UK Edinburgh April 2015 Events
-sharing: true
 categories:
   - blog
 ---

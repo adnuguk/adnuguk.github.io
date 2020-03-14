@@ -5,7 +5,6 @@ title: "October Meeting - Gary Ewan Park - Completed"
 author: gep13
 keywords: Keywords
 description: "October Meeting - Gary Ewan Park - Completed"
-sharing: true
 categories:
   - Blog
   - event material

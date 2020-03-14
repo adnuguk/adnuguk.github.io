@@ -1,7 +1,6 @@
 ---
 layout: post
 author: Nyami
-sharing: true
 Published: 09/02/2017
 title: March 2017 - Mark Allan
 categories:

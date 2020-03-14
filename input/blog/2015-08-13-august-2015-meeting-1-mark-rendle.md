@@ -5,7 +5,6 @@ title: "August 2015 Meeting #1 - Mark Rendle"
 author: nyami
 keywords: ""
 description: ""
-sharing: true
 categories:
   - blog
   - event

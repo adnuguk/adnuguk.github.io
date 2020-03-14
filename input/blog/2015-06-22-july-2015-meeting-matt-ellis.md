@@ -5,7 +5,6 @@ title: "July 2015 Meeting - Matt Ellis"
 author: nyami
 keywords: ""
 description: "July 2015 Meeting - Matt Ellis - .NETCore Blimey!"
-sharing: true
 categories:
   - blog
   - event

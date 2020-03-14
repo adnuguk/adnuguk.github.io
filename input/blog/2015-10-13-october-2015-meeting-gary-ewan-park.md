@@ -3,7 +3,6 @@ layout: post
 author: Nyami
 keywords: ""
 description: ""
-sharing: true
 categories:
   - blog
   - events

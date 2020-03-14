@@ -3,7 +3,6 @@ layout: post
 author: nyami
 keywords: ""
 description: "ScotNetRocks! Aberdeen"
-sharing: true
 categories:
   - blog
   - events

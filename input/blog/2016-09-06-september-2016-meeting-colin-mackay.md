@@ -3,7 +3,6 @@ layout: post
 author: nyami
 keywords: Keywords
 description: Description
-sharing: true
 Published: 06/09/2016
 title: September 2016 Meeting - Colin Mackay
 categories:
