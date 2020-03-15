@@ -1,14 +1,12 @@
 ---
-author: gep13
-date: 2013-05-14 18:09:33+00:00
-slug: job-vacancy-senergy-software-aberdeen
-title: Job Vacancy - Senergy Software - Aberdeen
-categories:
-- Job Vacancy
-tags:
-- Aberdeen
-- Job Opportunity
-- Senergy
+Author: gep13
+Published: 14/05/2013
+Title: Job Vacancy - Senergy Software - Aberdeen
+Tags:
+  - aberdeen
+  - job opportunity
+  - senergy
+RedirectFrom: job-vacancy-senergy-software-aberdeen/index.html
 ---
 
 Aberdeen Developers have been asked to promote the following job vacancy. If you are interested in the position, or would like some more information, then please contact [Leanne Burnett](mailto:leanne.burnett@senergyworld.com ).  The vacancy is within the Senergy Banchory Office.

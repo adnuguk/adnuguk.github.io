@@ -1,10 +1,10 @@
 ---
-author: gep13
-date: 2013-10-05 20:15:52+00:00
-slug: northern-lights-conference-2013-aberdeen
-title: Northern Lights Conference 2013 - Aberdeen
-categories:
-- Events
+Author: gep13
+Published: 05/10/2013
+Title: Northern Lights Conference 2013 - Aberdeen
+Tags:
+  - community event
+RedirectFrom: northern-lights-conference-2013-aberdeen/index.html
 ---
 
 # Get your tickets now!

@@ -1,14 +1,12 @@
 ---
-author: gep13
-date: 2013-12-05 21:11:51+00:00
-slug: job-vacancy-net-developer-businessport-aberdeen
-title: Job Vacancy - .Net Developer at BusinessPort - Aberdeen
-categories:
-- Job Vacancy
-tags:
-- Aberdeen
-- BusinessPort
-- Job Oppurtunity
+Author: gep13
+Published: 05/12/2013
+Title: Job Vacancy - .Net Developer at BusinessPort - Aberdeen
+Tags:
+  - aberdeen
+  - businessport
+  - job oppurtunity
+RedirectFrom: job-vacancy-net-developer-businessport-aberdeen/index.html
 ---
 
 Aberdeen Developers have been asked to promote the following job vacancy.  If you are interested in the position, or would like some information, then please contact Douglas Cameron on douglas dot cameron at businessport dot net.
@@ -17,7 +15,7 @@ BusinessPort is a specialised provider of web-based Management Systems and servi
 
 We are looking for an experienced .Net Developer who has a good understanding of the .Net framework and related development tools to join our expanding team. You will have the opportunity to work with some of the latest technologies across a number of platforms as we continue to enhance and develop Agility and associated solutions. Successful candidates should be educated to degree level, have excellent communication skills, be enthusiastic about development and be a natural problem solver. You will be required to work effectively by yourself as well as within a team.
 
-Skills and experience required:
+## Skills and experience required
 
 * At least 2 years commercial C# .NET experience.
 * WPF and/or Silverlight

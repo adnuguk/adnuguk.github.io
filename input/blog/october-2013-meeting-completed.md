@@ -1,19 +1,17 @@
 ---
-author: gep13
-date: 2013-10-27 20:28:06+00:00
-slug: october-2013-meeting-completed
-title: October 2013 Meeting - Completed
-categories:
-- Event Feedback
-- Event Material
-tags:
-- Agile
-- Kendall Miller
-- Slides
+Author: gep13
+Published: 27/10/2013
+Title: October 2013 Meeting - Completed
+Tags:
+  - agile
+  - kendall miller
+  - slides
+  - event feedback
+  - event material
+RedirectFrom: october-2013-meeting-completed/index.html
 ---
 
 # Slides and Code from Agile Talk
-
 
 On Thursday 18th October 2013, Aberdeen Developers .Net User Group welcomed Kendall Miller for a talk entitled "Introducing Agile to the Enterprise".  Full details of the event can be found [here](http://adnuguk.me/1bXDVKe).
 

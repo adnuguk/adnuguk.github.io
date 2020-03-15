@@ -1,15 +1,14 @@
 ---
-author: gep13
-date: 2013-12-05 20:56:31+00:00
-slug: november-2013-meeting-completed
-title: November 2013 Meeting - Completed
-categories:
-- Event Feedback
-- Event Material
-tags:
-- Max Vasilyev
-- Slides
-- Unit Testing
+Author: gep13
+Published: 05/12/2013
+Title: November 2013 Meeting - Completed
+Tags:
+  - max vasilyev
+  - slides
+  - unit testing
+  - event feedback
+  - event material
+RedirectFrom: november-2013-meeting-completed/index.html
 ---
 
 # Slides from Unit Testing Talk

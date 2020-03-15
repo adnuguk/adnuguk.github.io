@@ -1,26 +1,25 @@
 ---
-author: gep13
-date: 2013-05-27 07:14:36+00:00
-slug: may-2013-meeting-completed
-title: May 2013 Meeting - Completed
-categories:
-- Event Feedback
-- Event Material
-tags:
-- HTML 5
-- Kendo UI
-- Remco Blok
-- Slides
-- TypeScript
+Author: gep13
+Published: 27/05/2013
+Title: May 2013 Meeting - Completed
+Tags:
+  - event feedback
+  - event material
+  - html 5
+  - kendo ui
+  - remco blok
+  - slides
+  - typeScript
+RedirectFrom: may-2013-meeting-completed/index.html
 ---
 
-# Slides from Kendo UI and TypeScript Talk
+## Slides from Kendo UI and TypeScript Talk
 
 On Thursday 23rd May 2013, Aberdeen Developers .Net User Group welcomed Remco Blok for a talk entitled "HTML5 applications with Kendo UI and TypeScript".  Full details of the event can be found [here](http://www.aberdeendevelopers.co.uk/may-2013-meeting-remco-blok-talking-about-html5/).
 
 If you were not able to attend you can see the slides below and you can also find them attached to this blog post.
 
-### HTML5 applications with Kendo UI and TypeScript
+## HTML5 applications with Kendo UI and TypeScript
 
   [
 

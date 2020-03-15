@@ -1,14 +1,13 @@
 ---
-author: gep13
-date: 2013-09-30 20:20:04+00:00
-slug: october-2013-meeting-kendall-miller-talks-agile
-title: October 2013 Meeting - Kendall Miller talks about Agile
-categories:
-- Events
-tags:
-- Agile
-- Enterprise
-- Kendall Miller
+Author: gep13
+Published: 30/09/2013
+Title: October 2013 Meeting - Kendall Miller talks about Agile
+Tags:
+  - event
+  - agile
+  - enterprise
+  - kendall miller
+RedirectFrom: october-2013-meeting-kendall-miller-talks-agile/index.html
 ---
 
 Aberdeen Developers are pleased to present a talk by Kendall Miller on Thursday 17th October 2013 at the Robert Gordon University.

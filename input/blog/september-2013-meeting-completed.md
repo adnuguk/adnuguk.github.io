@@ -1,16 +1,15 @@
 ---
-author: gep13
-date: 2013-10-05 19:57:36+00:00
-slug: september-2013-meeting-completed
-title: September 2013 Meeting - Completed
-categories:
-- Event Feedback
-- Event Material
-tags:
-- Code
-- Martin Taylor
-- Prism
-- Slides
+Author: gep13
+Published: 05/10/2013
+Title: September 2013 Meeting - Completed
+Tags:
+  - code
+  - martin taylor
+  - prism
+  - slides
+  - event material
+  - event feedback
+RedirectFrom: september-2013-meeting-completed/index.html
 ---
 
 ## Slides and Code from Prism Talk

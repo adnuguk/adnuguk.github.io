@@ -1,19 +1,17 @@
 ---
-author: gep13
-date: 2013-10-05 19:47:48+00:00
-slug: august-2013-meeting-completed
-title: August 2013 Meeting - Completed
-categories:
-- Event Feedback
-- Event Material
-tags:
-- Abusing C#
-- Code
-- Jon Skeet
+Author: gep13
+Published: 05/10/2013
+Title: August 2013 Meeting - Completed
+Tags:
+  - abusing c#
+  - code
+  - jon skeet
+  - event feedback
+  - event material
+RedirectFrom: august-2013-meeting-completed/index.html
 ---
 
-# Code from Abusing C# Talk
-
+## Code from Abusing C# Talk
 
 On Thursday 8th August 2013, Aberdeen Developers .Net User Group welcomed Jon Skeet for a talk entitled "Abusing C#".  Full details of the event can be found [here](http://adnuguk.me/11ooiSC).
 

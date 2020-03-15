@@ -1,14 +1,12 @@
 ---
-author: gep13
-date: 2013-03-04 20:54:00+00:00
-slug: job-vacancy-rgu-aberdeen-web-and-applications-developer
-title: Job Vacancy - RGU, Aberdeen - Web and Applications Developer
-categories:
-- Job Vacancy
-tags:
-- Aberdeen
-- Job Opportunity
-- RGU
+Author: gep13
+Published: 04/03/2013
+Title: Job Vacancy - RGU, Aberdeen - Web and Applications Developer
+Tags:
+  - aberdeen
+  - job opportunity
+  - rgu
+RedirectFrom: job-vacancy-rgu-aberdeen-web-and-applications-developer/index.html
 ---
 
 Aberdeen Developers have been asked to promote the following job vacancy.  If you are interested in teh position, then please use the form located [here](http://www4.rgu.ac.uk/jobs/disp_details_sum.cfm?RJ_ID=38554&lDisplayed=38614,38498,38654,38615,38454,38434,38616,38514,38195,38497,38595,38554):

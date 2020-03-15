@@ -1,14 +1,13 @@
 ---
-author: gep13
-date: 2013-03-18 22:36:00+00:00
-slug: adnuguk-march-2013-meeting
-title: ADNUGUK - March 2013 Meeting
-categories:
-- Events
-tags:
-- Chocolatey
-- Gary Ewan Park
-- Package Manager
+Author: gep13
+Published: 18/03/2013
+Title: ADNUGUK - March 2013 Meeting
+Tags:
+  - event
+  - chocolatey
+  - gary ewan park
+  - package manager
+RedirectFrom: adnuguk-march-2013-meeting/index.html
 ---
 
 Aberdeen Developers are pleased to present a talk by Gary Ewan Park on Thursday 28th March 2013 at the Robert Gordon University.

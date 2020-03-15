@@ -1,15 +1,13 @@
 ---
-author: gep13
-date: 2013-10-14 19:23:44+00:00
-slug: registration-dunddd-2013-now-open
-title: Registration for DunDDD 2013 is now open
-categories:
-- Conferences
-tags:
-- Conference
-- DDD
-- DunDDD
-- Dundee
+Author: gep13
+Published: 14/10/2013
+Title: Registration for DunDDD 2013 is now open
+Tags:
+  - conference
+  - ddd
+  - dunddd
+  - dundee
+RedirectFrom: registration-dunddd-2013-now-open/index.html
 ---
 
 ## Grab your ticket for DunDDD quickly so you don't miss out!

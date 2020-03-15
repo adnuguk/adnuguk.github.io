@@ -1,22 +1,20 @@
 ---
-author: gep13
-date: 2013-10-05 19:41:08+00:00
-slug: july-2013-meeting-completed
-title: July 2013 Meeting - Completed
-categories:
-- Event Feedback
-- Event Material
-tags:
-- Async
-- Await
-- Bill Wagner
-- C# 5
-- Code
-- Slides
+Author: gep13
+Published: 05/10/2013
+Title: July 2013 Meeting - Completed
+Tags:
+  - async
+  - await
+  - bill wagner
+  - c# 5
+  - code
+  - slides
+  - event material
+  - event feedback
+RedirectFrom: july-2013-meeting-completed/index.html
 ---
 
 # Slides and Code from Aysnc and Await Practices in C# 5 Talk - Bill Wagner
-
 
 On Thursday 4th July 2013, Aberdeen Developers .Net User Group welcomed Bill Wagner for a talk entitled "Async / Await Practices in C# 5".  Full details of the event can be found [here](http://adnuguk.me/194e6Xd).
 

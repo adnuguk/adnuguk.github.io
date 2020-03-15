@@ -1,14 +1,13 @@
 ---
-author: gep13
-date: 2013-03-18 22:41:00+00:00
-slug: adnuguk-april-2013-meeting
-title: ADNUGUK - April 2013 Meeting
-categories:
-- Events
-tags:
-- Gill Cleeren
-- MVVM
-- Windows 8
+Author: gep13
+Published: 18/03/2013
+Title: ADNUGUK - April 2013 Meeting
+Tags:
+  - event
+  - gill cleeren
+  - mvvm
+  - windows 8
+RedirectFrom: adnuguk-april-2013-meeting/index.html
 ---
 
 Aberdeen Developers are pleased to present a talk by Gill Cleeren on Tuesday 23rd April 2013 at the Robert Gordon University.

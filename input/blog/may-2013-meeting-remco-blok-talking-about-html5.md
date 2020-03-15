@@ -1,15 +1,14 @@
 ---
-author: gep13
-date: 2013-04-24 21:58:09+00:00
-slug: may-2013-meeting-remco-blok-talking-about-html5
-title: May 2013 Meeting - Remco Blok talking about HTML5
-categories:
-- Events
-tags:
-- HTML5
-- KendoUI
-- Remco Blok
-- TypeScript
+Author: gep13
+Published: 24/04/2013
+Title: May 2013 Meeting - Remco Blok talking about HTML5
+Tags:
+  - event
+  - html5
+  - kendo ui
+  - remco blok
+  - typeScript
+RedirectFrom: may-2013-meeting-remco-blok-talking-about-html5/index.html
 ---
 
 Aberdeen Developers are pleased to present a talk by Remco Blok on Thursday 23rd May 2013 at the Robert Gordon University.

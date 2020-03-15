@@ -1,13 +1,12 @@
 ---
-author: gep13
-date: 2013-11-03 20:31:57+00:00
-slug: november-2013-meeting-max-vasilyev-talks-unit-testing
-title: November 2013 Meeting - Max Vasilyev talks about Unit Testing
-categories:
-- Events
-tags:
-- Max Vasilyev
-- Unit Testing
+Author: gep13
+Published: 03/11/2013
+Title: November 2013 Meeting - Max Vasilyev talks about Unit Testing
+Tags:
+  - event
+  - max vasilyev
+  - unit testing
+RedirectFrom: november-2013-meeting-max-vasilyev-talks-unit-testing/index.html
 ---
 
 Aberdeen Developers are pleased to present a talk by Max Vasilyev on Thursday 17th November 2013 at the Robert Gordon University.

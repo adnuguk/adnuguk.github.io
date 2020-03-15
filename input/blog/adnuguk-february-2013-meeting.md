@@ -1,13 +1,12 @@
 ---
-author: gep13
-date: 2013-02-12 20:28:00+00:00
-slug: adnuguk-february-2013-meeting
-title: ADNUGUK - February 2013 Meeting
-categories:
-- Events
-tags:
-- Seb Rose
-- Unit Testing
+Author: gep13
+Published: 12/02/2013
+Title: ADNUGUK - February 2013 Meeting
+Tags:
+  - event
+  - seb rose
+  - unit testing
+RedirectFrom: adnuguk-february-2013-meeting/index.html
 ---
 
 Aberdeen Developers are pleased to present a talk by Seb Rose on Thursday 28th February 2013 at the Robert Gordon University.

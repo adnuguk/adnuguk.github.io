@@ -1,14 +1,12 @@
 ---
-author: gep13
-date: 2013-01-12 12:21:18+00:00
-slug: job-vacancy-aberdeen-net-developer
-title: 'Job Vacancy: Aberdeen .Net Developer'
-categories:
-- Job Vacancy
-tags:
-- .Net Developer
-- Aberdeen
-- Job Opportunity
+Author: gep13
+Published: 12/01/2013
+Title: 'Job Vacancy: Aberdeen .Net Developer'
+Tags:
+  - .net developer
+  - aberdeen
+  - job opportunity
+RedirectFrom: job-vacancy-aberdeen-net-developer/index.html
 ---
 
 Aberdeen Developers have been asked to promote the following job vacancy. If you are interested in the position, then please contact Anthony on [agraham@astoncarter.co.uk](mailto:agraham@astoncarter.co.uk).
