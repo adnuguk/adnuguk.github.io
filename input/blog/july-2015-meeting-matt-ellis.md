@@ -1,9 +1,12 @@
 ---
+Author: nyami
 Published: 22/06/2015
-title: "July 2015 Meeting - Matt Ellis"
-author: nyami
-categories:
+Title: "July 2015 Meeting - Matt Ellis"
+Tags:
   - event
+  - matt ellis
+  - .net core
+RedirectFrom: july-2015-meeting-matt-ellis/index.html
 ---
 
 Aberdeen Developers are pleased to present the final night of Matt Ellis's Scottish Tour. Join us on Thursday 23rd July 2015 at the Robert Gordon University to learn more about Microsoft's recent move to open-source .NET!

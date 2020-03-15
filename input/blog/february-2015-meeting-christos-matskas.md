@@ -4,12 +4,12 @@ Published: 09/01/2015
 Title: "February 2015 Meeting - Christos Matskas"
 Tags:
   - events
+  - christos matskas
+  - xamarin
 RedirectFrom: february-2015-meeting-christos-matskas/index.html
 ---
 
 Aberdeen Developers are pleased to present a talk by Christos Matskas, this is a joint event with BCS Aberdeen Branch on Thursday 19th February 2015 at the Robert Gordon University.
-
-* * *
 
 ## Cross platform mobile development with the power of Xamarin
 

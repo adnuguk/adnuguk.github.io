@@ -1,9 +1,12 @@
 ---
+Author: nyami
 Published: 25/02/2015
-title: "February Meeting - Christos Matskas - Completed"
-author: nyami
-categories:
+Title: "February Meeting - Christos Matskas - Completed"
+Tags:
   - event material
+  - christos matskas
+  - xamarin
+RedirectFrom: february-meeting-christos-matskas-completed/index.html
 ---
 
 Thanks once again to Christos for making the journey up to Aberdeen to deliver his awesome talk on Cross platform mobile development with the power of Xamarin! Christos has provided a in depth review his trip along with his slides and the videos captured by himself and BCS Aberdeen, you can find his blog post [here][Christos_Blog_Post].  If you want to get in touch with Christos, you can use his twitter account [@christosmatskas][Christos_Twitter_Account] and make sure you follow him for up-to-date news, articles and tips.

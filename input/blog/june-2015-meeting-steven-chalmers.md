@@ -1,9 +1,13 @@
 ---
+Author: nyami
 Published: 20/05/2015
-title: "June 2015 Meeting - Steven Chalmers"
-author: nyami
-categories:
+Title: "June 2015 Meeting - Steven Chalmers"
+Tags:
   - event
+  - steven chalmers
+  - telerik
+  - kendo ui
+RedirectFrom: june-2015-meeting-steven-chalmers/index.html
 ---
 
 Aberdeen Developers are pleased to present a talk by Steven Chalmers, on Thursday 18th June 2015 at the Robert Gordon University.

@@ -1,9 +1,12 @@
 ---
+Author: nyami
 Published: 03/03/2015
-title: "March 2015 Meeting - Sebastien Lambla"
-author: nyami
-categories:
+Title: "March 2015 Meeting - Sebastien Lambla"
+Tags:
   - events
+  - sebastien lambla
+  - owin
+RedirectFrom: march-2015-meeting-sebastien-lambla/index.html
 ---
 
 Aberdeen Developers are pleased to present a talk by Sebastien Lambla, on Thursday 12th March 2015 at the Robert Gordon University.

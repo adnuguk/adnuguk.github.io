@@ -2,7 +2,11 @@
 Author: nyami
 Published: 15/04/2015
 Title: Microsoft UK Edinburgh Events
-categories:
+Tags:
+  - microsoft
+  - azure
+  - edinburgh
+RedirectFrom: microsoft-uk-edinburgh-events/index.html
 ---
 
 Microsoft UK are running a couple of one day events in Edinburgh this month (April), these events offer hands-on sessions guided by experts and are a great place to start with the basics and an opportunity to pick the brains of the experts.

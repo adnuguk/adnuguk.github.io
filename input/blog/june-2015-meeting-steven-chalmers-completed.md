@@ -1,9 +1,13 @@
 ---
+Author: nyami
 Published: 19/06/2015
-title: "June 2015 Meeting -  Completed"
-author: nyami
-categories:
-  - Event Material
+Title: "June 2015 Meeting -  Completed"
+Tags:
+  - event material
+  - steven chalmers
+  - telerik
+  - kendo ui
+RedirectFrom: june-2015-meeting-steven-chalmers-completed/index.html
 ---
 
 ## Slides and Code from June's Talk
