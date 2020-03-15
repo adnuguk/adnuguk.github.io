@@ -1,9 +1,13 @@
 ---
+Author: nyami
 Published: 13/08/2015
-title: "August 2015 Meeting #1 - Mark Rendle"
-author: nyami
-categories:
+Title: "August 2015 Meeting #1 - Mark Rendle"
+Tags:
   - event
+  - mark rendle
+  - docker
+  - asp.net
+RedirectFrom: august-2015-meeting-1-mark-rendle/index.html
 ---
 
 Aberdeen Developers are pleased to present a talk by Mark Rendle, on Thursday 20th August 2015 at the Robert Gordon University.

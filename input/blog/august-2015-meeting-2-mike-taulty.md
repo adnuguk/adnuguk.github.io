@@ -1,9 +1,13 @@
 ---
+Author: nyami
 Published: 13/08/2015
-title: "August 2015 Meeting #2 - Mike Taulty"
-author: nyami
-categories:
+Title: "August 2015 Meeting #2 - Mike Taulty"
+Tags:
   - event
+  - mike taulty
+  - windows 10
+  - uwp
+RedirectFrom: august-2015-meeting-2-mike-taulty/index.html
 ---
 
 Aberdeen Developers are pleased to present a talk by Mike Taulty, on Thursday 27th August 2015 at the Robert Gordon University.
