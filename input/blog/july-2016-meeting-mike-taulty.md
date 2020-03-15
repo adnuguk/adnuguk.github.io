@@ -1,9 +1,12 @@
 ---
-author: nyami
+Author: nyami
 Published: 13/07/2016
-title: July 2016 Meeting - Mike Taulty
-categories:
+Title: July 2016 Meeting - Mike Taulty
+Tags:
   - events
+  - mike taulty
+  - cognitive services
+RedirectFrom: july-2016-meeting-mike-taulty/index.html
 ---
 
 Aberdeen Developers are pleased to present a talk by Mike Taulty, on Thursday 21th July 2016 at the Robert Gordon University.

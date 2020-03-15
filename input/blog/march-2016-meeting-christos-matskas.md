@@ -1,9 +1,13 @@
 ---
-author: gep13
-categories:
-  - events
+Author: gep13
 Published: 24/02/2016
-title: "March 2016 Meeting - Christos Matskas"
+Title: "March 2016 Meeting - Christos Matskas"
+Tags:
+  - events
+  - christos matskas
+  - asp.net core
+  - oss
+RedirectFrom: march-2016-meeting-christos-matskas/index.html
 ---
 
 Aberdeen Developers are pleased to present a talk by Christos Matskas, on Thursday 24th March 2016 at the Robert Gordon University.

@@ -1,9 +1,12 @@
 ---
-author: nyami
-categories:
-  - events
+Author: nyami
 Published: 26/04/2016
-title: "May 2016 Meeting - Kendall Miller"
+Title: "May 2016 Meeting - Kendall Miller"
+Tags:
+  - events
+  - kendall miller
+  - azure
+RedirectFrom: may-2016-meeting-kendall-miller/index.html
 ---
 
 Aberdeen Developers are pleased to present a talk by Kendall Miller, on Thursday 12th May 2016 at Aberdeen University's Meston Building.

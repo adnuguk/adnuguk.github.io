@@ -1,9 +1,12 @@
 ---
-author: nyami
-categories:
-  - events
+Author: nyami
 Published: 11/04/2016
-title: "April 2016 Meeting - Gary Ewan Park"
+Title: "April 2016 Meeting - Gary Ewan Park"
+Tags:
+  - events
+  - gary ewan park
+  - cake
+RedirectFrom: april-2016-meeting-gary-ewan-park/index.html
 ---
 
 Aberdeen Developers are pleased to present a talk by Gary Ewan Park, on Thursday 21st April 2016 at the Robert Gordon University.

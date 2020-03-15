@@ -1,9 +1,14 @@
 ---
-author: nyami
-categories:
-  - events
+Author: nyami
 Published: 02/01/2016
-title: "ScotNetRocks! Aberdeen"
+Title: "ScotNetRocks! Aberdeen"
+Tags:
+  - events
+  - carl franklin
+  - richard campbell
+  - gary short
+  - scotnetrocks
+RedirectFrom: scotnetrocks-aberdeen/index.html
 ---
 
 Aberdeen Developers are pleased to present the final night of the ScotNetRocks! tour, hopefully you'll be able to join us to hear Carl and Richard kick off the evening as they take us on a tour of the broad range of subjects they've explored recording more than 1200 episodes of .NET Rocks over the past 10+ years. After a short break, in which we are hoping to provide some light refreshments, Carl and Richard will be recording a live show with special guest Gary Short.
