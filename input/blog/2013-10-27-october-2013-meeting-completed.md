@@ -15,7 +15,7 @@ tags:
 # Slides and Code from Agile Talk
 
 
-On Thursday 18th October 2013, Aberdeen Developers .Net User Group welcomed Kendall Miller for a talk entitled "Introducing Agile to the Enterprise".  Full details of the event can be found [here](http://adnuguk.me/1bXDVKe).
+On Thursday 18th October 2013, Aberdeen Developers .Net User Group welcomed Kendall Miller for a talk entitled "Introducing Agile to the Enterprise".  Full details of the event can be found [here](http://adnuguk.me/1bXDVKe).
 
 If you were not able to attend you can get the slides from the slideshare links below:
 

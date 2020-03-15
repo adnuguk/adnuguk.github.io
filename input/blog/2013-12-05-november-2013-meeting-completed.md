@@ -14,7 +14,6 @@ tags:
 
 # Slides from Unit Testing Talk
 
-
-On Thursday 21st November 2013, Aberdeen Developers .Net User Group welcomed Max Vasilyev for a talk entitled "".  Full details of the event can be found [here](http://adnuguk.me/1hbuLgl).
+On Thursday 21st November 2013, Aberdeen Developers .Net User Group welcomed Max Vasilyev for a talk entitled "".  Full details of the event can be found [here](http://adnuguk.me/1hbuLgl).
 
 If you were not able to attend, you can find the slides on Max's site [here](http://tech.trailmax.info/talks/).

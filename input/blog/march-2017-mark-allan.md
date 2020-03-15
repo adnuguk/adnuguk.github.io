@@ -37,7 +37,7 @@ Mark is a software developer based on the beautiful North Coast of Ireland. He's
 
 Venue: Room N345, The Sir Ian Wood Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7GJ, GB
 
-Directions: [Map showing Garthdee Campus](https://www.google.co.uk/maps/place/The+Sir+Ian+Wood+Building,+Garthdee+Rd,+Aberdeen+AB10+7GJ)
+Directions: [Map showing Garthdee Campus](https://www.google.co.uk/maps/place/The+Sir+Ian+Wood+Building,+Garthdee+Rd,+Aberdeen+AB10+7GJ)
 
 ## Prize Draw
 

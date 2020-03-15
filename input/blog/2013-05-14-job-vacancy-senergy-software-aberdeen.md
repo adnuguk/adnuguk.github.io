@@ -11,7 +11,7 @@ tags:
 - Senergy
 ---
 
-Aberdeen Developers have been asked to promote the following job vacancy. If you are interested in the position, or would like some more information, then please contact [Leanne Burnett](mailto:leanne.burnett@senergyworld.com ).  The vacancy is within the Senergy Banchory Office.
+Aberdeen Developers have been asked to promote the following job vacancy. If you are interested in the position, or would like some more information, then please contact [Leanne Burnett](mailto:leanne.burnett@senergyworld.com ).  The vacancy is within the Senergy Banchory Office.
 
 Senergy Software was launched as a result of significant business growth within Senergy's oil and gas division and is supported by the Group's international locations and technical specialists. The software division develops, markets and supports innovative technologies including Interactive Petrophysics (IP) and Oilfield Data Manager (ODM3) which have become invaluable resource tools for more than 500 Senergy clients globally.
 

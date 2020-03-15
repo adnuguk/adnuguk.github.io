@@ -34,7 +34,7 @@ Max Vasilyev is a Senior Developer in one of Aberdeen's .Net development houses.
 
 Venue: Room N346, Riverside East Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7QQ, GB
 
-Directions: [Map showing Garthdee Campus](https://maps.google.co.uk/maps?q=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,+Aberdeen,+Aberdeen+City+AB10+7QG,+GB&hl=en&ll=57.119317,-2.136133&spn=0.004165,0.012413&sll=57.746995,-4.687341&sspn=8.392957,25.422363&hq=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,&hnear=AB10+7QG,+United+Kingdom&t=m&z=17&iwloc=A)
+Directions: [Map showing Garthdee Campus](https://maps.google.co.uk/maps?q=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,+Aberdeen,+Aberdeen+City+AB10+7QG,+GB&hl=en&ll=57.119317,-2.136133&spn=0.004165,0.012413&sll=57.746995,-4.687341&sspn=8.392957,25.422363&hq=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,&hnear=AB10+7QG,+United+Kingdom&t=m&z=17&iwloc=A)
 
 ## Prize Draw
 

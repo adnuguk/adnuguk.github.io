@@ -32,7 +32,7 @@ Keith Davidson has been programming web sites and apps since the late 90's and s
 
 Venue: Room N311, The Sir Ian Wood Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7GJ, GB
 
-Directions: [Map showing Garthdee Campus](https://www.google.co.uk/maps/place/The+Sir+Ian+Wood+Building,+Garthdee+Rd,+Aberdeen+AB10+7GJ)
+Directions: [Map showing Garthdee Campus](https://www.google.co.uk/maps/place/The+Sir+Ian+Wood+Building,+Garthdee+Rd,+Aberdeen+AB10+7GJ)
 
 ## Prize Draw
 

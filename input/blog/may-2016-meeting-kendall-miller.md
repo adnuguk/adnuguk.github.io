@@ -43,7 +43,7 @@ Kendall Miller is one of the founding partners of Gibraltar Software, an Indepen
 
 Venue: Meston Building (Enter via North Entrance), University of Aberdeen, Aberdeen, AB24 3UE
 
-Directions: [Meston Building](https://www.google.com/maps/d/viewer?mid=zy5sr2VnGJ2w.khFsoArRBh_Y&hl=en)
+Directions: [Meston Building](https://www.google.com/maps/d/viewer?mid=zy5sr2VnGJ2w.khFsoArRBh_Y&hl=en)
 
 ## Prize Draw
 

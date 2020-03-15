@@ -11,8 +11,7 @@ tags:
 - Job Oppurtunity
 ---
 
-Aberdeen Developers have been asked to promote the following job vacancy.  If you are interested in the position, or would like some information, then please contact Douglas Cameron on douglas dot cameron at businessport dot net.
-
+Aberdeen Developers have been asked to promote the following job vacancy.  If you are interested in the position, or would like some information, then please contact Douglas Cameron on douglas dot cameron at businessport dot net.
 
 BusinessPort is a specialised provider of web-based Management Systems and services that enable organisations to optimise the interaction between people, process, risk and regulations. Since formation, BusinessPort has assisted companies in all industries to move away from the complexity and inconsistency of paper procedures and delivered proven methodologies and technologies to help them propagate best practice throughout their organisations.
 
@@ -20,57 +19,22 @@ We are looking for an experienced .Net Developer who has a good understanding of
 
 Skills and experience required:
 
-
-
-
-  * At least 2 years commercial C# .NET experience.
-
-
-  * WPF and/or Silverlight
-
-
-  * Asp.net (Web forms and/or MVC)
-
-
-  * HTML, CSS and JavaScript
-
-
-  * WCF
-
-
-  * Microsoft SQL Server
-
-
-  * Experience with working with ORMs (ie LINQ to SQL or Entity Framework)
-
-
-  * Familiarly with source control (TFS, Subversion, VSS etc)
-
+* At least 2 years commercial C# .NET experience.
+* WPF and/or Silverlight
+* Asp.net (Web forms and/or MVC)
+* HTML, CSS and JavaScript
+* WCF
+* Microsoft SQL Server
+* Experience with working with ORMs (ie LINQ to SQL or Entity Framework)
+* Familiarly with source control (TFS, Subversion, VSS etc)
 
 One or more of the following skills would be beneficial:
 
-
-  * Office Add in development
-
-
-  * Works with Unit Testing such as NUnit or MSTest
-
-
-  * Experience or an interest in mobile development
-
-
-  * SSIS (SQL Server Integration Services)
-
-
-  * SSRS (SQL Server Reporting Services)
-
-
-  * Installation and deployment tools
-
-
-  * Microsoft Certification
-
-
-  * SharePoint
-
-
+* Office Add in development
+* Works with Unit Testing such as NUnit or MSTest
+* Experience or an interest in mobile development
+* SSIS (SQL Server Integration Services)
+* SSRS (SQL Server Reporting Services)
+* Installation and deployment tools
+* Microsoft Certification
+* SharePoint

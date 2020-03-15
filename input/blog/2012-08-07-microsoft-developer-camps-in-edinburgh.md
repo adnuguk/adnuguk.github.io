@@ -11,7 +11,7 @@ tags:
 - WIndows Azure
 ---
 
-Are you currently using, or away to use, Windows Azure, or developing an application for Windows 8?  If so, then a series of Developer Camps running in Edinburgh might be right up your street!  These events will likely fill up very quickly, so if you are at all interested, I would suggest that you sign up early!
+Are you currently using, or away to use, Windows Azure, or developing an application for Windows 8?  If so, then a series of Developer Camps running in Edinburgh might be right up your street!  These events will likely fill up very quickly, so if you are at all interested, I would suggest that you sign up early!
 
 
 ### Windows Azure Developer Camp – 30th August – Radisson Blu, Edinburgh
