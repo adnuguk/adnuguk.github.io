@@ -1,15 +1,13 @@
 ---
-author: gep13
-date: 2012-10-16 19:43:00+00:00
-slug: adnuguk-november-2012-meeting
-title: ADNUGUK - November 2012 Meeting
-categories:
-- Events
-tags:
-- backbone.js
-- Chris Canal
-- Simple.Web
-- Single Page
+Author: gep13
+Published: 16/10/2012
+Title: ADNUGUK - November 2012 Meeting
+Tags:
+  - backbone.js
+  - chris canal
+  - simple.web
+  - single page
+RedirectFrom: adnuguk-november-2012-meeting/index.html
 ---
 
 _**NOTE: Unfortunately, we have had to cancel this event.  I am going to try to re-schedule it for later in the year, but for now, the event will NOT be happening!**_

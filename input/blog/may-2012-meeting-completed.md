@@ -1,15 +1,14 @@
 ---
-author: gep13
-date: 2012-05-29 11:46:26+00:00
-slug: may-2012-meeting-completed
-title: May 2012 Meeting – Completed
-categories:
-- Event Feedback
-- Event Material
-tags:
-- Jedi Mind Control
-- Rob Lally
-- Slides
+Author: gep13
+Published: 29/05/2012
+Title: May 2012 Meeting – Completed
+Tags:
+  - event material
+  - event feedback
+  - jedi mind control
+  - rob lally
+  - slides
+RedirectFrom: may-2012-meeting-completed/index.html
 ---
 
 On Thursday 24th May 2012, Aberdeen Developers .Net User Group welcomed Rob Lally for a talk entitled "Jedi Mind Control 101". Full details of the event can be found [here](http://adnuguk-may2012.eventbrite.com/?ebtv=C).

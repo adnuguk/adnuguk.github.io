@@ -1,15 +1,13 @@
 ---
-author: adnuguk
-date: 2012-03-10 15:24:01+00:00
-slug: job-vacancy
-title: Job Vacancy
-categories:
-- Job Vacancy
-tags:
-- Aberdeen
-- C#
-- Job Opportunity
-- Winforms
+Author: adnuguk
+Published: 10/03/2012
+Title: Job Vacancy
+Tags:
+  - aberdeen
+  - c#
+  - job opportunity
+  - winforms
+RedirectFrom: job-vacancy/index.html
 ---
 
 Aberdeen Developers have been asked to promote the following job vacancy. If you are interested in the position, please contact donna at tsdspecialistsdot co dot uk (replace the at and dot with @ and . respectively. Trying to stop those nasty spiders getting the email address). Details of the job are as follows:

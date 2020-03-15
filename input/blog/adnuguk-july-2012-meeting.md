@@ -1,16 +1,15 @@
 ---
-author: gep13
-date: 2012-05-15 20:05:00+00:00
-slug: adnuguk-july-2012-meeting
-title: ADNUGUK – July 2012 Meeting
-categories:
-- Events
-tags:
-- ASP.NET
-- Cloud
-- Meetings
-- Open Source
-- Scott Hanselman
+Author: gep13
+Published: 15/05/2012
+Title: ADNUGUK – July 2012 Meeting
+Tags:
+  - event
+  - asp.net
+  - cloud
+  - meetings
+  - open source
+  - scott hanselman
+RedirectFrom: adnuguk-july-2012-meeting/index.html
 ---
 
 Aberdeen Developers are pleased to present a talk by Scott Hanselman on Thursday 12th July 2012 at the Robert Gordon University. This event is part of a tour which Scott is doing whilst in Scotland. For more details of the other events, see this [blog post](http://www.gep13.co.uk/blog/scott-hanselman-doing-user-group-tour-of-scotland/).

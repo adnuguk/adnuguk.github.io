@@ -1,15 +1,13 @@
 ---
-author: gep13
-date: 2012-01-20 17:59:28+00:00
-slug: job-vacancy-evoke-it-aberdeen
-title: 'Job Vacancy: Evoke IT, Aberdeen'
-categories:
-- Job Vacancy
-tags:
-- Aberdeen
-- Job Opportunity
-- SharePoint
-- Web
+Author: gep13
+Published: 20/01/2012
+Title: 'Job Vacancy: Evoke IT, Aberdeen'
+Tags:
+  - aberdeen
+  - job opportunity
+  - sharepoint
+  - web
+RedirectFrom: job-vacancy-evoke-it-aberdeen/index.html
 ---
 
 Aberdeen Developers have been asked to promote the following job vacancy at a local Aberdeen startup. If you are interested in the position, please contact info at evokeit dot com (replace the at and dot with @ and . respectively. Trying to stop those nasty spiders getting the email address. Details of the job are as follows:
