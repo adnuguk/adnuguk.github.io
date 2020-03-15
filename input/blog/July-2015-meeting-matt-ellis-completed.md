@@ -1,9 +1,12 @@
 ---
+Author: gep13
 Published: 23/07/2015
-title: "July Meeting - Matt Ellis - Completed"
-author: gep13
-categories:
+Title: "July Meeting - Matt Ellis - Completed"
+Tags:
   - event material
+  - matt ellis
+  - .net core
+RedirectFrom: July-2015-meeting-matt-ellis-completed/index.html
 ---
 
 Thanks once again to Matt for making the journey up to Aberdeen to deliver his awesome talk on .Net Core!  If you want to get in touch with Matt, you can use his twitter account [@citizenmatt][Matt_Twitter_Account] and make sure you follow him for up-to-date news, articles and tips. You can also find a copy of the slides used in the presentation [here][Matt_Slides].
