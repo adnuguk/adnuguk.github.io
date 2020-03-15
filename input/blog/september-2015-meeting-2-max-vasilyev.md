@@ -1,9 +1,12 @@
 ---
-author: nyami
-categories:
-  - events
+Author: nyami
 Published: 08/09/2015
-title: "September 2015 Meeting #2 - Max Vasilyev"
+Title: "September 2015 Meeting #2 - Max Vasilyev"
+Tags:
+  - events
+  - max vasilyev
+  - cqrs
+RedirectFrom: september-2015-meeting-2-max-vasilyev/index.html
 ---
 
 Aberdeen Developers are pleased to present a talk by Max Vasilyev, on Thursday 24th September 2015 at the Robert Gordon University.

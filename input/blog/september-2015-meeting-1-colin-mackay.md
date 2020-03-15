@@ -1,9 +1,12 @@
 ---
-author: nyami
-categories:
-  - events
+Author: nyami
 Published: 04/09/2015
-title: "September 2015 Meeting #1 - Colin Mackay"
+Title: "September 2015 Meeting #1 - Colin Mackay"
+Tags:
+  - events
+  - colin mackay
+  - continuous delivery
+RedirectFrom: september-2015-meeting-1-colin-mackay/index.html
 ---
 
 Aberdeen Developers are pleased to present a talk by Colin Mackay, on Thursday 10th September 2015 at the Robert Gordon University.

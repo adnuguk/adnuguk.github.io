@@ -1,9 +1,12 @@
 ---
+Author: gep13
 Published: 25/09/2015
-title: "September Meeting - Colin Mackay - Completed"
-author: gep13
-categories:
+Title: "September Meeting - Colin Mackay - Completed"
+Tags:
   - event material
+  - colin mackay
+  - continuous delivery
+RedirectFrom: September-2015-meeting-colin-mackay-completed/index.html
 ---
 
 Thanks once again to Colin for making the journey up to Aberdeen to deliver his awesome talk on Continuous Delivery!  If you want to get in touch with Colin, you can use his twitter account [@colinmackay][Colin_Twitter_Account] and make sure you follow him for up-to-date news, articles and tips. You can also find a copy of the slides used in the presentation [here][Colin_Slides].

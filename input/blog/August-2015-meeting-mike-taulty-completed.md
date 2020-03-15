@@ -1,9 +1,13 @@
 ---
+Author: gep13
 Published: 25/09/2015
-title: "August Meeting - Mike Taulty - Completed"
-author: gep13
-categories:
+Title: "August Meeting - Mike Taulty - Completed"
+Tags:
   - event material
+  - mike taulty
+  - windows 10
+  - uwp
+RedirectFrom: August-2015-meeting-mike-taulty-completed/index.html
 ---
 
 Thanks once again to Mike for making the journey up to Aberdeen to deliver his awesome talk on Windows 10 and the Universal Windows App Platform!  If you want to get in touch with Mike, you can use his twitter account [@mtaulty][Mike_Twitter_Account] and make sure you follow him for up-to-date news, articles and tips. You can also find a copy of the slides used in the presentation [here][Mike_Slides].
