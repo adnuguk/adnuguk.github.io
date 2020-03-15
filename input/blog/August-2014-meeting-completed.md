@@ -1,26 +1,25 @@
 ---
-author: gep13
-date: 2014-08-09 11:18:31+00:00
-slug: august-2014-meeting-completed
-title: August 2014 Meeting - Shawn Wildermuth - Completed
-categories:
-- Event Feedback
-- Event Material
-tags:
-- Shawn Wildermuth
-- Slides
-- Web API
+Author: gep13
+Published: 09/08/2014
+Title: August 2014 Meeting - Shawn Wildermuth - Completed
+Tags:
+  - shawn wildermuth
+  - slides
+  - web api
+  - event feedback
+  - event material
+RedirectFrom: August-2014-meeting-completed/index.html
 ---
 
-# Slides and Code from Web API 2 Talk
+## Slides and Code from Web API 2 Talk
 
 You can find the Slides and Code that Shawn presented [here][Shawn_Blog_Post].  If you want to get in touch with Shawn, you can use his twitter account [@ShawnWildermuth][Shawn_Twitter_Account]
 
-# Prizes
+## Prizes
 
 For everyone who was lucky enough to win a prize from one of our [sponsors][sponsors_page], I have requested all of the prizes.  If you haven't heard anything, please get in touch, and I will try to sort this out.
 
-# Feedback
+## Feedback
 
 As those of you who attended will know, I forgot to take the feedback forms with me, so I am reverting to using SurveyMonkey for this session.  If you would like to provide feedback for this session, then you can do so [here][SurveyMoneky_Link].
 

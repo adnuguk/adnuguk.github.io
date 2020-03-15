@@ -1,13 +1,13 @@
 ---
-author: gep13
+Author: gep13
 Published: 13/10/2014
-title: Northern Lights Conf and Code the City 2014
-categories:
-  - Community Events
-tags:
-  - Code the City
-  - Northern Lights Conference
-  - Aberdeen
+Title: Northern Lights Conf and Code the City 2014
+Tags:
+  - code the city
+  - northern lights conference
+  - aberdeen
+  - community event
+RedirectFrom: northern-lights-conf-and-code-the-city-2014/index.html
 ---
 
 ## An exciting few days coming up!

@@ -1,20 +1,17 @@
 ---
-author: gep13
+Author: gep13
 Published: 13/10/2014
-title: "Job Vacancy - Software Developer - SPD"
-categories:
-  - Job Vacancy
-tags:
-  - SPD
-  - Software Developer
-  - Job
+Title: "Job Vacancy - Software Developer - SPD"
+Tags:
+  - spd
+  - software developer
+  - job
+RedirectFrom: job-vacancy-software-developer-spd/index.html
 ---
 
 Aberdeen Developers have been asked to promote the following job vacancy.  If you are interested in the position, or would like some more information, then please use the following link:
 
 https://petrofac.taleo.net/careersection/2/jobdetail.ftl?job=008338&lang=en
-
-<hr />
 
 ## Purpose
 
@@ -35,5 +32,5 @@ The role of the Software Developer will encompass all aspects of the software li
 * The candidate will be flexible, driven and show a 'can do' attitude
 
 Please see the link above for full details of "Key Accountabilities", "Knowledge, Skills & Experience expected", and "Minimum Qualifications required"
-<hr />
+
 **Closing Date: 20 October 2014**
