@@ -1,9 +1,12 @@
 ---
+Author: gep13
 Published: 26/10/2015
-title: "October Meeting - Gary Ewan Park - Completed"
-author: gep13
-categories:
+Title: "October Meeting - Gary Ewan Park - Completed"
+Tags:
   - event material
+  - gary ewan park
+  - gitversion
+RedirectFrom: October-2015-meeting-gary-ewan-park-completed/index.html
 ---
 
 Thanks once again to Gary for his talk on GitVersion!  If you want to get in touch with Gary, you can use his twitter account [@gep13][Gary_Twitter_Account] and make sure you follow him for up-to-date news, articles and tips. You can also find a copy of the slides used in the presentation [here][Gary_Slides].  If you have any questions about GitVersion, you can also ask them at the Gitter Chat room, which you can find [here](https://gitter.im/GitTools/GitVersion).

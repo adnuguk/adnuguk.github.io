@@ -1,9 +1,12 @@
 ---
-author: nyami
-categories:
-  - events
+Author: nyami
 Published: 13/10/2015
-title: "October 2015 Meeting - Gary Ewan Park"
+Title: "October 2015 Meeting - Gary Ewan Park"
+Tags:
+  - events
+  - gary ewan park
+  - gitversion
+RedirectFrom: october-2015-meeting-gary-ewan-park/index.html
 ---
 
 Aberdeen Developers are pleased to present a talk by Gary Ewan Park, on Thursday 22nd October 2015 at the Robert Gordon University.
