@@ -11,7 +11,6 @@ Aberdeen Developers have been asked to promote the following job vacancy.  If y
 
 [http://www4.rgu.ac.uk/jobs/disp_details_sum.cfm?RJ_ID=41294](http://www4.rgu.ac.uk/jobs/disp_details_sum.cfm?RJ_ID=41294)
 
-
 **Web and Applications Developer** (Ref C41294)
 IT Services Department
 
@@ -31,7 +30,5 @@ There are a restricted number of certificates of sponsorship available in the UK
 Position Type: Full-time , Permanent
 
 Relocation assistance will be available for this post
-
-
 
 **Closing Date: 13 April 2014**

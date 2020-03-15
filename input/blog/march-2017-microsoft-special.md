@@ -17,8 +17,6 @@ Aberdeen Developers are pleased to present a Microsoft special meeting, on Thurs
 
 [![Eventbrite - Aberdeen Developers .Net User Group - March 2017 Microsoft Special](https://www.eventbrite.com/custombutton?eid=11987778769)](https://www.eventbrite.com/e/march-2017-microsoft-special-tickets-31775703986?aff=blog)
 
-***
-
 ## Agenda - Thursday, 23rd March 2016
 
 * 1800 - 1830: Arrival and registration

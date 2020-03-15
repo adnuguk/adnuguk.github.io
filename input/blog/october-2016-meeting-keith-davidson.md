@@ -11,8 +11,6 @@ RedirectFrom: october-2016-meeting-keith-davidson/index.html
 
 Aberdeen Developers are pleased to present a talk by Keith Davidson, on Thursday 20th October 2016 at the Robert Gordon University.
 
-***
-
 ## BreezeJS
 
 BreezeJS is a free, open source JavaScript library that helps you manage data in rich client applications. If you store data in a database, query and save those data as complex object graphs, and share these graphs across multiple screens of your JavaScript client, Breeze is for you. This presentation will introduce BreezeJs and demonstrate some of it's advantages.

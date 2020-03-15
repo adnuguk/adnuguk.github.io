@@ -6,9 +6,9 @@ categories:
   - event material
 ---
 
-Thanks once again to Christos for making the journey up to Aberdeen to deliver his awesome talk on Cross platform mobile development with the power of Xamarin! Christos has provided a in depth review his trip along with his slides and the videos captured by himself and BCS Aberdeen, you can find his blog post [here][Christos_Blog_Post].  If you want to get in touch with Christos, you can use his twitter account [@christosmatskas][Christos_Twitter_Account] and make sure you follow him for up-to-date news, articles and tips..
+Thanks once again to Christos for making the journey up to Aberdeen to deliver his awesome talk on Cross platform mobile development with the power of Xamarin! Christos has provided a in depth review his trip along with his slides and the videos captured by himself and BCS Aberdeen, you can find his blog post [here][Christos_Blog_Post].  If you want to get in touch with Christos, you can use his twitter account [@christosmatskas][Christos_Twitter_Account] and make sure you follow him for up-to-date news, articles and tips.
 
-** Prizes **
+## Prizes
 
 For everyone who was lucky enough to win a prize from one of our amazing [sponsors][sponsors_page], I have requested all of the prizes.  If you haven't heard anything, please get in touch, and we will try to sort this out.
 

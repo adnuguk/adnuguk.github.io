@@ -14,8 +14,6 @@ Aberdeen Developers are pleased to present our first meeting in March where we w
 
 [![Eventbrite - Aberdeen Developers .Net User Group - March 2017 Mark Allan](https://www.eventbrite.com/custombutton?eid=11987778769)](https://www.eventbrite.com/e/march-2017-mark-allan-azure-functions-documentdb-tickets-31775756142?aff=blog)
 
-***
-
 ## Azure Functions
 
 The natural evolution of Platform As A Service, Functions As A Service is the cornerstone of the new serverless paradigm. Learn how Azure Functions allows you to develop naturally scalable and event-driven "nano-service" solutions. Write exactly the code you need, with infrastructure and scaling taken care of for you, built-in security and integrations and a pay-per-second pricing model.

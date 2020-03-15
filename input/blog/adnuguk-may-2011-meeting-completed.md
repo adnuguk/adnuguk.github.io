@@ -32,4 +32,6 @@ Secondly, I think that a more regular meeting cycle keeps up the level of intere
 
 First up for our new monthly slot is [Chris Eargle](http://www.kodefuguru.com/) ([@KodefuGuru](http://twitter.com/kodefuguru)), a Telerik Developer Evangelist from Columbia, South Carolina, who, while over here to do other talks in the UK, is going to stop by Aberdeen and do a talk entitled "[Secrets of a .Net Ninja](http://aberdeendevelopers.co.uk/Meetings/Secrets-of-a--Net-Ninja.aspx)".
 
-**NOTE:** As some of you may have noticed, I have switched from using the #ADNUG hash tag to using #ADNUGUK on Twitter. This is due to the fact that there was a clash with the [Austin Dot Net User Group](http://www.adnug.org/), as well as the [Adelaide Dot Net User Group](http://www.adnug.com/), so if you are ever mentioning the Aberdeen Developers .Net User Group can I ask you to use #ADNUGUK.
+**NOTE:**
+
+As some of you may have noticed, I have switched from using the #ADNUG hash tag to using #ADNUGUK on Twitter. This is due to the fact that there was a clash with the [Austin Dot Net User Group](http://www.adnug.org/), as well as the [Adelaide Dot Net User Group](http://www.adnug.com/), so if you are ever mentioning the Aberdeen Developers .Net User Group can I ask you to use #ADNUGUK.

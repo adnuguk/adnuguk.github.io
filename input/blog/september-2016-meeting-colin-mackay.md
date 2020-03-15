@@ -11,8 +11,6 @@ RedirectFrom: september-2016-meeting-colin-mackay/index.html
 
 Aberdeen Developers are pleased to present a talk by Colin Mackay, on Thursday 15th September 2016 at the Robert Gordon University.
 
-***
-
 ## Storymapping for Beginners
 
 Sometimes it is difficult to work out how to prioritise the backlog and effectively work iteratively while still holding on to the big picture. What do you put in your MVP (Minimal Viable Product)? What then goes in each incremental release to give your users more and more useful functionality? Storymapping is a technique for solving this problem and getting your solution to your users faster.

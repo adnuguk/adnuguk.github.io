@@ -10,8 +10,6 @@ RedirectFrom: august-2016-meeting-steven-chalmers/index.html
 ---
 Aberdeen Developers are pleased to present a talk by Steven Chalmers, on Thursday 18th August 2016 at the Robert Gordon University.
 
-***
-
 ## Experiences of using an Azure website and database in Production
 
 Having developed an Azure website for an internal company tool that is used daily by 30 people across multiple sites, I will cover my experiences of using Azure for over a year.

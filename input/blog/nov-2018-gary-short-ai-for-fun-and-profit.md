@@ -11,8 +11,6 @@ RedirectFrom: nov-2018-gary-short-ai-for-fun-and-profit/index.html
 
 Aberdeen Developers are pleased to present AI for Fun And Profit, a talk from Gary Short. Hopefull you'll be able to join us on Thursday 22nd November at the Robert Gordon University.
 
-***
-
 ## AI for Fun And Profit
 
 "How I Made £500 Betting During Royal Ascot Week And What That Can Teach You About AI" should be the title for November's meeting but due to it's verbosity it's been shorted for the blog etc.

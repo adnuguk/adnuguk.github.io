@@ -13,11 +13,11 @@ Primarily, we aim to offer in person events which deal with the various aspects 
 
 It is our hope that all events will be provided absolutely free, or at a very minimal cost. We are able to do this through the generous support of our [sponsors](http://www.aberdeendevelopers.co.uk/sponsors/), without whom this group would not exist.
 
-**Meeting Location**
+## Meeting Location
 
 All the meetings of the Aberdeen Developers .Net User Group take place at the Robert Gordon University in Garthdee Campus, Aberdeen.  We are very grateful to RGU who provide this venue free of charge.  One restriction that is placed on this use of this venue is that no food and drink is allowed within the lecture theatre, and this rule is enforced.
 
-**Subscribe to our mailing list**
+## Subscribe to our mailing list
 
 If you want to be kept up to date with our events please sign up to our mailing list.
 

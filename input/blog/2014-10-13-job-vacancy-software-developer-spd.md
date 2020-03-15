@@ -16,13 +16,13 @@ https://petrofac.taleo.net/careersection/2/jobdetail.ftl?job=008338&lang=en
 
 <hr />
 
-**Purpose**
+## Purpose
 
 WellAtlas is a software tool used internally by our Well Engineering team and also by a number of global operators. It is now a proven solution encompassing a series of integrated specialist modules, that together, bring visibility and assurance of all critical elements required to meet a company's project delivery agenda. Due to internal and external client requirements as well as our Product Roadmap, the opportunity for a Software Developer has become key to the continued growth of this service line.
 
 The role of the Software Developer will encompass all aspects of the software life cycle from initial requirements gathering through design, build and testing and onto deployment and support.
 
-**Role:**
+## Role
 
 * Coordination of multiple simultaneous streams of software development between existing and potential clients
 * Design, development and implementation of both internal and client driven software projects

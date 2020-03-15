@@ -14,4 +14,6 @@ I am going to capture the answers to these questions in a Survey Monkey question
 
 And answer the two short questions, I would be really grateful!
 
-**NOTE:** Your responses will be confidential with only numbers being shared with a potential test centre to assist them in their quest to be able to provide Microsoft and Cisco exams.
+**NOTE:**
+
+Your responses will be confidential with only numbers being shared with a potential test centre to assist them in their quest to be able to provide Microsoft and Cisco exams.

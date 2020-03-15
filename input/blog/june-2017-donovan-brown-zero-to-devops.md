@@ -11,8 +11,6 @@ RedirectFrom: june-2017-donovan-brown-zero-to-devops/index.html
 
 Aberdeen Developers are pleased to present, The Man in the Black Shirt, Donovan Brown, on Thursday 8th June 2017 at the Robert Gordon University.
 
-***
-
 ## Zero to DevOps
 
 DevOps is about people, process and products. Getting it all right requires effort but the benefits to your organization and customers can be huge. In this demo-heavy session, Donovan Brown will show you how to go from "zero to DevOps" like a pro. Starting from just a blank desktop, he will create a new team project and a complete pipeline. He will also deploy an ASP.NET MVC application into Azure all live and hands on.

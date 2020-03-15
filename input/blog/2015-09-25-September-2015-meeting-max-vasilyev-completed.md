@@ -8,7 +8,7 @@ categories:
 
 Thanks once again to Max for coming along to Aberdeen Devlopers to deliver his awesome talk on CQRS!  If you want to get in touch with Max, you can use his twitter account [@trailmax][Max_Twitter_Account] and make sure you follow him for up-to-date news, articles and tips. You can also find a copy of the slides used in the presentation [here][Max_Slides].
 
-** Prizes **
+## Prizes
 
 For everyone who was lucky enough to win a prize from one of our amazing [sponsors][sponsors_page], the prizes will be requested in due course.  If you don't hear anything, please get in touch, and we will try to sort this out.
 
