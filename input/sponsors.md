@@ -1,10 +1,7 @@
 ---
-author: adnuguk
-comments: false
-date: 2013-04-18 20:18:36+00:00
-slug: sponsors
-title: Sponsors
-permalink: /sponsors/
+Author: adnuguk
+Published: 18/04/2013
+Title: Sponsors
 ---
 
 It is with great pleasure that Aberdeen Developers .Net User Group thank the following companies for their generous sponsorship of our User Group.

@@ -1,10 +1,7 @@
 ---
-author: adnuguk
-comments: false
-date: 2013-04-18T20:19:08.000Z
-slug: about
-title: About
-permalink: /about/
+Author: adnuguk
+Published: 18/04/2013
+Title: About
 ---
 
 Formed in June 2010, the Aberdeen Developers .Net User Group is a non-profit user group which aims to benefit software developers in and around the Aberdeen area.

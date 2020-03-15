@@ -21,7 +21,6 @@ I will share:
 * Features and tools of the Azure websites and Azure Databases
 * Performance, architecture and coding worries and solutions
 
-
 [![Eventbrite - Aberdeen Developers .Net User Group - August 2016 Meeting](https://www.eventbrite.com/custombutton?eid=11987778769)](http://www.eventbrite.com/e/aberdeen-developers-net-user-group-august-2016-meeting-tickets-26706378497?aff=blog)
 
 ## Speaker Bio
@@ -30,10 +29,10 @@ Steven Chalmers has been programming on many different computers and embedded sy
 
 ## Agenda - Thursday, 18th August 2016
 
-+ 1800 - 1825: Arrival and registration
-+ 1825 - 1830: Introduction
-+ 1830 - 1930: Experiences of using an Azure website and database in Production
-+ 1930 - 2000: Q&A and Prize Draw
+* 1800 - 1825: Arrival and registration
+* 1825 - 1830: Introduction
+* 1830 - 1930: Experiences of using an Azure website and database in Production
+* 1930 - 2000: Q&A and Prize Draw
 
 ## Location and Directions
 
