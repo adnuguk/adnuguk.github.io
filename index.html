@@ -1,877 +1,255 @@
-
+﻿
 <!DOCTYPE html>
-<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
-<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
-<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
-<head>
-  <meta charset="utf-8">
-  <title>Aberdeen Developers .Net User Group</title>
-  <meta name="author" content="gep13">
+<html lang="en">
+        <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
 
-  
-  <meta name="description" content="Aberdeen Developers are pleased to present AI for Fun And Profit, a talk from Gary Short. Hopefull you&rsquo;ll be able to join us on Thursday 22nd &hellip;">
-  
+        <title>Aberdeen Developers .Net User Group</title>
+        <meta name="description" content="Aberdeen Developers .Net User Group" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">        
 
-  <!-- http://t.co/dKP3o1e -->
-  <meta name="HandheldFriendly" content="True">
-  <meta name="MobileOptimized" content="320">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link type="application/rss+xml" rel="alternate" title="Aberdeen Developers .Net User Group" href="/feed.rss" />
+                <link type="application/atom+xml" rel="alternate" title="Aberdeen Developers .Net User Group" href="/feed.atom" />
+        <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+        <link rel="icon" href="/favicon.ico" type="image/x-icon">
 
-  
-  <link rel="canonical" href="http://www.aberdeendevelopers.co.uk">
-  <link href="/favicon.png" rel="icon">
-  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-  <link href="/feed" rel="alternate" title="Aberdeen Developers .Net User Group" type="application/atom+xml">
-  <script src="/javascripts/modernizr-2.0.js"></script>
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
-  <script src="/javascripts/octopress.js" type="text/javascript"></script>
-  <!-- meta tags for twitter card -->
-
-    <meta property="twitter:card" content="summary">
-    <meta property="twitter:site" content="adnuguk">
-    <meta property="twitter:url" content="http://www.aberdeendevelopers.co.uk">
-    <meta property="twitter:title" content="Aberdeen Developers .Net User Group">
-    <meta property="twitter:description" content="Aberdeen Developers are pleased to present AI for Fun And Profit, a talk from Gary Short. Hopefull you&rsquo;ll be able to join us on Thursday 22nd November at the Robert Gordon University. AI for &hellip;">
+        <link href="/assets/css/bootstrap.min.css" rel="stylesheet" />
+        <link href="/assets/css/highlight.css" rel="stylesheet">
+        <link href="/assets/css/clean-blog.css" rel="stylesheet" />
+        <link href="/assets/css/master.css" rel="stylesheet" />
+        <link href="/assets/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+        <link href='//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+        <link href='//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+        <link href="/assets/css/override.css" rel="stylesheet" />
 
 
-<!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
-<link href="//fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-<link href="//fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+        <meta name="application-name" content="Aberdeen Developers .Net User Group" />
+        <meta name="msapplication-tooltip" content="Aberdeen Developers .Net User Group" />
+        <meta name="msapplication-starturl" content="/" />
 
-<!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
-<link rel="stylesheet" type="text/css" href="http://assets.cookieconsent.silktide.com/current/style.min.css"/>
-<script type="text/javascript" src="http://assets.cookieconsent.silktide.com/current/plugin.min.js"></script>
-<script type="text/javascript">
-	// <![CDATA[
-		cc.initialise({
-			cookies: {
-				social: {
-					title: 'Disqus et al.',
-					description: 'Used for comments. You\'ll nee'+
-							'd to log in to Disqus to leave'+
-							' comments.'
-				},
-				analytics: {
-					title: 'Analytics',
-					description: 'Anonymously measure your use o'+
-							'f this website to improve your'+
-							' experience.'
-				}
-			},
-			settings: {
-				bannerPosition: "bottom",
-				disableallsites: true
-			}
-		});
-	// ]]>
-</script>
-<!-- End Cookie Consent plugin -->
+        <meta property="og:title" content="Aberdeen Developers .Net User Group" />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="http://www.aberdeendevelopers.co.uk/" />
+        <!-- TODO: More social graph meta tags -->
 
-
-
-  
-  <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-19680256-1']);
-    _gaq.push(['_trackPageview']);
-
-    (function() {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-  </script>
-
-
-</head>
-
-<body   >
-  <header role="banner"><hgroup>
-  <h1><a href="/">Aberdeen Developers .Net User Group</a></h1>
-  
-</hgroup>
-
-</header>
-  <nav role="navigation"><ul class="subscription" data-subscription="rss">
-  <li><a href="/feed" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
-  
-</ul>
-  
-<form action="https://www.google.com/search" method="get">
-  <fieldset role="search">
-    <input type="hidden" name="q" value="site:www.aberdeendevelopers.co.uk" />
-    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
-  </fieldset>
-</form>
-  
-<ul class="main-navigation">
-  <li><a href="/about">About</a></li>
-  <li><a href="/">Blog</a></li>
-  <li><a href="/contact">Contact</a></li>
-  <li><a href="/events">Events</a></li>
-  <li><a href="/jobs">Jobs</a></li>
-  <li><a href="/sponsors">Sponsors</a></li>
-  <li><a href="/blog/archives">Archives</a></li>
-</ul>
-
-</nav>
-  <div id="main">
-    <div id="content">
-      <div class="blog-index">
-  
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/nov-2018-gary-short-ai-for-fun-and-profit">Nov 2018 - Gary Short - AI for Fun and Profit</a></h1>
-    
-    
-      <p class="meta">
         
 
 
+        </head>
+        <body>
+                
+                <!-- Navigation -->
+                <nav class="navbar navbar-default navbar-custom navbar-fixed-top">
+                        <div class="container-fluid">
+                                <!-- Brand and toggle get grouped for better mobile display -->
+                                <div class="navbar-header page-scroll">
+                                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
+                                        <span class="sr-only">Toggle navigation</span>
+                                        <span class="icon-bar"></span>
+                                        <span class="icon-bar"></span>
+                                        <span class="icon-bar"></span>
+                                        </button>
+                                        <a class="navbar-brand" href="/">Aberdeen Developers .Net User Group</a>
+                                </div>
+                        
+                                <!-- Collect the nav links, forms, and other content for toggling -->
+                                <div class="collapse navbar-collapse" id="navbar-collapse">
+                                        <ul class="nav navbar-nav navbar-right">
+                                                <li><a href="/about">About</a></li>
+<li><a href="/blog">Archive</a></li>
+<li><a href="/tags">Tags</a></li>
+ 
+                                        </ul>
+                                </div>
+                                <!-- /.navbar-collapse -->
+                        </div>
+                        <!-- /.container -->
+                </nav>
+                
+                <!-- Page Header -->
+                <header class="intro-header" id="intro-header">
+                        <div class="container">
+                                <div class="row">
+                                        <div class="col-md-12">
 
-
-<time class='entry-date' datetime='2018-11-15T00:00:00+00:00'><span class='date'><span class='date-month'>Nov</span> <span class='date-day'>15</span><span class='date-suffix'>th</span>, <span class='date-year'>2018</span></span> <span class='time'>12:00 am</span></time>
-        
-           | <a href="/nov-2018-gary-short-ai-for-fun-and-profit#disqus_thread"
-             data-disqus-identifier="http://www.aberdeendevelopers.co.uk/nov-2018-gary-short-ai-for-fun-and-profit">Comments</a>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>Aberdeen Developers are pleased to present AI for Fun And Profit, a talk from Gary Short. Hopefull you&rsquo;ll be able to join us on Thursday 22nd November at the Robert Gordon University.</p>
-
-<hr />
-
-<p><strong>AI for Fun And Profit</strong></p>
-
-<p>&ldquo;How I Made £500 Betting During Royal Ascot Week And What That Can Teach You About AI&rdquo; should be the title for November&rsquo;s meeting but due to it&rsquo;s verbosity it&rsquo;s been shorted for the blog etc.</p>
-
-<p>We&rsquo;ll have Gary Short introduce us to some serious AI concepts and demonstrate how to build a model used to predict which horse will win a race explaining the weaknesses along with techniques to mitigate against them along the way.</p>
-
-<p><a href="https://www.meetup.com/Aberdeen-Developers-NET-User-Group/events/256043638/">AI for Fun And Profit</a></p>
-
-<p><strong>Speaker Bio</strong></p>
-
-<p>Gary Short is a Data Solution Architect for Microsoft. He specialises in machine learning and &ldquo;big data&rdquo; on the Azure Platform, but has an interest in data science, in all forms, especially computational linguistics and social network analysis. Gary also loves creating clickbait headlines in his spare time.</p>
-
-<p><strong>Agenda - Thursday, 22nd November 2018</strong></p>
-
-<ul>
-<li>1800 - 1825: Arrival and registration</li>
-<li>1825 - 1830: Introduction</li>
-<li>1830 - 1930: AI for Fun And Profit</li>
-<li>1930 - 2000: Q&amp;A and Prize Draw</li>
-</ul>
-
-
-<p><strong>Location and Directions</strong></p>
-
-<p>Venue: Room N204, The Sir Ian Wood Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7GJ, GB</p>
-
-<p>Directions: <a href="https://www.google.co.uk/maps/place/The+Sir+Ian+Wood+Building,+Garthdee+Rd,+Aberdeen+AB10+7GJ">Map showing Garthdee Campus</a></p>
-
-<p><strong>Prize Draw</strong></p>
-
-<p>All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>.</p>
+    <div class="site-heading">
+        <h1>Aberdeen Developers .Net User Group</h1>
+                <hr class="small">
+        <span class="subheading"></span>
 </div>
-  
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/july-2018-net-and-natter">July 2018 - .NET and Natter</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-<time class='entry-date' datetime='2018-07-06T00:00:00+00:00'><span class='date'><span class='date-month'>Jul</span> <span class='date-day'>6</span><span class='date-suffix'>th</span>, <span class='date-year'>2018</span></span> <span class='time'>12:00 am</span></time>
-        
-           | <a href="/july-2018-net-and-natter#disqus_thread"
-             data-disqus-identifier="http://www.aberdeendevelopers.co.uk/july-2018-net-and-natter">Comments</a>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>Aberdeen Developers are pleased to present something a little different for us. Hopefully you’ll be able to join us at Engage Gaming for our first “.NET and Natter”, a catch up and general geek out on all things .NET.</p>
-
-<p>No planned agenda for this meeting so all topics considered, hopefully we can all get involved in the conversation. So, bring along your laptop and show off your latest work, share your experience on that awesome new framework you’ve been working with, sound out those crazy ideas you have with the rest of the group, or just enjoy a beer, a burger and a catch up.</p>
-
-<p><a href="https://www.meetup.com/en-AU/Aberdeen-Developers-NET-User-Group/events/252025130/">July .NET and Natter</a></p>
-
-<p><strong>Agenda - Thursday, 19th July 2018</strong></p>
-
-<ul>
-<li>1830 - 2000: .NET and Natter</li>
-</ul>
-
-
-<p><strong>Location and Directions</strong></p>
-
-<p>Venue: Engage Gaming, 26 North Silver Street AB10 1RL · Aberdeen</p>
-
-<p>Directions: <a href="https://www.google.co.uk/maps/place/Engage+Gaming/@57.1472976,-2.108418,17z/data=!3m1!4b1!4m5!3m4!1s0x48840e23a3284dc1:0xc44805b2e37148c0!8m2!3d57.1472947!4d-2.1062293">Map showing Engage Gaming</a></p>
-</div>
-  
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/jun-2017-richard-campbell-history-of-net">Jun 2017 - Richard Campbell - History of .NET</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-<time class='entry-date' datetime='2017-05-04T00:00:00+00:00'><span class='date'><span class='date-month'>May</span> <span class='date-day'>4</span><span class='date-suffix'>th</span>, <span class='date-year'>2017</span></span> <span class='time'>12:00 am</span></time>
-        
-           | <a href="/jun-2017-richard-campbell-history-of-net#disqus_thread"
-             data-disqus-identifier="http://www.aberdeendevelopers.co.uk/jun-2017-richard-campbell-history-of-net">Comments</a>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>Aberdeen Developers are pleased to present, Richard Campbell, on Monday 19th June 2017 at the Robert Gordon University.</p>
-
-<hr />
-
-<p><strong>History of .NET</strong></p>
-
-<p>The .NET Framework is more than fifteen years old! Or is it? Join Richard Campbell on a tour of the history of .NET, Visual Studio and the related tools that have been the principal way that developers build software in the Microsoft space. The conversation explores the relationship between development tools, operating systems and the hardware that runs it all - the winding path of .NET is influenced by many things - and the future is only getting more interesting!</p>
-
-<p><a href="https://www.eventbrite.com/e/june-2017-richard-campbell-history-of-net-tickets-33347428055?aff=blog"><img src="https://www.eventbrite.com/custombutton?eid=11987778769" alt="History of .NET - Richard Campbell - 19th June 2017" /></a></p>
-
-<p><strong>Speaker Bio</strong></p>
-
-<p>Richard Campbell has spent more than 30 years playing around with microcomputers. Along the way he&rsquo;s done virtually every job you can imagine in the industry, from manufacturing to programming to consulting, training and writing. An impressive list of organizations, including Barnes&amp;Noble.com, Dow Chemical, Johnson &amp; Johnson Health Care Services, Reuters, Subaru/Isuzu and the U.S. Air Force, have benefited from Richard&rsquo;s consulting expertise. Today Richard is a Microsoft Regional Director, an ASP.NET MVP and a serial entrepreneur. Richard is a partner in PWOP Productions that creates a number of popular podcasts. He&rsquo;s the co-host of .NET Rocks!, the Internet Audio Talkshow for .NET Developers which publishes twice a week to over 150,000 listeners in more than 120 countries worldwide, The Tablet Show focused on cross-platform mobile and tablet development, as well as host of RunAs Radio, the podcast for Microsoft IT Professionals.</p>
-
-<p><strong>Agenda - Monday, 19th June 2017</strong></p>
-
-<ul>
-<li>1800 - 1825: Arrival and registration</li>
-<li>1825 - 1830: Introduction</li>
-<li>1830 - 1930: History of .NET</li>
-<li>1930 - 2000: Q&amp;A and Prize Draw</li>
-</ul>
-
-
-<p><strong>Location and Directions</strong></p>
-
-<p>Venue: Room N309, The Sir Ian Wood Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7GJ, GB</p>
-
-<p>Directions: <a href="https://www.google.co.uk/maps/place/The+Sir+Ian+Wood+Building,+Garthdee+Rd,+Aberdeen+AB10+7GJ">Map showing Garthdee Campus</a></p>
-
-<p><strong>Prize Draw</strong></p>
-
-<p>All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>.</p>
-</div>
-  
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/june-2017-donovan-brown-zero-to-devops">June 2017 - Donovan Brown - Zero to DevOps</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-<time class='entry-date' datetime='2017-05-02T00:00:00+00:00'><span class='date'><span class='date-month'>May</span> <span class='date-day'>2</span><span class='date-suffix'>nd</span>, <span class='date-year'>2017</span></span> <span class='time'>12:00 am</span></time>
-        
-           | <a href="/june-2017-donovan-brown-zero-to-devops#disqus_thread"
-             data-disqus-identifier="http://www.aberdeendevelopers.co.uk/june-2017-donovan-brown-zero-to-devops">Comments</a>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>Aberdeen Developers are pleased to present, The Man in the Black Shirt, Donovan Brown, on Thursday 8th June 2017 at the Robert Gordon University.</p>
-
-<hr />
-
-<p><strong>Zero to DevOps</strong></p>
-
-<p>DevOps is about people, process and products. Getting it all right requires effort but the benefits to your organization and customers can be huge. In this demo-heavy session, Donovan Brown will show you how to go from “zero to DevOps” like a pro. Starting from just a blank desktop, he will create a new team project and a complete pipeline. He will also deploy an ASP.NET MVC application into Azure all live and hands on.</p>
-
-<p><a href="https://www.eventbrite.com/e/june-2017-donovan-brown-zero-to-devops-tickets-31775897565?aff=blog"><img src="https://www.eventbrite.com/custombutton?eid=11987778769" alt="Zero to DevOps - Donovan Brown - 8th June 2017" /></a></p>
-
-<p><strong>Speaker Bio</strong></p>
-
-<p>Donovan is a Principal Program Manager for DevOps in the Developer Division at Microsoft, focusing on developer tools including Visual Studio Team Services and Team Foundation Server. Before joining Microsoft, Donovan spent seven years as a Process Consultant and a Certified Scrum Master. Donovan has travelled the globe helping companies in the U.S., Canada, India, Germany, and the UK develop solutions using agile practices in industries including Communications, Health Care, Energy, and Financial Services. Donovan is an avid programmer, often finding ways to integrate software into his other hobbies and activities.</p>
-
-<p><strong>Agenda - Thursday, 8th June 2017</strong></p>
-
-<ul>
-<li>1800 - 1825: Arrival and registration</li>
-<li>1825 - 1830: Introduction</li>
-<li>1830 - 1930: Zero to DevOps</li>
-<li>1930 - 2000: Q&amp;A and Prize Draw</li>
-</ul>
-
-
-<p><strong>Location and Directions</strong></p>
-
-<p>Venue: Room N311, The Sir Ian Wood Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7GJ, GB</p>
-
-<p>Directions: <a href="https://www.google.co.uk/maps/place/The+Sir+Ian+Wood+Building,+Garthdee+Rd,+Aberdeen+AB10+7GJ">Map showing Garthdee Campus</a></p>
-
-<p><strong>Prize Draw</strong></p>
-
-<p>All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>.</p>
-</div>
-  
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/march-2017-microsoft-special">March 2017 - Microsoft Special</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-<time class='entry-date' datetime='2017-02-09T00:00:00+00:00'><span class='date'><span class='date-month'>Feb</span> <span class='date-day'>9</span><span class='date-suffix'>th</span>, <span class='date-year'>2017</span></span> <span class='time'>12:00 am</span></time>
-        
-           | <a href="/march-2017-microsoft-special#disqus_thread"
-             data-disqus-identifier="http://www.aberdeendevelopers.co.uk/march-2017-microsoft-special">Comments</a>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>Aberdeen Developers are pleased to present a Microsoft special meeting, on Thursday 23rd March 2017 at the Robert Gordon University. We’re joined by Martin Kearn and Martin Beeby who are both evangelists from Microsoft. The Martin’s will cover 4 topics including the future of the web, Machine Learning, Document DB and Conversation-as-a-platform (bots). The focus will be on general technology so this event will be suitable for .net developers and folks on other stacks. We’re hoping for a full house to make the most of this one-off special event.</p>
-
-<p><a href="https://www.eventbrite.com/e/march-2017-microsoft-special-tickets-31775703986?aff=blog"><img src="https://www.eventbrite.com/custombutton?eid=11987778769" alt="Eventbrite - Aberdeen Developers .Net User Group - March 2017 Microsoft Special" /></a></p>
-
-<hr />
-
-<p><strong>Agenda - Thursday, 23rd March 2016</strong></p>
-
-<ul>
-<li>1800 - 1830: Arrival and registration</li>
-<li>1830 - 1840: Welcome and introduction</li>
-<li>1840 - 1910: Martin Beeby - The Web on Day 10,000</li>
-<li>1910 - 1940: Martin Kearn - Machine Learning for Muggles</li>
-<li>1940 - 2000: Break</li>
-<li>2000 - 2030: Martin Beeby - DocumentDB: a NoSQL database-as-a-service</li>
-<li>2030 - 2100: Martin Kearn - The Fuss about Bots</li>
-<li>2100: Close</li>
-</ul>
-
-
-<p><strong>Speaker Bios</strong></p>
-
-<p><strong><em>Martin Beeby</em></strong>
-Martin Beeby has been a developer since he was 16. Having no garage, unlike his American counterparts, he began developing small sites, apps and hacks from the comfort of his bedroom.
-Today Martin works for Microsoft where he talks to developers about the Web. Martin has, over the past 17 years, worked on projects with many Major brands. Martin has written articles for, and been featured in, NET Magazine, Creative Bloq, SitePoint, ZDNet, the Microsoft Developer Network, and many more.</p>
-
-<p><strong><em>Martin Kearn</em></strong>
-Martin is a technical evangelist for Microsoft based in the UK. In his role, Martin talks with customers, partners, start-ups and anyone who is willing to listen about developing applications on the Microsoft platform. This includes Windows, Office, Microsoft Azure and Web technologies including ASP.net and the Edge browser. Martin has been working with Microsoft development technologies since the late 90&rsquo;s and has been working for Microsoft directly since 2005.</p>
-
-<p><strong>Talks</strong>
-<strong><em>The Web on Day 10,000</em></strong>
-We’re fast approaching 10,000 days since December 1990 when the first website was published and changed everything.
-Martin looks at the future capabilities of browsers, devices and servers and how applications will be impacted by advances in those three areas. Using live code and demos he’ll explores, amongst other things, Bots, Web Components, Web Assembly, Cognitive Services, Language Understanding, Speech and Serverless application architecture.</p>
-
-<p><strong><em>Machine Learning for Muggles</em></strong>
-Artificial Intelligence is the latest hotness. Machine Learning sits behind artificial intelligence and on the surface it may seem like a deeply technical, scientific topic. We are here to tell you that it is more accessible than you think. We’ll look at some of the basics around the Azure Machine Learning service. We’ll also look some of the Microsoft Cognitive Services APIs which make it very easy to implement artificial intelligence ‘smarts’ into your application with simple, standard REST calls.</p>
-
-<p><strong><em>DocumentDB: a NoSQL database-as-a-service</em></strong>
-DocumentDB is a database for document and key-value data, provided as a service inside on Microsoft Azure. It has all the properties of a NoSQL database whilst retaining the ability to easily query the data with SQL. Martin will look into how it works, when to use it and how you can utilise it from many different types of applications.</p>
-
-<p><strong><em>The Fuss about Bots</em></strong>
-Some people say that Bots are the new Apps and thr way we interact with our devices is going to fundamentally change to a world where we are using natural language to interact with Bots and Digital Assistants. Microsoft are investing heavily in bots and have a tool called the Microsoft Bot Framework. In this talk we&rsquo;ll look at what a bot is, deisgn patterns for bots and the Microsoft Bot Framework which lets you write a single bot that is pblished to multiple social channels such as Skype, Facebook and Slack.</p>
-
-<p><strong>Location and Directions</strong></p>
-
-<p>Venue: Room N117, The Sir Ian Wood Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7GJ, GB</p>
-
-<p>Directions: <a href="https://www.google.co.uk/maps/place/The+Sir+Ian+Wood+Building,+Garthdee+Rd,+Aberdeen+AB10+7GJ">Map showing Garthdee Campus</a></p>
-
-<p><strong>Prize Draw</strong></p>
-
-<p>All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>.</p>
-</div>
-  
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/march-2017-mark-allan">March 2017 - Mark Allan</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-<time class='entry-date' datetime='2017-02-09T00:00:00+00:00'><span class='date'><span class='date-month'>Feb</span> <span class='date-day'>9</span><span class='date-suffix'>th</span>, <span class='date-year'>2017</span></span> <span class='time'>12:00 am</span></time>
-        
-           | <a href="/march-2017-mark-allan#disqus_thread"
-             data-disqus-identifier="http://www.aberdeendevelopers.co.uk/march-2017-mark-allan">Comments</a>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>Aberdeen Developers are pleased to present our first meeting in March where we will be joined by Mark Allan, on Wednesday 8th March 2017 at the Robert Gordon University.</p>
-
-<p><a href="https://www.eventbrite.com/e/march-2017-mark-allan-azure-functions-documentdb-tickets-31775756142?aff=blog"><img src="https://www.eventbrite.com/custombutton?eid=11987778769" alt="Eventbrite - Aberdeen Developers .Net User Group - March 2017 Mark Allan" /></a></p>
-
-<hr />
-
-<p><strong>Azure Functions</strong>
-The natural evolution of Platform As A Service, Functions As A Service is the cornerstone of the new serverless paradigm. Learn how Azure Functions allows you to develop naturally scalable and event-driven &ldquo;nano-service&rdquo; solutions. Write exactly the code you need, with infrastructure and scaling taken care of for you, built-in security and integrations and a pay-per-second pricing model.</p>
-
-<p><strong>DocumentDB</strong>
-DocumentDB is Microsoft&rsquo;s cloud-first database solution for schemaless data. With DocumentDB you can query any collection of JSON data with SQL and JavaScript, and because it&rsquo;s designed for the cloud, you get guaranteed low latency, global replication, unlimited scale and a usage-based pricing model based on storage and throughput. Mark will discuss the usage of DocumentDB and how querying, indexing, consistency and so on differ from a traditional relational database.</p>
-
-<p><strong>Speaker Bio</strong>
-Mark is a software developer based on the beautiful North Coast of Ireland. He&rsquo;s been a professional developer since the 1980s and freelance since 2000, working on a myriad of projects for everything from local startups and councils to multinational corporations and federal government departments. While something of a technology omnivore, particularly if it&rsquo;s new and shiny, he currently tends towards Xamarin and ReactJS front-ends sitting on top of scalable Azure services, using a functional and reactive approach. You can find him on Twitter, LinkedIn and most other places as MarkXA.</p>
-
-<p><strong>Agenda - Wednesday 8th March</strong></p>
-
-<ul>
-<li>1800 - 1820: Arrival and registration</li>
-<li>1820 - 1825: Introduction</li>
-<li>1825 - 1955: Azure Functions &amp; DocumentDB</li>
-<li>1955 - 2010: Q&amp;A and Prize Draw</li>
-</ul>
-
-
-<p><strong>Location and Directions</strong></p>
-
-<p>Venue: Room N345, The Sir Ian Wood Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7GJ, GB</p>
-
-<p>Directions: <a href="https://www.google.co.uk/maps/place/The+Sir+Ian+Wood+Building,+Garthdee+Rd,+Aberdeen+AB10+7GJ">Map showing Garthdee Campus</a></p>
-
-<p><strong>Prize Draw</strong></p>
-
-<p>All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>.</p>
-</div>
-  
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/october-2016-meeting-keith-davidson">October 2016 Meeting - Keith Davidson</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-<time class='entry-date' datetime='2016-10-11T00:00:00+00:00'><span class='date'><span class='date-month'>Oct</span> <span class='date-day'>11</span><span class='date-suffix'>th</span>, <span class='date-year'>2016</span></span> <span class='time'>12:00 am</span></time>
-        
-           | <a href="/october-2016-meeting-keith-davidson#disqus_thread"
-             data-disqus-identifier="http://www.aberdeendevelopers.co.uk/october-2016-meeting-keith-davidson">Comments</a>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>Aberdeen Developers are pleased to present a talk by Keith Davidson, on Thursday 20th October 2016 at the Robert Gordon University.</p>
-
-<hr />
-
-<p><strong>BreezeJS</strong></p>
-
-<p>BreezeJS is a free, open source JavaScript library that helps you manage data in rich client applications. If you store data in a database, query and save those data as complex object graphs, and share these graphs across multiple screens of your JavaScript client, Breeze is for you. This presentation will introduce BreezeJs and demonstrate some of it&rsquo;s advantages.</p>
-
-<p><a href="https://www.eventbrite.com/e/aberdeen-developers-net-user-group-october-2016-meeting-tickets-28505462606?aff=blog"><img src="https://www.eventbrite.com/custombutton?eid=11987778769" alt="Eventbrite - Aberdeen Developers .Net User Group - October 2016 Meeting" /></a></p>
-
-<p><strong>Speaker Bio</strong></p>
-
-<p>Keith Davidson has been programming web sites and apps since the late 90&rsquo;s and started his professional development career in 2000, writing applications with consulting firm Accenture.  He is currently a Senior Software Developer with Petrofac.  When not trying to keep up with the latest web technologies or contributing to open source projects, he enjoys tinkering with Raspberry Pi and Arduino platforms and occasionally plays the drums.</p>
-
-<p><strong>Agenda - Thursday, 20th October 2016</strong></p>
-
-<ul>
-<li>1800 - 1825: Arrival and registration</li>
-<li>1825 - 1830: Introduction</li>
-<li>1830 - 1930: BreezeJS</li>
-<li>1930 - 2000: Q&amp;A and Prize Draw</li>
-</ul>
-
-
-<p><strong>Location and Directions</strong></p>
-
-<p>Venue: Room N311, The Sir Ian Wood Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7GJ, GB</p>
-
-<p>Directions: <a href="https://www.google.co.uk/maps/place/The+Sir+Ian+Wood+Building,+Garthdee+Rd,+Aberdeen+AB10+7GJ">Map showing Garthdee Campus</a></p>
-
-<p><strong>Prize Draw</strong></p>
-
-<p>All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>.</p>
-</div>
-  
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/september-2016-meeting-colin-mackay">September 2016 Meeting - Colin Mackay</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-<time class='entry-date' datetime='2016-09-06T00:00:00+00:00'><span class='date'><span class='date-month'>Sep</span> <span class='date-day'>6</span><span class='date-suffix'>th</span>, <span class='date-year'>2016</span></span> <span class='time'>12:00 am</span></time>
-        
-           | <a href="/september-2016-meeting-colin-mackay#disqus_thread"
-             data-disqus-identifier="http://www.aberdeendevelopers.co.uk/september-2016-meeting-colin-mackay">Comments</a>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>Aberdeen Developers are pleased to present a talk by Colin Mackay, on Thursday 15th September 2016 at the Robert Gordon University.</p>
-
-<hr />
-
-<p><strong>Storymapping for Beginners</strong></p>
-
-<p>Sometimes it is difficult to work out how to prioritise the backlog and effectively work iteratively while still holding on to the big picture. What do you put in your MVP (Minimal Viable Product)? What then goes in each incremental release to give your users more and more useful functionality? Storymapping is a technique for solving this problem and getting your solution to your users faster.</p>
-
-<p>In this highly interactive session I&rsquo;ll explain how you go about creating a story map and I&rsquo;ll get you to create one. Lots of sticky notes later you should have a fairly good grasp and be able to use the same technique on your own projects to better manage your backlog and keep everyone aware of the big picture while still working on individual stories.</p>
-
-<p><a href="http://www.eventbrite.com/e/aberdeen-developers-net-user-group-september-2016-meeting-tickets-27403321071?aff=blog"><img src="https://www.eventbrite.com/custombutton?eid=11987778769" alt="Eventbrite - Aberdeen Developers .Net User Group - September 2016 Meeting" /></a></p>
-
-<p><strong>Speaker Bio</strong></p>
-
-<p>Colin Mackay was C# MVP for 4 years (2007, 2008, 2009, 2010), and Code Project MVP (for 5 years) and, as of writing, is in the top 3% of StackOverflow users. He runs Scottish Developers and organises DDD Scotland.</p>
-
-<p><strong>Agenda - Thursday, 15th September 2016</strong></p>
-
-<ul>
-<li>1800 - 1825: Arrival and registration</li>
-<li>1825 - 1830: Introduction</li>
-<li>1830 - 1930: Storymapping for Beginners</li>
-<li>1930 - 2000: Q&amp;A and Prize Draw</li>
-</ul>
-
-
-<p><strong>Location and Directions</strong></p>
-
-<p>Venue: Room N310, Riverside East Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7QQ, GB</p>
-
-<p>Directions: <a href="https://maps.google.co.uk/maps?q=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,+Aberdeen,+Aberdeen+City+AB10+7QG,+GB&amp;hl=en&amp;ll=57.119317,-2.136133&amp;spn=0.004165,0.012413&amp;sll=57.746995,-4.687341&amp;sspn=8.392957,25.422363&amp;hq=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,&amp;hnear=AB10+7QG,+United+Kingdom&amp;t=m&amp;z=17&amp;iwloc=A">Map showing Garthdee Campus</a></p>
-
-<p><strong>Prize Draw</strong></p>
-
-<p>All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>.</p>
-</div>
-  
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/job-vacancy-brightree-aberdeen">Job Vacancy - Brightree - Aberdeen</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-<time class='entry-date' datetime='2016-09-01T00:00:00+00:00'><span class='date'><span class='date-month'>Sep</span> <span class='date-day'>1</span><span class='date-suffix'>st</span>, <span class='date-year'>2016</span></span> <span class='time'>12:00 am</span></time>
-        
-           | <a href="/job-vacancy-brightree-aberdeen#disqus_thread"
-             data-disqus-identifier="http://www.aberdeendevelopers.co.uk/job-vacancy-brightree-aberdeen">Comments</a>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>Aberdeen Developers have been asked to promote the following job vacancy at Brightree in Aberdeen. If you are interested in the position, please contact douglas dot cameron at aberdeendevelopers dot co dot uk (replacing the at and dot with @ and . respectively, trying to stop those nasty spiders getting my email address). Details of the role are as follows:</p>
-
-<hr />
-
-<p>Brightree, the fastest growing cloud based business management solution in the U.S. healthcare market, are seeking UK based team-players to join their expanding Aberdeen office.</p>
-
-<p>The ideal candidates have a propensity to share concepts and techniques as well as foster and encourage sharing of knowledge. You will participate in the technical design of the solutions including data modeling, functional design, test criteria, user interface design and development. Practical, relevant experience as a creative problem solver and a proven ability to convert specifications into exception software solutions are critical.</p>
-
-<p><strong>Primary Duties:</strong></p>
-
-<ul>
-<li>Develop new software features</li>
-<li>Maintain existing code through defect correction and refactoring</li>
-<li>Participate in technical design</li>
-<li>DB design/changes</li>
-<li>Provide unit tests for all code</li>
-<li>Conduct code reviews with other developers</li>
-<li>Follow best practices for software development in a cloud based environment</li>
-</ul>
-
-
-<p><strong>Basic Qualifications:</strong></p>
-
-<ul>
-<li>Experience working for a software company with web-based applications using Microsoft technologies.</li>
-<li>Knowledge of C# or VB.net, ASP.NET and web technologies such as Web API, WCF, JavaScript, CSS, HTML and Ajax.</li>
-<li>Experience with MS SQL Server (TSQL/SQL)</li>
-<li>OO knowledge and practical experience of design patterns etc</li>
-<li>Practical experience with source code configuration, versioning and promotion</li>
-<li>Excellent problem solving, issue identification and technical documentation skills</li>
-<li>Ability to manage multiple concurrent priorities and meeting deadlines</li>
-<li>Strong interpersonal and communication skills</li>
-</ul>
-
-
-<p><strong>Preferred Requirements:</strong>
-- Experience using VS 2015, SQL Server, Xamarin, .net 4.0/4.5 techniques a plus
-- Agile software methodology experience a plus
-- Experience working in a SaaS model a plus</p>
-</div>
-  
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/august-2016-meeting-steven-chalmers">August 2016 Meeting - Steven Chalmers</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-<time class='entry-date' datetime='2016-08-03T00:00:00+00:00'><span class='date'><span class='date-month'>Aug</span> <span class='date-day'>3</span><span class='date-suffix'>rd</span>, <span class='date-year'>2016</span></span> <span class='time'>12:00 am</span></time>
-        
-           | <a href="/august-2016-meeting-steven-chalmers#disqus_thread"
-             data-disqus-identifier="http://www.aberdeendevelopers.co.uk/august-2016-meeting-steven-chalmers">Comments</a>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>Aberdeen Developers are pleased to present a talk by Steven Chalmers, on Thursday 18th August 2016 at the Robert Gordon University.</p>
-
-<hr />
-
-<p><strong>Experiences of using an Azure website and database in Production</strong></p>
-
-<p>Having developed an Azure website for an internal company tool that is used daily by 30 people across multiple sites, I will cover my experiences of using Azure for over a year.</p>
-
-<p>I will share:</p>
-
-<ul>
-<li>Reasons why</li>
-<li>Setup and running costs</li>
-<li>Features and tools of the Azure websites and Azure Databases</li>
-<li>Performance, architecture and coding worries and solutions</li>
-</ul>
-
-
-<p><a href="http://www.eventbrite.com/e/aberdeen-developers-net-user-group-august-2016-meeting-tickets-26706378497?aff=blog"><img src="https://www.eventbrite.com/custombutton?eid=11987778769" alt="Eventbrite - Aberdeen Developers .Net User Group - August 2016 Meeting" /></a></p>
-
-<p><strong>Speaker Bio</strong></p>
-
-<p>Steven Chalmers has been programming on many different computers and embedded systems since the late 70&rsquo;s. From typing in bytes, assembly all the way through to c#. Currently using ASP.NET MVC, Telerik tools on Azure at work but at home its having fun with his kids by game programming in Roblox.</p>
-
-<p><strong>Agenda - Thursday, 18th August 2016</strong></p>
-
-<ul>
-<li>1800 - 1825: Arrival and registration</li>
-<li>1825 - 1830: Introduction</li>
-<li>1830 - 1930: Experiences of using an Azure website and database in Production</li>
-<li>1930 - 2000: Q&amp;A and Prize Draw</li>
-</ul>
-
-
-<p><strong>Location and Directions</strong></p>
-
-<p>Venue: Room N310, Riverside East Building, Garthdee Campus, Aberdeen, Aberdeen City AB10 7QQ, GB</p>
-
-<p>Directions: <a href="https://maps.google.co.uk/maps?q=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,+Aberdeen,+Aberdeen+City+AB10+7QG,+GB&amp;hl=en&amp;ll=57.119317,-2.136133&amp;spn=0.004165,0.012413&amp;sll=57.746995,-4.687341&amp;sspn=8.392957,25.422363&amp;hq=Faculty+of+Health+%26+Social+Care,+Garthdee+Campus,&amp;hnear=AB10+7QG,+United+Kingdom&amp;t=m&amp;z=17&amp;iwloc=A">Map showing Garthdee Campus</a></p>
-
-<p><strong>Prize Draw</strong></p>
-
-<p>All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic <a href="http://www.aberdeendevelopers.co.uk/sponsors/">sponsors</a>.</p>
-</div>
-  
-  
-
-
-    </article>
-  
-  <div class="pagination">
-    
-      <a class="prev" href="/posts/2">&larr; Older</a>
-    
-    <a href="/blog/archives">Blog Archives</a>
-    
-  </div>
-</div>
-<aside class="sidebar">
-  
-    <section>
-  <h1>Recent Posts</h1>
-  <ul id="recent_posts">
-    
-      <li class="post">
-        <a href="/nov-2018-gary-short-ai-for-fun-and-profit">Nov 2018 - Gary Short - AI for Fun and Profit</a>
-      </li>
-    
-      <li class="post">
-        <a href="/july-2018-net-and-natter">July 2018 - .NET and Natter</a>
-      </li>
-    
-      <li class="post">
-        <a href="/jun-2017-richard-campbell-history-of-net">Jun 2017 - Richard Campbell - History of .NET</a>
-      </li>
-    
-      <li class="post">
-        <a href="/june-2017-donovan-brown-zero-to-devops">June 2017 - Donovan Brown - Zero to DevOps</a>
-      </li>
-    
-      <li class="post">
-        <a href="/march-2017-microsoft-special">March 2017 - Microsoft Special</a>
-      </li>
-    
-  </ul>
-</section>
-
-
-
-
-
-  
-</aside>
-
+                                        </div>
+                                </div>
+                        </div>
+                </header>
+                
+                <!-- Main Content -->
+                <div class="container">
+                        <div class="row">
+                                <div id="content" class="col-md-12">
+                                        
+<div class="row">
+    <div class="col-sm-8 right-border">
+                <div class="post-preview">
+                    <a href="/blog/nov-2018-gary-short-ai-for-fun-and-profit">
+                        <h2 class="post-title">Nov 2018 - Gary Short - AI for Fun And Profit</h2>
+                    </a>
+                    <p class="post-meta">Posted on 15 November 2018</p>
+<p>Aberdeen Developers are pleased to present AI for Fun And Profit, a talk from Gary Short. Hopefull you'll be able to join us on Thursday 22nd November at the Robert Gordon University.</p>                </div>       
+                    <hr /> 
+                <div class="post-preview">
+                    <a href="/blog/july-2018-net-and-natter">
+                        <h2 class="post-title">July 2018 - .NET and Natter</h2>
+                    </a>
+                    <p class="post-meta">Posted on 06 July 2018</p>
+<p>Aberdeen Developers are pleased to present something a little different for us. Hopefully you'll be able to join us at Engage Gaming for our first ".NET and Natter", a catch up and general geek out on all things .NET.</p>                </div>       
+                    <hr /> 
+                <div class="post-preview">
+                    <a href="/blog/jun-2017-richard-campbell-history-of-net">
+                        <h2 class="post-title">Jun 2017 - Richard Campbell - History of .NET</h2>
+                    </a>
+                    <p class="post-meta">Posted on 04 May 2017</p>
+<p>Aberdeen Developers are pleased to present, Richard Campbell, on Monday 19th June 2017 at the Robert Gordon University.</p>                </div>       
+        <ul class="pager">
+            <li class="previous">                
+            </li>
+            <li class="next">
+            </li>
+        </ul>
     </div>
-  </div>
-  <footer role="contentinfo"><p>
-  Copyright &copy; 2018 - gep13 -
-  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
-</p>
+    <div class="col-sm-4 sidebar">
+        <hr class="visible-xs-block" />
 
-</footer>
-  
+            <h5>Tags</h5>
+            <div>
+                    <a role="button" href="/tags/event-material" class="btn btn-default btn-sm"> event material (28)</a>
+                    <a role="button" href="/tags/event" class="btn btn-default btn-sm"> event (27)</a>
+                    <a role="button" href="/tags/events" class="btn btn-default btn-sm"> events (25)</a>
+                    <a role="button" href="/tags/event-feedback" class="btn btn-default btn-sm"> event feedback (22)</a>
+                    <a role="button" href="/tags/meetings" class="btn btn-default btn-sm"> meetings (14)</a>
+                    <a role="button" href="/tags/aberdeen" class="btn btn-default btn-sm"> aberdeen (14)</a>
+                    <a role="button" href="/tags/job-opportunity" class="btn btn-default btn-sm"> job opportunity (12)</a>
+                    <a role="button" href="/tags/slides" class="btn btn-default btn-sm"> slides (11)</a>
+                    <a role="button" href="/tags/microsoft" class="btn btn-default btn-sm"> microsoft (8)</a>
+                    <a role="button" href="/tags/unit-testing" class="btn btn-default btn-sm"> unit testing (7)</a>
+            </div>
+            <ul class="pager">
+                <li class="next">
+                    <a href="/tags">View All Tags &rarr;</a>
+                </li>
+            </ul>
 
-<script type="text/javascript">
-      var disqus_shortname = 'aberdeendevelopersnetusergroup';
-      
-        
-        var disqus_script = 'count.js';
-      
-    (function () {
-      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-      dsq.src = '//' + disqus_shortname + '.disqus.com/' + disqus_script;
-      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    }());
-</script>
+            <hr />
+            <h5>Older Posts</h5>
+            <ul class="list-unstyled">
+                    <li><a href="/blog/june-2017-donovan-brown-zero-to-devops">June 2017 - Donovan Brown - Zero to DevOps</a></li>
+                    <li><a href="/blog/march-2017-mark-allan">March 2017 - Mark Allan</a></li>
+                    <li><a href="/blog/march-2017-microsoft-special">March 2017 - Microsoft Special</a></li>
+                    <li><a href="/blog/october-2016-meeting-keith-davidson">October 2016 Meeting - Keith Davidson</a></li>
+            </ul>
+                <ul class="pager">
+                    <li class="next">
+                        <a href="/blog">Archive &rarr;</a>
+                    </li>
+                </ul>
+
+        <hr />
+<h5>On The Interwebs</h5>
+<ul class="list-unstyled">
+    <li><a href="https://twitter.com/adnuguk"><i class="fa fa-twitter"></i> Twitter (adnuguk)</a></li>
+    <li><a href="https://github.com/adnuguk"><i class="fa fa-github"></i> GitHub (adnuguk)</a></li>
+</ul>
 
 
+    </div> 
+</div>
 
+                                </div>
+                        </div>
+                </div>
+                
+                <hr>
+                
+                <!-- Footer -->
+                <footer>
+                        <div class="container">
+        <div class="row">
+                <div class="col-md-12">
+                <ul class="list-inline text-center">
+                        <li>
+                        <a href="https://twitter.com/adnuguk">
+                                <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                                </span>
+                        </a>
+                        </li>
+                        <li>
+                        <a href="https://github.com/adnuguk">
+                                <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                                </span>
+                        </a>
+                        </li>
+                </ul>
+                <p class="copyright text-muted">
+                        Copyright © 2020 by Aberdeen Developers .Net User Group. This work is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/" rel="license">Creative Commons Attribution 4.0 International License</a>.
+                        <br />
+                        <a href="/feed.rss"><i class="fa fa-rss"></i> RSS Feed</a> | <a href="/feed.atom"><i class="fa fa-rss"></i> Atom Feed</a>
+                        <br />
+                        <a href="https://github.com/adnuguk/adnuguk.github.io"><i class="fa fa-github"></i> This Site on GitHub</a> | <strong><a href="https://wyam.io">Generated by Wyam</a></strong>
+                </p>
+                </div>
+        </div>
+</div>
 
+                </footer> 
 
+                <script src="/assets/js/jquery.min.js"></script>
+                <script src="/assets/js/bootstrap.min.js"></script>     
+                <script src="/assets/js/highlight.pack.js"></script>   
+                <script src="/assets/js/clean-blog.js"></script>
+                <script src="/assets/js/d3.v3.min.js"></script>
+                <script src="/assets/js/trianglify.min.js"></script>
+                <script src="/assets/js/please-compressed.js"></script>
+                <script src="/assets/js/background-check.min.js"></script>
 
+                <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+                <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+                <!--[if lt IE 9]>
+                        <script src="/assets/js/html5shiv.js"></script>
+                        <script src="/assets/js/respond.min.js"></script>
+                <![endif]-->
+                
+                <script type="text/javascript" src="/assets/js/google.js"></script>
+<script type="text/javascript" src="/assets/js/anchor.min.js"></script>
+<script type="text/javascript" src="/assets/js/clipboard.min.js"></script>
+<script type="text/javascript" src="/assets/js/anchor.js"></script>
 
-  <script type="text/javascript">
-    (function(){
-      var twitterWidgets = document.createElement('script');
-      twitterWidgets.type = 'text/javascript';
-      twitterWidgets.async = true;
-      twitterWidgets.src = '//platform.twitter.com/widgets.js';
-      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
-    })();
-  </script>
+                <script>hljs.initHighlightingOnLoad();</script>
 
+                        <script type="text/javascript">                
+                                // Header background                        
+                                var colors = Please.make_color({
+                                        colors_returned: 3,
+                                        saturation: .6
+                                });
+                                var t = new Trianglify({
+                                        x_gradient: colors,
+                                        y_gradient: ["#FFFFFF"]
+                                });
+                                var header = document.getElementById("intro-header");
+                                var pattern = t.generate(header.clientWidth, header.clientHeight);
+                                header.setAttribute('style', 'background-image: ' + pattern.dataUrl);                        
+                        </script>
 
-
-
-
-</body>
+                <script>
+                        BackgroundCheck.init({
+                                targets: '.intro-header,.navbar',
+                                images: '.intro-header'
+                        });
+                </script>
+        </body>
 </html>
+
