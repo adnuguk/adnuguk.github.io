@@ -1,6 +1,6 @@
 ---
 Author: gep13
-Published: 30/22/2011
+Published: 30/12/2011
 Title: 'Job Vacancy: Aberdeen University'
 Tags:
   - aberdeen
@@ -12,7 +12,6 @@ RedirectFrom: job-vacancy-aberdeen-university/index.html
 An Aberdeen Developers .Net User Group member has informed me about a job opening at the University of Aberdeen. Details of the job are as follows:
 
 We wish to appoint a programmer to join the programming team within the Health Services Research Unit at the University of Aberdeen. The team provides programming support and data management for multi-centre health care randomised trials and other research studies. This will include preparing randomisation schedules, setting up databases, and programming applications for data collection and assisting with the conduct of the studies (such as monitoring recruitment and scheduling participant follow up).
-
 
 You should have a relevant degree in computing with demonstrable programming experience. Experience of creating dynamic web applications using ASP.NET and C# and knowledge of database design within SQL Server (2005 or later) is essential.
 It is anticipated that the project activities will be completed within 2 years of the agreed post start date. This appointment will be made subject to the usual terms and conditions of employment of the University.
