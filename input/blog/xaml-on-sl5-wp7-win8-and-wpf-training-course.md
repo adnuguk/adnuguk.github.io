@@ -1,16 +1,15 @@
 ---
-author: gep13
-date: 2011-12-20 12:50:13+00:00
-slug: xaml-on-sl5-wp7-win8-and-wpf-training-course
-title: XAML on SL5, WP7, Win8 and WPF Training Course
-categories:
-- Training
-tags:
-- Metro
-- Silverlight 5
-- Windows 8
-- WP7
-- WPF
+Author: gep13
+Published: 20/12/2011
+Title: XAML on SL5, WP7, Win8 and WPF Training Course
+Tags:
+  - training
+  - metro
+  - silverlight 5
+  - windows 8
+  - wp7
+  - wpf
+RedirectFrom: xaml-on-sl5-wp7-win8-and-wpf-training-course/index.html
 ---
 
 I have just found out about an interesting training course that is happening in London next year. The full details of the event can be found here:

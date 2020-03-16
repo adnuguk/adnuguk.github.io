@@ -1,13 +1,12 @@
 ---
-author: gep13
-date: 2011-12-10 13:54:10+00:00
-slug: scottish-meetup-network
-title: Scottish Meetup Network
-categories:
-- Events
-tags:
-- Scotland
-- User Groups
+Author: gep13
+Published: 10/12/2011
+Title: Scottish Meetup Network
+Tags:
+  - event
+  - scotland
+  - user groups
+RedirectFrom: scottish-meetup-network/index.html
 ---
 
 [![Logo](http://www.aberdeendevelopers.co.uk/wp-content/uploads/Logo_thumb.png)](http://www.aberdeendevelopers.co.uk/wp-content/uploads/Logo.png)

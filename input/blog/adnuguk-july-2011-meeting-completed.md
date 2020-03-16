@@ -1,17 +1,16 @@
 ---
-author: gep13
-date: 2011-07-08 19:00:00+00:00
-slug: adnuguk-july-2011-meeting-completed
-title: '#ADNUGUK – July 2011 Meeting - Completed'
-categories:
-- Event Feedback
-- Event Material
-tags:
-- Chris Eargle
-- Meetings
-- Ninjas
-- Secrets
-- Telerik
+Author: gep13
+Published: 08/07/2011
+Title: '#ADNUGUK – July 2011 Meeting - Completed'
+Tags:
+  - chris eargle
+  - meetings
+  - ninjas
+  - secrets
+  - telerik
+  - event feedback
+  - event material
+RedirectFrom: adnuguk-july-2011-meeting-completed/index.html
 ---
 
 On Thursday 7th July, the Aberdeen Developers .Net User Group was lucky enough to welcome [Chris Eargle](http://www.kodefuguru.com/) ([@KodefuGuru](http://twitter.com/kodefuguru)), a Telerik Developer Evangelist from Columbia, South Carolina, to do a talk entitled "[Secrets of a .Net Ninja](http://aberdeendevelopers.co.uk/Meetings/Secrets-of-a--Net-Ninja.aspx)".
@@ -32,8 +31,6 @@ There was a lot of content in this presentation, and there was certainly a lot o
 Unfortunately I wasn't able to go, but some of the guys took Chris to the [BrewDog](http://www.brewdog.com/) bar for a round of [Sink The Bismarck](http://www.brewdog.com/sink_the_bismark) after the meeting, I hope he doesn't miss his flight back home to the states today!
 
 Big thanks to Chris for taking time to visit the [Aberdeen Developers .Net User Group](http://www.aberdeendevelopers.co.uk).
-
-* * *
 
 **NOTE:**
 

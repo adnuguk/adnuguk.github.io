@@ -1,13 +1,12 @@
 ---
-author: gep13
-date: 2011-10-10 14:41:00+00:00
-slug: caledonian-code-crusade-featuring-mark-rendle-adnuguk
-title: 'Caledonian Code Crusade featuring Mark Rendle – #ADNUGUK'
-categories:
-- Tours
-tags:
-- Caledonian Code Crusade
-- Mark Rendle
+Author: gep13
+Published: 10/10/2011
+Title: 'Caledonian Code Crusade featuring Mark Rendle – #ADNUGUK'
+Tags:
+  - tour
+  - caledonian code crusade
+  - mark rendle
+RedirectFrom: caledonian-code-crusade-featuring-mark-rendle-adnuguk/index.html
 ---
 
 Hot on the heels of speaking at [DDDNorth](http://www.developerdeveloperdeveloper.com/north/) Mark Rendle ([@markrendle](http://twitter.com/#!/markrendle)) starts the first leg of his "**_Caledonian Code Crusade_**" tonight in Glasgow at 1900. The agenda for this Crusade is as follows:
