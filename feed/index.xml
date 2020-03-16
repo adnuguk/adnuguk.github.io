@@ -4,7 +4,7 @@
 	<title>Aberdeen Developers .Net User Group</title>
 	<link rel="self" href="http://www.aberdeendevelopers.co.uk/" />
 	<rights>2020</rights>
-	<updated>2020-03-16T21:36:42Z</updated>
+	<updated>2020-03-16T22:04:02Z</updated>
 	<subtitle>Aberdeen Developers .Net User Group</subtitle>
 	<entry>
 		<id>http://www.aberdeendevelopers.co.uk/blog/nov-2018-gary-short-ai-for-fun-and-profit</id>
@@ -187,22 +187,22 @@
 		<summary>Aberdeen Developers .Net User Group</summary>
 	</entry>
 	<entry>
-		<id>http://www.aberdeendevelopers.co.uk/blog/august-2015-meeting-mike-taulty-completed</id>
-		<title>August Meeting - Mike Taulty - Completed</title>
-		<author>
-			<name>gep13</name>
-		</author>
-		<link href="http://www.aberdeendevelopers.co.uk/blog/august-2015-meeting-mike-taulty-completed" />
-		<updated>2015-09-25T00:00:00Z</updated>
-		<summary>Aberdeen Developers .Net User Group</summary>
-	</entry>
-	<entry>
 		<id>http://www.aberdeendevelopers.co.uk/blog/september-2015-meeting-colin-mackay-completed</id>
 		<title>September Meeting - Colin Mackay - Completed</title>
 		<author>
 			<name>gep13</name>
 		</author>
 		<link href="http://www.aberdeendevelopers.co.uk/blog/september-2015-meeting-colin-mackay-completed" />
+		<updated>2015-09-25T00:00:00Z</updated>
+		<summary>Aberdeen Developers .Net User Group</summary>
+	</entry>
+	<entry>
+		<id>http://www.aberdeendevelopers.co.uk/blog/august-2015-meeting-mike-taulty-completed</id>
+		<title>August Meeting - Mike Taulty - Completed</title>
+		<author>
+			<name>gep13</name>
+		</author>
+		<link href="http://www.aberdeendevelopers.co.uk/blog/august-2015-meeting-mike-taulty-completed" />
 		<updated>2015-09-25T00:00:00Z</updated>
 		<summary>Aberdeen Developers .Net User Group</summary>
 	</entry>
