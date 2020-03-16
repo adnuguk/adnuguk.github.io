@@ -1,5 +1,5 @@
 /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-var disqus_shortname = 'gep13'; // required: replace example with your forum shortname
+var disqus_shortname = 'aberdeendevelopersnetusergroup'; // required: replace example with your forum shortname
 
 /* * * DON'T EDIT BELOW THIS LINE * * */
 (function () {
@@ -17,5 +17,5 @@ var disqus_shortname = 'gep13'; // required: replace example with your forum sho
     m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
 })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
 
-ga('create', 'UA-20926037-1', 'auto');
+ga('create', 'UA-19680256-1', 'auto');
 ga('send', 'pageview');

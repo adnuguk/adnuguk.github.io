@@ -1,5 +1,5 @@
 /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-var disqus_shortname = 'gep13'; // required: replace example with your forum shortname
+var disqus_shortname = 'aberdeendevelopersnetusergroup'; // required: replace example with your forum shortname
 var disqus_identifier = '@Context.GetLink(Model, true)' + 'S/';
 var disqus_title = '@Model.String(BlogKeys.Title)';
 var disqus_url = '@Context.GetLink(Model, true)' + '/';
