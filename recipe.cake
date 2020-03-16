@@ -1,4 +1,4 @@
-#load nuget:https://www.myget.org/F/cake-contrib?package=Cake.Wyam.Recipe&version=0.9.0-unstable0005&prerelease
+#load nuget:https://www.nuget.org/api/v2?package=Cake.Wyam.Recipe&version=0.9.0
 
 Environment.SetVariableNames();
 
