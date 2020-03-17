@@ -14,7 +14,7 @@ I just wanted to give you a heads up about a very interesting event which is goi
 
 Full details of the event can be found here:
 
-[http://azureconference2012.eventbrite.co.uk/](http://azureconference2012.eventbrite.co.uk/)
+[https://azureconference2012.eventbrite.co.uk/](https://azureconference2012.eventbrite.co.uk/)
 
 Registration costs £25.
 

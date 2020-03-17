@@ -19,7 +19,7 @@ Are you getting ready to build an API that works over HTTP? ASP.NET Web API 2 is
 
 ## Speaker Bio
 
-Shawn Wildermuth is an eight-time Microsoft MVP (Data), member of the INETA Speaker's Bureau and an author of six books and dozens of articles on .NET. Shawn is involved with Microsoft as a Silverlight Insider, Data Insider and Connected Technology Advisors (WCF/Oslo/WF). He has been seen speaking at a variety of international conferences including TechEd, Oredev, SDC, VSLive, WinDev, MIX, DevTeach and DevReach. He is currently teaching workshops around the country through his training company AgiliTrain (http://agilitrain.com). He can also be reached via his blog at [http://wildermuth.com](http://wildermuth.com/).
+Shawn Wildermuth is an eight-time Microsoft MVP (Data), member of the INETA Speaker's Bureau and an author of six books and dozens of articles on .NET. Shawn is involved with Microsoft as a Silverlight Insider, Data Insider and Connected Technology Advisors (WCF/Oslo/WF). He has been seen speaking at a variety of international conferences including TechEd, Oredev, SDC, VSLive, WinDev, MIX, DevTeach and DevReach. He is currently teaching workshops around the country through his training company AgiliTrain (https://agilitrain.com). He can also be reached via his blog at [https://wildermuth.com](https://wildermuth.com/).
 
 ## Agenda - Thursday, 7th August 2014
 
@@ -30,7 +30,7 @@ Shawn Wildermuth is an eight-time Microsoft MVP (Data), member of the INETA Spea
 
 ## Prize Draw
 
-All attendees will be entered into a prize draw, with the chance of winning one of the prizes listed [here](http://www.gep13.co.uk/blog/?p=107).
+All attendees will be entered into a prize draw, with the chance of winning one of the prizes listed [here](https://www.gep13.co.uk/blog/?p=107).
 
 ## Location and Directions
 

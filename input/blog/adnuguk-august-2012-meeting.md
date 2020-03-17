@@ -16,7 +16,7 @@ Aberdeen Developers are pleased to present a talk by Colin Gemmell on Thursday 2
 
 Over the last 10 years Ruby has become the language for startups and is now being accepted in to the enterprise setup. In this talk we will look at some of the basics of the Ruby language and tools and at some of the frameworks and libraries can help you develop great applications in little time.
 
-[![Register for Aberdeen Developers .Net User Group - December Meeting in Aberdeen, Aberdeen City  on Eventbrite](http://www.eventbrite.com/registerbutton?eid=2581657808)](http://adnuguk-aug2012.eventbrite.co.uk?ref=elink)
+[![Register for Aberdeen Developers .Net User Group - December Meeting in Aberdeen, Aberdeen City  on Eventbrite](https://www.eventbrite.com/registerbutton?eid=2581657808)](https://adnuguk-aug2012.eventbrite.co.uk?ref=elink)
 
 ## Speaker Bio
 
@@ -35,8 +35,8 @@ A constant presence in the in the Glasgow tech community Colin has spoken a nume
 
 ## Prize Draw
 
-All attendees will be entered into a prize draw, with the chance of winning one of the prizes listed [here](http://www.gep13.co.uk/blog/?p=107).
+All attendees will be entered into a prize draw, with the chance of winning one of the prizes listed [here](https://www.gep13.co.uk/blog/?p=107).
 
 ## Location and Directions
 
-Venue: Room A12, RGU Building, St Andrews Street, Aberdeen, AB25 1HG Directions: [Map showing St Andrews Street](http://www.bing.com/maps/?v=2&cp=57.149542434132776~-2.102723645985436&lvl=17&dir=0&sty=c&eo=1&form=LMLTCC)
+Venue: Room A12, RGU Building, St Andrews Street, Aberdeen, AB25 1HG Directions: [Map showing St Andrews Street](https://www.bing.com/maps/?v=2&cp=57.149542434132776~-2.102723645985436&lvl=17&dir=0&sty=c&eo=1&form=LMLTCC)

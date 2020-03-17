@@ -35,4 +35,4 @@ Directions: [Map showing Garthdee Campus](https://www.google.co.uk/maps/place/Th
 
 ## Prize Draw
 
-All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic [sponsors](http://www.aberdeendevelopers.co.uk/sponsors/).
+All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic [sponsors](https://www.aberdeendevelopers.co.uk/sponsors/).

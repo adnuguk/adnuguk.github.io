@@ -23,13 +23,13 @@ We'll look at some things with pens, touch, speech, facial recognition, speaker 
 
 You should expect Visual Studio, C# code and XAML UI and most of the talk will build up an application from scratch adding features as we go along.
 
-[![Eventbrite - Aberdeen Developers .Net User Group - July 2016 Meeting](https://www.eventbrite.com/custombutton?eid=11987778769)](http://www.eventbrite.com/e/aberdeen-developers-net-user-group-july-2016-meeting-tickets-26418169456?aff=blog)
+[![Eventbrite - Aberdeen Developers .Net User Group - July 2016 Meeting](https://www.eventbrite.com/custombutton?eid=11987778769)](https://www.eventbrite.com/e/aberdeen-developers-net-user-group-july-2016-meeting-tickets-26418169456?aff=blog)
 
 ## Speaker Bio
 
 Mike Taulty works in the Developer and Platform Group at Microsoft in the UK where he has spent the past few years helping developers understand and get the best from the Microsoft platform. Prior to this, Mike spent 3 years with Microsoft Consulting Services as a consultant on developer technologies.
 
-Before joining Microsoft, Mike spent the previous 9 years working as a software developer for a number of enterprises, consultancies and software vendors working with a variety of operating system, client, communication and server technologies. You can find more of a complete career history over on [LinkedIn](http://uk.linkedin.com/in/mtaulty).
+Before joining Microsoft, Mike spent the previous 9 years working as a software developer for a number of enterprises, consultancies and software vendors working with a variety of operating system, client, communication and server technologies. You can find more of a complete career history over on [LinkedIn](https://uk.linkedin.com/in/mtaulty).
 
 Mike holds a BSc Hons (1st Class) in Computer Science from the University of Leeds.
 
@@ -48,4 +48,4 @@ Directions: [Map showing Garthdee Campus](https://maps.google.co.uk/maps?q=Facul
 
 ## Prize Draw
 
-All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic [sponsors](http://www.aberdeendevelopers.co.uk/sponsors/).
+All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic [sponsors](https://www.aberdeendevelopers.co.uk/sponsors/).

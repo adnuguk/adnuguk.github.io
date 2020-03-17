@@ -15,7 +15,7 @@ Aberdeen Developers are pleased to present the final night of Matt Ellis's Scott
 
 Microsoft have done the unthinkable and open-sourced .net, making it available on GitHub, and even taking it cross-platform. This is great news for developers, but do you know your .NET Core from your .Net Framework? Can you tell your CoreCLR from your CoreFX? And where does asp.net vnext and DNX come into this story? In this session, we'll take a look at the big picture, dive deeply into some of the more interesting details and see how the pieces of Microsoft's new .Net stack fit together, what it means for developers and find out exactly how you do run an .exe on Unix.
 
-[![Eventbrite - Aberdeen Developers .Net User Group - July 2015 Meeting](https://www.eventbrite.com/custombutton?eid=11987778769)](http://www.eventbrite.com/e/aberdeen-developers-net-user-group-july-2015-meeting-tickets-17423404873?aff=blog)
+[![Eventbrite - Aberdeen Developers .Net User Group - July 2015 Meeting](https://www.eventbrite.com/custombutton?eid=11987778769)](https://www.eventbrite.com/e/aberdeen-developers-net-user-group-july-2015-meeting-tickets-17423404873?aff=blog)
 
 ## Speaker Bio
 
@@ -36,7 +36,7 @@ Directions: [Map showing Garthdee Campus](https://maps.google.co.uk/maps?q=Facul
 
 ## Prize Draw
 
-All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic [sponsors](http://www.aberdeendevelopers.co.uk/sponsors/).
+All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic [sponsors](https://www.aberdeendevelopers.co.uk/sponsors/).
 
 ## Tour Dates
 

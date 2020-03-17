@@ -15,6 +15,6 @@ Thanks once again to Colin for making the journey up to Aberdeen to deliver his 
 
 For everyone who was lucky enough to win a prize from one of our amazing [sponsors][sponsors_page], I have requested all of the prizes.  If you haven't heard anything, please get in touch, and we will try to sort this out.
 
-[Colin_Slides]: http://colinmackay.scot/2015/09/13/continuous-delivery-aberdeen-developers-net-user-group/
+[Colin_Slides]: https://colinmackay.scot/2015/09/13/continuous-delivery-aberdeen-developers-net-user-group/
 [Colin_Twitter_Account]: https://twitter.com/colinmackay
-[sponsors_page]: http://www.aberdeendevelopers.co.uk/sponsors/
+[sponsors_page]: https://www.aberdeendevelopers.co.uk/sponsors/

@@ -1,6 +1,6 @@
 # Aberdeen Developers .Net User Group
 
-This repository contains the source code for the [Aberdeen Developers .Net User Group website](http://www.aberdeendevelopers.co.uk/).
+This repository contains the source code for the [Aberdeen Developers .Net User Group website](https://www.aberdeendevelopers.co.uk/).
 
 This site is built using [Wyam](https://wyam.io/).
 

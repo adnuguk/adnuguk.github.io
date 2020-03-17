@@ -17,7 +17,7 @@ CQRS (Command Query Responsibility Segregation) have been around for a while and
 
 In this session there will be a brief theoretical discussion followed by practical examples with code samples and discussion of benefits of this approach.
 
-[![Eventbrite - Aberdeen Developers .Net User Group - September 2015 Meeting #2](https://www.eventbrite.com/custombutton?eid=11987778769)](http://www.eventbrite.com/e/aberdeen-developers-net-user-group-september-2015-meeting-2-tickets-18308807135?aff=blog)
+[![Eventbrite - Aberdeen Developers .Net User Group - September 2015 Meeting #2](https://www.eventbrite.com/custombutton?eid=11987778769)](https://www.eventbrite.com/e/aberdeen-developers-net-user-group-september-2015-meeting-2-tickets-18308807135?aff=blog)
 
 ## Speaker Bio
 
@@ -38,4 +38,4 @@ Directions: [Map showing Garthdee Campus](https://maps.google.co.uk/maps?q=Facul
 
 ## Prize Draw
 
-All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic [sponsors](http://www.aberdeendevelopers.co.uk/sponsors/).
+All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic [sponsors](https://www.aberdeendevelopers.co.uk/sponsors/).

@@ -21,7 +21,7 @@ I will share:
 * Features and tools of the Azure websites and Azure Databases
 * Performance, architecture and coding worries and solutions
 
-[![Eventbrite - Aberdeen Developers .Net User Group - August 2016 Meeting](https://www.eventbrite.com/custombutton?eid=11987778769)](http://www.eventbrite.com/e/aberdeen-developers-net-user-group-august-2016-meeting-tickets-26706378497?aff=blog)
+[![Eventbrite - Aberdeen Developers .Net User Group - August 2016 Meeting](https://www.eventbrite.com/custombutton?eid=11987778769)](https://www.eventbrite.com/e/aberdeen-developers-net-user-group-august-2016-meeting-tickets-26706378497?aff=blog)
 
 ## Speaker Bio
 
@@ -42,4 +42,4 @@ Directions: [Map showing Garthdee Campus](https://maps.google.co.uk/maps?q=Facul
 
 ## Prize Draw
 
-All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic [sponsors](http://www.aberdeendevelopers.co.uk/sponsors/).
+All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic [sponsors](https://www.aberdeendevelopers.co.uk/sponsors/).

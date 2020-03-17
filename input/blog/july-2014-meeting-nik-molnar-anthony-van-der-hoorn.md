@@ -48,7 +48,7 @@ Anthony van der Hoorn is a co–founder of Glimpse, and a regular speaker on suc
 
 ## Prize Draw
 
-All attendees will be entered into a prize draw, with the chance of winning one of the prizes listed [here](http://www.gep13.co.uk/blog/?p=107).
+All attendees will be entered into a prize draw, with the chance of winning one of the prizes listed [here](https://www.gep13.co.uk/blog/?p=107).
 
 ## Location and Directions
 

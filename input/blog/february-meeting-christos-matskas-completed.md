@@ -17,4 +17,4 @@ For everyone who was lucky enough to win a prize from one of our amazing [sponso
 
 [Christos_Blog_Post]: https://cmatskas.com/cross-platform-application-development-with-xamarin/
 [Christos_Twitter_Account]: https://twitter.com/christosmatskas
-[sponsors_page]: http://www.aberdeendevelopers.co.uk/sponsors/
+[sponsors_page]: https://www.aberdeendevelopers.co.uk/sponsors/

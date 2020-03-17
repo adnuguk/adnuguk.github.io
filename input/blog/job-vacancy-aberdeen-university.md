@@ -33,7 +33,7 @@ Criteria:
 
 If you are interested in this position, you should visit the University of Aberdeen Careers page by doing:
 
-* Navigate to [www.abdn.ac.uk/jobs](http://www.abdn.ac.uk/jobs)
+* Navigate to [www.abdn.ac.uk/jobs](https://www.abdn.ac.uk/jobs)
 * Click "External Applicants"
 * Search by post ref number: 1218141 (or by "programmer")
 

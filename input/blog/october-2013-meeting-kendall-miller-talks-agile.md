@@ -22,7 +22,7 @@ Aberdeen Developers are pleased to present a talk by Kendall Miller on Thursday 
 
 Presented by one of the founders of Gibraltar Software, we'll discuss how we've worked with many enterprise customers to marry agile practices into traditional teams. Sometimes successful sometimes a brilliant failure - come and learn from our mistakes so you can produce better results and have happier customers and team members. We won't be focusing on a specific technology or Agile approach but rather how you get businesses to accept giving up the Gantt chart and learn to love software development.
 
-[![Register for Aberdeen Developers .Net User Group - October 2013 Meeting in Aberdeen, Aberdeen City on Eventbrite](http://www.eventbrite.com/registerbutton?eid=2581657808)](http://adnuguk-oct2013.eventbrite.co.uk/?ebtv=C)
+[![Register for Aberdeen Developers .Net User Group - October 2013 Meeting in Aberdeen, Aberdeen City on Eventbrite](https://www.eventbrite.com/registerbutton?eid=2581657808)](https://adnuguk-oct2013.eventbrite.co.uk/?ebtv=C)
 
 ## Speaker Bio
 
@@ -41,7 +41,7 @@ Before starting Gibraltar Software, Kendall worked for multiple startups leading
 
 ## Prize Draw
 
-All attendees will be entered into a prize draw, with the chance of winning one of the prizes listed [here](http://www.gep13.co.uk/blog/?p=107).
+All attendees will be entered into a prize draw, with the chance of winning one of the prizes listed [here](https://www.gep13.co.uk/blog/?p=107).
 
 ## Location and Directions
 

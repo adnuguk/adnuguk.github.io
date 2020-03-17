@@ -10,7 +10,7 @@ RedirectFrom: job-vacancy-web-applications-developer-rgu-aberdeen/index.html
 
 Aberdeen Developers have been asked to promote the following job vacancy.  If you are interested in the position, or would like some more information, then please use the following link:
 
-[http://www4.rgu.ac.uk/jobs/disp_details_sum.cfm?RJ_ID=41294](http://www4.rgu.ac.uk/jobs/disp_details_sum.cfm?RJ_ID=41294)
+[https://www4.rgu.ac.uk/jobs/disp_details_sum.cfm?RJ_ID=41294](https://www4.rgu.ac.uk/jobs/disp_details_sum.cfm?RJ_ID=41294)
 
 **Web and Applications Developer** (Ref C41294)
 IT Services Department

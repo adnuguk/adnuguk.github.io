@@ -21,4 +21,4 @@ The evening will roughly consist of the following:
 
 If you have any other questions about the event, then please feel free to drop us a line here:
 
-[http://www.aberdeendevelopers.co.uk/Contact.aspx](http://www.aberdeendevelopers.co.uk/Contact.aspx)
+[https://www.aberdeendevelopers.co.uk/Contact.aspx](https://www.aberdeendevelopers.co.uk/Contact.aspx)

@@ -15,7 +15,7 @@ Aberdeen Developers are pleased to present a talk by Gary Ewan Park, on Thursday
 
 Have you ever needed to control the version number of your application? If so, you will know that this isn't something that you "get for free". It's hard! You may have tried to use some form of auto incrementing number from your Continuous Integration Server, or store a text file in source control and update it each time the build happens. Both of these approaches will work, but they don't account for more complicated scenarios where you are working on multiple releases at the same time, or you want to use multiple Continuous Integration Servers. In this session, we will look at how we can improve the versioning of your application using a combination of branching strategies (either Gitflow or Githubflow) and an open source tool called GitVersion. GitVersion is a tool which allows you to easy generate the Semantic Version number for your application, based on the current state of your code base in it's Git Repository.
 
-[![Eventbrite - Aberdeen Developers .Net User Group - October 2015 Meeting #1](https://www.eventbrite.com/custombutton?eid=11987778769)](http://www.eventbrite.com/e/aberdeen-developers-net-user-group-october-2015-meeting-tickets-18944026092?aff=blog)
+[![Eventbrite - Aberdeen Developers .Net User Group - October 2015 Meeting #1](https://www.eventbrite.com/custombutton?eid=11987778769)](https://www.eventbrite.com/e/aberdeen-developers-net-user-group-october-2015-meeting-tickets-18944026092?aff=blog)
 
 ## Speaker Bio
 
@@ -38,4 +38,4 @@ Directions: [Map showing Garthdee Campus](https://maps.google.co.uk/maps?q=Facul
 
 ## Prize Draw
 
-All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic [sponsors](http://www.aberdeendevelopers.co.uk/sponsors/).
+All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic [sponsors](https://www.aberdeendevelopers.co.uk/sponsors/).

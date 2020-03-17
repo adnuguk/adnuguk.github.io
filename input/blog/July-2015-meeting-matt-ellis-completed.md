@@ -15,6 +15,6 @@ Thanks once again to Matt for making the journey up to Aberdeen to deliver his a
 
 For everyone who was lucky enough to win a prize from one of our amazing [sponsors][sponsors_page], I have requested all of the prizes.  If you haven't heard anything, please get in touch, and we will try to sort this out.
 
-[Matt_Slides]: http://www.slideshare.net/citizenmatt/dot-netcoreblimey-07-2015
+[Matt_Slides]: https://www.slideshare.net/citizenmatt/dot-netcoreblimey-07-2015
 [Matt_Twitter_Account]: https://twitter.com/citizenmatt
-[sponsors_page]: http://www.aberdeendevelopers.co.uk/sponsors/
+[sponsors_page]: https://www.aberdeendevelopers.co.uk/sponsors/

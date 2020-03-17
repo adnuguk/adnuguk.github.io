@@ -10,7 +10,7 @@ Tags:
 RedirectFrom: job-vacancy-aberdeen/index.html
 ---
 
-Aberdeen Developers have been asked to promote the following job vacancy. If you are interested in the position, then please contact [hr@assetdev.com](mailto:hr@assetdev.com). More information on this company and the opportunity can be found [here](http://www.assetdev.com/).
+Aberdeen Developers have been asked to promote the following job vacancy. If you are interested in the position, then please contact [hr@assetdev.com](mailto:hr@assetdev.com). More information on this company and the opportunity can be found [here](https://www.assetdev.com/).
 
 ## Senior Systems Developer
 

@@ -34,5 +34,5 @@ For everyone who was lucky enough to win a prize from one of our [sponsors][spon
 [Nik_YouTube_Video]: https://www.youtube.com/watch?v=Zeb_o_ALBMg
 [Anthony_Twitter_Account]: https://twitter.com/anthony_vdh
 [Anthony_YouTube_Video]: https://www.youtube.com/watch?v=lvhlkUnVYyg
-[sponsors_page]: http://www.aberdeendevelopers.co.uk/sponsors/
-[BCS_Aberdeen]: http://aberdeen.bcs.org/
+[sponsors_page]: https://www.aberdeendevelopers.co.uk/sponsors/
+[BCS_Aberdeen]: https://aberdeen.bcs.org/

@@ -28,7 +28,7 @@ In this talk, Martin will talk about his experience using Prism for building app
 * Create flexible user interfaces
 * Communicate between components using loosely coupled events (publish/subscribe)
 
-[![Register for Aberdeen Developers .Net User Group - September 2013 Meeting in Aberdeen, Aberdeen City on Eventbrite](http://www.eventbrite.com/registerbutton?eid=2581657808)](http://adnuguk-sep2013.eventbrite.co.uk/?ebtv=C)
+[![Register for Aberdeen Developers .Net User Group - September 2013 Meeting in Aberdeen, Aberdeen City on Eventbrite](https://www.eventbrite.com/registerbutton?eid=2581657808)](https://adnuguk-sep2013.eventbrite.co.uk/?ebtv=C)
 
 ## Speaker Bio
 
@@ -45,7 +45,7 @@ Martin lives in the shire with his wife and daughter, and can be seen playing gu
 
 ## Prize Draw
 
-All attendees will be entered into a prize draw, with the chance of winning one of the prizes listed [here](http://www.gep13.co.uk/blog/?p=107).
+All attendees will be entered into a prize draw, with the chance of winning one of the prizes listed [here](https://www.gep13.co.uk/blog/?p=107).
 
 ## Location and Directions
 

@@ -18,7 +18,7 @@ With a new project based on heavy data entry and manipulation combined with gett
 
 At the start I didn't really know what I was getting and even if it was going to be of use. It looked pretty in the Telerik demos but how complex was it really? In the presentation I want to share some of the knowledge I gained to give a simple view on how the Telerik Kendo UI and the Telerik reports slot into the ASP.MVC environment. Hopefully you can gain enough information to decide if it will benefit your projects or not.
 
-[![Eventbrite - Aberdeen Developers .Net User Group - June 2015 Meeting](https://www.eventbrite.com/custombutton?eid=11987778769)](http://www.eventbrite.com/e/aberdeen-developers-net-user-group-june-2015-meeting-tickets-17071686875?aff=blog)
+[![Eventbrite - Aberdeen Developers .Net User Group - June 2015 Meeting](https://www.eventbrite.com/custombutton?eid=11987778769)](https://www.eventbrite.com/e/aberdeen-developers-net-user-group-june-2015-meeting-tickets-17071686875?aff=blog)
 
 ## Speaker Bio
 
@@ -39,4 +39,4 @@ Directions: [Map showing Garthdee Campus](https://maps.google.co.uk/maps?q=Facul
 
 ## Prize Draw
 
-All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic [sponsors](http://www.aberdeendevelopers.co.uk/sponsors/).
+All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic [sponsors](https://www.aberdeendevelopers.co.uk/sponsors/).

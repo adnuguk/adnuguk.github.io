@@ -15,6 +15,6 @@ Thanks once again to Gary for his talk on GitVersion!  If you want to get in tou
 
 For everyone who was lucky enough to win a prize from one of our amazing [sponsors][sponsors_page], I have requested all of the prizes.  If you haven't heard anything, please get in touch, and we will try to sort this out.
 
-[Gary_Slides]: http://www.slideshare.net/gep13/semantic-versioning-with-gitversion-take-2
+[Gary_Slides]: https://www.slideshare.net/gep13/semantic-versioning-with-gitversion-take-2
 [Gary_Twitter_Account]: https://twitter.com/gep13
-[sponsors_page]: http://www.aberdeendevelopers.co.uk/sponsors/
+[sponsors_page]: https://www.aberdeendevelopers.co.uk/sponsors/

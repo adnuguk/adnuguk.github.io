@@ -6,31 +6,31 @@ Title: Sponsors
 
 It is with great pleasure that Aberdeen Developers .Net User Group thank the following companies for their generous sponsorship of our User Group.
 
-[![SqlSmash]({{site.images}}/sponsors/sqlsmash_small.png)](http://www.sqlsmash.com/)
+[![SqlSmash]({{site.images}}/sponsors/sqlsmash_small.png)](https://www.sqlsmash.com/)
 
-[![Telerik]({{site.images}}/sponsors/telerik.png)](http://www.telerik.com/)
+[![Telerik]({{site.images}}/sponsors/telerik.png)](https://www.telerik.com/)
 
-[![Devexpress]({{site.images}}/sponsors/devexpress.png)](http://www.devexpress.com/)
+[![Devexpress]({{site.images}}/sponsors/devexpress.png)](https://www.devexpress.com/)
 
-[![Typemock]({{site.images}}/sponsors/typemock.png)](http://www.typemock.com/)
+[![Typemock]({{site.images}}/sponsors/typemock.png)](https://www.typemock.com/)
 
-[![Jetbrains]({{site.images}}/sponsors/jetbrains.gif)](http://www.jetbrains.com/)
+[![Jetbrains]({{site.images}}/sponsors/jetbrains.gif)](https://www.jetbrains.com/)
 
-[![Manning]({{site.images}}/sponsors/manning.jpg)](http://www.manning.com/)
+[![Manning]({{site.images}}/sponsors/manning.jpg)](https://www.manning.com/)
 
 [![Mindscape][MindscapeImage]][MindscapeLink]
 
-[MindscapeLink]: http://www.mindscapehq.com/?utm_source=Usergroups&utm_campaign=aa782302c1-UserGroupWelcome&utm_medium=email
+[MindscapeLink]: https://www.mindscapehq.com/?utm_source=Usergroups&utm_campaign=aa782302c1-UserGroupWelcome&utm_medium=email
 [MindscapeImage]: {{site.images}}/sponsors/mindscape.png (Mindscape)
 
 [![OzCode][OzCodeImage]][OzCodeLink]
 
-[OzCodeLink]: http://www.oz-code.com
+[OzCodeLink]: https://www.oz-code.com
 [OzCodeImage]: {{site.images}}/sponsors/ozcode_logo.svg (OzCode)
 
 [![Aspose][AsposeImage]][AsposeLink]
 
-[AsposeLink]: http://www.aspose.com/
+[AsposeLink]: https://www.aspose.com/
 [AsposeImage]: {{site.images}}/sponsors/Aspose-285x90.png (Aspose)
 
 [![Devart][DevartImage]][DevartLink]

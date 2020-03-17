@@ -25,7 +25,7 @@ In this session we will delve into:
 * Testing
 * Extensibility
 
-[![Register for Aberdeen Developers .Net User Group - September Meeting in Aberdeen, Aberdeen City  on Eventbrite](http://www.eventbrite.com/registerbutton?eid=2581657808)](http://adnuguk-jan2013.eventbrite.co.uk/?ebtv=C)
+[![Register for Aberdeen Developers .Net User Group - September Meeting in Aberdeen, Aberdeen City  on Eventbrite](https://www.eventbrite.com/registerbutton?eid=2581657808)](https://adnuguk-jan2013.eventbrite.co.uk/?ebtv=C)
 
 ## Speaker Bio
 
@@ -44,8 +44,8 @@ In his spare time (not that he has much), Andy enjoys table-top wargamming, comp
 
 ## Prize Draw
 
-All attendees will be entered into a prize draw, with the chance of winning one of the prizes listed [here](http://www.gep13.co.uk/blog/?p=107).
+All attendees will be entered into a prize draw, with the chance of winning one of the prizes listed [here](https://www.gep13.co.uk/blog/?p=107).
 
 ## Location and Directions
 
-Venue: Room A12, RGU Building, St Andrews Street, Aberdeen, AB25 1HG Directions: [Map showing St Andrews Street](http://www.bing.com/maps/?v=2&cp=57.149542434132776~-2.102723645985436&lvl=17&dir=0&sty=c&eo=1&form=LMLTCC)
+Venue: Room A12, RGU Building, St Andrews Street, Aberdeen, AB25 1HG Directions: [Map showing St Andrews Street](https://www.bing.com/maps/?v=2&cp=57.149542434132776~-2.102723645985436&lvl=17&dir=0&sty=c&eo=1&form=LMLTCC)

@@ -18,7 +18,7 @@ As a purely amateur C# developer, code that I write rarely gets to hurt people. 
 
 The chances of any of the code you see in this session being even remotely useful to a conscientious developer are very slim. You may well learn some interesting things about the C# language, but that's a different matter. To put it another way: if you're trying to persuade your boss that it's important to send you for educational reasons, you probably don't want to show him this abstract.
 
-[![Register for Aberdeen Developers .Net User Group - August 2013 Meeting in Aberdeen, Aberdeen City on Eventbrite](http://www.eventbrite.com/registerbutton?eid=2581657808)](http://adnuguk-aug2013.eventbrite.co.uk/?ebtv=C)
+[![Register for Aberdeen Developers .Net User Group - August 2013 Meeting in Aberdeen, Aberdeen City on Eventbrite](https://www.eventbrite.com/registerbutton?eid=2581657808)](https://adnuguk-aug2013.eventbrite.co.uk/?ebtv=C)
 
 ## Speaker Bio
 
@@ -35,8 +35,8 @@ He loves writing and talking about C#, and the third edition of "C# in Depth" wa
 
 ## Prize Draw
 
-All attendees will be entered into a prize draw, with the chance of winning one of the prizes listed [here](http://www.gep13.co.uk/blog/?p=107).
+All attendees will be entered into a prize draw, with the chance of winning one of the prizes listed [here](https://www.gep13.co.uk/blog/?p=107).
 
 ## Location and Directions
 
-Venue: Room A12, RGU Building, St Andrews Street, Aberdeen, AB25 1HG Directions: [Map showing St Andrews Street](http://www.bing.com/maps/?v=2&cp=57.149542434132776~-2.102723645985436&lvl=17&dir=0&sty=c&eo=1&form=LMLTCC)
+Venue: Room A12, RGU Building, St Andrews Street, Aberdeen, AB25 1HG Directions: [Map showing St Andrews Street](https://www.bing.com/maps/?v=2&cp=57.149542434132776~-2.102723645985436&lvl=17&dir=0&sty=c&eo=1&form=LMLTCC)

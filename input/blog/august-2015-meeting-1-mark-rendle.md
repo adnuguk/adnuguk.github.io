@@ -20,7 +20,7 @@ Linux is now an officially supported platform for ASP.NET applications and you c
 
 In this session Mark will show us how to run an ASP.NET 5 application on Linux, then in Docker on Linux, and a whole lot more going as far down the rabbit hole as time allows. There may even be time to set up a mini-cloud-within-a-cloud with automated deployments from GitHub!
 
-[![Eventbrite - Aberdeen Developers .Net User Group - August 2015 Meeting #1](https://www.eventbrite.com/custombutton?eid=11987778769)](http://www.eventbrite.com/e/aberdeen-developers-net-user-group-august-2015-meeting-tickets-17423409888?aff=blog)
+[![Eventbrite - Aberdeen Developers .Net User Group - August 2015 Meeting #1](https://www.eventbrite.com/custombutton?eid=11987778769)](https://www.eventbrite.com/e/aberdeen-developers-net-user-group-august-2015-meeting-tickets-17423409888?aff=blog)
 
 WARNING: may contain traces of demo-fail
 
@@ -45,4 +45,4 @@ Directions: [Map showing Garthdee Campus](https://maps.google.co.uk/maps?q=Facul
 
 ## Prize Draw
 
-All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic [sponsors](http://www.aberdeendevelopers.co.uk/sponsors/).
+All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic [sponsors](https://www.aberdeendevelopers.co.uk/sponsors/).

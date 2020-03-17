@@ -17,7 +17,7 @@ Aberdeen Developers are pleased to present a talk by Bill Wagner on Thursday 4th
 
 Learn current recommendations for asynchronous idioms. I'll cover strategies for handling event handlers and void methods, async over sync methods, sync over async methods, exception strategies, API design, unit testing strategies, and programming with Task and related classes. You'll learn a variety of techniques that make async programming feel more familiar and easier to adopt. You'll learn to love Task and Task.
 
-[![Register for Aberdeen Developers .Net User Group - July 2013 Meeting in Aberdeen, Aberdeen City on Eventbrite](http://www.eventbrite.com/registerbutton?eid=2581657808)](http://adnuguk-jul2013.eventbrite.co.uk/?ebtv=C)
+[![Register for Aberdeen Developers .Net User Group - July 2013 Meeting in Aberdeen, Aberdeen City on Eventbrite](https://www.eventbrite.com/registerbutton?eid=2581657808)](https://adnuguk-jul2013.eventbrite.co.uk/?ebtv=C)
 
 ## Speaker Bio
 
@@ -29,7 +29,7 @@ In addition to his business and technical accomplishments, Bill is an active com
 
 He received his B.S. in Computer Science from the College of Engineering at the University of Illinois at Urbana Champaign.
 
-You can find more information about him at his site [here](http://billwagner.azurewebsites.net/).
+You can find more information about him at his site [here](https://billwagner.azurewebsites.net/).
 
 ## Agenda – Thursday, 4th July 2013
 
@@ -40,8 +40,8 @@ You can find more information about him at his site [here](http://billwagner.azu
 
 ## Prize Draw
 
-All attendees will be entered into a prize draw, with the chance of winning one of the prizes listed [here](http://www.gep13.co.uk/blog/?p=107).
+All attendees will be entered into a prize draw, with the chance of winning one of the prizes listed [here](https://www.gep13.co.uk/blog/?p=107).
 
 ## Location and Directions
 
-Venue: Room A12, RGU Building, St Andrews Street, Aberdeen, AB25 1HG Directions: [Map showing St Andrews Street](http://www.bing.com/maps/?v=2&cp=57.149542434132776~-2.102723645985436&lvl=17&dir=0&sty=c&eo=1&form=LMLTCC)
+Venue: Room A12, RGU Building, St Andrews Street, Aberdeen, AB25 1HG Directions: [Map showing St Andrews Street](https://www.bing.com/maps/?v=2&cp=57.149542434132776~-2.102723645985436&lvl=17&dir=0&sty=c&eo=1&form=LMLTCC)

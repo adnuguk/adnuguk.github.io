@@ -9,7 +9,7 @@ Tags:
 RedirectFrom: job-vacancy-expro-group-safewells/index.html
 ---
 
-Aberdeen Developers have been asked to promote the following job vacancy.  If you are interested in the position, then please visit the main careers page [here](http://careers.exprogroup.com/content/2/careers-home), and you can find specific information about this vacancy [here](http://careers.exprogroup.com/details/2249/software-development-engineer):
+Aberdeen Developers have been asked to promote the following job vacancy.  If you are interested in the position, then please visit the main careers page [here](https://careers.exprogroup.com/content/2/careers-home), and you can find specific information about this vacancy [here](https://careers.exprogroup.com/details/2249/software-development-engineer):
 
 ## Software Development Engineer
 

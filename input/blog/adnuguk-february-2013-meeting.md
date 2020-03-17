@@ -19,7 +19,7 @@ In this session, we re-examine the basics of a unit test. We will work through a
 
 Although this session is not specifically about the testability of software, this will necessarily be touched upon as we consider some test cases. Examples will be written in several common languages, but knowledge of all (or any) of them is not a pre-requisite.
 
-[![Register for Aberdeen Developers .Net User Group - September Meeting in Aberdeen, Aberdeen City  on Eventbrite](http://www.eventbrite.com/registerbutton?eid=2581657808)](http://adnuguk-feb2013.eventbrite.co.uk/?ebtv=C)
+[![Register for Aberdeen Developers .Net User Group - September Meeting in Aberdeen, Aberdeen City  on Eventbrite](https://www.eventbrite.com/registerbutton?eid=2581657808)](https://adnuguk-feb2013.eventbrite.co.uk/?ebtv=C)
 
 ## Speaker Bio
 
@@ -36,8 +36,8 @@ He first worked as a programmer in 1980 writing applications for estate agents a
 
 ## Prize Draw
 
-All attendees will be entered into a prize draw, with the chance of winning one of the prizes listed [here](http://www.gep13.co.uk/blog/?p=107).
+All attendees will be entered into a prize draw, with the chance of winning one of the prizes listed [here](https://www.gep13.co.uk/blog/?p=107).
 
 ## Location and Directions
 
-Venue: Room A12, RGU Building, St Andrews Street, Aberdeen, AB25 1HG Directions: [Map showing St Andrews Street](http://www.bing.com/maps/?v=2&cp=57.149542434132776~-2.102723645985436&lvl=17&dir=0&sty=c&eo=1&form=LMLTCC)
+Venue: Room A12, RGU Building, St Andrews Street, Aberdeen, AB25 1HG Directions: [Map showing St Andrews Street](https://www.bing.com/maps/?v=2&cp=57.149542434132776~-2.102723645985436&lvl=17&dir=0&sty=c&eo=1&form=LMLTCC)

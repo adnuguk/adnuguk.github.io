@@ -18,11 +18,11 @@ Aberdeen Developers are pleased to present a talk by Gary Ewan Park, on Thursday
 * Have you ever wanted to create a build script that has first class support for the most common build tools like XUnit, WiX, SignTool, and many others?
 * Have you ever wanted to create a build script that uses a language that you already know, and love?
 
-If you have answered yes to any of these questions, then the Cake (http://cakebuild.net/) Build Automation System is for you!
+If you have answered yes to any of these questions, then the Cake (https://cakebuild.net/) Build Automation System is for you!
 
 In this session we will start with a standard .Net Solution and incrementally add a build and orchestration script to compile the application, run unit tests, perform static analysis, package the application, and more, using the C# skills that you may already have.
 
-[![Eventbrite - Aberdeen Developers .Net User Group - April 2016 Meeting](https://www.eventbrite.com/custombutton?eid=11987778769)](http://www.eventbrite.com/e/aberdeen-developers-net-user-group-april-2016-meeting-tickets-24528759179?aff=blog)
+[![Eventbrite - Aberdeen Developers .Net User Group - April 2016 Meeting](https://www.eventbrite.com/custombutton?eid=11987778769)](https://www.eventbrite.com/e/aberdeen-developers-net-user-group-april-2016-meeting-tickets-24528759179?aff=blog)
 
 ## Speaker Bio
 
@@ -45,4 +45,4 @@ Directions: [Map showing Garthdee Campus](https://maps.google.co.uk/maps?q=Facul
 
 ## Prize Draw
 
-All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic [sponsors](http://www.aberdeendevelopers.co.uk/sponsors/).
+All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic [sponsors](https://www.aberdeendevelopers.co.uk/sponsors/).

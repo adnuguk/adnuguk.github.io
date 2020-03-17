@@ -18,6 +18,6 @@ For everyone who was lucky enough to win a prize from one of our amazing [sponso
 
 As Mike mentioned, there is the possibility of getting some Windows 10 Swag in the form of t-shirts.  I am currently working on this, and once I know more, I will let you know.
 
-[Mike_Slides]: http://1drv.ms/1NkYYJr
+[Mike_Slides]: https://1drv.ms/1NkYYJr
 [Mike_Twitter_Account]: https://twitter.com/mtaulty
-[sponsors_page]: http://www.aberdeendevelopers.co.uk/sponsors/
+[sponsors_page]: https://www.aberdeendevelopers.co.uk/sponsors/

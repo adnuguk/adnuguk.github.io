@@ -17,7 +17,7 @@ Sometimes it is difficult to work out how to prioritise the backlog and effectiv
 
 In this highly interactive session I'll explain how you go about creating a story map and I'll get you to create one. Lots of sticky notes later you should have a fairly good grasp and be able to use the same technique on your own projects to better manage your backlog and keep everyone aware of the big picture while still working on individual stories.
 
-[![Eventbrite - Aberdeen Developers .Net User Group - September 2016 Meeting](https://www.eventbrite.com/custombutton?eid=11987778769)](http://www.eventbrite.com/e/aberdeen-developers-net-user-group-september-2016-meeting-tickets-27403321071?aff=blog)
+[![Eventbrite - Aberdeen Developers .Net User Group - September 2016 Meeting](https://www.eventbrite.com/custombutton?eid=11987778769)](https://www.eventbrite.com/e/aberdeen-developers-net-user-group-september-2016-meeting-tickets-27403321071?aff=blog)
 
 ## Speaker Bio
 
@@ -38,4 +38,4 @@ Directions: [Map showing Garthdee Campus](https://maps.google.co.uk/maps?q=Facul
 
 ## Prize Draw
 
-All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic [sponsors](http://www.aberdeendevelopers.co.uk/sponsors/).
+All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic [sponsors](https://www.aberdeendevelopers.co.uk/sponsors/).

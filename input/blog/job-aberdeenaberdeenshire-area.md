@@ -9,7 +9,7 @@ Tags:
 RedirectFrom: job-aberdeenaberdeenshire-area/index.html
 ---
 
-Through the [Aberdeen Developers website](http://www.aberdeendevelopers.co.uk/) I have been made aware of a job vacancy in the Aberdeen area.
+Through the [Aberdeen Developers website](https://www.aberdeendevelopers.co.uk/) I have been made aware of a job vacancy in the Aberdeen area.
 
 The role will be as a software developer working on a brand new browser based product.  In the short term, a prospective candidate would benefit from having some Delphi knowledge in order to work with some existing software.  In addition, it would be beneficial if the candidate lived in the Aberdeen/Aberdeenshire area.  The position would also ideally suit someone who has, or is, working on their own concept and wants to be a "start up", and is looking for some cash injection, as this type of investment is available.
 

@@ -17,4 +17,4 @@ For everyone who was lucky enough to win a prize from one of our amazing [sponso
 
 [Max_Slides]: https://github.com/trailmax/CQRS.Talk
 [Max_Twitter_Account]: https://twitter.com/trailmax
-[sponsors_page]: http://www.aberdeendevelopers.co.uk/sponsors/
+[sponsors_page]: https://www.aberdeendevelopers.co.uk/sponsors/

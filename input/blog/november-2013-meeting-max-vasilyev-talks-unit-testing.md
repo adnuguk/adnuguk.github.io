@@ -28,7 +28,7 @@ Topics discussed:
 * Unit or no unit test?
 * Books review
 
-[![Register for Aberdeen Developers .Net User Group - October 2013 Meeting in Aberdeen, Aberdeen City on Eventbrite](http://www.eventbrite.com/registerbutton?eid=2581657808)](http://adnuguk-nov2013.eventbrite.co.uk/?ebtv=C)
+[![Register for Aberdeen Developers .Net User Group - October 2013 Meeting in Aberdeen, Aberdeen City on Eventbrite](https://www.eventbrite.com/registerbutton?eid=2581657808)](https://adnuguk-nov2013.eventbrite.co.uk/?ebtv=C)
 
 ## Speaker Bio
 
@@ -49,7 +49,7 @@ The battle is not won yet, but now business agrees that tests are important and 
 
 ## Prize Draw
 
-All attendees will be entered into a prize draw, with the chance of winning one of the prizes listed [here](http://www.gep13.co.uk/blog/?p=107).
+All attendees will be entered into a prize draw, with the chance of winning one of the prizes listed [here](https://www.gep13.co.uk/blog/?p=107).
 
 ## Location and Directions
 
@@ -58,4 +58,4 @@ Directions: [Map showing Garthdee Campus](https://maps.google.co.uk/maps?q=ab10+
 
 ## Slides
 
-Slides and extra links from the talk are available on [Max's blog](http://tech.trailmax.info/talks/).
+Slides and extra links from the talk are available on [Max's blog](https://tech.trailmax.info/talks/).

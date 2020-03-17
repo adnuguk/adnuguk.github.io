@@ -20,7 +20,7 @@ In this session, we re-examine the basics of a unit test. We will work through a
 
 In this talk, we will look at what Chocolatey is, how you can use it, how you can create your own packages, and make use of it to create fresh installations of your developer systems.
 
-[![Register for Aberdeen Developers .Net User Group - September Meeting in Aberdeen, Aberdeen City  on Eventbrite](http://www.eventbrite.com/registerbutton?eid=2581657808)](http://adnuguk-mar2013.eventbrite.co.uk)
+[![Register for Aberdeen Developers .Net User Group - September Meeting in Aberdeen, Aberdeen City  on Eventbrite](https://www.eventbrite.com/registerbutton?eid=2581657808)](https://adnuguk-mar2013.eventbrite.co.uk)
 
 ## Speaker Bio
 
@@ -35,8 +35,8 @@ Gary Ewan Park has been developing on the .Net Platform for almost 7 years. Star
 
 ## Prize Draw
 
-All attendees will be entered into a prize draw, with the chance of winning one of the prizes listed [here](http://www.gep13.co.uk/blog/?p=107).
+All attendees will be entered into a prize draw, with the chance of winning one of the prizes listed [here](https://www.gep13.co.uk/blog/?p=107).
 
 ## Location and Directions
 
-Venue: Room A12, RGU Building, St Andrews Street, Aberdeen, AB25 1HG Directions: [Map showing St Andrews Street](http://www.bing.com/maps/?v=2&cp=57.149542434132776~-2.102723645985436&lvl=17&dir=0&sty=c&eo=1&form=LMLTCC)
+Venue: Room A12, RGU Building, St Andrews Street, Aberdeen, AB25 1HG Directions: [Map showing St Andrews Street](https://www.bing.com/maps/?v=2&cp=57.149542434132776~-2.102723645985436&lvl=17&dir=0&sty=c&eo=1&form=LMLTCC)

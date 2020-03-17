@@ -21,7 +21,7 @@ Amazon reportedly deploys to production every few seconds, GitHub do it several 
 
 Continuous Delivery aims to remove the issues with building, testing and ultimately deploying to production in a safe, repeatable, well tested and highly confident way. I aim to show you how to get started on this journey. It isn't as daunting as it first looks.
 
-[![Eventbrite - Aberdeen Developers .Net User Group - September 2015 Meeting #1](https://www.eventbrite.com/custombutton?eid=11987778769)](http://www.eventbrite.com/e/aberdeen-developers-net-user-group-september-2015-meeting-1-tickets-18308101023?aff=blog)
+[![Eventbrite - Aberdeen Developers .Net User Group - September 2015 Meeting #1](https://www.eventbrite.com/custombutton?eid=11987778769)](https://www.eventbrite.com/e/aberdeen-developers-net-user-group-september-2015-meeting-1-tickets-18308101023?aff=blog)
 
 ## Speaker Bio
 
@@ -42,4 +42,4 @@ Directions: [Map showing Garthdee Campus](https://maps.google.co.uk/maps?q=Facul
 
 ## Prize Draw
 
-All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic [sponsors](http://www.aberdeendevelopers.co.uk/sponsors/).
+All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic [sponsors](https://www.aberdeendevelopers.co.uk/sponsors/).

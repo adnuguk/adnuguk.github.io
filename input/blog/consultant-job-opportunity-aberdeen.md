@@ -8,7 +8,7 @@ Tags:
 RedirectFrom: consultant-job-opportunity-aberdeen/index.html
 ---
 
-[ADNUGUK](http://www.aberdeendevelopers.co.uk) were recently contacted about a job opportunity here in Aberdeen, details below.
+[ADNUGUK](https://www.aberdeendevelopers.co.uk) were recently contacted about a job opportunity here in Aberdeen, details below.
 
 Job title: Consultant
 

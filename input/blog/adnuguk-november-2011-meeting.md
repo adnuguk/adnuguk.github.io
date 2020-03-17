@@ -17,9 +17,9 @@ Aberdeen Developers are pleased to present two talks by Gill Cleeren on Thursday
 
 ## Speaker Bio
 
-Gill Cleeren is Microsoft Regional Director ([www.theregion.com](http://www.theregion.com/)), MVP ASP.NET, INETA speaker bureau member and Silverlight Insider. He lives in Belgium where he works as .NET architect at Ordina. Passionate about .NET, he's always playing with the newest bits. In his role as Regional Director, Gill has given many sessions, webcasts and trainings on new as well as existing technologies, such as Silverlight, ASP.NET and WPF. He also leads VISUG ([www.visug.be](http://www.visug.be/)), the largest .NET user group in Belgium. He's the author of the upcoming book called Silverlight Data Access Cookbook. You can find his blog at [www.snowball.be](http://www.snowball.be).
+Gill Cleeren is Microsoft Regional Director ([www.theregion.com](https://www.theregion.com/)), MVP ASP.NET, INETA speaker bureau member and Silverlight Insider. He lives in Belgium where he works as .NET architect at Ordina. Passionate about .NET, he's always playing with the newest bits. In his role as Regional Director, Gill has given many sessions, webcasts and trainings on new as well as existing technologies, such as Silverlight, ASP.NET and WPF. He also leads VISUG ([www.visug.be](https://www.visug.be/)), the largest .NET user group in Belgium. He's the author of the upcoming book called Silverlight Data Access Cookbook. You can find his blog at [www.snowball.be](https://www.snowball.be).
 
-[![Register for Aberdeen Developers .Net User Group - November Meeting in Aberdeen, Aberdeen City  on Eventbrite](http://www.eventbrite.com/registerbutton?eid=2154504180)](http://adnuguk-nov2011.eventbrite.com?ref=ebtn)
+[![Register for Aberdeen Developers .Net User Group - November Meeting in Aberdeen, Aberdeen City  on Eventbrite](https://www.eventbrite.com/registerbutton?eid=2154504180)](https://adnuguk-nov2011.eventbrite.com?ref=ebtn)
 
 ## Windows Runtime and Metro Apps for Windows 8
 
@@ -42,8 +42,8 @@ Most Silverlight 5 sessions give you an overview of the most magical features in
 
 ## Prize Draw
 
-All attendees will be entered into a prize draw, with the chance of winning one of the prizes listed [here](http://www.gep13.co.uk/blog/?p=107).
+All attendees will be entered into a prize draw, with the chance of winning one of the prizes listed [here](https://www.gep13.co.uk/blog/?p=107).
 
 ## Location and Directions
 
-Venue: Room A12, RGU Building, St Andrews Street, Aberdeen, AB25 1HG Directions: [Map showing St Andrews Street](http://www.bing.com/maps/?v=2&cp=57.149542434132776~-2.102723645985436&lvl=17&dir=0&sty=c&eo=1&form=LMLTCC)
+Venue: Room A12, RGU Building, St Andrews Street, Aberdeen, AB25 1HG Directions: [Map showing St Andrews Street](https://www.bing.com/maps/?v=2&cp=57.149542434132776~-2.102723645985436&lvl=17&dir=0&sty=c&eo=1&form=LMLTCC)

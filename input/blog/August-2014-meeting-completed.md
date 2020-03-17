@@ -25,7 +25,7 @@ As those of you who attended will know, I forgot to take the feedback forms with
 
 Everyone who was registered to attend the event should have received an email from SurveyMonkey about the above feedback form.
 
-[Shawn_Blog_Post]: http://wildermuth.com/2014/8/8/Web_API_in_Aberdeen_Scotland
+[Shawn_Blog_Post]: https://wildermuth.com/2014/8/8/Web_API_in_Aberdeen_Scotland
 [Shawn_Twitter_Account]: https://twitter.com/ShawnWildermuth
 [SurveyMoneky_Link]: https://www.surveymonkey.com/s/Y6TMXPR
-[sponsors_page]: http://www.aberdeendevelopers.co.uk/sponsors/
+[sponsors_page]: https://www.aberdeendevelopers.co.uk/sponsors/

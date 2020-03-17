@@ -12,7 +12,7 @@ RedirectFrom: registration-dunddd-2013-now-open/index.html
 
 ## Grab your ticket for DunDDD quickly so you don't miss out!
 
-The call for speakers at the Scottish Community Event (organised by the [Scottish Developers](http://scottishdevelopers.com/)) known as [DunDDD](http://dun.dddscotland.co.uk/speaker)has now closed and the registration has opened.
+The call for speakers at the Scottish Community Event (organised by the [Scottish Developers](https://scottishdevelopers.com/)) known as [DunDDD](https://dun.dddscotland.co.uk/speaker)has now closed and the registration has opened.
 
 ## DunDDD is now in its third year
 
@@ -20,4 +20,4 @@ This will be the 3rd DunDDD, built on the popular foundation of the Developer! D
 
 This year DunDDD will be featuring an entire track dedicated to Data Science.
 
-Go and grab your [ticket now](http://dun.dddscotland.co.uk/registration).
+Go and grab your [ticket now](https://dun.dddscotland.co.uk/registration).

@@ -16,7 +16,7 @@ Aberdeen Developers are pleased to present a talk by Sebastien Lambla on Monday 
 
 Caching is one of the most powerful feature of HTTP and ReSTful architecture, and also one of the most misunderstood. This session will review what can be done with HTTP, debunk a few myths and show some commonly-implemented patterns you can implement in your own clients.
 
-[![Register for Aberdeen Developers .Net User Group - December Meeting in Aberdeen, Aberdeen City  on Eventbrite](http://www.eventbrite.com/registerbutton?eid=2581657808)](http://adnuguk-jan2012.eventbrite.co.uk?ref=ebtn)
+[![Register for Aberdeen Developers .Net User Group - December Meeting in Aberdeen, Aberdeen City  on Eventbrite](https://www.eventbrite.com/registerbutton?eid=2581657808)](https://adnuguk-jan2012.eventbrite.co.uk?ref=ebtn)
 
 ## Speaker Bio
 
@@ -31,8 +31,8 @@ Sebastien Lambla runs Caffeine IT, a .net consultancy / contracting company help
 
 ## Prize Draw
 
-All attendees will be entered into a prize draw, with the chance of winning one of the prizes listed [here](http://www.gep13.co.uk/blog/?p=107).
+All attendees will be entered into a prize draw, with the chance of winning one of the prizes listed [here](https://www.gep13.co.uk/blog/?p=107).
 
 ## Location and Directions
 
-Venue: Room A12, RGU Building, St Andrews Street, Aberdeen, AB25 1HG Directions: [Map showing St Andrews Street](http://www.bing.com/maps/?v=2&cp=57.149542434132776~-2.102723645985436&lvl=17&dir=0&sty=c&eo=1&form=LMLTCC)
+Venue: Room A12, RGU Building, St Andrews Street, Aberdeen, AB25 1HG Directions: [Map showing St Andrews Street](https://www.bing.com/maps/?v=2&cp=57.149542434132776~-2.102723645985436&lvl=17&dir=0&sty=c&eo=1&form=LMLTCC)

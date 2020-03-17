@@ -25,7 +25,7 @@ Kendo UI has it all: rich jQuery-based widgets, a simple and consistent programm
 
 In this talk Remco Blok will talk about his experience using Kendo UI and TypeScript building HTML5 line of business applications, coming from the perspective of a Silverlight developer. He will pull no punches as he details his views on both Kendo UI's strong points and current weak points. He will go into examples of MVVM and data access to OData data sources using Kendo UI. Remco will also go into how using TypeScript with Kendo UI, instead of JavaScript, has helped him 'tame' JavaScript (at least in his mind).
 
-[![Register for Aberdeen Developers .Net User Group - September Meeting in Aberdeen, Aberdeen City  on Eventbrite](http://www.eventbrite.com/registerbutton?eid=2581657808)](http://adnuguk-may2013.eventbrite.co.uk/?ebtv=C)
+[![Register for Aberdeen Developers .Net User Group - September Meeting in Aberdeen, Aberdeen City  on Eventbrite](https://www.eventbrite.com/registerbutton?eid=2581657808)](https://adnuguk-may2013.eventbrite.co.uk/?ebtv=C)
 
 ## Speaker Bio
 
@@ -40,8 +40,8 @@ Remco Blok is a freelance .NET / web software developer and architect from the N
 
 ## Prize Draw
 
-All attendees will be entered into a prize draw, with the chance of winning one of the prizes listed [here](http://www.gep13.co.uk/blog/?p=107).
+All attendees will be entered into a prize draw, with the chance of winning one of the prizes listed [here](https://www.gep13.co.uk/blog/?p=107).
 
 ## Location and Directions
 
-Venue: Room A12, RGU Building, St Andrews Street, Aberdeen, AB25 1HG Directions: [Map showing St Andrews Street](http://www.bing.com/maps/?v=2&cp=57.149542434132776~-2.102723645985436&lvl=17&dir=0&sty=c&eo=1&form=LMLTCC)
+Venue: Room A12, RGU Building, St Andrews Street, Aberdeen, AB25 1HG Directions: [Map showing St Andrews Street](https://www.bing.com/maps/?v=2&cp=57.149542434132776~-2.102723645985436&lvl=17&dir=0&sty=c&eo=1&form=LMLTCC)

@@ -26,7 +26,7 @@ Last year we had to make a decision whether to double down with new hardware in 
 
 Far from a theoretical conversation about how you could use the cloud, we'll share real data from our production implementation, both the good and the bad. Finally, we'll talk about where we're going with what we've learned.
 
-[![Eventbrite - Aberdeen Developers .Net User Group - May 2016 Meeting](https://www.eventbrite.com/custombutton?eid=11987778769)](http://www.eventbrite.com/e/aberdeen-developers-net-user-group-may-2016-meeting-tickets-24846287916?aff=blog)
+[![Eventbrite - Aberdeen Developers .Net User Group - May 2016 Meeting](https://www.eventbrite.com/custombutton?eid=11987778769)](https://www.eventbrite.com/e/aberdeen-developers-net-user-group-may-2016-meeting-tickets-24846287916?aff=blog)
 
 ## Speaker Bio
 
@@ -47,4 +47,4 @@ Directions: [Meston Building](https://www.google.com/maps/d/viewer?mid=zy5sr2VnG
 
 ## Prize Draw
 
-All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic [sponsors](http://www.aberdeendevelopers.co.uk/sponsors/).
+All attendees will be entered into a prize draw, with the chance of winning one of the prizes from our fantastic [sponsors](https://www.aberdeendevelopers.co.uk/sponsors/).

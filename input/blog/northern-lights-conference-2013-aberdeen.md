@@ -11,17 +11,17 @@ RedirectFrom: northern-lights-conference-2013-aberdeen/index.html
 
 I wanted to let you know about an upcoming event in Aberdeen that I have been helping to arrange. It is taking place on Friday 18th October 2013.  The event in question is the Northern Lights 2013 Conference.  The website for the conference can be found here:
 
-[http://northernlightsconf.co.uk/](http://northernlightsconf.co.uk/)
+[https://northernlightsconf.co.uk/](https://northernlightsconf.co.uk/)
 
 The event is in its third year, and this year the theme is tools.  Both the tools that we use, and the tools we build.  There is a wide range of speakers available, including:
 
-* [Hadi Hariri](http://northernlightsconf.co.uk/speakers/2013/09/23/hadi-hariri.html)
-* [Kendall Miller](http://northernlightsconf.co.uk/speakers/2013/09/23/kendall-miller.html)
-* [Sarah Drummond](http://northernlightsconf.co.uk/speakers/2013/09/24/sarah-drummond.html)
-* [Kate Stone](http://northernlightsconf.co.uk/speakers/2013/09/23/kate-stone.html)
-* [Maria Gutierrez](http://northernlightsconf.co.uk/speakers/2013/10/02/maria-gutierrez.html)
-* [Niall Merrigan](http://northernlightsconf.co.uk/speakers/2013/09/23/niall-merrigan.html)
-* [Glenn Hendriksen](http://northernlightsconf.co.uk/speakers/2013/09/23/glenn-henriksen.html)
+* [Hadi Hariri](https://northernlightsconf.co.uk/speakers/2013/09/23/hadi-hariri.html)
+* [Kendall Miller](https://northernlightsconf.co.uk/speakers/2013/09/23/kendall-miller.html)
+* [Sarah Drummond](https://northernlightsconf.co.uk/speakers/2013/09/24/sarah-drummond.html)
+* [Kate Stone](https://northernlightsconf.co.uk/speakers/2013/09/23/kate-stone.html)
+* [Maria Gutierrez](https://northernlightsconf.co.uk/speakers/2013/10/02/maria-gutierrez.html)
+* [Niall Merrigan](https://northernlightsconf.co.uk/speakers/2013/09/23/niall-merrigan.html)
+* [Glenn Hendriksen](https://northernlightsconf.co.uk/speakers/2013/09/23/glenn-henriksen.html)
 
 Who are offering up an exciting line up of talks.
 
@@ -35,9 +35,9 @@ If you know anyone else who would be interested in attending this event, I would
 
 This event is lovingly sponsored by:
 
-* University of Aberdeen -  [http://www.abdn.ac.uk/](http://www.abdn.ac.uk)
-* Neo - [http://www.neo.com](http://www.neo.com)
-* Fifth Ring - [http://www.fifthring.com](http://www.fifthring.com)
-* Codify - [http://www.codify.ltd.uk](http://www.codify.ltd.uk)
-* Arnold Clark - [http://www.arnoldclark.com](http://www.arnoldclark.com)
-* AAA - [http://aaajobs.co.uk](http://www.aaajobs.co.uk)
+* University of Aberdeen -  [https://www.abdn.ac.uk/](https://www.abdn.ac.uk)
+* Neo - [https://www.neo.com](https://www.neo.com)
+* Fifth Ring - [https://www.fifthring.com](https://www.fifthring.com)
+* Codify - [https://www.codify.ltd.uk](https://www.codify.ltd.uk)
+* Arnold Clark - [https://www.arnoldclark.com](https://www.arnoldclark.com)
+* AAA - [https://aaajobs.co.uk](https://www.aaajobs.co.uk)
