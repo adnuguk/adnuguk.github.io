@@ -5,8 +5,8 @@
 		<link>http://www.aberdeendevelopers.co.uk/</link>
 		<description>Aberdeen Developers .Net User Group</description>
 		<copyright>2020</copyright>
-		<pubDate>Tue, 17 Mar 2020 07:23:54 GMT</pubDate>
-		<lastBuildDate>Tue, 17 Mar 2020 07:23:54 GMT</lastBuildDate>
+		<pubDate>Tue, 17 Mar 2020 07:59:41 GMT</pubDate>
+		<lastBuildDate>Tue, 17 Mar 2020 07:59:41 GMT</lastBuildDate>
 		<item>
 			<title>Nov 2018 - Gary Short - AI for Fun And Profit</title>
 			<link>http://www.aberdeendevelopers.co.uk/blog/nov-2018-gary-short-ai-for-fun-and-profit</link>
@@ -144,6 +144,14 @@
 			<pubDate>Tue, 13 Oct 2015 00:00:00 GMT</pubDate>
 		</item>
 		<item>
+			<title>September Meeting - Max Vasilyev - Completed</title>
+			<link>http://www.aberdeendevelopers.co.uk/blog/september-2015-meeting-max-vasilyev-completed</link>
+			<description>Aberdeen Developers .Net User Group</description>
+			<author>gep13</author>
+			<guid>http://www.aberdeendevelopers.co.uk/blog/september-2015-meeting-max-vasilyev-completed</guid>
+			<pubDate>Fri, 25 Sep 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
 			<title>August Meeting - Mike Taulty - Completed</title>
 			<link>http://www.aberdeendevelopers.co.uk/blog/august-2015-meeting-mike-taulty-completed</link>
 			<description>Aberdeen Developers .Net User Group</description>
@@ -157,14 +165,6 @@
 			<description>Aberdeen Developers .Net User Group</description>
 			<author>gep13</author>
 			<guid>http://www.aberdeendevelopers.co.uk/blog/september-2015-meeting-colin-mackay-completed</guid>
-			<pubDate>Fri, 25 Sep 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>September Meeting - Max Vasilyev - Completed</title>
-			<link>http://www.aberdeendevelopers.co.uk/blog/september-2015-meeting-max-vasilyev-completed</link>
-			<description>Aberdeen Developers .Net User Group</description>
-			<author>gep13</author>
-			<guid>http://www.aberdeendevelopers.co.uk/blog/september-2015-meeting-max-vasilyev-completed</guid>
 			<pubDate>Fri, 25 Sep 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
