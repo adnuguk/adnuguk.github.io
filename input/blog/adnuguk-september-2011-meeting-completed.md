@@ -17,4 +17,4 @@ If you were not able to attend the session you can find the slide deck that was 
 
 In addition, if you have any comments that you would like to make about the presentation, Phil has set up a feedback section on SpeakerRate, which you can find [here](https://speakerrate.com/talks/8484-why-the-realtime-web-matters). As always, feedback for these events is always welcome, and I would strongly encourage everyone to provide feedback.
 
-If you have any other comments/suggestions about the User Group, then feel free to get in touch with me via my [blog](https://www.gep13.co.uk/blog/), or using the [contact page](https://www.aberdeendevelopers.co.uk/contact.aspx).
+If you have any other comments/suggestions about the User Group, then feel free to get in touch with me via my [blog](https://www.gep13.co.uk/blog/).

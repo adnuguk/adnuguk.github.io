@@ -19,6 +19,4 @@ The evening will roughly consist of the following:
 * 7.00pm - Second presentation (Mike Ormond)
 * 8.00pm - Back to the break out room for food and drink, and informal Q and A.
 
-If you have any other questions about the event, then please feel free to drop us a line here:
-
-[https://www.aberdeendevelopers.co.uk/Contact.aspx](https://www.aberdeendevelopers.co.uk/Contact.aspx)
+If you have any other questions about the event, then please feel free to get in touch.
