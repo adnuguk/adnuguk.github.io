@@ -4,7 +4,7 @@
 	<title>Aberdeen Developers .Net User Group</title>
 	<link rel="self" href="http://www.aberdeendevelopers.co.uk/" />
 	<rights>2020</rights>
-	<updated>2020-03-21T20:26:33Z</updated>
+	<updated>2020-03-22T21:52:07Z</updated>
 	<subtitle>Aberdeen Developers .Net User Group</subtitle>
 	<entry>
 		<id>http://www.aberdeendevelopers.co.uk/blog/nov-2018-gary-short-ai-for-fun-and-profit</id>
@@ -559,20 +559,6 @@ For more information please visit their site at &lt;a href="https://www.evokeit.
 		<summary>&lt;p&gt;Aberdeen Developers are pleased to present a talk by Gary Ewan Park, on Thursday 22nd October 2015 at the Robert Gordon University.&lt;/p&gt;</summary>
 	</entry>
 	<entry>
-		<id>http://www.aberdeendevelopers.co.uk/blog/september-2015-meeting-max-vasilyev-completed</id>
-		<title>September Meeting - Max Vasilyev - Completed</title>
-		<author>
-			<name>gep13</name>
-		</author>
-		<link href="http://www.aberdeendevelopers.co.uk/blog/september-2015-meeting-max-vasilyev-completed" />
-		<updated>2015-09-25T00:00:00Z</updated>
-		<content>&lt;p&gt;Thanks once again to Max for coming along to Aberdeen Devlopers to deliver his awesome talk on CQRS!  If you want to get in touch with Max, you can use his twitter account &lt;a href="https://twitter.com/trailmax"&gt;&amp;#64;trailmax&lt;/a&gt; and make sure you follow him for up-to-date news, articles and tips. You can also find a copy of the slides used in the presentation &lt;a href="https://github.com/trailmax/CQRS.Talk"&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id="prizes"&gt;Prizes&lt;/h2&gt;
-&lt;p&gt;For everyone who was lucky enough to win a prize from one of our amazing &lt;a href="https://www.aberdeendevelopers.co.uk/sponsors/"&gt;sponsors&lt;/a&gt;, the prizes will be requested in due course.  If you don't hear anything, please get in touch, and we will try to sort this out.&lt;/p&gt;
-</content>
-		<summary>&lt;p&gt;Thanks once again to Max for coming along to Aberdeen Devlopers to deliver his awesome talk on CQRS!  If you want to get in touch with Max, you can use his twitter account &lt;a href="https://twitter.com/trailmax"&gt;@trailmax&lt;/a&gt; and make sure you follow him for up-to-date news, articles and tips. You can also find a copy of the slides used in the presentation &lt;a href="https://github.com/trailmax/CQRS.Talk"&gt;here&lt;/a&gt;.&lt;/p&gt;</summary>
-	</entry>
-	<entry>
 		<id>http://www.aberdeendevelopers.co.uk/blog/august-2015-meeting-mike-taulty-completed</id>
 		<title>August Meeting - Mike Taulty - Completed</title>
 		<author>
@@ -586,6 +572,20 @@ For more information please visit their site at &lt;a href="https://www.evokeit.
 &lt;p&gt;As Mike mentioned, there is the possibility of getting some Windows 10 Swag in the form of t-shirts.  I am currently working on this, and once I know more, I will let you know.&lt;/p&gt;
 </content>
 		<summary>&lt;p&gt;Thanks once again to Mike for making the journey up to Aberdeen to deliver his awesome talk on Windows 10 and the Universal Windows App Platform!  If you want to get in touch with Mike, you can use his twitter account &lt;a href="https://twitter.com/mtaulty"&gt;@mtaulty&lt;/a&gt; and make sure you follow him for up-to-date news, articles and tips. You can also find a copy of the slides used in the presentation &lt;a href="https://1drv.ms/1NkYYJr"&gt;here&lt;/a&gt;.&lt;/p&gt;</summary>
+	</entry>
+	<entry>
+		<id>http://www.aberdeendevelopers.co.uk/blog/september-2015-meeting-max-vasilyev-completed</id>
+		<title>September Meeting - Max Vasilyev - Completed</title>
+		<author>
+			<name>gep13</name>
+		</author>
+		<link href="http://www.aberdeendevelopers.co.uk/blog/september-2015-meeting-max-vasilyev-completed" />
+		<updated>2015-09-25T00:00:00Z</updated>
+		<content>&lt;p&gt;Thanks once again to Max for coming along to Aberdeen Devlopers to deliver his awesome talk on CQRS!  If you want to get in touch with Max, you can use his twitter account &lt;a href="https://twitter.com/trailmax"&gt;&amp;#64;trailmax&lt;/a&gt; and make sure you follow him for up-to-date news, articles and tips. You can also find a copy of the slides used in the presentation &lt;a href="https://github.com/trailmax/CQRS.Talk"&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id="prizes"&gt;Prizes&lt;/h2&gt;
+&lt;p&gt;For everyone who was lucky enough to win a prize from one of our amazing &lt;a href="https://www.aberdeendevelopers.co.uk/sponsors/"&gt;sponsors&lt;/a&gt;, the prizes will be requested in due course.  If you don't hear anything, please get in touch, and we will try to sort this out.&lt;/p&gt;
+</content>
+		<summary>&lt;p&gt;Thanks once again to Max for coming along to Aberdeen Devlopers to deliver his awesome talk on CQRS!  If you want to get in touch with Max, you can use his twitter account &lt;a href="https://twitter.com/trailmax"&gt;@trailmax&lt;/a&gt; and make sure you follow him for up-to-date news, articles and tips. You can also find a copy of the slides used in the presentation &lt;a href="https://github.com/trailmax/CQRS.Talk"&gt;here&lt;/a&gt;.&lt;/p&gt;</summary>
 	</entry>
 	<entry>
 		<id>http://www.aberdeendevelopers.co.uk/blog/september-2015-meeting-colin-mackay-completed</id>
