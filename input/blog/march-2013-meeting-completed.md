@@ -17,6 +17,4 @@ On Thursday 28th March 2013, Aberdeen Developers .Net User Group welcomed Gary E
 
 If you were not able to attend you can download them [here](https://www.aberdeendevelopers.co.uk/assets/presentations/2013/03/Mmmm%2C%20Chocolatey%20Goodness%21.pptx).
 
-If you were not able to attend you can see the slides below and you can also find them attached to this blog post.
-
 Also, as a gentle reminder, I am eager to collect as much feedback as possible for the event, so if you have not already done so, can you please fill in the survey [here](https://www.surveymonkey.com/s/MZWQP5T).
